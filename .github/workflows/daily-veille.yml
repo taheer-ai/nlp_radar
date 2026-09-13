@@ -1,0 +1,23 @@
+name: Veille NLP quotidienne
+on:
+  schedule: [{ cron: '0 6 * * *' }]
+  workflow_dispatch:
+permissions: { contents: write }
+
+jobs:
+  collect:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with: { python-version: '3.12' }
+      - run: pip install requests pandas openpyxl
+      - run: python scripts/convert_xlsx_v3.py
+      - run: python scripts/agent_veille_nlp.py
+      - name: Commit
+        run: |
+          git config user.name "veille-bot"
+          git config user.email "bot@users.noreply.github.com"
+          git add data/radar.json data/notices.json data/ressources.json
+          git diff --cached --quiet || git commit -m "veille auto $(date -u +%Y-%m-%d)"
+          git push

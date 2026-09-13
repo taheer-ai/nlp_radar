@@ -1,0 +1,3185 @@
+{
+  "last_updated": "2026-09-13T18:55:28.383476+00:00",
+  "notices": {
+    "total": 0,
+    "items": []
+  },
+  "ressources": {
+    "total": 166,
+    "sources": [
+      {
+        "id": "general",
+        "label_key": "source_general"
+      },
+      {
+        "id": "berbere",
+        "label_key": "source_berbere"
+      },
+      {
+        "id": "ecosysteme",
+        "label_key": "source_ecosysteme"
+      }
+    ],
+    "counts": {
+      "general": 47,
+      "berbere": 50,
+      "ecosysteme": 69
+    },
+    "items": [
+      {
+        "id": "gen-001",
+        "source": "general",
+        "nom": "ACL (Association for Computational Linguistics) – Events",
+        "categorie_key": "cat_Conferences",
+        "categorie_raw": "Conferences / Evenements",
+        "type": "Confé·ırences majeures & workshops",
+        "langue": "Anglais",
+        "pays": "International",
+        "taille": "",
+        "lien": "https://www.aclweb.org/portal/events",
+        "licence": "Oui (ACL Anthology)",
+        "description": {
+          "fr": "Confé·ırences majeures & workshops",
+          "en": "Confé·ırences majeures & workshops",
+          "kab": "Confé·ırences majeures & workshops",
+          "kab_auto": false
+        }
+      },
+      {
+        "id": "gen-002",
+        "source": "general",
+        "nom": "ACL Anthology – Events",
+        "categorie_key": "cat_Conferences",
+        "categorie_raw": "Conferences / Evenements",
+        "type": "Archives conférences/workshops",
+        "langue": "Anglais",
+        "pays": "International",
+        "taille": "",
+        "lien": "https://aclanthology.org/events/",
+        "licence": "Oui",
+        "description": {
+          "fr": "Archives conférences/workshops",
+          "en": "Archives conférences/workshops",
+          "kab": "Archives conférences/workshops",
+          "kab_auto": false
+        }
+      },
+      {
+        "id": "gen-003",
+        "source": "general",
+        "nom": "WikiCFP – NLP",
+        "categorie_key": "cat_Conferences",
+        "categorie_raw": "Conferences / Evenements",
+        "type": "Appels à contributions (CFP)",
+        "langue": "Anglais",
+        "pays": "International",
+        "taille": "",
+        "lien": "http://www.wikicfp.com/cfp/call?conference=NLP",
+        "licence": "Oui",
+        "description": {
+          "fr": "Appels à contributions (CFP)",
+          "en": "Appels à contributions (CFP)",
+          "kab": "Appels à contributions (CFP)",
+          "kab_auto": false
+        }
+      },
+      {
+        "id": "gen-004",
+        "source": "general",
+        "nom": "ConferenceDeadlines – NLP",
+        "categorie_key": "cat_Conferences",
+        "categorie_raw": "Conferences / Evenements",
+        "type": "Calendrier deadlines conférences",
+        "langue": "Anglais",
+        "pays": "International",
+        "taille": "",
+        "lien": "https://www.conferencedeadlines.com/conferences/nlp",
+        "licence": "Oui",
+        "description": {
+          "fr": "Calendrier deadlines conférences",
+          "en": "Calendrier deadlines conférences",
+          "kab": "Calendrier deadlines conférences",
+          "kab_auto": false
+        }
+      },
+      {
+        "id": "gen-005",
+        "source": "general",
+        "nom": "WASET – NLP Conferences",
+        "categorie_key": "cat_Conferences",
+        "categorie_raw": "Conferences / Evenements",
+        "type": "Index conférences (qualité±±)",
+        "langue": "Anglais",
+        "pays": "International",
+        "taille": "",
+        "lien": "https://waset.org/natural-language-processing-nlp-conferences",
+        "licence": "Non",
+        "description": {
+          "fr": "Index conférences (qualité±±)",
+          "en": "Index conférences (qualité±±)",
+          "kab": "Index conférences (qualité±±)",
+          "kab_auto": false
+        }
+      },
+      {
+        "id": "gen-006",
+        "source": "general",
+        "nom": "ConferenceIndex – NLP",
+        "categorie_key": "cat_Conferences",
+        "categorie_raw": "Conferences / Evenements",
+        "type": "Liste événements NLP",
+        "langue": "Anglais",
+        "pays": "International",
+        "taille": "",
+        "lien": "https://conferenceindex.org/conferences/natural-language-processing-nlp",
+        "licence": "Non",
+        "description": {
+          "fr": "Liste événements NLP",
+          "en": "Liste événements NLP",
+          "kab": "Liste événements NLP",
+          "kab_auto": false
+        }
+      },
+      {
+        "id": "gen-007",
+        "source": "general",
+        "nom": "ATALA – Conférences",
+        "categorie_key": "cat_Conferences",
+        "categorie_raw": "Conferences / Evenements",
+        "type": "Portail francophone TAL",
+        "langue": "Francais",
+        "pays": "France",
+        "taille": "",
+        "lien": "https://www.atala.org/content/conf%C3%A9rences",
+        "licence": "Oui (partiel)",
+        "description": {
+          "fr": "Portail francophone TAL",
+          "en": "Portail francophone TAL",
+          "kab": "Portail francophone TAL",
+          "kab_auto": false
+        }
+      },
+      {
+        "id": "gen-008",
+        "source": "general",
+        "nom": "NLP Conference (ANLP International)",
+        "categorie_key": "cat_Conferences",
+        "categorie_raw": "Conferences / Evenements",
+        "type": "Evements (plutot PNL psychologique)",
+        "langue": "Anglais",
+        "pays": "Royaume-Uni",
+        "taille": "",
+        "lien": "https://www.nlpconference.com/",
+        "licence": "Non",
+        "description": {
+          "fr": "Evements (plutot PNL psychologique)",
+          "en": "Evements (plutot PNL psychologique)",
+          "kab": "Evements (plutot PNL psychologique)",
+          "kab_auto": false
+        }
+      },
+      {
+        "id": "gen-009",
+        "source": "general",
+        "nom": "LREC 2026 – Workshops",
+        "categorie_key": "cat_Conferences",
+        "categorie_raw": "Conferences / Evenements",
+        "type": "Workshops ressources linguistiques",
+        "langue": "Anglais",
+        "pays": "International",
+        "taille": "",
+        "lien": "https://lrec2026.info/accepted-workshops/",
+        "licence": "Oui (partiel)",
+        "description": {
+          "fr": "Workshops ressources linguistiques",
+          "en": "Workshops resources linguistiques",
+          "kab": "Workshops iɣbula linguistiques",
+          "kab_auto": true
+        }
+      },
+      {
+        "id": "gen-010",
+        "source": "general",
+        "nom": "EMNLP 2026 – Workshops",
+        "categorie_key": "cat_Conferences",
+        "categorie_raw": "Conferences / Evenements",
+        "type": "Workshops co-localises EMNLP",
+        "langue": "Anglais",
+        "pays": "International",
+        "taille": "",
+        "lien": "https://2026.emnlp.org/calls/workshops/",
+        "licence": "Oui (ACL Anthology)",
+        "description": {
+          "fr": "Workshops co-localises EMNLP",
+          "en": "Workshops co-localises EMNLP",
+          "kab": "Workshops co-localises EMNLP",
+          "kab_auto": false
+        }
+      },
+      {
+        "id": "gen-011",
+        "source": "general",
+        "nom": "IJCNLP-AACL – Workshops",
+        "categorie_key": "cat_Conferences",
+        "categorie_raw": "Conferences / Evenements",
+        "type": "Workshops conference Asie-Pacifique",
+        "langue": "Anglais",
+        "pays": "International",
+        "taille": "",
+        "lien": "https://linguistlist.org/issues/36/2900/",
+        "licence": "Oui (partiel)",
+        "description": {
+          "fr": "Workshops conference Asie-Pacifique",
+          "en": "Workshops conference Asie-Pacifique",
+          "kab": "Workshops conference Asie-Pacifique",
+          "kab_auto": false
+        }
+      },
+      {
+        "id": "gen-012",
+        "source": "general",
+        "nom": "Paris NLP / SciencesConf",
+        "categorie_key": "cat_Conferences",
+        "categorie_raw": "Conferences / Evenements",
+        "type": "Conferences/journees NLP France",
+        "langue": "Francais/Anglais",
+        "pays": "France",
+        "taille": "",
+        "lien": "https://portal.sciencesconf.org/browse/conference/?confid=24068",
+        "licence": "Oui (partiel)",
+        "description": {
+          "fr": "Conferences/journees NLP France",
+          "en": "Conferences/journees NLP France",
+          "kab": "Conferences/journees NLP France",
+          "kab_auto": false
+        }
+      },
+      {
+        "id": "gen-013",
+        "source": "general",
+        "nom": "MADICS – Evenements NLP/IA",
+        "categorie_key": "cat_Conferences",
+        "categorie_raw": "Conferences / Evenements",
+        "type": "Colloques NLP & IA generative",
+        "langue": "Francais",
+        "pays": "France",
+        "taille": "",
+        "lien": "https://www.madics.fr/event/conf410/",
+        "licence": "Oui (partiel)",
+        "description": {
+          "fr": "Colloques NLP & IA generative",
+          "en": "Colloques NLP & IA generative",
+          "kab": "Colloques NLP & IA generative",
+          "kab_auto": false
+        }
+      },
+      {
+        "id": "gen-014",
+        "source": "general",
+        "nom": "NTU NLP Lab – Conference Monitor",
+        "categorie_key": "cat_Conferences",
+        "categorie_raw": "Conferences / Evenements",
+        "type": "Dashboard conferences NLP/IA",
+        "langue": "Anglais",
+        "pays": "Taiwan",
+        "taille": "",
+        "lien": "https://nlg14.csie.ntu.edu.tw/conference",
+        "licence": "Oui",
+        "description": {
+          "fr": "Dashboard conferences NLP/IA",
+          "en": "Dashboard conferences NLP/IA",
+          "kab": "Dashboard conferences NLP/IA",
+          "kab_auto": false
+        }
+      },
+      {
+        "id": "gen-015",
+        "source": "general",
+        "nom": "AllConferenceAlert – NLP",
+        "categorie_key": "cat_Conferences",
+        "categorie_raw": "Conferences / Evenements",
+        "type": "Alertes conferences NLP",
+        "langue": "Anglais",
+        "pays": "International",
+        "taille": "",
+        "lien": "https://www.allconferencealert.com/natural-language-processing",
+        "licence": "Non",
+        "description": {
+          "fr": "Alertes conferences NLP",
+          "en": "Alertes conferences NLP",
+          "kab": "Alertes conferences NLP",
+          "kab_auto": false
+        }
+      },
+      {
+        "id": "gen-016",
+        "source": "general",
+        "nom": "Indeed – NLP / NLP Engineer",
+        "categorie_key": "cat_Jobs",
+        "categorie_raw": "Emplois / Stages / Freelance",
+        "type": "Moteur de recherche (CDI, CDD, stages, freelance)",
+        "langue": "Anglais (+ autres)",
+        "pays": "International",
+        "taille": "",
+        "lien": "https://www.indeed.com/q-natural-language-processing-nlp-jobs.html",
+        "licence": "Oui",
+        "description": {
+          "fr": "Moteur de recherche (CDI, CDD, stages, freelance)",
+          "en": "Moteur de research (CDI, CDD, stages, freelance)",
+          "kab": "Moteur de anadi (CDI, CDD, stages, freelance)",
+          "kab_auto": true
+        }
+      },
+      {
+        "id": "gen-017",
+        "source": "general",
+        "nom": "LinkedIn Jobs – NLP",
+        "categorie_key": "cat_Jobs",
+        "categorie_raw": "Emplois / Stages / Freelance",
+        "type": "Offres entreprises, labs, startups",
+        "langue": "Anglais (+ autres)",
+        "pays": "International",
+        "taille": "",
+        "lien": "https://www.linkedin.com/jobs/",
+        "licence": "Oui (compte requis)",
+        "description": {
+          "fr": "Offres entreprises, labs, startups",
+          "en": "Offres entreprises, labs, startups",
+          "kab": "Offres entreprises, labs, startups",
+          "kab_auto": false
+        }
+      },
+      {
+        "id": "gen-018",
+        "source": "general",
+        "nom": "Glassdoor – NLP",
+        "categorie_key": "cat_Jobs",
+        "categorie_raw": "Emplois / Stages / Freelance",
+        "type": "Offres + salaires + avis",
+        "langue": "Anglais/Francais (+ autres)",
+        "pays": "International",
+        "taille": "",
+        "lien": "https://www.glassdoor.fr/",
+        "licence": "Oui (compte requis)",
+        "description": {
+          "fr": "Offres + salaires + avis",
+          "en": "Offres + salaires + avis",
+          "kab": "Offres + salaires + avis",
+          "kab_auto": false
+        }
+      },
+      {
+        "id": "gen-019",
+        "source": "general",
+        "nom": "NLP People – Jobs",
+        "categorie_key": "cat_Jobs",
+        "categorie_raw": "Emplois / Stages / Freelance",
+        "type": "Site communautaire NLP/LLM",
+        "langue": "Anglais",
+        "pays": "International",
+        "taille": "",
+        "lien": "https://nlppeople.com/jobs/",
+        "licence": "Oui",
+        "description": {
+          "fr": "Site communautaire NLP/LLM",
+          "en": "Site community NLP/LLM",
+          "kab": "Site n tegrawla NLP/LLM",
+          "kab_auto": true
+        }
+      },
+      {
+        "id": "gen-020",
+        "source": "general",
+        "nom": "Rebuix – AI Jobs (NLP)",
+        "categorie_key": "cat_Jobs",
+        "categorie_raw": "Emplois / Stages / Freelance",
+        "type": "Offres verifiees IA/ML/NLP/LLM",
+        "langue": "Anglais",
+        "pays": "International",
+        "taille": "",
+        "lien": "https://www.rebuix.com/jobs",
+        "licence": "Oui",
+        "description": {
+          "fr": "Offres verifiees IA/ML/NLP/LLM",
+          "en": "Offres verifiees IA/ML/NLP/LLM",
+          "kab": "Offres verifiees IA/ML/NLP/LLM",
+          "kab_auto": false
+        }
+      },
+      {
+        "id": "gen-021",
+        "source": "general",
+        "nom": "NeuralHire – AI & ML Jobs",
+        "categorie_key": "cat_Jobs",
+        "categorie_raw": "Emplois / Stages / Freelance",
+        "type": "Roles AI/ML/NLP avec salaires",
+        "langue": "Anglais",
+        "pays": "International",
+        "taille": "",
+        "lien": "https://www.neuralhire.ai/",
+        "licence": "Oui",
+        "description": {
+          "fr": "Roles AI/ML/NLP avec salaires",
+          "en": "Roles AI/ML/NLP avec salaires",
+          "kab": "Roles AI/ML/NLP avec salaires",
+          "kab_auto": false
+        }
+      },
+      {
+        "id": "gen-022",
+        "source": "general",
+        "nom": "Haystack – Tech Jobs (NLP)",
+        "categorie_key": "cat_Jobs",
+        "categorie_raw": "Emplois / Stages / Freelance",
+        "type": "Moteur offres tech (filtre NLP)",
+        "langue": "Anglais",
+        "pays": "UK/US/Europe",
+        "taille": "",
+        "lien": "https://haystackapp.io/jobs?skills=NLP",
+        "licence": "Oui",
+        "description": {
+          "fr": "Moteur offres tech (filtre NLP)",
+          "en": "Moteur offres tech (filtre NLP)",
+          "kab": "Moteur offres tech (filtre NLP)",
+          "kab_auto": false
+        }
+      },
+      {
+        "id": "gen-023",
+        "source": "general",
+        "nom": "Upwork – Freelance NLP",
+        "categorie_key": "cat_Jobs",
+        "categorie_raw": "Emplois / Stages / Freelance",
+        "type": "Missions freelance NLP/LLM",
+        "langue": "Anglais",
+        "pays": "International",
+        "taille": "",
+        "lien": "https://www.upwork.com/",
+        "licence": "Oui (compte requis)",
+        "description": {
+          "fr": "Missions freelance NLP/LLM",
+          "en": "Missions freelance NLP/LLM",
+          "kab": "Missions freelance NLP/LLM",
+          "kab_auto": false
+        }
+      },
+      {
+        "id": "gen-024",
+        "source": "general",
+        "nom": "Toptal – Freelance AI/NLP",
+        "categorie_key": "cat_Jobs",
+        "categorie_raw": "Emplois / Stages / Freelance",
+        "type": "Freelance haut de gamme",
+        "langue": "Anglais",
+        "pays": "International",
+        "taille": "",
+        "lien": "https://www.toptal.com/",
+        "licence": "Non (selection)",
+        "description": {
+          "fr": "Freelance haut de gamme",
+          "en": "Freelance haut de gamme",
+          "kab": "Freelance haut de gamme",
+          "kab_auto": false
+        }
+      },
+      {
+        "id": "gen-025",
+        "source": "general",
+        "nom": "Freelancer.com – NLP",
+        "categorie_key": "cat_Jobs",
+        "categorie_raw": "Emplois / Stages / Freelance",
+        "type": "Missions freelance variees",
+        "langue": "Anglais",
+        "pays": "International",
+        "taille": "",
+        "lien": "https://www.freelancer.com/",
+        "licence": "Oui (compte requis)",
+        "description": {
+          "fr": "Missions freelance variees",
+          "en": "Missions freelance variees",
+          "kab": "Missions freelance variees",
+          "kab_auto": false
+        }
+      },
+      {
+        "id": "gen-026",
+        "source": "general",
+        "nom": "AI Gig Jobs – NLP",
+        "categorie_key": "cat_Jobs",
+        "categorie_raw": "Emplois / Stages / Freelance",
+        "type": "Gigs et micro-missions NLP",
+        "langue": "Anglais",
+        "pays": "International",
+        "taille": "",
+        "lien": "https://www.aigigjobs.com/skills/nlp",
+        "licence": "Oui",
+        "description": {
+          "fr": "Gigs et micro-missions NLP",
+          "en": "Gigs et micro-missions NLP",
+          "kab": "Gigs et micro-missions NLP",
+          "kab_auto": false
+        }
+      },
+      {
+        "id": "gen-027",
+        "source": "general",
+        "nom": "Internships.com – NLP",
+        "categorie_key": "cat_Jobs",
+        "categorie_raw": "Emplois / Stages / Freelance",
+        "type": "Stages NLP (surtout US)",
+        "langue": "Anglais",
+        "pays": "US/International",
+        "taille": "",
+        "lien": "https://www.internships.com/browse/nlp",
+        "licence": "Oui",
+        "description": {
+          "fr": "Stages NLP (surtout US)",
+          "en": "Stages NLP (surtout US)",
+          "kab": "Stages NLP (surtout US)",
+          "kab_auto": false
+        }
+      },
+      {
+        "id": "gen-028",
+        "source": "general",
+        "nom": "Computational Linguistics (CL)",
+        "categorie_key": "cat_Journals",
+        "categorie_raw": "Revues scientifiques",
+        "type": "Journal phare ACL (theorie & fondements)",
+        "langue": "Anglais",
+        "pays": "International (editeur MIT Press)",
+        "taille": "",
+        "lien": "https://direct.mit.edu/coli",
+        "licence": "Partiel (hybride)",
+        "description": {
+          "fr": "Journal phare ACL (theorie & fondements)",
+          "en": "Journal phare ACL (theorie & fondements)",
+          "kab": "Journal phare ACL (theorie & fondements)",
+          "kab_auto": false
+        }
+      },
+      {
+        "id": "gen-029",
+        "source": "general",
+        "nom": "Transactions of the Association for Computational Linguistics (TACL)",
+        "categorie_key": "cat_Journals",
+        "categorie_raw": "Revues scientifiques",
+        "type": "Journal top-tier ACL",
+        "langue": "Anglais",
+        "pays": "International (MIT Press)",
+        "taille": "",
+        "lien": "https://direct.mit.edu/tacl",
+        "licence": "Oui (open access)",
+        "description": {
+          "fr": "Journal top-tier ACL",
+          "en": "Journal top-tier ACL",
+          "kab": "Journal top-tier ACL",
+          "kab_auto": false
+        }
+      },
+      {
+        "id": "gen-030",
+        "source": "general",
+        "nom": "Natural Language Processing (ex Natural Language Engineering)",
+        "categorie_key": "cat_Journals",
+        "categorie_raw": "Revues scientifiques",
+        "type": "Applications & ingenierie NLP",
+        "langue": "Anglais",
+        "pays": "International (Cambridge UP)",
+        "taille": "",
+        "lien": "https://www.cambridge.org/core/journals/natural-language-processing",
+        "licence": "Partiel (hybride)",
+        "description": {
+          "fr": "Applications & ingenierie NLP",
+          "en": "Applications & ingenierie NLP",
+          "kab": "Applications & ingenierie NLP",
+          "kab_auto": false
+        }
+      },
+      {
+        "id": "gen-031",
+        "source": "general",
+        "nom": "Computer Speech & Language",
+        "categorie_key": "cat_Journals",
+        "categorie_raw": "Revues scientifiques",
+        "type": "Parole + NLP",
+        "langue": "Anglais",
+        "pays": "International (Elsevier)",
+        "taille": "",
+        "lien": "https://www.journals.elsevier.com/computer-speech-and-language",
+        "licence": "Partiel (hybride)",
+        "description": {
+          "fr": "Parole + NLP",
+          "en": "speech + NLP",
+          "kab": "imeslay + NLP",
+          "kab_auto": true
+        }
+      },
+      {
+        "id": "gen-032",
+        "source": "general",
+        "nom": "Language Resources and Evaluation",
+        "categorie_key": "cat_Journals",
+        "categorie_raw": "Revues scientifiques",
+        "type": "Ressources, corpus, evaluation",
+        "langue": "Anglais",
+        "pays": "International (Springer)",
+        "taille": "",
+        "lien": "https://www.springer.com/journal/10579",
+        "licence": "Partiel (hybride)",
+        "description": {
+          "fr": "Ressources, corpus, evaluation",
+          "en": "resources, corpus, evaluation",
+          "kab": "iɣbula, corpus, evaluation",
+          "kab_auto": true
+        }
+      },
+      {
+        "id": "gen-033",
+        "source": "general",
+        "nom": "Journal of Artificial Intelligence Research (JAIR)",
+        "categorie_key": "cat_Journals",
+        "categorie_raw": "Revues scientifiques",
+        "type": "IA generale, beaucoup de NLP",
+        "langue": "Anglais",
+        "pays": "International (AI Access Foundation)",
+        "taille": "",
+        "lien": "https://www.jair.org/",
+        "licence": "Oui (open access)",
+        "description": {
+          "fr": "IA generale, beaucoup de NLP",
+          "en": "IA generale, beaucoup de NLP",
+          "kab": "IA generale, beaucoup de NLP",
+          "kab_auto": false
+        }
+      },
+      {
+        "id": "gen-034",
+        "source": "general",
+        "nom": "Artificial Intelligence",
+        "categorie_key": "cat_Journals",
+        "categorie_raw": "Revues scientifiques",
+        "type": "IA fondamentale, NLP theorique",
+        "langue": "Anglais",
+        "pays": "International (Elsevier)",
+        "taille": "",
+        "lien": "https://www.journals.elsevier.com/artificial-intelligence",
+        "licence": "Partiel (hybride)",
+        "description": {
+          "fr": "IA fondamentale, NLP theorique",
+          "en": "IA fondamentale, NLP theorique",
+          "kab": "IA fondamentale, NLP theorique",
+          "kab_auto": false
+        }
+      },
+      {
+        "id": "gen-035",
+        "source": "general",
+        "nom": "IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI)",
+        "categorie_key": "cat_Journals",
+        "categorie_raw": "Revues scientifiques",
+        "type": "Vision + NLP multimodal",
+        "langue": "Anglais",
+        "pays": "International (IEEE)",
+        "taille": "",
+        "lien": "https://www.computer.org/csdl/journal/tp",
+        "licence": "Partiel (hybride)",
+        "description": {
+          "fr": "Vision + NLP multimodal",
+          "en": "Vision + NLP multimodal",
+          "kab": "Vision + NLP multimodal",
+          "kab_auto": false
+        }
+      },
+      {
+        "id": "gen-036",
+        "source": "general",
+        "nom": "IEEE Transactions on Audio, Speech, and Language Processing",
+        "categorie_key": "cat_Journals",
+        "categorie_raw": "Revues scientifiques",
+        "type": "Parole, ASR, NLP oral",
+        "langue": "Anglais",
+        "pays": "International (IEEE)",
+        "taille": "",
+        "lien": "https://signalprocessingsociety.org/publications-resources/ieee-transactions-audio-speech-and-language-processing",
+        "licence": "Partiel (hybride)",
+        "description": {
+          "fr": "Parole, ASR, NLP oral",
+          "en": "speech, ASR, NLP oral",
+          "kab": "imeslay, ASR, NLP oral",
+          "kab_auto": true
+        }
+      },
+      {
+        "id": "gen-037",
+        "source": "general",
+        "nom": "Machine Learning",
+        "categorie_key": "cat_Journals",
+        "categorie_raw": "Revues scientifiques",
+        "type": "ML, dont modeles de langage",
+        "langue": "Anglais",
+        "pays": "International (Springer)",
+        "taille": "",
+        "lien": "https://www.springer.com/journal/10994",
+        "licence": "Partiel (hybride)",
+        "description": {
+          "fr": "ML, dont modeles de langage",
+          "en": "ML, dont modeles de langage",
+          "kab": "ML, dont modeles de langage",
+          "kab_auto": false
+        }
+      },
+      {
+        "id": "gen-038",
+        "source": "general",
+        "nom": "Neural Computation",
+        "categorie_key": "cat_Journals",
+        "categorie_raw": "Revues scientifiques",
+        "type": "Modeles neuronaux, certains NLP",
+        "langue": "Anglais",
+        "pays": "International (MIT Press)",
+        "taille": "",
+        "lien": "https://direct.mit.edu/neco",
+        "licence": "Partiel (hybride)",
+        "description": {
+          "fr": "Modeles neuronaux, certains NLP",
+          "en": "Modeles neuronaux, certains NLP",
+          "kab": "Modeles neuronaux, certains NLP",
+          "kab_auto": false
+        }
+      },
+      {
+        "id": "gen-039",
+        "source": "general",
+        "nom": "Data & Knowledge Engineering",
+        "categorie_key": "cat_Journals",
+        "categorie_raw": "Revues scientifiques",
+        "type": "Extraction, ontologies, NLP structure",
+        "langue": "Anglais",
+        "pays": "International (Elsevier)",
+        "taille": "",
+        "lien": "https://www.journals.elsevier.com/data-and-knowledge-engineering",
+        "licence": "Partiel (hybride)",
+        "description": {
+          "fr": "Extraction, ontologies, NLP structure",
+          "en": "Extraction, ontologies, NLP structure",
+          "kab": "Extraction, ontologies, NLP structure",
+          "kab_auto": false
+        }
+      },
+      {
+        "id": "gen-040",
+        "source": "general",
+        "nom": "Information Processing & Management",
+        "categorie_key": "cat_Journals",
+        "categorie_raw": "Revues scientifiques",
+        "type": "RI, NLP applique a l information",
+        "langue": "Anglais",
+        "pays": "International (Elsevier)",
+        "taille": "",
+        "lien": "https://www.journals.elsevier.com/information-processing-and-management",
+        "licence": "Partiel (hybride)",
+        "description": {
+          "fr": "RI, NLP applique a l information",
+          "en": "RI, NLP applique a l information",
+          "kab": "RI, NLP applique a l information",
+          "kab_auto": false
+        }
+      },
+      {
+        "id": "gen-041",
+        "source": "general",
+        "nom": "Knowledge-Based Systems",
+        "categorie_key": "cat_Journals",
+        "categorie_raw": "Revues scientifiques",
+        "type": "Systemes a connaissances, NLP",
+        "langue": "Anglais",
+        "pays": "International (Elsevier)",
+        "taille": "",
+        "lien": "https://www.journals.elsevier.com/knowledge-based-systems",
+        "licence": "Partiel (hybride)",
+        "description": {
+          "fr": "Systemes a connaissances, NLP",
+          "en": "Systemes a connaissances, NLP",
+          "kab": "Systemes a connaissances, NLP",
+          "kab_auto": false
+        }
+      },
+      {
+        "id": "gen-042",
+        "source": "general",
+        "nom": "Engineering Applications of Artificial Intelligence",
+        "categorie_key": "cat_Journals",
+        "categorie_raw": "Revues scientifiques",
+        "type": "Applications IA, dont NLP",
+        "langue": "Anglais",
+        "pays": "International (Elsevier)",
+        "taille": "",
+        "lien": "https://www.journals.elsevier.com/engineering-applications-of-artificial-intelligence",
+        "licence": "Partiel (hybride)",
+        "description": {
+          "fr": "Applications IA, dont NLP",
+          "en": "Applications IA, dont NLP",
+          "kab": "Applications IA, dont NLP",
+          "kab_auto": false
+        }
+      },
+      {
+        "id": "gen-043",
+        "source": "general",
+        "nom": "Journal of Biomedical Informatics",
+        "categorie_key": "cat_Journals",
+        "categorie_raw": "Revues scientifiques",
+        "type": "NLP medical",
+        "langue": "Anglais",
+        "pays": "International (Elsevier)",
+        "taille": "",
+        "lien": "https://www.journals.elsevier.com/journal-of-biomedical-informatics",
+        "licence": "Partiel (hybride)",
+        "description": {
+          "fr": "NLP medical",
+          "en": "NLP medical",
+          "kab": "NLP medical",
+          "kab_auto": false
+        }
+      },
+      {
+        "id": "gen-044",
+        "source": "general",
+        "nom": "BMC Medical Informatics and Decision Making",
+        "categorie_key": "cat_Journals",
+        "categorie_raw": "Revues scientifiques",
+        "type": "NLP sante",
+        "langue": "Anglais",
+        "pays": "International (BMC)",
+        "taille": "",
+        "lien": "https://bmcmedinformdecismak.biomedcentral.com/",
+        "licence": "Oui (open access)",
+        "description": {
+          "fr": "NLP sante",
+          "en": "NLP sante",
+          "kab": "NLP sante",
+          "kab_auto": false
+        }
+      },
+      {
+        "id": "gen-045",
+        "source": "general",
+        "nom": "Digital Scholarship in the Humanities",
+        "categorie_key": "cat_Journals",
+        "categorie_raw": "Revues scientifiques",
+        "type": "Humanites numeriques, NLP litteraire",
+        "langue": "Anglais",
+        "pays": "International (Oxford UP)",
+        "taille": "",
+        "lien": "https://academic.oup.com/dsh",
+        "licence": "Partiel (hybride)",
+        "description": {
+          "fr": "Humanites numeriques, NLP litteraire",
+          "en": "Humanites numeriques, NLP litteraire",
+          "kab": "Humanites numeriques, NLP litteraire",
+          "kab_auto": false
+        }
+      },
+      {
+        "id": "gen-046",
+        "source": "general",
+        "nom": "Digital Humanities Quarterly",
+        "categorie_key": "cat_Journals",
+        "categorie_raw": "Revues scientifiques",
+        "type": "Humanites numeriques",
+        "langue": "Anglais",
+        "pays": "International",
+        "taille": "",
+        "lien": "https://academic.oup.com/dhq",
+        "licence": "Partiel (hybride)",
+        "description": {
+          "fr": "Humanites numeriques",
+          "en": "Humanites numeriques",
+          "kab": "Humanites numeriques",
+          "kab_auto": false
+        }
+      },
+      {
+        "id": "gen-047",
+        "source": "general",
+        "nom": "International Journal of Speech Technology",
+        "categorie_key": "cat_Journals",
+        "categorie_raw": "Revues scientifiques",
+        "type": "Parole + NLP",
+        "langue": "Anglais",
+        "pays": "International (Springer)",
+        "taille": "",
+        "lien": "https://www.springer.com/journal/10772",
+        "licence": "Partiel (hybride)",
+        "description": {
+          "fr": "Parole + NLP",
+          "en": "speech + NLP",
+          "kab": "imeslay + NLP",
+          "kab_auto": true
+        }
+      },
+      {
+        "id": "ber-001",
+        "source": "berbere",
+        "nom": "DATASHI (English-Tashlhiyt)",
+        "categorie_key": "cat_Dataset",
+        "categorie_raw": "Dataset Berbère",
+        "type": "Dataset",
+        "langue": "Tashlhiyt (Berbère)",
+        "pays": "International",
+        "taille": "",
+        "lien": "https://arxiv.org/abs/2603.21571",
+        "licence": "Ouverte",
+        "description": {
+          "fr": "Corpus parallèle anglais-tashlhiyt (5000 paires) pour normalisation orthographique",
+          "en": "parallel corpus anglais-tashlhiyt (5000 pairs) pour normalization orthographic",
+          "kab": "ismal amsadaɣ anglais-tashlhiyt (5000 tiguṭṭa) pour aslaz n tira",
+          "kab_auto": true
+        }
+      },
+      {
+        "id": "ber-002",
+        "source": "berbere",
+        "nom": "Tashlhiyt Berber Plural Dataset",
+        "categorie_key": "cat_Dataset",
+        "categorie_raw": "Dataset Berbère",
+        "type": "Dataset",
+        "langue": "Tashlhiyt (Berbère)",
+        "pays": "International",
+        "taille": "",
+        "lien": "https://aclanthology.org/2026.slide-1.11/",
+        "licence": "Ouverte",
+        "description": {
+          "fr": "1185 paradigmes nominaux annotés (phonologie, morphologie, sémantique)",
+          "en": "1185 paradigmes nominaux annotés (phonologie, morphologie, sémantique)",
+          "kab": "1185 paradigmes nominaux annotés (phonologie, morphologie, sémantique)",
+          "kab_auto": false
+        }
+      },
+      {
+        "id": "ber-003",
+        "source": "berbere",
+        "nom": "Tamazight-NLP Audio Datasets",
+        "categorie_key": "cat_Dataset",
+        "categorie_raw": "Dataset Berbère",
+        "type": "Dataset",
+        "langue": "Tamazight (Berbère)",
+        "pays": "International",
+        "taille": "",
+        "lien": "https://huggingface.co/collections/Tamazight/audio-datasets",
+        "licence": "Variable",
+        "description": {
+          "fr": "Collection de datasets audio pour reconnaissance vocale tamazight",
+          "en": "collection de datasets audio pour speech recognition tamazight",
+          "kab": "tagrumma de ismalen imesli pour assali n yimeslay tamazight",
+          "kab_auto": true
+        }
+      },
+      {
+        "id": "ber-004",
+        "source": "berbere",
+        "nom": "Tifinagh OCR Datasets",
+        "categorie_key": "cat_Dataset",
+        "categorie_raw": "Dataset Berbère",
+        "type": "Dataset",
+        "langue": "Tamazight (Tifinagh)",
+        "pays": "International",
+        "taille": "",
+        "lien": "https://huggingface.co/collections/Tamazight/tifinagh-ocr-datasets",
+        "licence": "Ouverte",
+        "description": {
+          "fr": "Datasets OCR pour écriture Tifinagh (lignes simples et pages complètes)",
+          "en": "datasets OCR pour script Tifinagh (lines simples et pages complètes)",
+          "kab": "ismalen OCR pour tira Tifinagh (izirig simples et isebtar complètes)",
+          "kab_auto": true
+        }
+      },
+      {
+        "id": "ber-005",
+        "source": "berbere",
+        "nom": "1002-Amazigh-Proverbs",
+        "categorie_key": "cat_Dataset",
+        "categorie_raw": "Dataset Berbère",
+        "type": "Dataset",
+        "langue": "Tamazight (zgh)",
+        "pays": "International",
+        "taille": "",
+        "lien": "https://huggingface.co/datasets/Tamazight-NLP/1002-Amazigh-Proverbs",
+        "licence": "Ouverte",
+        "description": {
+          "fr": "Collection de proverbes amazighs",
+          "en": "collection de proverbs amazighs",
+          "kab": "tagrumma de inzan amazighs",
+          "kab_auto": true
+        }
+      },
+      {
+        "id": "ber-006",
+        "source": "berbere",
+        "nom": "Tashelhit-Tifinagh-Latin-Parallel-Tatoeba",
+        "categorie_key": "cat_Dataset",
+        "categorie_raw": "Dataset Berbère",
+        "type": "Dataset",
+        "langue": "Tashelhit (Berbère)",
+        "pays": "International",
+        "taille": "",
+        "lien": "https://huggingface.co/datasets/abdelhaqueidali/Tashelhit-Tifinagh-Latin-Parallel-Tatoeba-Dataset",
+        "licence": "Ouverte",
+        "description": {
+          "fr": "Corpus parallèle Tifinagh-Latin pour tashelhit (Tatoeba)",
+          "en": "parallel corpus Tifinagh-Latin pour tashelhit (Tatoeba)",
+          "kab": "ismal amsadaɣ Tifinagh-Latin pour tashelhit (Tatoeba)",
+          "kab_auto": true
+        }
+      },
+      {
+        "id": "ber-007",
+        "source": "berbere",
+        "nom": "Tarifit PBC Corpus",
+        "categorie_key": "cat_Dataset",
+        "categorie_raw": "Dataset Berbère",
+        "type": "Dataset",
+        "langue": "Tarifit (Berbère)",
+        "pays": "International",
+        "taille": "",
+        "lien": "https://huggingface.co/datasets/SmokePearl/tarifit-pbc-corpus",
+        "licence": "Ouverte",
+        "description": {
+          "fr": "Corpus biblique parallèle en tarifit",
+          "en": "Corpus biblique parallèle en tarifit",
+          "kab": "Corpus biblique parallèle en tarifit",
+          "kab_auto": false
+        }
+      },
+      {
+        "id": "ber-008",
+        "source": "berbere",
+        "nom": "AfriqueQwen3.5-4B-50Langs",
+        "categorie_key": "cat_Model",
+        "categorie_raw": "Modèle Berbère",
+        "type": "Modèle LLM",
+        "langue": "50 langues africaines (dont Kabyle, Tamazight)",
+        "pays": "International",
+        "taille": "4B",
+        "lien": "https://huggingface.co/McGill-NLP/AfriqueQwen3.5-4B-50Langs",
+        "licence": "Variable",
+        "description": {
+          "fr": "LLM 4B adapté à 50 langues africaines (dont Central Atlas Tamazight, Kabyle) via continued pre-training",
+          "en": "LLM 4B adapté à 50 languages africaines (dont Central Atlas Tamazight, Kabyle) via continued pre-training",
+          "kab": "LLM 4B adapté à 50 tutlayin africaines (dont Central Atlas Tamazight, Kabyle) via continued pre-training",
+          "kab_auto": true
+        }
+      },
+      {
+        "id": "ber-009",
+        "source": "berbere",
+        "nom": "Tamazight-NLP ASR Models",
+        "categorie_key": "cat_Model",
+        "categorie_raw": "Modèle Berbère",
+        "type": "Modèle ASR",
+        "langue": "Tamazight (Berbère)",
+        "pays": "International",
+        "taille": "Variable",
+        "lien": "https://huggingface.co/collections/Tamazight-NLP/asr-models",
+        "licence": "Variable",
+        "description": {
+          "fr": "Collection de modèles de reconnaissance vocale pour tamazight",
+          "en": "collection de models de speech recognition pour tamazight",
+          "kab": "tagrumma de timudmiwin de assali n yimeslay pour tamazight",
+          "kab_auto": true
+        }
+      },
+      {
+        "id": "ber-010",
+        "source": "berbere",
+        "nom": "Tamazight-NLP TTS Models",
+        "categorie_key": "cat_Model",
+        "categorie_raw": "Modèle Berbère",
+        "type": "Modèle TTS",
+        "langue": "Tamazight (Berbère)",
+        "pays": "International",
+        "taille": "Variable",
+        "lien": "https://huggingface.co/collections/Tamazight-NLP/tts-models",
+        "licence": "Variable",
+        "description": {
+          "fr": "Collection de modèles de synthèse vocale pour tamazight",
+          "en": "collection de models de speech synthesis pour tamazight",
+          "kab": "tagrumma de timudmiwin de asudeɣ n yimeslay pour tamazight",
+          "kab_auto": true
+        }
+      },
+      {
+        "id": "ber-011",
+        "source": "berbere",
+        "nom": "Tamazight-NLP Language ID",
+        "categorie_key": "cat_Model",
+        "categorie_raw": "Modèle Berbère",
+        "type": "Modèle Language ID",
+        "langue": "Tamazight (Berbère)",
+        "pays": "International",
+        "taille": "Variable",
+        "lien": "https://huggingface.co/collections/Tamazight-NLP/language-identification-models",
+        "licence": "Variable",
+        "description": {
+          "fr": "Modèles d'identification de langue/dialecte berbère",
+          "en": "models d'identification de language/dialecte berbère",
+          "kab": "timudmiwin d'identification de tutlayt/dialecte berbère",
+          "kab_auto": true
+        }
+      },
+      {
+        "id": "ber-012",
+        "source": "berbere",
+        "nom": "Tamazight-NLP OCR Models",
+        "categorie_key": "cat_Model",
+        "categorie_raw": "Modèle Berbère",
+        "type": "Modèle OCR",
+        "langue": "Tamazight Tifinagh",
+        "pays": "International",
+        "taille": "Variable",
+        "lien": "https://huggingface.co/collections/Tamazight/tifinagh-ocr-models",
+        "licence": "Variable",
+        "description": {
+          "fr": "Modèles OCR pour écriture Tifinagh",
+          "en": "models OCR pour script Tifinagh",
+          "kab": "timudmiwin OCR pour tira Tifinagh",
+          "kab_auto": true
+        }
+      },
+      {
+        "id": "ber-013",
+        "source": "berbere",
+        "nom": "Tamazight-NLP Organization",
+        "categorie_key": "cat_Tool",
+        "categorie_raw": "Outil/Dépôt Berbère",
+        "type": "Organisation/Dépôt",
+        "langue": "Tamazight (Berbère)",
+        "pays": "International",
+        "taille": "",
+        "lien": "https://huggingface.co/Tamazight-NLP",
+        "licence": "Variable",
+        "description": {
+          "fr": "Organisation HuggingFace centralisant modèles, datasets, papiers et benchmarks tamazight",
+          "en": "organization HuggingFace centralisant models, datasets, papiers et benchmarks tamazight",
+          "kab": "tuddsa HuggingFace centralisant timudmiwin, ismalen, papiers et benchmarks tamazight",
+          "kab_auto": true
+        }
+      },
+      {
+        "id": "ber-014",
+        "source": "berbere",
+        "nom": "AƔBALU (Kabyle NLP)",
+        "categorie_key": "cat_Tool",
+        "categorie_raw": "Outil/Dépôt Berbère",
+        "type": "Organisation/Dépôt",
+        "langue": "Kabyle (kab)",
+        "pays": "International",
+        "taille": "",
+        "lien": "https://huggingface.co/agbalu",
+        "licence": "Variable",
+        "description": {
+          "fr": "Organisation HuggingFace dédiée au NLP kabyle (modèles, datasets, benchmarks)",
+          "en": "organization HuggingFace dédiée au NLP kabyle (models, datasets, benchmarks)",
+          "kab": "tuddsa HuggingFace dédiée au NLP kabyle (timudmiwin, ismalen, benchmarks)",
+          "kab_auto": true
+        }
+      },
+      {
+        "id": "ber-015",
+        "source": "berbere",
+        "nom": "Kabyle Language Collection (boffire)",
+        "categorie_key": "cat_Tool",
+        "categorie_raw": "Outil/Dépôt Berbère",
+        "type": "Collection",
+        "langue": "Kabyle (kab)",
+        "pays": "International",
+        "taille": "",
+        "lien": "https://huggingface.co/collections/boffire/kabyle-language",
+        "licence": "Variable",
+        "description": {
+          "fr": "Collection complète ressources kabyles (LibreTranslate, Mmeslay ASR, Kab OCR, etc.)",
+          "en": "collection complète resources kabyles (LibreTranslate, Mmeslay ASR, Kab OCR, etc.)",
+          "kab": "tagrumma complète iɣbula kabyles (LibreTranslate, Mmeslay ASR, Kab OCR, etc.)",
+          "kab_auto": true
+        }
+      },
+      {
+        "id": "ber-016",
+        "source": "berbere",
+        "nom": "LibreTranslate Kabyle",
+        "categorie_key": "cat_Tool",
+        "categorie_raw": "Outil/Dépôt Berbère",
+        "type": "Outil Traduction",
+        "langue": "Kabyle (kab)",
+        "pays": "International",
+        "taille": "",
+        "lien": "https://huggingface.co/spaces/boffire/LibreTranslate-Kabyle",
+        "licence": "AGPL",
+        "description": {
+          "fr": "Interface de traduction automatique kabyle via LibreTranslate",
+          "en": "interface de machine translation kabyle via LibreTranslate",
+          "kab": "agrudem de tasuqilt tawurmant kabyle via LibreTranslate",
+          "kab_auto": true
+        }
+      },
+      {
+        "id": "ber-017",
+        "source": "berbere",
+        "nom": "Kab OCR Tanti",
+        "categorie_key": "cat_Tool",
+        "categorie_raw": "Outil/Dépôt Berbère",
+        "type": "Outil OCR",
+        "langue": "Kabyle (kab)",
+        "pays": "International",
+        "taille": "",
+        "lien": "https://huggingface.co/spaces/boffire/Kab-OCR-Tanti",
+        "licence": "Ouverte",
+        "description": {
+          "fr": "Interface web OCR pour texte kabyle (Latin + Tifinagh)",
+          "en": "interface web OCR pour text kabyle (Latin + Tifinagh)",
+          "kab": "agrudem web OCR pour aḍris kabyle (Latin + Tifinagh)",
+          "kab_auto": true
+        }
+      },
+      {
+        "id": "ber-018",
+        "source": "berbere",
+        "nom": "Indic NLP Library (extension berbère possible)",
+        "categorie_key": "cat_Tool",
+        "categorie_raw": "Outil/Dépôt Berbère",
+        "type": "Bibliothèque",
+        "langue": "Multilingue (dont berbère potentiel)",
+        "pays": "International",
+        "taille": "",
+        "lien": "https://github.com/anoopkunchukuttan/indic_nlp_library",
+        "licence": "MIT",
+        "description": {
+          "fr": "Bibliothèque pour langues à ressources limitées (adaptable berbère)",
+          "en": "library pour languages à resources limitées (adaptable berbère)",
+          "kab": "tamkarḍit pour tutlayin à iɣbula limitées (adaptable berbère)",
+          "kab_auto": true
+        }
+      },
+      {
+        "id": "ber-019",
+        "source": "berbere",
+        "nom": "Universal Dependencies - Kabyle",
+        "categorie_key": "cat_Tool",
+        "categorie_raw": "Outil/Dépôt Berbère",
+        "type": "Annotation/Dépôt",
+        "langue": "Kabyle (kab)",
+        "pays": "International",
+        "taille": "",
+        "lien": "https://universaldependencies.org/kab/",
+        "licence": "Ouverte",
+        "description": {
+          "fr": "Arbres syntaxiques kabyles annotés selon Universal Dependencies",
+          "en": "Arbres syntactic kabyles annotés selon Universal Dependencies",
+          "kab": "Arbres n tsuddest kabyles annotés selon Universal Dependencies",
+          "kab_auto": true
+        }
+      },
+      {
+        "id": "ber-020",
+        "source": "berbere",
+        "nom": "GitHub - Awesome Kabyle NLP",
+        "categorie_key": "cat_Tool",
+        "categorie_raw": "Outil/Dépôt Berbère",
+        "type": "Liste/Dépôt",
+        "langue": "Kabyle (kab)",
+        "pays": "International",
+        "taille": "",
+        "lien": "https://github.com/topics/kabyle",
+        "licence": "Variable",
+        "description": {
+          "fr": "Dépôts GitHub liés au kabyle (recherche par topic)",
+          "en": "Dépôts GitHub liés au kabyle (research par topic)",
+          "kab": "Dépôts GitHub liés au kabyle (anadi par topic)",
+          "kab_auto": true
+        }
+      },
+      {
+        "id": "ber-021",
+        "source": "berbere",
+        "nom": "Haut Commissariat à l'Amazighité (HCA)",
+        "categorie_key": "cat_Tool",
+        "categorie_raw": "Outil/Dépôt Berbère",
+        "type": "Institution/Corpus",
+        "langue": "Kabyle/Tamazight",
+        "pays": "International",
+        "taille": "",
+        "lien": "https://www.hca-dz.org/",
+        "licence": "Variable",
+        "description": {
+          "fr": "Institution algérienne pour promotion amazighité (ressources, publications)",
+          "en": "institution algérienne pour promotion amazighité (resources, publications)",
+          "kab": "tuddsa algérienne pour promotion amazighité (iɣbula, publications)",
+          "kab_auto": true
+        }
+      },
+      {
+        "id": "ber-022",
+        "source": "berbere",
+        "nom": "Inalco - Département Berbère",
+        "categorie_key": "cat_Tool",
+        "categorie_raw": "Outil/Dépôt Berbère",
+        "type": "Institution/Recherche",
+        "langue": "Berbère (toutes variantes)",
+        "pays": "International",
+        "taille": "",
+        "lien": "https://www.inalco.fr/",
+        "licence": "Variable",
+        "description": {
+          "fr": "Recherche linguistique berbère (France) - corpus, thèses, publications",
+          "en": "research linguistique berbère (France) - corpus, thèses, publications",
+          "kab": "anadi linguistique berbère (France) - corpus, thèses, publications",
+          "kab_auto": true
+        }
+      },
+      {
+        "id": "ber-023",
+        "source": "berbere",
+        "nom": "CRB (Centre de Recherche en Berbère)",
+        "categorie_key": "cat_Tool",
+        "categorie_raw": "Outil/Dépôt Berbère",
+        "type": "Institution/Recherche",
+        "langue": "Berbère (toutes variantes)",
+        "pays": "International",
+        "taille": "",
+        "lien": "https://www.univ-bejaia.dz/crb/",
+        "licence": "Variable",
+        "description": {
+          "fr": "Centre de recherche en berbère (Université de Béjaïa, Algérie)",
+          "en": "Centre de research en berbère (Université de Béjaïa, Algérie)",
+          "kab": "Centre de anadi en berbère (Université de Béjaïa, Algérie)",
+          "kab_auto": true
+        }
+      },
+      {
+        "id": "ber-024",
+        "source": "berbere",
+        "nom": "IRCAM (Institut Royal de la Culture Amazighe)",
+        "categorie_key": "cat_Tool",
+        "categorie_raw": "Outil/Dépôt Berbère",
+        "type": "Institution/Normalisation",
+        "langue": "Tamazight (Maroc)",
+        "pays": "International",
+        "taille": "",
+        "lien": "http://www.ircam.ma/",
+        "licence": "Variable",
+        "description": {
+          "fr": "Normalisation Tifinagh, ressources linguistiques tamazight (Maroc)",
+          "en": "normalization Tifinagh, resources linguistiques tamazight (Maroc)",
+          "kab": "aslaz Tifinagh, iɣbula linguistiques tamazight (Maroc)",
+          "kab_auto": true
+        }
+      },
+      {
+        "id": "ber-025",
+        "source": "berbere",
+        "nom": "Kabyle Corpus HCA",
+        "categorie_key": "cat_Dataset",
+        "categorie_raw": "Dataset Kabyle",
+        "type": "Dataset",
+        "langue": "Kabyle (kab)",
+        "pays": "International",
+        "taille": "",
+        "lien": "https://huggingface.co/datasets/Imsidag-community/kabyle-corpus-hca",
+        "licence": "Ouverte",
+        "description": {
+          "fr": "188 620 phrases kabyles extraites de PDFs du Haut Commissariat à l'Amazighité (Algérie)",
+          "en": "188 620 sentences kabyles extraites de PDFs du Haut Commissariat à l'Amazighité (Algérie)",
+          "kab": "188 620 tinayin kabyles extraites de PDFs du Haut Commissariat à l'Amazighité (Algérie)",
+          "kab_auto": true
+        }
+      },
+      {
+        "id": "ber-026",
+        "source": "berbere",
+        "nom": "Kabyle Corpus Bouira University",
+        "categorie_key": "cat_Dataset",
+        "categorie_raw": "Dataset Kabyle",
+        "type": "Dataset",
+        "langue": "Kabyle (kab)",
+        "pays": "International",
+        "taille": "",
+        "lien": "https://huggingface.co/datasets/Imsidag-community/kabyle-corpus-ubouira",
+        "licence": "Ouverte",
+        "description": {
+          "fr": "336 982 phrases kabyles extraites de PDFs de l'Université de Bouira (Dépt. Langue Amazighe)",
+          "en": "336 982 sentences kabyles extraites de PDFs de l'Université de Bouira (Dépt. language Amazighe)",
+          "kab": "336 982 tinayin kabyles extraites de PDFs de l'Université de Bouira (Dépt. tutlayt Amazighe)",
+          "kab_auto": true
+        }
+      },
+      {
+        "id": "ber-027",
+        "source": "berbere",
+        "nom": "KabLex",
+        "categorie_key": "cat_Dataset",
+        "categorie_raw": "Dataset Kabyle",
+        "type": "Dataset/Lexique",
+        "langue": "Kabyle (kab)",
+        "pays": "International",
+        "taille": "",
+        "lien": "https://huggingface.co/datasets/agbalu/KabLex",
+        "licence": "Ouverte",
+        "description": {
+          "fr": "366 892 entrées lexicales, 17 090 lemmes, 25 642 paires mot-prononciation IPA",
+          "en": "366 892 entries lexicales, 17 090 lemmas, 25 642 pairs mot-prononciation IPA",
+          "kab": "366 892 inekcumen lexicales, 17 090 lemmes, 25 642 tiguṭṭa mot-prononciation IPA",
+          "kab_auto": true
+        }
+      },
+      {
+        "id": "ber-028",
+        "source": "berbere",
+        "nom": "KabSentiment",
+        "categorie_key": "cat_Dataset",
+        "categorie_raw": "Dataset Kabyle",
+        "type": "Dataset",
+        "langue": "Kabyle (kab)",
+        "pays": "International",
+        "taille": "",
+        "lien": "https://huggingface.co/datasets/agbalu/KabSentiment",
+        "licence": "Ouverte",
+        "description": {
+          "fr": "15 000 phrases kabyles labellisées (négatif/neutre/positif) - premier dataset sentiment berbère",
+          "en": "15 000 sentences kabyles labellisées (négatif/neutre/positif) - first dataset sentiment berbère",
+          "kab": "15 000 tinayin kabyles labellisées (négatif/neutre/positif) - amenzu ismal aɣawas n wul berbère",
+          "kab_auto": true
+        }
+      },
+      {
+        "id": "ber-029",
+        "source": "berbere",
+        "nom": "KabInflect",
+        "categorie_key": "cat_Dataset",
+        "categorie_raw": "Dataset Kabyle",
+        "type": "Dataset",
+        "langue": "Kabyle (kab)",
+        "pays": "International",
+        "taille": "",
+        "lien": "https://huggingface.co/datasets/agbalu/KabInflect",
+        "licence": "Ouverte",
+        "description": {
+          "fr": "336 151 formes verbales fléchies, 13 226 lemmes, 6 198 paradigmes complets",
+          "en": "336 151 formes verbales fléchies, 13 226 lemmas, 6 198 paradigmes complets",
+          "kab": "336 151 formes verbales fléchies, 13 226 lemmes, 6 198 paradigmes complets",
+          "kab_auto": false
+        }
+      },
+      {
+        "id": "ber-030",
+        "source": "berbere",
+        "nom": "KabTifinagh",
+        "categorie_key": "cat_Dataset",
+        "categorie_raw": "Dataset Kabyle",
+        "type": "Dataset",
+        "langue": "Kabyle (kab)",
+        "pays": "International",
+        "taille": "",
+        "lien": "https://huggingface.co/datasets/agbalu/KabTifinagh",
+        "licence": "CC-BY-2.0",
+        "description": {
+          "fr": "497 944 phrases parallèles Tifinagh-Latin kabyle + alignements trilingues (EN/FR)",
+          "en": "497 944 sentences parallèles Tifinagh-Latin kabyle + alignments trilingual (EN/FR)",
+          "kab": "497 944 tinayin parallèles Tifinagh-Latin kabyle + imseddayen n kraḍ tutlayin (EN/FR)",
+          "kab_auto": true
+        }
+      },
+      {
+        "id": "ber-031",
+        "source": "berbere",
+        "nom": "KabPunct",
+        "categorie_key": "cat_Dataset",
+        "categorie_raw": "Dataset Kabyle",
+        "type": "Dataset",
+        "langue": "Kabyle (kab)",
+        "pays": "International",
+        "taille": "",
+        "lien": "https://huggingface.co/datasets/agbalu/KabPunct",
+        "licence": "Ouverte",
+        "description": {
+          "fr": "1 318 707 phrases étiquetées (ponctuation + casse) - premier corpus punctuation restoration berbère",
+          "en": "1 318 707 sentences étiquetées (ponctuation + casse) - first corpus punctuation restoration berbère",
+          "kab": "1 318 707 tinayin étiquetées (ponctuation + casse) - amenzu corpus punctuation restoration berbère",
+          "kab_auto": true
+        }
+      },
+      {
+        "id": "ber-032",
+        "source": "berbere",
+        "nom": "KabStandard",
+        "categorie_key": "cat_Dataset",
+        "categorie_raw": "Dataset Kabyle",
+        "type": "Dataset",
+        "langue": "Kabyle (kab)",
+        "pays": "International",
+        "taille": "",
+        "lien": "https://huggingface.co/datasets/agbalu/KabStandard",
+        "licence": "Ouverte",
+        "description": {
+          "fr": "Dataset pour normalisation orthographique (Kabyle informel → canonique)",
+          "en": "dataset pour normalization orthographic (Kabyle informel → canonique)",
+          "kab": "ismal pour aslaz n tira (Kabyle informel → canonique)",
+          "kab_auto": true
+        }
+      },
+      {
+        "id": "ber-033",
+        "source": "berbere",
+        "nom": "KabBench",
+        "categorie_key": "cat_Dataset",
+        "categorie_raw": "Dataset Kabyle",
+        "type": "Dataset/Benchmark",
+        "langue": "Kabyle (kab)",
+        "pays": "International",
+        "taille": "",
+        "lien": "https://huggingface.co/datasets/agbalu/KabBench",
+        "licence": "Ouverte",
+        "description": {
+          "fr": "Benchmark MT kabyle réparé (2009 phrases) + set 6 langues pour distinguer variantes berbères",
+          "en": "Benchmark MT kabyle réparé (2009 sentences) + set 6 languages pour distinguer variantes berbères",
+          "kab": "Benchmark MT kabyle réparé (2009 tinayin) + set 6 tutlayin pour distinguer variantes berbères",
+          "kab_auto": true
+        }
+      },
+      {
+        "id": "ber-034",
+        "source": "berbere",
+        "nom": "Tatoeba Kabyle Audio",
+        "categorie_key": "cat_Dataset",
+        "categorie_raw": "Dataset Kabyle",
+        "type": "Dataset",
+        "langue": "Kabyle (kab)",
+        "pays": "International",
+        "taille": "",
+        "lien": "https://huggingface.co/datasets/boffire/tatoeba-kabyle-audio",
+        "licence": "Ouverte",
+        "description": {
+          "fr": "47 789 phrases kabyles avec audio (~25.78h) pour ASR, orthographe corrigée",
+          "en": "47 789 sentences kabyles avec audio (~25.78h) pour ASR, orthographe corrigée",
+          "kab": "47 789 tinayin kabyles avec imesli (~25.78h) pour ASR, orthographe corrigée",
+          "kab_auto": true
+        }
+      },
+      {
+        "id": "ber-035",
+        "source": "berbere",
+        "nom": "Common Voice Kabyle",
+        "categorie_key": "cat_Dataset",
+        "categorie_raw": "Dataset Kabyle",
+        "type": "Dataset",
+        "langue": "Kabyle (kab)",
+        "pays": "International",
+        "taille": "",
+        "lien": "https://commonvoice.mozilla.org/kab",
+        "licence": "CC0",
+        "description": {
+          "fr": "Dataset audio kabyle de Mozilla Common Voice (contributions communautaires)",
+          "en": "dataset audio kabyle de Mozilla Common Voice (contributions communautaires)",
+          "kab": "ismal imesli kabyle de Mozilla Common Voice (contributions communautaires)",
+          "kab_auto": true
+        }
+      },
+      {
+        "id": "ber-036",
+        "source": "berbere",
+        "nom": "Kabyle Tatoeba Parallel",
+        "categorie_key": "cat_Dataset",
+        "categorie_raw": "Dataset Kabyle",
+        "type": "Dataset",
+        "langue": "Kabyle (kab)",
+        "pays": "International",
+        "taille": "",
+        "lien": "https://huggingface.co/datasets?other=Kabyle",
+        "licence": "Ouverte",
+        "description": {
+          "fr": "Corpus parallèles kabyle-anglais/français (Tatoeba)",
+          "en": "Corpus parallèles kabyle-anglais/français (Tatoeba)",
+          "kab": "Corpus parallèles kabyle-anglais/français (Tatoeba)",
+          "kab_auto": false
+        }
+      },
+      {
+        "id": "ber-037",
+        "source": "berbere",
+        "nom": "Amrouche-1.3B",
+        "categorie_key": "cat_Model",
+        "categorie_raw": "Modèle Kabyle",
+        "type": "Modèle Traduction",
+        "langue": "Kabyle (kab)",
+        "pays": "International",
+        "taille": "1.3B",
+        "lien": "https://huggingface.co/agbalu/Amrouche-1.3B",
+        "licence": "Variable",
+        "description": {
+          "fr": "Modèle de traduction 1.3B (EN↔KAB, FR↔KAB) - bat NLLB-200-1.3B sur toutes directions",
+          "en": "model de traduction 1.3B (EN↔KAB, FR↔KAB) - bat NLLB-200-1.3B sur toutes directions",
+          "kab": "tamudmiwt de traduction 1.3B (EN↔KAB, FR↔KAB) - bat NLLB-200-1.3B sur toutes directions",
+          "kab_auto": true
+        }
+      },
+      {
+        "id": "ber-038",
+        "source": "berbere",
+        "nom": "SiMohand-278M",
+        "categorie_key": "cat_Tool",
+        "categorie_raw": "Outil/Dépôt Kabyle",
+        "type": "Sentence Embeddings",
+        "langue": "Kabyle (kab)",
+        "pays": "International",
+        "taille": "278M",
+        "lien": "https://huggingface.co/agbalu/SiMohand-278M",
+        "licence": "Variable",
+        "description": {
+          "fr": "Embeddings de phrases + retrieval (97% Recall@1) - compression 12× sans perte",
+          "en": "embeddings de sentences + retrieval (97% Recall@1) - compression 12× sans perte",
+          "kab": "tigrummiwin de tinayin + retrieval (97% Recall@1) - compression 12× sans perte",
+          "kab_auto": true
+        }
+      },
+      {
+        "id": "ber-039",
+        "source": "berbere",
+        "nom": "Boulifa-48M",
+        "categorie_key": "cat_Tool",
+        "categorie_raw": "Outil/Dépôt Kabyle",
+        "type": "Normalisation Orthographique",
+        "langue": "Kabyle (kab)",
+        "pays": "International",
+        "taille": "48M",
+        "lien": "https://huggingface.co/agbalu/Boulifa-48M",
+        "licence": "Variable",
+        "description": {
+          "fr": "Conv-Transformer 48M pour normaliser Kabyle informel/SMS/Arabizi → Latin canonique (97.39% accuracy)",
+          "en": "Conv-Transformer 48M pour normaliser Kabyle informel/SMS/Arabizi → Latin canonique (97.39% accuracy)",
+          "kab": "Conv-Transformer 48M pour normaliser Kabyle informel/SMS/Arabizi → Latin canonique (97.39% accuracy)",
+          "kab_auto": false
+        }
+      },
+      {
+        "id": "ber-040",
+        "source": "berbere",
+        "nom": "Juba-27M",
+        "categorie_key": "cat_Tool",
+        "categorie_raw": "Outil/Dépôt Kabyle",
+        "type": "Translitération",
+        "langue": "Kabyle (kab)",
+        "pays": "International",
+        "taille": "27M",
+        "lien": "https://huggingface.co/agbalu/Juba-27M",
+        "licence": "Variable",
+        "description": {
+          "fr": "Conversion Tifinagh→Latin kabyle + restauration voyelle 'e' (94.22% exact match)",
+          "en": "conversion Tifinagh→Latin kabyle + restauration voyelle 'e' (94.22% exact match)",
+          "kab": "asegzi Tifinagh→Latin kabyle + restauration voyelle 'e' (94.22% exact match)",
+          "kab_auto": true
+        }
+      },
+      {
+        "id": "ber-041",
+        "source": "berbere",
+        "nom": "Feraoun-36M",
+        "categorie_key": "cat_Tool",
+        "categorie_raw": "Outil/Dépôt Kabyle",
+        "type": "OCR Dual-Script",
+        "langue": "Kabyle (kab)",
+        "pays": "International",
+        "taille": "36M",
+        "lien": "https://huggingface.co/agbalu/Feraoun-36M",
+        "licence": "Variable",
+        "description": {
+          "fr": "Vision-Encoder-Decoder 36M lisant Latin ET Neo-Tifinagh kabyle (CER 2.85%)",
+          "en": "Vision-Encoder-Decoder 36M lisant Latin ET Neo-Tifinagh kabyle (CER 2.85%)",
+          "kab": "Vision-Encoder-Decoder 36M lisant Latin ET Neo-Tifinagh kabyle (CER 2.85%)",
+          "kab_auto": false
+        }
+      },
+      {
+        "id": "ber-042",
+        "source": "berbere",
+        "nom": "Feraoun-Pro",
+        "categorie_key": "cat_Tool",
+        "categorie_raw": "Outil/Dépôt Kabyle",
+        "type": "OCR Dual-Script CTC",
+        "langue": "Kabyle (kab)",
+        "pays": "International",
+        "taille": "51M",
+        "lien": "https://huggingface.co/agbalu/Feraoun-Pro",
+        "licence": "Variable",
+        "description": {
+          "fr": "Reconnaissance CTC 51M pour lignes imprimées kabyles (Latin CER 7.34%, Tifinagh CER 0.91%)",
+          "en": "Reconnaissance CTC 51M pour lines imprimées kabyles (Latin CER 7.34%, Tifinagh CER 0.91%)",
+          "kab": "Reconnaissance CTC 51M pour izirig imprimées kabyles (Latin CER 7.34%, Tifinagh CER 0.91%)",
+          "kab_auto": true
+        }
+      },
+      {
+        "id": "ber-043",
+        "source": "berbere",
+        "nom": "Masinissa-Sentiment",
+        "categorie_key": "cat_Tool",
+        "categorie_raw": "Outil/Dépôt Kabyle",
+        "type": "Classification Sentiment",
+        "langue": "Kabyle (kab)",
+        "pays": "International",
+        "taille": "31M",
+        "lien": "https://huggingface.co/agbalu/Masinissa-Sentiment",
+        "licence": "Variable",
+        "description": {
+          "fr": "Premier classifieur sentiment berbère (90.27% accuracy, 0.90 F1 macro)",
+          "en": "first classifieur sentiment berbère (90.27% accuracy, 0.90 F1 macro)",
+          "kab": "amenzu classifieur aɣawas n wul berbère (90.27% accuracy, 0.90 F1 macro)",
+          "kab_auto": true
+        }
+      },
+      {
+        "id": "ber-044",
+        "source": "berbere",
+        "nom": "Belaid-31M",
+        "categorie_key": "cat_Tool",
+        "categorie_raw": "Outil/Dépôt Kabyle",
+        "type": "Restauration Ponctuation",
+        "langue": "Kabyle (kab)",
+        "pays": "International",
+        "taille": "31M",
+        "lien": "https://huggingface.co/agbalu/Belaid-31M",
+        "licence": "Variable",
+        "description": {
+          "fr": "Restauration ponctuation + casse pour kabyle (entraîné sur KabPunct)",
+          "en": "Restauration ponctuation + casse pour kabyle (trained sur KabPunct)",
+          "kab": "Restauration ponctuation + casse pour kabyle (yettwaselmed sur KabPunct)",
+          "kab_auto": true
+        }
+      },
+      {
+        "id": "ber-045",
+        "source": "berbere",
+        "nom": "Mammeri-Tok",
+        "categorie_key": "cat_Tool",
+        "categorie_raw": "Outil/Dépôt Kabyle",
+        "type": "Tokenizer",
+        "langue": "Kabyle (kab)",
+        "pays": "International",
+        "taille": "",
+        "lien": "https://huggingface.co/agbalu/Mammeri-Tok",
+        "licence": "Variable",
+        "description": {
+          "fr": "10 vocabulaires Unigram 8k-32k pour segmentation kabyle optimale",
+          "en": "10 vocabulaires Unigram 8k-32k pour segmentation kabyle optimale",
+          "kab": "10 vocabulaires Unigram 8k-32k pour segmentation kabyle optimale",
+          "kab_auto": false
+        }
+      },
+      {
+        "id": "ber-046",
+        "source": "berbere",
+        "nom": "Matoub-82M",
+        "categorie_key": "cat_Tool",
+        "categorie_raw": "Outil/Dépôt Kabyle",
+        "type": "Text-to-Speech",
+        "langue": "Kabyle (kab)",
+        "pays": "International",
+        "taille": "82M",
+        "lien": "https://huggingface.co/agbalu/Matoub-82M",
+        "licence": "Variable",
+        "description": {
+          "fr": "Modèle TTS 82M (StyleTTS2 fine-tune) sur Common Voice Kabyle restauré",
+          "en": "model TTS 82M (StyleTTS2 fine-tune) sur Common Voice Kabyle restauré",
+          "kab": "tamudmiwt TTS 82M (StyleTTS2 fine-tune) sur Common Voice Kabyle restauré",
+          "kab_auto": true
+        }
+      },
+      {
+        "id": "ber-047",
+        "source": "berbere",
+        "nom": "Kabyle-BPE-Tokenizer-v2",
+        "categorie_key": "cat_Tool",
+        "categorie_raw": "Outil/Dépôt Kabyle",
+        "type": "Tokenizer",
+        "langue": "Kabyle (kab)",
+        "pays": "International",
+        "taille": "48k vocab",
+        "lien": "https://huggingface.co/boffire/Kabyle-BPE-Tokenizer-v2",
+        "licence": "Variable",
+        "description": {
+          "fr": "Tokenizer BPE 48k propre avec normalisation NFC + alphabet CLDR (fertilité 1.736)",
+          "en": "tokenizer BPE 48k propre avec normalization NFC + alphabet CLDR (fertilité 1.736)",
+          "kab": "amsegzay BPE 48k propre avec aslaz NFC + alphabet CLDR (fertilité 1.736)",
+          "kab_auto": true
+        }
+      },
+      {
+        "id": "ber-048",
+        "source": "berbere",
+        "nom": "Kabyle POS Tagger (XLM-RoBERTa)",
+        "categorie_key": "cat_Tool",
+        "categorie_raw": "Outil/Dépôt Kabyle",
+        "type": "POS Tagging",
+        "langue": "Kabyle (kab)",
+        "pays": "International",
+        "taille": "279M",
+        "lien": "https://huggingface.co/boffire/kabyle-pos",
+        "licence": "Variable",
+        "description": {
+          "fr": "Tagger POS kabyle basé sur XLM-RoBERTa-base (17 tags Universal Dependencies)",
+          "en": "Tagger POS kabyle basé sur XLM-RoBERTa-base (17 tags Universal Dependencies)",
+          "kab": "Tagger POS kabyle basé sur XLM-RoBERTa-base (17 tags Universal Dependencies)",
+          "kab_auto": false
+        }
+      },
+      {
+        "id": "ber-049",
+        "source": "berbere",
+        "nom": "Mmeslay (Kabyle ASR)",
+        "categorie_key": "cat_Tool",
+        "categorie_raw": "Outil/Dépôt Kabyle",
+        "type": "ASR",
+        "langue": "Kabyle (kab)",
+        "pays": "International",
+        "taille": "Variable",
+        "lien": "https://huggingface.co/boffire/Mmeslay",
+        "licence": "Variable",
+        "description": {
+          "fr": "Système Speech-to-Text pour kabyle",
+          "en": "Système Speech-to-Text pour kabyle",
+          "kab": "Système Speech-to-Text pour kabyle",
+          "kab_auto": false
+        }
+      },
+      {
+        "id": "ber-050",
+        "source": "berbere",
+        "nom": "OmniVoice Kabyle",
+        "categorie_key": "cat_Tool",
+        "categorie_raw": "Outil/Dépôt Kabyle",
+        "type": "TTS/Voice",
+        "langue": "Kabyle (kab)",
+        "pays": "International",
+        "taille": "Variable",
+        "lien": "https://huggingface.co/spaces/boffire/OmniVoice-Kabyle",
+        "licence": "Variable",
+        "description": {
+          "fr": "Synthèse vocale kabyle via OmniVoice",
+          "en": "speech synthesis kabyle via OmniVoice",
+          "kab": "asudeɣ n yimeslay kabyle via OmniVoice",
+          "kab_auto": true
+        }
+      },
+      {
+        "id": "eco-001",
+        "source": "ecosysteme",
+        "nom": "Hugging Face Datasets Hub",
+        "categorie_key": "cat_Dataset",
+        "categorie_raw": "Datasets",
+        "type": "Datasets",
+        "langue": "Multilingue",
+        "pays": "International",
+        "taille": "",
+        "lien": "https://huggingface.co/datasets",
+        "licence": "Variable",
+        "description": {
+          "fr": "Plus grande plateforme de datasets NLP (SQuAD, GLUE, CommonCrawl, etc.)",
+          "en": "Plus grande plateforme de datasets NLP (SQuAD, GLUE, CommonCrawl, etc.)",
+          "kab": "Plus grande plateforme de ismalen NLP (SQuAD, GLUE, CommonCrawl, etc.)",
+          "kab_auto": true
+        }
+      },
+      {
+        "id": "eco-002",
+        "source": "ecosysteme",
+        "nom": "Kaggle Datasets - NLP",
+        "categorie_key": "cat_Dataset",
+        "categorie_raw": "Datasets",
+        "type": "Datasets",
+        "langue": "Multilingue",
+        "pays": "International",
+        "taille": "",
+        "lien": "https://www.kaggle.com/datasets?tags=13208-NLP",
+        "licence": "Variable",
+        "description": {
+          "fr": "Datasets NLP variés (sentiment, classification, traduction, etc.)",
+          "en": "datasets NLP variés (sentiment, classification, traduction, etc.)",
+          "kab": "ismalen NLP variés (aɣawas n wul, taggayt, traduction, etc.)",
+          "kab_auto": true
+        }
+      },
+      {
+        "id": "eco-003",
+        "source": "ecosysteme",
+        "nom": "UCI Machine Learning Repository - Text",
+        "categorie_key": "cat_Dataset",
+        "categorie_raw": "Datasets",
+        "type": "Datasets",
+        "langue": "Multilingue",
+        "pays": "International",
+        "taille": "",
+        "lien": "https://archive.ics.uci.edu/datasets?query=text",
+        "licence": "Ouverte",
+        "description": {
+          "fr": "Datasets classiques pour classification de texte, spam, etc.",
+          "en": "datasets classiques pour classification de text, spam, etc.",
+          "kab": "ismalen classiques pour taggayt de aḍris, spam, etc.",
+          "kab_auto": true
+        }
+      },
+      {
+        "id": "eco-004",
+        "source": "ecosysteme",
+        "nom": "ACL Anthology - Datasets",
+        "categorie_key": "cat_Dataset",
+        "categorie_raw": "Datasets",
+        "type": "Datasets",
+        "langue": "Multilingue",
+        "pays": "International",
+        "taille": "",
+        "lien": "https://aclanthology.org/",
+        "licence": "Variable",
+        "description": {
+          "fr": "Datasets associés aux publications ACL/EMNLP/NAACL",
+          "en": "datasets associés aux publications ACL/EMNLP/NAACL",
+          "kab": "ismalen associés aux publications ACL/EMNLP/NAACL",
+          "kab_auto": true
+        }
+      },
+      {
+        "id": "eco-005",
+        "source": "ecosysteme",
+        "nom": "LDC (Linguistic Data Consortium)",
+        "categorie_key": "cat_Dataset",
+        "categorie_raw": "Datasets",
+        "type": "Datasets",
+        "langue": "Multilingue",
+        "pays": "International",
+        "taille": "",
+        "lien": "https://www.ldc.upenn.edu/",
+        "licence": "Licenciée",
+        "description": {
+          "fr": "Datasets linguistiques professionnels (payants pour certains)",
+          "en": "datasets linguistiques professionnels (payants pour certains)",
+          "kab": "ismalen linguistiques professionnels (payants pour certains)",
+          "kab_auto": true
+        }
+      },
+      {
+        "id": "eco-006",
+        "source": "ecosysteme",
+        "nom": "ELRA (European Language Resources Association)",
+        "categorie_key": "cat_Dataset",
+        "categorie_raw": "Datasets",
+        "type": "Datasets",
+        "langue": "Multilingue",
+        "pays": "International",
+        "taille": "",
+        "lien": "https://www.elra.info/",
+        "licence": "Licenciée",
+        "description": {
+          "fr": "Ressources linguistiques européennes (corpus, lexiques, etc.)",
+          "en": "resources linguistiques européennes (corpus, lexiques, etc.)",
+          "kab": "iɣbula linguistiques européennes (corpus, lexiques, etc.)",
+          "kab_auto": true
+        }
+      },
+      {
+        "id": "eco-007",
+        "source": "ecosysteme",
+        "nom": "Universal Dependencies",
+        "categorie_key": "cat_Dataset",
+        "categorie_raw": "Datasets",
+        "type": "Datasets",
+        "langue": "Multilingue",
+        "pays": "International",
+        "taille": "",
+        "lien": "https://universaldependencies.org/",
+        "licence": "Ouverte",
+        "description": {
+          "fr": "Corpus annotés en dépendances syntaxiques pour 100+ langues",
+          "en": "Corpus annotés en dépendances syntactic pour 100+ languages",
+          "kab": "Corpus annotés en dépendances n tsuddest pour 100+ tutlayin",
+          "kab_auto": true
+        }
+      },
+      {
+        "id": "eco-008",
+        "source": "ecosysteme",
+        "nom": "CLPsych Shared Tasks",
+        "categorie_key": "cat_Dataset",
+        "categorie_raw": "Datasets",
+        "type": "Datasets",
+        "langue": "Multilingue",
+        "pays": "International",
+        "taille": "",
+        "lien": "https://clpsych.org/shared-tasks/",
+        "licence": "Variable",
+        "description": {
+          "fr": "Datasets pour NLP clinique et santé mentale",
+          "en": "datasets pour NLP clinique et santé mentale",
+          "kab": "ismalen pour NLP clinique et santé mentale",
+          "kab_auto": true
+        }
+      },
+      {
+        "id": "eco-009",
+        "source": "ecosysteme",
+        "nom": "OSF (Open Science Framework) - NLP",
+        "categorie_key": "cat_Dataset",
+        "categorie_raw": "Datasets",
+        "type": "Datasets",
+        "langue": "Multilingue",
+        "pays": "International",
+        "taille": "",
+        "lien": "https://osf.io/search?q=nlp",
+        "licence": "Variable",
+        "description": {
+          "fr": "Datasets NLP de recherches en sciences sociales et humaines",
+          "en": "datasets NLP de recherches en sciences sociales et humaines",
+          "kab": "ismalen NLP de recherches en sciences sociales et humaines",
+          "kab_auto": true
+        }
+      },
+      {
+        "id": "eco-010",
+        "source": "ecosysteme",
+        "nom": "Google Dataset Search - NLP",
+        "categorie_key": "cat_Dataset",
+        "categorie_raw": "Datasets",
+        "type": "Datasets",
+        "langue": "Multilingue",
+        "pays": "International",
+        "taille": "",
+        "lien": "https://datasetsearch.research.google.com/search?query=nlp",
+        "licence": "Variable",
+        "description": {
+          "fr": "Moteur de recherche de datasets NLP tous domaines",
+          "en": "Moteur de research de datasets NLP tous domaines",
+          "kab": "Moteur de anadi de ismalen NLP tous domaines",
+          "kab_auto": true
+        }
+      },
+      {
+        "id": "eco-011",
+        "source": "ecosysteme",
+        "nom": "Papers With Code - Datasets NLP",
+        "categorie_key": "cat_Dataset",
+        "categorie_raw": "Datasets",
+        "type": "Datasets",
+        "langue": "Multilingue",
+        "pays": "International",
+        "taille": "",
+        "lien": "https://paperswithcode.com/datasets?task=natural-language-processing",
+        "licence": "Variable",
+        "description": {
+          "fr": "Datasets NLP avec benchmarks et code associé",
+          "en": "datasets NLP avec benchmarks et code associé",
+          "kab": "ismalen NLP avec benchmarks et code associé",
+          "kab_auto": true
+        }
+      },
+      {
+        "id": "eco-012",
+        "source": "ecosysteme",
+        "nom": "Common Crawl",
+        "categorie_key": "cat_Dataset",
+        "categorie_raw": "Datasets",
+        "type": "Datasets",
+        "langue": "Multilingue",
+        "pays": "International",
+        "taille": "",
+        "lien": "https://commoncrawl.org/",
+        "licence": "Ouverte",
+        "description": {
+          "fr": "Corpus web massif pour pré-entraînement de modèles de langage",
+          "en": "Corpus web massif pour pré-entraînement de models de langage",
+          "kab": "Corpus web massif pour pré-entraînement de timudmiwin de langage",
+          "kab_auto": true
+        }
+      },
+      {
+        "id": "eco-013",
+        "source": "ecosysteme",
+        "nom": "OPUS (Open Parallel Corpus)",
+        "categorie_key": "cat_Dataset",
+        "categorie_raw": "Datasets",
+        "type": "Datasets",
+        "langue": "Multilingue",
+        "pays": "International",
+        "taille": "",
+        "lien": "http://opus.nlpl.eu/",
+        "licence": "Ouverte",
+        "description": {
+          "fr": "Corpus parallèles pour traduction automatique (100+ langues)",
+          "en": "Corpus parallèles pour machine translation (100+ languages)",
+          "kab": "Corpus parallèles pour tasuqilt tawurmant (100+ tutlayin)",
+          "kab_auto": true
+        }
+      },
+      {
+        "id": "eco-014",
+        "source": "ecosysteme",
+        "nom": "WMT Shared Tasks",
+        "categorie_key": "cat_Dataset",
+        "categorie_raw": "Datasets",
+        "type": "Datasets",
+        "langue": "Multilingue",
+        "pays": "International",
+        "taille": "",
+        "lien": "https://statmt.org/wmt25/",
+        "licence": "Variable",
+        "description": {
+          "fr": "Datasets pour traduction automatique (concours annuels)",
+          "en": "datasets pour machine translation (concours annuels)",
+          "kab": "ismalen pour tasuqilt tawurmant (concours annuels)",
+          "kab_auto": true
+        }
+      },
+      {
+        "id": "eco-015",
+        "source": "ecosysteme",
+        "nom": "GLUE / SuperGLUE",
+        "categorie_key": "cat_Dataset",
+        "categorie_raw": "Datasets",
+        "type": "Datasets",
+        "langue": "Multilingue",
+        "pays": "International",
+        "taille": "",
+        "lien": "https://gluebenchmark.com/",
+        "licence": "Ouverte",
+        "description": {
+          "fr": "Benchmarks pour compréhension du langage naturel",
+          "en": "Benchmarks pour compréhension du langage naturel",
+          "kab": "Benchmarks pour compréhension du langage naturel",
+          "kab_auto": false
+        }
+      },
+      {
+        "id": "eco-016",
+        "source": "ecosysteme",
+        "nom": "SQuAD (Stanford Question Answering Dataset)",
+        "categorie_key": "cat_Dataset",
+        "categorie_raw": "Datasets",
+        "type": "Datasets",
+        "langue": "Multilingue",
+        "pays": "International",
+        "taille": "",
+        "lien": "https://rajpurkar.github.io/SQuAD-explorer/",
+        "licence": "Ouverte",
+        "description": {
+          "fr": "Dataset de question-réponse en anglais",
+          "en": "dataset de question-réponse en anglais",
+          "kab": "ismal de question-réponse en anglais",
+          "kab_auto": true
+        }
+      },
+      {
+        "id": "eco-017",
+        "source": "ecosysteme",
+        "nom": "CoNLL Shared Tasks",
+        "categorie_key": "cat_Dataset",
+        "categorie_raw": "Datasets",
+        "type": "Datasets",
+        "langue": "Multilingue",
+        "pays": "International",
+        "taille": "",
+        "lien": "https://conll.org/",
+        "licence": "Variable",
+        "description": {
+          "fr": "Datasets pour parsing, NER, dépendances syntaxiques",
+          "en": "datasets pour parsing, NER, dépendances syntactic",
+          "kab": "ismalen pour parsing, NER, dépendances n tsuddest",
+          "kab_auto": true
+        }
+      },
+      {
+        "id": "eco-018",
+        "source": "ecosysteme",
+        "nom": "SemEval Shared Tasks",
+        "categorie_key": "cat_Dataset",
+        "categorie_raw": "Datasets",
+        "type": "Datasets",
+        "langue": "Multilingue",
+        "pays": "International",
+        "taille": "",
+        "lien": "https://semeval.github.io/semeval2025/",
+        "licence": "Variable",
+        "description": {
+          "fr": "Datasets pour tâches sémantiques (similarité, irony, etc.)",
+          "en": "datasets pour tâches sémantiques (similarité, irony, etc.)",
+          "kab": "ismalen pour tâches sémantiques (similarité, irony, etc.)",
+          "kab_auto": true
+        }
+      },
+      {
+        "id": "eco-019",
+        "source": "ecosysteme",
+        "nom": "Indic NLP Datasets",
+        "categorie_key": "cat_Dataset",
+        "categorie_raw": "Datasets",
+        "type": "Datasets",
+        "langue": "Multilingue",
+        "pays": "International",
+        "taille": "",
+        "lien": "https://github.com/AI4Bharat/indic-nlp-datasets",
+        "licence": "Ouverte",
+        "description": {
+          "fr": "Datasets pour langues indiennes (traduction, NER, etc.)",
+          "en": "datasets pour languages indiennes (traduction, NER, etc.)",
+          "kab": "ismalen pour tutlayin indiennes (traduction, NER, etc.)",
+          "kab_auto": true
+        }
+      },
+      {
+        "id": "eco-020",
+        "source": "ecosysteme",
+        "nom": "Arabic NLP Datasets (masader)",
+        "categorie_key": "cat_Dataset",
+        "categorie_raw": "Datasets",
+        "type": "Datasets",
+        "langue": "Multilingue",
+        "pays": "International",
+        "taille": "",
+        "lien": "https://github.com/h9-tec/Awesome_Arabic_NLP",
+        "licence": "Variable",
+        "description": {
+          "fr": "Catalogue de 600+ datasets NLP arabes",
+          "en": "Catalogue de 600+ datasets NLP arabes",
+          "kab": "Catalogue de 600+ ismalen NLP arabes",
+          "kab_auto": true
+        }
+      },
+      {
+        "id": "eco-021",
+        "source": "ecosysteme",
+        "nom": "Hugging Face Models Hub",
+        "categorie_key": "cat_Model",
+        "categorie_raw": "Modèles",
+        "type": "Modèles",
+        "langue": "Multilingue",
+        "pays": "International",
+        "taille": "",
+        "lien": "https://huggingface.co/models",
+        "licence": "Variable",
+        "description": {
+          "fr": "1M+ modèles NLP pré-entraînés (BERT, GPT, Llama, etc.)",
+          "en": "1M+ models NLP pré-entraînés (BERT, GPT, Llama, etc.)",
+          "kab": "1M+ timudmiwin NLP pré-entraînés (BERT, GPT, Llama, etc.)",
+          "kab_auto": true
+        }
+      },
+      {
+        "id": "eco-022",
+        "source": "ecosysteme",
+        "nom": "TensorFlow Hub - NLP",
+        "categorie_key": "cat_Model",
+        "categorie_raw": "Modèles",
+        "type": "Modèles",
+        "langue": "Multilingue",
+        "pays": "International",
+        "taille": "",
+        "lien": "https://tfhub.dev/s?module-type=text-embedding",
+        "licence": "Apache 2.0",
+        "description": {
+          "fr": "Modèles NLP pour TensorFlow (embeddings, classification, etc.)",
+          "en": "models NLP pour TensorFlow (embeddings, classification, etc.)",
+          "kab": "timudmiwin NLP pour TensorFlow (tigrummiwin, taggayt, etc.)",
+          "kab_auto": true
+        }
+      },
+      {
+        "id": "eco-023",
+        "source": "ecosysteme",
+        "nom": "PyTorch Hub",
+        "categorie_key": "cat_Model",
+        "categorie_raw": "Modèles",
+        "type": "Modèles",
+        "langue": "Multilingue",
+        "pays": "International",
+        "taille": "",
+        "lien": "https://pytorch.org/hub/",
+        "licence": "Variable",
+        "description": {
+          "fr": "Modèles pré-entraînés PyTorch dont NLP (transformers, etc.)",
+          "en": "models pré-entraînés PyTorch dont NLP (transformers, etc.)",
+          "kab": "timudmiwin pré-entraînés PyTorch dont NLP (transformers, etc.)",
+          "kab_auto": true
+        }
+      },
+      {
+        "id": "eco-024",
+        "source": "ecosysteme",
+        "nom": "ONNX Model Zoo (Hugging Face)",
+        "categorie_key": "cat_Model",
+        "categorie_raw": "Modèles",
+        "type": "Modèles",
+        "langue": "Multilingue",
+        "pays": "International",
+        "taille": "",
+        "lien": "https://huggingface.co/onnxmodelzoo",
+        "licence": "Apache 2.0",
+        "description": {
+          "fr": "Modèles NLP exportés en format ONNX pour inférence rapide",
+          "en": "models NLP exportés en format ONNX pour inférence rapide",
+          "kab": "timudmiwin NLP exportés en format ONNX pour inférence rapide",
+          "kab_auto": true
+        }
+      },
+      {
+        "id": "eco-025",
+        "source": "ecosysteme",
+        "nom": "Keras Hub",
+        "categorie_key": "cat_Model",
+        "categorie_raw": "Modèles",
+        "type": "Modèles",
+        "langue": "Multilingue",
+        "pays": "International",
+        "taille": "",
+        "lien": "https://keras.io/keras_hub/",
+        "licence": "Apache 2.0",
+        "description": {
+          "fr": "Modèles NLP Keras pré-entraînés (BERT, RoBERTa, etc.)",
+          "en": "models NLP Keras pré-entraînés (BERT, RoBERTa, etc.)",
+          "kab": "timudmiwin NLP Keras pré-entraînés (BERT, RoBERTa, etc.)",
+          "kab_auto": true
+        }
+      },
+      {
+        "id": "eco-026",
+        "source": "ecosysteme",
+        "nom": "TensorFlow Model Garden - NLP",
+        "categorie_key": "cat_Model",
+        "categorie_raw": "Modèles",
+        "type": "Modèles",
+        "langue": "Multilingue",
+        "pays": "International",
+        "taille": "",
+        "lien": "https://github.com/tensorflow/models/tree/master/official/nlp",
+        "licence": "Apache 2.0",
+        "description": {
+          "fr": "Implémentations de référence BERT, Transformer, etc.",
+          "en": "Implémentations de référence BERT, Transformer, etc.",
+          "kab": "Implémentations de référence BERT, Transformer, etc.",
+          "kab_auto": false
+        }
+      },
+      {
+        "id": "eco-027",
+        "source": "ecosysteme",
+        "nom": "Fairseq Models (Meta AI)",
+        "categorie_key": "cat_Model",
+        "categorie_raw": "Modèles",
+        "type": "Modèles",
+        "langue": "Multilingue",
+        "pays": "International",
+        "taille": "",
+        "lien": "https://github.com/facebookresearch/fairseq",
+        "licence": "MIT",
+        "description": {
+          "fr": "Modèles de traduction et génération de texte (Marian, BART, etc.)",
+          "en": "models de traduction et génération de text (Marian, BART, etc.)",
+          "kab": "timudmiwin de traduction et génération de aḍris (Marian, BART, etc.)",
+          "kab_auto": true
+        }
+      },
+      {
+        "id": "eco-028",
+        "source": "ecosysteme",
+        "nom": "ESPnet Models",
+        "categorie_key": "cat_Model",
+        "categorie_raw": "Modèles",
+        "type": "Modèles",
+        "langue": "Multilingue",
+        "pays": "International",
+        "taille": "",
+        "lien": "https://github.com/espnet/espnet",
+        "licence": "Apache 2.0",
+        "description": {
+          "fr": "Modèles pour speech-to-text et NLP vocal",
+          "en": "models pour speech-to-text et NLP vocal",
+          "kab": "timudmiwin pour speech-to-text et NLP vocal",
+          "kab_auto": true
+        }
+      },
+      {
+        "id": "eco-029",
+        "source": "ecosysteme",
+        "nom": "Sentence Transformers",
+        "categorie_key": "cat_Model",
+        "categorie_raw": "Modèles",
+        "type": "Modèles",
+        "langue": "Multilingue",
+        "pays": "International",
+        "taille": "",
+        "lien": "https://huggingface.co/sentence-transformers",
+        "licence": "Apache 2.0",
+        "description": {
+          "fr": "Modèles pour embeddings de phrases et similarité sémantique",
+          "en": "models pour embeddings de sentences et similarité sémantique",
+          "kab": "timudmiwin pour tigrummiwin de tinayin et similarité sémantique",
+          "kab_auto": true
+        }
+      },
+      {
+        "id": "eco-030",
+        "source": "ecosysteme",
+        "nom": "Flair NLP Models",
+        "categorie_key": "cat_Model",
+        "categorie_raw": "Modèles",
+        "type": "Modèles",
+        "langue": "Multilingue",
+        "pays": "International",
+        "taille": "",
+        "lien": "https://github.com/flairNLP/flair",
+        "licence": "MIT",
+        "description": {
+          "fr": "Modèles pour NER, POS tagging, classification de texte",
+          "en": "models pour NER, POS tagging, classification de text",
+          "kab": "timudmiwin pour NER, POS tagging, taggayt de aḍris",
+          "kab_auto": true
+        }
+      },
+      {
+        "id": "eco-031",
+        "source": "ecosysteme",
+        "nom": "Stanza Models (Stanford NLP)",
+        "categorie_key": "cat_Model",
+        "categorie_raw": "Modèles",
+        "type": "Modèles",
+        "langue": "Multilingue",
+        "pays": "International",
+        "taille": "",
+        "lien": "https://github.com/stanfordnlp/stanza",
+        "licence": "Apache 2.0",
+        "description": {
+          "fr": "Pipeline NLP multilinguale (parsing, NER, etc.)",
+          "en": "Pipeline NLP multilinguale (parsing, NER, etc.)",
+          "kab": "Pipeline NLP multilinguale (parsing, NER, etc.)",
+          "kab_auto": false
+        }
+      },
+      {
+        "id": "eco-032",
+        "source": "ecosysteme",
+        "nom": "spaCy Models",
+        "categorie_key": "cat_Model",
+        "categorie_raw": "Modèles",
+        "type": "Modèles",
+        "langue": "Multilingue",
+        "pays": "International",
+        "taille": "",
+        "lien": "https://spacy.io/models",
+        "licence": "MIT",
+        "description": {
+          "fr": "Modèles pré-entraînés pour 60+ langues (NER, POS, parsing)",
+          "en": "models pré-entraînés pour 60+ languages (NER, POS, parsing)",
+          "kab": "timudmiwin pré-entraînés pour 60+ tutlayin (NER, POS, parsing)",
+          "kab_auto": true
+        }
+      },
+      {
+        "id": "eco-033",
+        "source": "ecosysteme",
+        "nom": "AllenNLP Pretrained Models",
+        "categorie_key": "cat_Model",
+        "categorie_raw": "Modèles",
+        "type": "Modèles",
+        "langue": "Multilingue",
+        "pays": "International",
+        "taille": "",
+        "lien": "https://github.com/allenai/allennlp-models",
+        "licence": "Apache 2.0",
+        "description": {
+          "fr": "Modèles pour tâches NLP avancées (QA, coref, parsing)",
+          "en": "models pour tâches NLP avancées (QA, coref, parsing)",
+          "kab": "timudmiwin pour tâches NLP avancées (QA, coref, parsing)",
+          "kab_auto": true
+        }
+      },
+      {
+        "id": "eco-034",
+        "source": "ecosysteme",
+        "nom": "PaddleNLP Models",
+        "categorie_key": "cat_Model",
+        "categorie_raw": "Modèles",
+        "type": "Modèles",
+        "langue": "Multilingue",
+        "pays": "International",
+        "taille": "",
+        "lien": "https://github.com/PaddlePaddle/PaddleNLP",
+        "licence": "Apache 2.0",
+        "description": {
+          "fr": "Modèles NLP pour framework PaddlePaddle (chinois et multilingue)",
+          "en": "models NLP pour framework PaddlePaddle (chinois et multilingue)",
+          "kab": "timudmiwin NLP pour framework PaddlePaddle (chinois et multilingue)",
+          "kab_auto": true
+        }
+      },
+      {
+        "id": "eco-035",
+        "source": "ecosysteme",
+        "nom": "NeMo Models (NVIDIA)",
+        "categorie_key": "cat_Model",
+        "categorie_raw": "Modèles",
+        "type": "Modèles",
+        "langue": "Multilingue",
+        "pays": "International",
+        "taille": "",
+        "lien": "https://github.com/NVIDIA/NeMo",
+        "licence": "Apache 2.0",
+        "description": {
+          "fr": "Modèles NLP et speech-to-text optimisés GPU NVIDIA",
+          "en": "models NLP et speech-to-text optimisés GPU NVIDIA",
+          "kab": "timudmiwin NLP et speech-to-text optimisés GPU NVIDIA",
+          "kab_auto": true
+        }
+      },
+      {
+        "id": "eco-036",
+        "source": "ecosysteme",
+        "nom": "Transformers.js Models",
+        "categorie_key": "cat_Model",
+        "categorie_raw": "Modèles",
+        "type": "Modèles",
+        "langue": "Multilingue",
+        "pays": "International",
+        "taille": "",
+        "lien": "https://huggingface.co/docs/transformers.js",
+        "licence": "Apache 2.0",
+        "description": {
+          "fr": "Modèles NLP pour exécution dans le navigateur (JavaScript)",
+          "en": "models NLP pour exécution dans le navigateur (JavaScript)",
+          "kab": "timudmiwin NLP pour exécution dans le navigateur (JavaScript)",
+          "kab_auto": true
+        }
+      },
+      {
+        "id": "eco-037",
+        "source": "ecosysteme",
+        "nom": "MLX Models (Apple)",
+        "categorie_key": "cat_Model",
+        "categorie_raw": "Modèles",
+        "type": "Modèles",
+        "langue": "Multilingue",
+        "pays": "International",
+        "taille": "",
+        "lien": "https://github.com/ml-explore/mlx-examples",
+        "licence": "MIT",
+        "description": {
+          "fr": "Modèles NLP optimisés pour Apple Silicon (M1/M2/M3)",
+          "en": "models NLP optimisés pour Apple Silicon (M1/M2/M3)",
+          "kab": "timudmiwin NLP optimisés pour Apple Silicon (M1/M2/M3)",
+          "kab_auto": true
+        }
+      },
+      {
+        "id": "eco-038",
+        "source": "ecosysteme",
+        "nom": "GGUF Models (llama.cpp)",
+        "categorie_key": "cat_Model",
+        "categorie_raw": "Modèles",
+        "type": "Modèles",
+        "langue": "Multilingue",
+        "pays": "International",
+        "taille": "",
+        "lien": "https://huggingface.co/models?library=gguf",
+        "licence": "Variable",
+        "description": {
+          "fr": "Modèles LLM quantifiés pour inférence CPU efficace",
+          "en": "models LLM quantifiés pour inférence CPU efficace",
+          "kab": "timudmiwin LLM quantifiés pour inférence CPU efficace",
+          "kab_auto": true
+        }
+      },
+      {
+        "id": "eco-039",
+        "source": "ecosysteme",
+        "nom": "OpenVINO NLP Models",
+        "categorie_key": "cat_Model",
+        "categorie_raw": "Modèles",
+        "type": "Modèles",
+        "langue": "Multilingue",
+        "pays": "International",
+        "taille": "",
+        "lien": "https://github.com/openvinotoolkit",
+        "licence": "Apache 2.0",
+        "description": {
+          "fr": "Modèles NLP optimisés pour matériel Intel",
+          "en": "models NLP optimisés pour matériel Intel",
+          "kab": "timudmiwin NLP optimisés pour matériel Intel",
+          "kab_auto": true
+        }
+      },
+      {
+        "id": "eco-040",
+        "source": "ecosysteme",
+        "nom": "VGT ONNX Model Hub",
+        "categorie_key": "cat_Model",
+        "categorie_raw": "Modèles",
+        "type": "Modèles",
+        "langue": "Multilingue",
+        "pays": "International",
+        "taille": "",
+        "lien": "https://huggingface.co/VaishalBusiness/opus",
+        "licence": "Apache 2.0",
+        "description": {
+          "fr": "1000+ modèles de traduction OPUS-MT en format ONNX",
+          "en": "1000+ models de traduction OPUS-MT en format ONNX",
+          "kab": "1000+ timudmiwin de traduction OPUS-MT en format ONNX",
+          "kab_auto": true
+        }
+      },
+      {
+        "id": "eco-041",
+        "source": "ecosysteme",
+        "nom": "Hugging Face Transformers",
+        "categorie_key": "cat_Tool",
+        "categorie_raw": "Outils",
+        "type": "Outils",
+        "langue": "Multilingue",
+        "pays": "International",
+        "taille": "",
+        "lien": "https://github.com/huggingface/transformers",
+        "licence": "Apache 2.0",
+        "description": {
+          "fr": "Bibliothèque de référence pour modèles NLP (BERT, GPT, etc.)",
+          "en": "library de référence pour models NLP (BERT, GPT, etc.)",
+          "kab": "tamkarḍit de référence pour timudmiwin NLP (BERT, GPT, etc.)",
+          "kab_auto": true
+        }
+      },
+      {
+        "id": "eco-042",
+        "source": "ecosysteme",
+        "nom": "spaCy",
+        "categorie_key": "cat_Tool",
+        "categorie_raw": "Outils",
+        "type": "Outils",
+        "langue": "Multilingue",
+        "pays": "International",
+        "taille": "",
+        "lien": "https://github.com/explosion/spaCy",
+        "licence": "MIT",
+        "description": {
+          "fr": "Bibliothèque NLP industrielle rapide et documentée",
+          "en": "library NLP industrielle rapide et documentée",
+          "kab": "tamkarḍit NLP industrielle rapide et documentée",
+          "kab_auto": true
+        }
+      },
+      {
+        "id": "eco-043",
+        "source": "ecosysteme",
+        "nom": "NLTK (Natural Language Toolkit)",
+        "categorie_key": "cat_Tool",
+        "categorie_raw": "Outils",
+        "type": "Outils",
+        "langue": "Multilingue",
+        "pays": "International",
+        "taille": "",
+        "lien": "https://github.com/nltk/nltk",
+        "licence": "Apache 2.0",
+        "description": {
+          "fr": "Toolkit classique pour enseignement et recherche NLP",
+          "en": "Toolkit classique pour enseignement et research NLP",
+          "kab": "Toolkit classique pour enseignement et anadi NLP",
+          "kab_auto": true
+        }
+      },
+      {
+        "id": "eco-044",
+        "source": "ecosysteme",
+        "nom": "Gensim",
+        "categorie_key": "cat_Tool",
+        "categorie_raw": "Outils",
+        "type": "Outils",
+        "langue": "Multilingue",
+        "pays": "International",
+        "taille": "",
+        "lien": "https://github.com/RaRe-Technologies/gensim",
+        "licence": "LGPL",
+        "description": {
+          "fr": "Bibliothèque pour topic modeling et word embeddings",
+          "en": "library pour topic modeling et word embeddings",
+          "kab": "tamkarḍit pour topic modeling et word tigrummiwin",
+          "kab_auto": true
+        }
+      },
+      {
+        "id": "eco-045",
+        "source": "ecosysteme",
+        "nom": "Stanford CoreNLP",
+        "categorie_key": "cat_Tool",
+        "categorie_raw": "Outils",
+        "type": "Outils",
+        "langue": "Multilingue",
+        "pays": "International",
+        "taille": "",
+        "lien": "https://github.com/stanfordnlp/CoreNLP",
+        "licence": "GPL",
+        "description": {
+          "fr": "Suite complète d'outils NLP (parsing, NER, coref, etc.)",
+          "en": "Suite complète d'tools NLP (parsing, NER, coref, etc.)",
+          "kab": "Suite complète d'ifecka NLP (parsing, NER, coref, etc.)",
+          "kab_auto": true
+        }
+      },
+      {
+        "id": "eco-046",
+        "source": "ecosysteme",
+        "nom": "AllenNLP",
+        "categorie_key": "cat_Tool",
+        "categorie_raw": "Outils",
+        "type": "Outils",
+        "langue": "Multilingue",
+        "pays": "International",
+        "taille": "",
+        "lien": "https://github.com/allenai/allennlp",
+        "licence": "Apache 2.0",
+        "description": {
+          "fr": "Framework de recherche NLP basé sur PyTorch",
+          "en": "Framework de research NLP basé sur PyTorch",
+          "kab": "Framework de anadi NLP basé sur PyTorch",
+          "kab_auto": true
+        }
+      },
+      {
+        "id": "eco-047",
+        "source": "ecosysteme",
+        "nom": "FastText (Meta AI)",
+        "categorie_key": "cat_Tool",
+        "categorie_raw": "Outils",
+        "type": "Outils",
+        "langue": "Multilingue",
+        "pays": "International",
+        "taille": "",
+        "lien": "https://github.com/facebookresearch/fastText",
+        "licence": "MIT",
+        "description": {
+          "fr": "Bibliothèque pour word embeddings et classification de texte",
+          "en": "library pour word embeddings et classification de text",
+          "kab": "tamkarḍit pour word tigrummiwin et taggayt de aḍris",
+          "kab_auto": true
+        }
+      },
+      {
+        "id": "eco-048",
+        "source": "ecosysteme",
+        "nom": "TextBlob",
+        "categorie_key": "cat_Tool",
+        "categorie_raw": "Outils",
+        "type": "Outils",
+        "langue": "Multilingue",
+        "pays": "International",
+        "taille": "",
+        "lien": "https://github.com/sloria/TextBlob",
+        "licence": "MIT",
+        "description": {
+          "fr": "Interface simple pour tâches NLP basiques (sentiment, traduction)",
+          "en": "interface simple pour tâches NLP basiques (sentiment, traduction)",
+          "kab": "agrudem simple pour tâches NLP basiques (aɣawas n wul, traduction)",
+          "kab_auto": true
+        }
+      },
+      {
+        "id": "eco-049",
+        "source": "ecosysteme",
+        "nom": "Polyglot",
+        "categorie_key": "cat_Tool",
+        "categorie_raw": "Outils",
+        "type": "Outils",
+        "langue": "Multilingue",
+        "pays": "International",
+        "taille": "",
+        "lien": "https://github.com/aboSamoor/polyglot",
+        "licence": "GPL",
+        "description": {
+          "fr": "Toolkit NLP multilingue (NER, POS, embeddings)",
+          "en": "Toolkit NLP multilingue (NER, POS, embeddings)",
+          "kab": "Toolkit NLP multilingue (NER, POS, tigrummiwin)",
+          "kab_auto": true
+        }
+      },
+      {
+        "id": "eco-050",
+        "source": "ecosysteme",
+        "nom": "Pattern",
+        "categorie_key": "cat_Tool",
+        "categorie_raw": "Outils",
+        "type": "Outils",
+        "langue": "Multilingue",
+        "pays": "International",
+        "taille": "",
+        "lien": "https://github.com/clips/pattern",
+        "licence": "BSD",
+        "description": {
+          "fr": "Bibliothèque pour web mining et NLP (anglais, allemand, etc.)",
+          "en": "library pour web mining et NLP (anglais, allemand, etc.)",
+          "kab": "tamkarḍit pour web mining et NLP (anglais, allemand, etc.)",
+          "kab_auto": true
+        }
+      },
+      {
+        "id": "eco-051",
+        "source": "ecosysteme",
+        "nom": "Indic NLP Library",
+        "categorie_key": "cat_Tool",
+        "categorie_raw": "Outils",
+        "type": "Outils",
+        "langue": "Multilingue",
+        "pays": "International",
+        "taille": "",
+        "lien": "https://github.com/anoopkunchukuttan/indic_nlp_library",
+        "licence": "MIT",
+        "description": {
+          "fr": "Outils pour langues indiennes (tokenization, translitération)",
+          "en": "tools pour languages indiennes (tokenization, translitération)",
+          "kab": "ifecka pour tutlayin indiennes (tokenization, translitération)",
+          "kab_auto": true
+        }
+      },
+      {
+        "id": "eco-052",
+        "source": "ecosysteme",
+        "nom": "Camel Tools (Arabic NLP)",
+        "categorie_key": "cat_Tool",
+        "categorie_raw": "Outils",
+        "type": "Outils",
+        "langue": "Multilingue",
+        "pays": "International",
+        "taille": "",
+        "lien": "https://github.com/CAMeL-Lab/camel_tools",
+        "licence": "Apache 2.0",
+        "description": {
+          "fr": "Suite d'outils pour NLP arabe (morphologie, NER, etc.)",
+          "en": "Suite d'tools pour NLP arabe (morphologie, NER, etc.)",
+          "kab": "Suite d'ifecka pour NLP arabe (morphologie, NER, etc.)",
+          "kab_auto": true
+        }
+      },
+      {
+        "id": "eco-053",
+        "source": "ecosysteme",
+        "nom": "Farasa (Arabic NLP)",
+        "categorie_key": "cat_Tool",
+        "categorie_raw": "Outils",
+        "type": "Outils",
+        "langue": "Multilingue",
+        "pays": "International",
+        "taille": "",
+        "lien": "https://github.com/QCRI/farasa",
+        "licence": "Apache 2.0",
+        "description": {
+          "fr": "Toolkit rapide et précis pour traitement de l'arabe",
+          "en": "Toolkit rapide et précis pour traitement de l'arabe",
+          "kab": "Toolkit rapide et précis pour traitement de l'arabe",
+          "kab_auto": false
+        }
+      },
+      {
+        "id": "eco-054",
+        "source": "ecosysteme",
+        "nom": "PyArabic",
+        "categorie_key": "cat_Tool",
+        "categorie_raw": "Outils",
+        "type": "Outils",
+        "langue": "Multilingue",
+        "pays": "International",
+        "taille": "",
+        "lien": "https://github.com/mishari/alipy",
+        "licence": "GPL",
+        "description": {
+          "fr": "Bibliothèque Python pour manipulation de texte arabe",
+          "en": "library Python pour manipulation de text arabe",
+          "kab": "tamkarḍit Python pour manipulation de aḍris arabe",
+          "kab_auto": true
+        }
+      },
+      {
+        "id": "eco-055",
+        "source": "ecosysteme",
+        "nom": "NLP Architect (Intel)",
+        "categorie_key": "cat_Tool",
+        "categorie_raw": "Outils",
+        "type": "Outils",
+        "langue": "Multilingue",
+        "pays": "International",
+        "taille": "",
+        "lien": "https://github.com/IntelLabs/nlp-architect",
+        "licence": "Apache 2.0",
+        "description": {
+          "fr": "Bibliothèque pour architectures NLP avancées",
+          "en": "library pour architectures NLP avancées",
+          "kab": "tamkarḍit pour architectures NLP avancées",
+          "kab_auto": true
+        }
+      },
+      {
+        "id": "eco-056",
+        "source": "ecosysteme",
+        "nom": "Haystack (deepset)",
+        "categorie_key": "cat_Tool",
+        "categorie_raw": "Outils",
+        "type": "Outils",
+        "langue": "Multilingue",
+        "pays": "International",
+        "taille": "",
+        "lien": "https://github.com/deepset-ai/haystack",
+        "licence": "Apache 2.0",
+        "description": {
+          "fr": "Framework pour systèmes de QA et recherche sémantique",
+          "en": "Framework pour systèmes de QA et research sémantique",
+          "kab": "Framework pour systèmes de QA et anadi sémantique",
+          "kab_auto": true
+        }
+      },
+      {
+        "id": "eco-057",
+        "source": "ecosysteme",
+        "nom": "Rasa",
+        "categorie_key": "cat_Tool",
+        "categorie_raw": "Outils",
+        "type": "Outils",
+        "langue": "Multilingue",
+        "pays": "International",
+        "taille": "",
+        "lien": "https://github.com/RasaHQ/rasa",
+        "licence": "Apache 2.0",
+        "description": {
+          "fr": "Framework pour chatbots et assistants conversationnels",
+          "en": "Framework pour chatbots et assistants conversationnels",
+          "kab": "Framework pour chatbots et assistants conversationnels",
+          "kab_auto": false
+        }
+      },
+      {
+        "id": "eco-058",
+        "source": "ecosysteme",
+        "nom": "Dialogflow (Google Cloud)",
+        "categorie_key": "cat_Tool",
+        "categorie_raw": "Outils",
+        "type": "Outils",
+        "langue": "Multilingue",
+        "pays": "International",
+        "taille": "",
+        "lien": "https://github.com/googleapis/python-dialogflow",
+        "licence": "Apache 2.0",
+        "description": {
+          "fr": "SDK Python pour plateforme de chatbots Google",
+          "en": "SDK Python pour plateforme de chatbots Google",
+          "kab": "SDK Python pour plateforme de chatbots Google",
+          "kab_auto": false
+        }
+      },
+      {
+        "id": "eco-059",
+        "source": "ecosysteme",
+        "nom": "LangChain",
+        "categorie_key": "cat_Tool",
+        "categorie_raw": "Outils",
+        "type": "Outils",
+        "langue": "Multilingue",
+        "pays": "International",
+        "taille": "",
+        "lien": "https://github.com/langchain-ai/langchain",
+        "licence": "MIT",
+        "description": {
+          "fr": "Framework pour applications LLM (RAG, agents, etc.)",
+          "en": "Framework pour applications LLM (RAG, agents, etc.)",
+          "kab": "Framework pour applications LLM (RAG, agents, etc.)",
+          "kab_auto": false
+        }
+      },
+      {
+        "id": "eco-060",
+        "source": "ecosysteme",
+        "nom": "LlamaIndex",
+        "categorie_key": "cat_Tool",
+        "categorie_raw": "Outils",
+        "type": "Outils",
+        "langue": "Multilingue",
+        "pays": "International",
+        "taille": "",
+        "lien": "https://github.com/run-llama/llama_index",
+        "licence": "MIT",
+        "description": {
+          "fr": "Framework pour connecter LLMs à données privées (RAG)",
+          "en": "Framework pour connecter LLMs à données privées (RAG)",
+          "kab": "Framework pour connecter LLMs à données privées (RAG)",
+          "kab_auto": false
+        }
+      },
+      {
+        "id": "eco-061",
+        "source": "ecosysteme",
+        "nom": "Haystack 2.0",
+        "categorie_key": "cat_Tool",
+        "categorie_raw": "Outils",
+        "type": "Outils",
+        "langue": "Multilingue",
+        "pays": "International",
+        "taille": "",
+        "lien": "https://github.com/deepset-ai/haystack-core-integrations",
+        "licence": "Apache 2.0",
+        "description": {
+          "fr": "Intégrations pour pipelines NLP modulaires",
+          "en": "Intégrations pour pipelines NLP modulaires",
+          "kab": "Intégrations pour pipelines NLP modulaires",
+          "kab_auto": false
+        }
+      },
+      {
+        "id": "eco-062",
+        "source": "ecosysteme",
+        "nom": "Sentencepiece",
+        "categorie_key": "cat_Tool",
+        "categorie_raw": "Outils",
+        "type": "Outils",
+        "langue": "Multilingue",
+        "pays": "International",
+        "taille": "",
+        "lien": "https://github.com/google/sentencepiece",
+        "licence": "Apache 2.0",
+        "description": {
+          "fr": "Tokenizeur subword pour modèles de langage",
+          "en": "Tokenizeur subword pour models de langage",
+          "kab": "Tokenizeur subword pour timudmiwin de langage",
+          "kab_auto": true
+        }
+      },
+      {
+        "id": "eco-063",
+        "source": "ecosysteme",
+        "nom": "Tokenizers (Hugging Face)",
+        "categorie_key": "cat_Tool",
+        "categorie_raw": "Outils",
+        "type": "Outils",
+        "langue": "Multilingue",
+        "pays": "International",
+        "taille": "",
+        "lien": "https://github.com/huggingface/tokenizers",
+        "licence": "Apache 2.0",
+        "description": {
+          "fr": "Tokenizeurs rapides en Rust pour transformers",
+          "en": "Tokenizeurs rapides en Rust pour transformers",
+          "kab": "Tokenizeurs rapides en Rust pour transformers",
+          "kab_auto": false
+        }
+      },
+      {
+        "id": "eco-064",
+        "source": "ecosysteme",
+        "nom": "Evaluate (Hugging Face)",
+        "categorie_key": "cat_Tool",
+        "categorie_raw": "Outils",
+        "type": "Outils",
+        "langue": "Multilingue",
+        "pays": "International",
+        "taille": "",
+        "lien": "https://github.com/huggingface/evaluate",
+        "licence": "Apache 2.0",
+        "description": {
+          "fr": "Bibliothèque de métriques pour évaluation de modèles NLP",
+          "en": "library de métriques pour évaluation de models NLP",
+          "kab": "tamkarḍit de métriques pour évaluation de timudmiwin NLP",
+          "kab_auto": true
+        }
+      },
+      {
+        "id": "eco-065",
+        "source": "ecosysteme",
+        "nom": "Datasets (Hugging Face)",
+        "categorie_key": "cat_Tool",
+        "categorie_raw": "Outils",
+        "type": "Outils",
+        "langue": "Multilingue",
+        "pays": "International",
+        "taille": "",
+        "lien": "https://github.com/huggingface/datasets",
+        "licence": "Apache 2.0",
+        "description": {
+          "fr": "Bibliothèque pour chargement et prétraitement de datasets",
+          "en": "library pour chargement et prétraitement de datasets",
+          "kab": "tamkarḍit pour chargement et prétraitement de ismalen",
+          "kab_auto": true
+        }
+      },
+      {
+        "id": "eco-066",
+        "source": "ecosysteme",
+        "nom": "Accelerate (Hugging Face)",
+        "categorie_key": "cat_Tool",
+        "categorie_raw": "Outils",
+        "type": "Outils",
+        "langue": "Multilingue",
+        "pays": "International",
+        "taille": "",
+        "lien": "https://github.com/huggingface/accelerate",
+        "licence": "Apache 2.0",
+        "description": {
+          "fr": "Entraînement distribué facile pour PyTorch/Transformers",
+          "en": "Entraînement distribué facile pour PyTorch/Transformers",
+          "kab": "Entraînement distribué facile pour PyTorch/Transformers",
+          "kab_auto": false
+        }
+      },
+      {
+        "id": "eco-067",
+        "source": "ecosysteme",
+        "nom": "PEFT (Parameter-Efficient Fine-Tuning)",
+        "categorie_key": "cat_Tool",
+        "categorie_raw": "Outils",
+        "type": "Outils",
+        "langue": "Multilingue",
+        "pays": "International",
+        "taille": "",
+        "lien": "https://github.com/huggingface/peft",
+        "licence": "Apache 2.0",
+        "description": {
+          "fr": "Fine-tuning efficace (LoRA, adapters) pour grands modèles",
+          "en": "Fine-tuning efficace (LoRA, adapters) pour grands models",
+          "kab": "Fine-tuning efficace (LoRA, adapters) pour grands timudmiwin",
+          "kab_auto": true
+        }
+      },
+      {
+        "id": "eco-068",
+        "source": "ecosysteme",
+        "nom": "Diffusers (Hugging Face)",
+        "categorie_key": "cat_Tool",
+        "categorie_raw": "Outils",
+        "type": "Outils",
+        "langue": "Multilingue",
+        "pays": "International",
+        "taille": "",
+        "lien": "https://github.com/huggingface/diffusers",
+        "licence": "Apache 2.0",
+        "description": {
+          "fr": "Bibliothèque pour modèles de diffusion (texte-image, etc.)",
+          "en": "library pour models de diffusion (text-image, etc.)",
+          "kab": "tamkarḍit pour timudmiwin de diffusion (aḍris-image, etc.)",
+          "kab_auto": true
+        }
+      },
+      {
+        "id": "eco-069",
+        "source": "ecosysteme",
+        "nom": "Optimum (Hugging Face)",
+        "categorie_key": "cat_Tool",
+        "categorie_raw": "Outils",
+        "type": "Outils",
+        "langue": "Multilingue",
+        "pays": "International",
+        "taille": "",
+        "lien": "https://github.com/huggingface/optimum",
+        "licence": "Apache 2.0",
+        "description": {
+          "fr": "Optimisation et déploiement de modèles transformers",
+          "en": "Optimisation et déploiement de models transformers",
+          "kab": "Optimisation et déploiement de timudmiwin transformers",
+          "kab_auto": true
+        }
+      }
+    ]
+  }
+}
