@@ -68,7 +68,7 @@
     .badge-oa-oui, .badge-oa-partiel, .badge-oa-non,
     .lang-switcher button, #last-updated-badge, #results-count,
     .kab-auto-badge, .leaflet-control-attribution,
-    .leaflet-popup-content code, [data-mono], .banner-count {
+    .leaflet-popup-content code, [data-mono], .banner-count, #map-counter {
       font-family: 'JetBrains Mono', ui-monospace, SFMono-Regular, Menlo, Consolas, monospace !important;
       font-feature-settings: 'calt','liga';
     }
@@ -225,18 +225,49 @@
       font-family: 'JetBrains Mono', monospace;
       font-size: .72rem; color: var(--text-muted); letter-spacing: -.01em;
     }
-    .meta-num {
-      font-family: 'JetBrains Mono', monospace;
-      font-size: .82em; font-weight: 500; color: var(--text-secondary);
-    }
 
-    code, kbd, samp, pre {
+    /* ═══ BOUTON "VOIR SUR LA CARTE" ═══ */
+    .btn-map {
+      display: inline-flex; align-items: center; gap: 4px;
       font-family: 'JetBrains Mono', monospace;
-      font-size: .88em; background: var(--accent-soft); color: var(--text-primary);
-      padding: 2px 6px; border-radius: 4px; border: 1px solid var(--border-color);
+      font-size: .7rem; font-weight: 600;
+      letter-spacing: .02em;
+      padding: 4px 9px;
+      border-radius: 6px;
+      border: 1px solid var(--accent);
+      background: var(--bg-app);
+      color: var(--accent);
+      cursor: pointer;
+      transition: all .15s ease;
+      white-space: nowrap;
     }
-    pre { padding: 12px 16px; overflow-x: auto; line-height: 1.55; }
-    pre code { background: transparent; padding: 0; border: none; }
+    .btn-map:hover {
+      background: var(--accent);
+      color: #FFFFFF;
+      transform: translateY(-1px);
+      box-shadow: 0 3px 10px color-mix(in srgb, var(--accent) 30%, transparent);
+    }
+    .btn-map:active { transform: translateY(0); }
+
+    .btn-open-ext {
+      display: inline-flex; align-items: center; gap: 4px;
+      font-family: 'JetBrains Mono', monospace;
+      font-size: .7rem; font-weight: 600;
+      letter-spacing: .02em;
+      padding: 4px 9px;
+      border-radius: 6px;
+      border: 1px solid var(--border-color);
+      background: var(--bg-app);
+      color: var(--text-secondary);
+      cursor: pointer;
+      transition: all .15s ease;
+      text-decoration: none;
+      white-space: nowrap;
+    }
+    .btn-open-ext:hover {
+      border-color: var(--accent);
+      color: var(--accent);
+    }
 
     /* ═══ BANNIÈRES Current / Latest ═══ */
     .banner-block {
@@ -304,6 +335,19 @@
       font-size: .68rem; color: var(--text-muted);
       margin-top: 3px;
     }
+
+    /* ═══ COMPTEUR CARTE (header) ═══ */
+    #map-counter {
+      display: inline-flex; align-items: center; gap: 5px;
+      font-size: .72rem;
+      background: var(--accent-soft);
+      color: var(--accent);
+      padding: 3px 9px;
+      border-radius: 999px;
+      border: 1px solid color-mix(in srgb, var(--accent) 25%, transparent);
+      font-weight: 600;
+      white-space: nowrap;
+    }
   </style>
 </head>
 
@@ -324,6 +368,10 @@
       </div>
 
       <div class="flex items-center gap-2 sm:gap-3 flex-shrink-0">
+        <!-- ⭐ Compteur de points sur la carte -->
+        <span id="map-counter" title="Points positionnés sur la carte">
+          <span>📍</span><span id="map-counter-num">0</span>
+        </span>
         <span id="last-updated-badge"
               class="hidden md:flex text-xs bg-app text-txt-2 px-3 py-1.5 rounded-full
                      border border-line items-center gap-2 whitespace-nowrap">
@@ -368,7 +416,6 @@
 
     <aside id="notices-panel"
            class="hidden lg:flex w-full lg:w-80 xl:w-96 bg-surface lg:border-r border-line flex-col overflow-hidden">
-      <!-- Header de la sidebar : Chercher -->
       <div class="p-4 border-b border-line flex-shrink-0">
         <h2 id="sidebar-title" class="text-sm font-semibold text-accent uppercase tracking-wider mb-3"
             data-i18n="search_title">Chercher</h2>
@@ -389,10 +436,8 @@
         </div>
       </div>
 
-      <!-- ═══ BANNIÈRES Current / Latest ═══ -->
       <div id="banners-container" class="flex-shrink-0 max-h-[45vh] overflow-y-auto"></div>
 
-      <!-- Liste des résultats -->
       <div id="cards-container" class="flex-1 overflow-y-auto p-3 space-y-3"></div>
     </aside>
 
@@ -633,7 +678,7 @@
         const key = `${Number(item.lat).toFixed(3)},${Number(item.lng).toFixed(3)}`;
         (groups[key] = groups[key] || []).push(item);
       });
-      const RADIUS_KM = 12;
+      const RADIUS_KM = 15;
       const KM_PER_DEG_LAT = 111;
       const GOLDEN_ANGLE = 2.39996322972865332;
       Object.values(groups).forEach(group => {
@@ -676,6 +721,7 @@
         ressourcesData = data.ressources?.items || [];
         sourcesMeta    = data.ressources?.sources || [];
         updateLastUpdated(data.last_updated);
+        updateMapCounter(noticesData.length);
         populateVeilleFilters();
         populateCatalogueFilters();
         renderBanners();
@@ -690,6 +736,7 @@
           ressourcesData = res.items || [];
           sourcesMeta    = res.sources || [];
           updateLastUpdated(n.last_updated || new Date().toISOString());
+          updateMapCounter(noticesData.length);
           populateVeilleFilters();
           populateCatalogueFilters();
           renderBanners();
@@ -699,16 +746,19 @@
       } finally { showLoading(false); }
     }
 
+    /* ═══ COMPTEUR CARTE ═══ */
+    function updateMapCounter(n) {
+      const el = document.getElementById('map-counter-num');
+      if (el) el.textContent = n;
+    }
+
     /* ═══ BANNIÈRES Current / Latest ═══ */
     function renderBanners() {
       const container = document.getElementById('banners-container');
       if (!container) return;
-
-      // Masquer les bannières quand une recherche est active
       const q = document.getElementById('search-input')?.value.trim() || '';
       if (q) { container.innerHTML = ''; return; }
 
-      // ── Current : événements du mois en cours ──
       const now = new Date();
       const cy = now.getFullYear(), cm = now.getMonth();
       const currentEvents = noticesData
@@ -719,9 +769,8 @@
         })
         .sort((a, b) => new Date(a.date) - new Date(b.date));
 
-      // ── Latest : 5 notices les plus récentes (tous types) ──
       const latest = [...noticesData]
-        .filter(n => n.date)
+        .filter(n => n.date && n.author === 'arXiv')
         .sort((a, b) => new Date(b.date) - new Date(a.date))
         .slice(0, 5);
 
@@ -749,11 +798,10 @@
           </div>
         </details>`;
 
-      // Clic sur un item de bannière → vol vers la position
       container.querySelectorAll('[data-banner-id]').forEach(btn => {
         btn.addEventListener('click', () => {
-          const id = Number(btn.dataset.bannerId);
-          flyToNotice(id);
+          const id = btn.dataset.bannerId;
+          viewOnMap(id);
         });
       });
     }
@@ -773,32 +821,47 @@
         </button>`;
     }
 
-    /* ═══ FLY TO NOTICE ═══ */
-    function flyToNotice(id) {
-      const item = noticesData.find(n => n.id === id);
-      if (!item || !map) return;
+    /* ═══ VOIR SUR LA CARTE (fonction clé) ═══
+       Recherche une notice par ID, bascule sur l'onglet Veille,
+       vole vers sa position et ouvre le popup. */
+    function viewOnMap(id, fallbackUrl) {
+      const item = noticesData.find(n => String(n.id) === String(id));
+      if (!item) {
+        console.warn('Notice introuvable:', id);
+        if (fallbackUrl) window.open(fallbackUrl, '_blank', 'noopener');
+        return;
+      }
+      // 1. Bascule sur l'onglet Veille
+      if (activeTab !== 'veille') switchTab('veille');
+      // 2. Sur mobile, s'assurer que la carte est visible
+      if (window.matchMedia('(max-width: 1023px)').matches) {
+        mobileView = 'map';
+        applyMobileView();
+      }
+      // 3. Vol vers la position
       const lat = item._displayLat ?? item.lat;
       const lng = item._displayLng ?? item.lng;
-      map.flyTo([lat, lng], 12, { duration: 1.5 });
-      setTimeout(() => markersMap.get(item.id)?.openPopup(), 1600);
+      setTimeout(() => {
+        map.flyTo([lat, lng], 12, { duration: 1.5 });
+        setTimeout(() => markersMap.get(item.id)?.openPopup(), 1600);
+      }, 200);
     }
 
-    /* ═══ RECHERCHE UNIFIÉE + FLY-TO-EVENT ═══ */
+    /* ═══ RECHERCHE UNIFIÉE ═══ */
     let searchDebounceId = null;
     function handleSearchInput() {
       clearTimeout(searchDebounceId);
       searchDebounceId = setTimeout(() => {
         const q = document.getElementById('search-input').value.trim();
-        renderBanners();  // masque/affiche les bannières selon la recherche
+        renderBanners();
         renderAll();
-        // Vol vers le premier événement trouvé
         if (q) {
           const ql = q.toLowerCase();
           const firstEvent = noticesData.find(n =>
             n.type === 'Event' &&
             ((n.title||'') + ' ' + (n.summary||'')).toLowerCase().includes(ql)
           );
-          if (firstEvent) flyToNotice(firstEvent.id);
+          if (firstEvent) viewOnMap(firstEvent.id);
         }
       }, 250);
     }
@@ -860,7 +923,7 @@
             </span>
             <span class="truncate meta-mono">${esc(item.author||'')}</span>
           </div>`;
-        card.onclick = () => flyToNotice(item.id);
+        card.onclick = () => viewOnMap(item.id);
         c.appendChild(card);
 
         const color = getTypeColor(item.type);
@@ -919,6 +982,7 @@
     const SRC_KEY   = { general:'source_general', berbere:'source_berbere', ecosysteme:'source_ecosysteme' };
 
     function renderCatalogue(items) {
+      // ═══ Sidebar gauche : liste compacte ═══
       const c = document.getElementById('cards-container');
       c.innerHTML = '';
       document.getElementById('results-count').textContent = items.length;
@@ -933,11 +997,19 @@
             <span class="text-xs text-txt-3 whitespace-nowrap meta-mono">${esc(r.langue||'')}</span>
           </div>
           <h4 class="text-base font-medium text-txt leading-snug line-clamp-2">${esc(r.nom)}</h4>
-          <p class="text-sm text-txt-2 line-clamp-3">${esc(desc)}</p>`;
-        card.onclick = () => window.open(r.lien, '_blank', 'noopener');
+          <p class="text-sm text-txt-2 line-clamp-3">${esc(desc)}</p>
+          <div class="flex items-center gap-2 pt-1">
+            <button class="btn-map" data-map-id="${esc(r.id)}" data-map-url="${esc(r.lien)}">📍 Carte</button>
+          </div>`;
+        // Clic sur la carte = voir sur la carte
+        card.onclick = (e) => {
+          if (e.target.closest('.btn-map')) return; // géré par le bouton
+          viewOnMap(r.id, r.lien);
+        };
         c.appendChild(card);
       });
 
+      // ═══ Grille centrale ═══
       const grid = document.getElementById('catalogue-grid');
       grid.innerHTML = '';
       if (!items.length) {
@@ -951,9 +1023,8 @@
         const badgeClass = /ouvert|open|cc0|cc-by|mit|apache|bsd/.test(l) ? 'badge-oa-oui'
                          : /partiel|hybride/.test(l) ? 'badge-oa-partiel' : 'badge-oa-non';
 
-        const div = document.createElement('a');
-        div.href = r.lien; div.target = '_blank'; div.rel = 'noopener';
-        div.className = "card-hover block p-5 bg-surface border border-line rounded-xl space-y-3 no-underline";
+        const div = document.createElement('div');
+        div.className = "card-hover bg-surface border border-line rounded-xl p-5 space-y-3";
 
         const metaParts = [
           r.taille ? `<span class="meta-mono">📦 ${esc(r.taille)}</span>` : '',
@@ -976,10 +1047,26 @@
             ${esc(desc)}
             ${isKabAuto ? `<span class="kab-auto-badge">⚙ ${t('auto_translated')}</span>` : ''}
           </p>
-          <div class="flex items-center justify-between text-xs text-txt-3 pt-3 border-t border-line">
+          <div class="text-xs text-txt-3 pt-2 border-t border-line">
             <span class="truncate">${metaParts || '—'}</span>
+          </div>
+          <div class="flex items-center gap-2 pt-1">
+            <button class="btn-map" data-map-id="${esc(r.id)}" data-map-url="${esc(r.lien)}">
+              📍 ${t('view_on_map') || 'Voir sur la carte'}
+            </button>
+            <a class="btn-open-ext" href="${esc(r.lien)}" target="_blank" rel="noopener">
+              ↗ ${t('open') || 'Ouvrir'}
+            </a>
           </div>`;
         grid.appendChild(div);
+      });
+
+      // Délégation d'événement : un seul listener pour tous les boutons .btn-map
+      document.querySelectorAll('.btn-map').forEach(btn => {
+        btn.addEventListener('click', (e) => {
+          e.stopPropagation();
+          viewOnMap(btn.dataset.mapId, btn.dataset.mapUrl);
+        });
       });
     }
 
