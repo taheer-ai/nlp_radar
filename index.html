@@ -683,7 +683,7 @@
         const r = await fetch('data/radar.json', { cache: 'no-store' });
         if (!r.ok) throw new Error(`HTTP ${r.status}`);
         const data = await r.json();
-        noticesData    = data.notices?.items || [];
+        noticesData    = spreadNotices(data.notices?.items || []);
         ressourcesData = data.ressources?.items || [];
         sourcesMeta    = data.ressources?.sources || [];
         updateLastUpdated(data.last_updated);
@@ -696,7 +696,7 @@
             fetch('data/notices.json').then(r => r.ok ? r.json() : {items:[]}),
             fetch('data/ressources.json').then(r => r.ok ? r.json() : {items:[]})
           ]);
-          noticesData    = n.items || [];
+          noticesData    = spreadNotices(n.items || []);
           ressourcesData = res.items || [];
           sourcesMeta    = res.sources || [];
           updateLastUpdated(n.last_updated || new Date().toISOString());
@@ -706,6 +706,38 @@
           showErrorBanner(t('err_degraded'));
         } catch (e2) { showErrorBanner(t('err_loading')); }
       } finally { showLoading(false); }
+    }
+
+    /* ═══ RÉPARTITION DES MARQUEURS EN SPIRALE ═══ */
+    function spreadNotices(items) {
+      const groups = {};
+      items.forEach(item => {
+        const key = `${Number(item.lat).toFixed(3)},${Number(item.lng).toFixed(3)}`;
+        (groups[key] = groups[key] || []).push(item);
+      });
+      const RADIUS_KM = 12;
+      const KM_PER_DEG_LAT = 111;
+      const GOLDEN_ANGLE = 2.39996322972865332;
+      Object.values(groups).forEach(group => {
+        if (group.length === 1) {
+          group[0]._displayLat = Number(group[0].lat);
+          group[0]._displayLng = Number(group[0].lng);
+          return;
+        }
+        const baseLat = Number(group[0].lat);
+        const baseLng = Number(group[0].lng);
+        const cosLat = Math.cos(baseLat * Math.PI / 180);
+        const sorted = [...group].sort((a, b) => String(a.id).localeCompare(String(b.id)));
+        sorted.forEach((item, i) => {
+          const angle = i * GOLDEN_ANGLE;
+          const r = RADIUS_KM * Math.sqrt(i) / Math.sqrt(sorted.length);
+          const dLat = (r / KM_PER_DEG_LAT) * Math.cos(angle);
+          const dLng = (r / (KM_PER_DEG_LAT * cosLat)) * Math.sin(angle);
+          item._displayLat = baseLat + dLat;
+          item._displayLng = baseLng + dLng;
+        });
+      });
+      return items;
     }
 
     /* ═══ RENDU ═══ */
@@ -744,7 +776,9 @@
           Model:'chip-model', Tool:'chip-model', Event:'chip-event'
         }[item.type] || 'chip-corpus';
 
-        const coords = `${Number(item.lat).toFixed(4)}°N, ${Number(item.lng).toFixed(4)}°E`;
+        const dLatDisp = item._displayLat ?? item.lat;
+        const dLngDisp = item._displayLng ?? item.lng;
+        const coords = `${Number(dLatDisp).toFixed(4)}°N, ${Number(dLngDisp).toFixed(4)}°E`;
 
         card.innerHTML = `
           <div class="flex items-center justify-between gap-2">
@@ -763,7 +797,9 @@
             <span class="truncate meta-mono">${esc(item.author||'')}</span>
           </div>`;
         card.onclick = () => {
-          map.flyTo([item.lat, item.lng], 10, { duration: 1.4 });
+          const dLat = item._displayLat ?? item.lat;
+          const dLng = item._displayLng ?? item.lng;
+          map.flyTo([dLat, dLng], 11, { duration: 1.4 });
           markersMap.get(item.id)?.openPopup();
         };
         c.appendChild(card);
@@ -776,7 +812,9 @@
                               border:2.5px solid ${border};box-shadow:0 0 10px ${color}90;"></div>`,
           iconSize: [16, 16], iconAnchor: [8, 8]
         });
-        const mk = L.marker([item.lat, item.lng], { icon }).addTo(map);
+        const dLat = item._displayLat ?? item.lat;
+        const dLng = item._displayLng ?? item.lng;
+        const mk = L.marker([dLat, dLng], { icon }).addTo(map);
         mk.bindPopup(`
           <div class="space-y-2">
             <span style="font-size:.72rem;font-weight:700;letter-spacing:.06em;text-transform:uppercase;color:var(--accent);font-family:'JetBrains Mono',monospace">
