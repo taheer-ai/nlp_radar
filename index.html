@@ -6,63 +6,133 @@
   <meta name="referrer" content="strict-origin-when-cross-origin">
   <title>NLP GeoResearch Radar</title>
 
+  <!-- Typographie -->
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&family=JetBrains+Mono:wght@400;500;600&display=swap">
+
   <script src="https://cdn.tailwindcss.com"></script>
   <script>
     tailwind.config = {
       darkMode: 'class',
-      theme: { extend: { colors: {
-        app:'var(--bg-app)', surface:'var(--bg-surface)', elevated:'var(--bg-elevated)',
-        line:'var(--border-color)', txt:'var(--text-primary)', 'txt-2':'var(--text-secondary)',
-        'txt-3':'var(--text-muted)', accent:'var(--accent)', 'accent-h':'var(--accent-hover)',
-        'accent-s':'var(--accent-soft)'
-      } } }
+      theme: {
+        extend: {
+          fontFamily: {
+            sans: ['Inter', 'system-ui', '-apple-system', 'BlinkMacSystemFont', 'Segoe UI', 'Roboto', 'sans-serif'],
+            mono: ['"JetBrains Mono"', 'ui-monospace', 'SFMono-Regular', 'Menlo', 'Consolas', 'monospace'],
+          },
+          colors: {
+            app:'var(--bg-app)', surface:'var(--bg-surface)', elevated:'var(--bg-elevated)',
+            line:'var(--border-color)', txt:'var(--text-primary)', 'txt-2':'var(--text-secondary)',
+            'txt-3':'var(--text-muted)', accent:'var(--accent)', 'accent-h':'var(--accent-hover)',
+            'accent-s':'var(--accent-soft)'
+          }
+        }
+      }
     }
   </script>
 
   <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" />
+  <link rel="stylesheet" href="https://unpkg.com/maplibre-gl@4.7.1/dist/maplibre-gl.css" />
 
   <style>
+    
     :root {
-      --bg-app:#f5efe3; --bg-surface:#fbf6ec; --bg-elevated:#fffdf7;
-      --border-color:#ddcfb3; --text-primary:#3d2f1f; --text-secondary:#6b5842;
-      --text-muted:#9c8a71; --accent:#8b6f47; --accent-hover:#6b5340;
-      --accent-soft:#ede0c9; --shadow-color:rgba(61,47,31,.08);
+      /* Mode clair — fond blanc, accents verts */
+      --bg-app:       #FFFFFF;           /* fond principal : blanc pur */
+      --bg-surface:   #F4F4F4;           /* panneaux : gris très clair */
+      --bg-elevated:  #FFFFFF;           /* inputs, cartes : blanc */
+      --border-color: #DEDEDE;           /* bordures : gris clair */
+      --text-primary: #2D2D2D;           /* texte principal : anthracite */
+      --text-secondary:#5A5A5A;          /* texte secondaire */
+      --text-muted:   #8A8A8A;           /* texte atténué */
+      --accent:       #138A07;           /* ⭐ vert Overleaf */
+      --accent-hover: #0F6F05;           /* vert foncé (hover) */
+      --accent-soft:  #E8F4E5;           /* vert très clair (fonds) */
+      --shadow-color: rgba(0, 0, 0, 0.08);
     }
+
     .dark {
-      --bg-app:#1a1410; --bg-surface:#221a14; --bg-elevated:#2b2119;
-      --border-color:#3d3024; --text-primary:#f2ead9; --text-secondary:#c9b898;
-      --text-muted:#8f7a60; --accent:#c9a875; --accent-hover:#dfbe8c;
-      --accent-soft:#3a2e22; --shadow-color:rgba(0,0,0,.45);
+      /* Mode sombre — anthracite, verts plus lumineux */
+      --bg-app:       #1A1A1A;
+      --bg-surface:   #242424;
+      --bg-elevated:  #2D2D2D;
+      --border-color: #3D3D3D;
+      --text-primary: #F0F0F0;
+      --text-secondary:#B8B8B8;
+      --text-muted:   #808080;
+      --accent:       #4CAF50;           /* vert plus lumineux pour contraste */
+      --accent-hover: #66BB6A;
+      --accent-soft:  #1A2E1A;
+      --shadow-color: rgba(0, 0, 0, 0.5);
     }
+
     html { font-size: 16px; }
     @media (min-width: 1024px) { html { font-size: 17px; } }
 
     body, html {
       height:100%; margin:0; background:var(--bg-app); color:var(--text-primary);
-      font-family: system-ui,-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,sans-serif;
+      font-family: 'Inter', system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
+      font-feature-settings: 'cv02','cv03','cv04','cv11','ss01';
       transition: background-color .25s ease, color .25s ease;
       -webkit-tap-highlight-color: transparent;
+      -webkit-font-smoothing: antialiased;
+      -moz-osx-font-smoothing: grayscale;
+      text-rendering: optimizeLegibility;
     }
 
-    /* ── Leaflet ── */
-    .leaflet-tile-pane { filter: sepia(.18) saturate(.92) brightness(1.01); transition: filter .3s ease; }
-    .dark .leaflet-tile-pane { filter: sepia(.22) hue-rotate(-10deg) saturate(.85); }
-    .leaflet-container { background: var(--bg-app); font-family: inherit; }
+    /* ═══ Application de JetBrains Mono ═══ */
+    .font-mono, code, kbd, samp, pre,
+    .meta-mono, .data-badge, .src-pill,
+    .chip-corpus, .chip-paper, .chip-model, .chip-event,
+    .badge-oa-oui, .badge-oa-partiel, .badge-oa-non,
+    .lang-switcher button, #last-updated-badge, #results-count,
+    .kab-auto-badge, .leaflet-control-attribution,
+    .leaflet-popup-content code, [data-mono] {
+      font-family: 'JetBrains Mono', ui-monospace, SFMono-Regular, Menlo, Consolas, monospace !important;
+      font-feature-settings: 'calt','liga';
+    }
+    .font-mono, .meta-mono, .data-badge, .src-pill {
+      font-size: 0.92em;
+      letter-spacing: -0.01em;
+    }
+
+    /* ── LEAFLET ── */
+    /* Avec OpenFreeMap, les styles Positron/Dark sont déjà neutres — pas de filtre */
+    .leaflet-tile-pane { transition: filter .3s ease; }
+    .leaflet-container {
+      background: var(--bg-app);
+      font-family: 'Inter', system-ui, sans-serif;
+    }
     .leaflet-popup-content-wrapper, .leaflet-popup-tip {
       background: var(--bg-elevated) !important; color: var(--text-primary) !important;
       border: 1px solid var(--border-color); border-radius: .6rem;
       box-shadow: 0 8px 24px var(--shadow-color); font-size: .9rem;
+      font-family: 'Inter', system-ui, sans-serif;
     }
     .leaflet-popup-content { margin: 12px 14px; }
+    .leaflet-popup-content h3 { font-family: 'Inter', sans-serif; }
+    .leaflet-popup-content .popup-coords {
+      font-family: 'JetBrains Mono', monospace;
+      font-size: .72rem;
+      color: var(--text-muted);
+      letter-spacing: 0;
+    }
     .leaflet-container a { color: var(--accent); }
     .leaflet-control-zoom a {
       background: var(--bg-elevated) !important; color: var(--text-primary) !important;
       border-color: var(--border-color) !important;
       font-size: 20px !important; width: 34px !important; height: 34px !important; line-height: 34px !important;
+      font-family: 'Inter', sans-serif !important;
+    }
+    .leaflet-control-zoom a:hover {
+      background: var(--accent) !important;
+      color: #FFFFFF !important;
+      border-color: var(--accent) !important;
     }
     .leaflet-control-attribution {
-      background: color-mix(in srgb, var(--bg-surface) 85%, transparent) !important;
-      color: var(--text-muted) !important; font-size: 11px !important;
+      background: color-mix(in srgb, var(--bg-surface) 90%, transparent) !important;
+      color: var(--text-muted) !important; font-size: 10px !important;
     }
     .leaflet-control-attribution a { color: var(--accent) !important; }
 
@@ -89,34 +159,49 @@
 
     .card-hover { transition: all .15s ease; }
     .card-hover:hover {
-      border-color: var(--accent); background: var(--accent-soft);
-      transform: translateY(-1px); box-shadow: 0 4px 14px var(--shadow-color);
+      border-color: var(--accent);
+      background: var(--accent-soft);
+      transform: translateY(-1px);
+      box-shadow: 0 4px 14px var(--shadow-color);
     }
 
     .tab-btn {
       padding:8px 16px; font-size:.95rem; font-weight:500; border-radius:6px;
       color:var(--text-secondary); transition: all .15s ease; white-space:nowrap;
+      font-family: 'Inter', sans-serif;
     }
-    .tab-btn:hover { background: var(--accent-soft); color: var(--text-primary); }
-    .tab-btn.tab-active { background: var(--bg-elevated); color: var(--accent); font-weight:600; }
+    .tab-btn:hover { background: var(--accent-soft); color: var(--accent); }
+    .tab-btn.tab-active {
+      background: var(--accent-soft);
+      color: var(--accent);
+      font-weight: 600;
+    }
     @media (min-width:1024px) {
       .tab-btn { border-radius:0; padding:0 18px; height:48px; font-size:1rem; }
-      .tab-btn.tab-active { background: transparent; border-bottom:2px solid var(--accent); }
+      .tab-btn.tab-active {
+        background: transparent;
+        border-bottom: 2px solid var(--accent);
+        color: var(--accent);
+      }
     }
 
-    /* ── Language switcher (TQ = Taqbaylit) ── */
+    /* ── Language switcher ── */
     .lang-switcher {
       display:inline-flex; align-items:center;
       background: var(--bg-elevated); border:1px solid var(--border-color);
       border-radius:.55rem; overflow:hidden; height:34px;
     }
     .lang-btn {
-      padding:0 11px; height:100%; font-size:.82rem; font-weight:600;
+      padding:0 11px; height:100%; font-size:.78rem; font-weight:600;
       color: var(--text-muted); background: transparent; border: none;
-      cursor: pointer; transition: all .15s ease; letter-spacing:.03em;
+      cursor: pointer; transition: all .15s ease; letter-spacing:.05em;
     }
-    .lang-btn:hover { color: var(--text-primary); background: var(--accent-soft); }
-    .lang-btn.lang-active { color: var(--bg-elevated); background: var(--accent); font-weight:700; }
+    .lang-btn:hover { color: var(--accent); background: var(--accent-soft); }
+    .lang-btn.lang-active {
+      color: #FFFFFF;
+      background: var(--accent);
+      font-weight: 700;
+    }
 
     /* ── Theme toggle ── */
     .theme-toggle {
@@ -131,7 +216,7 @@
       transition: transform .25s ease;
     }
     .theme-toggle[aria-pressed="true"] { background: var(--accent); }
-    .theme-toggle[aria-pressed="true"]::after { transform: translateX(28px); background: var(--bg-app); }
+    .theme-toggle[aria-pressed="true"]::after { transform: translateX(28px); }
     .theme-toggle .icon {
       position:absolute; top:50%; transform: translateY(-50%);
       font-size:15px; line-height:1; pointer-events:none; transition: opacity .2s ease;
@@ -146,33 +231,86 @@
       display:flex; flex-direction:column; align-items:center; justify-content:center;
       gap:3px; color:var(--text-muted); transition: color .15s ease, background-color .15s ease;
       min-height:64px; background:transparent; border:none;
+      font-family: 'Inter', sans-serif;
     }
-    .mobile-nav-btn.mobile-nav-active { color: var(--accent); background: var(--accent-soft); }
-    .mobile-nav-btn:hover { color: var(--text-primary); }
+    .mobile-nav-btn.mobile-nav-active {
+      color: var(--accent);
+      background: var(--accent-soft);
+    }
+    .mobile-nav-btn:hover { color: var(--accent); }
 
-    /* ── Chips ── */
-    .chip-corpus { background:rgba(201,139,107,.16); color:#9a6244; border-color:rgba(201,139,107,.4); }
-    .chip-paper  { background:rgba(122,156,107,.16); color:#547048; border-color:rgba(122,156,107,.4); }
-    .chip-model  { background:rgba(212,162,76,.18);  color:#9a6c1f; border-color:rgba(212,162,76,.4); }
-    .chip-event  { background:rgba(184,106,138,.16); color:#874769; border-color:rgba(184,106,138,.4); }
-    .dark .chip-corpus { color:#e0a887; } .dark .chip-paper { color:#a8c79a; }
-    .dark .chip-model  { color:#e8c274; } .dark .chip-event { color:#d996b3; }
+    /* ═══ CHIPS par type de ressource — harmonisés au vert ═══ */
+    .chip-corpus {
+      background: rgba(19,138,7,.12);
+      color: #0F6F05;
+      border-color: rgba(19,138,7,.35);
+    }
+    .chip-paper {
+      background: rgba(14,165,233,.12);
+      color: #0369A1;
+      border-color: rgba(14,165,233,.35);
+    }
+    .chip-model {
+      background: rgba(245,158,11,.15);
+      color: #B45309;
+      border-color: rgba(245,158,11,.4);
+    }
+    .chip-event {
+      background: rgba(139,92,246,.12);
+      color: #6D28D9;
+      border-color: rgba(139,92,246,.35);
+    }
+    .dark .chip-corpus { color: #66BB6A; }
+    .dark .chip-paper  { color: #7DD3FC; }
+    .dark .chip-model  { color: #FBBF24; }
+    .dark .chip-event  { color: #C4B5FD; }
 
-    .badge-oa-oui     { background:rgba(122,156,107,.16); color:#547048; border-color:rgba(122,156,107,.4); }
-    .badge-oa-partiel { background:rgba(212,162,76,.18);  color:#9a6c1f; border-color:rgba(212,162,76,.4); }
-    .badge-oa-non     { background:var(--accent-soft); color:var(--text-muted); border-color:var(--border-color); }
-    .dark .badge-oa-oui { color:#a8c79a; } .dark .badge-oa-partiel { color:#e8c274; }
+    /* ═══ BADGES Open Access ═══ */
+    .badge-oa-oui {
+      background: rgba(19,138,7,.12);
+      color: #0F6F05;
+      border-color: rgba(19,138,7,.35);
+    }
+    .badge-oa-partiel {
+      background: rgba(245,158,11,.15);
+      color: #B45309;
+      border-color: rgba(245,158,11,.4);
+    }
+    .badge-oa-non {
+      background: var(--accent-soft);
+      color: var(--text-muted);
+      border-color: var(--border-color);
+    }
+    .dark .badge-oa-oui     { color: #66BB6A; }
+    .dark .badge-oa-partiel { color: #FBBF24; }
 
+    /* ═══ SOURCE pills ═══ */
     .src-pill {
       display:inline-flex; align-items:center; gap:4px;
-      font-size:.72rem; font-weight:600; letter-spacing:.04em;
+      font-size:.68rem; font-weight:600; letter-spacing:.02em;
       padding:2px 8px; border-radius:6px; border:1px solid;
+      text-transform: uppercase;
     }
-    .src-general    { background:rgba(139,111,71,.14); color:#6b5340; border-color:rgba(139,111,71,.35); }
-    .src-berbere    { background:rgba(201,139,107,.18); color:#9a6244; border-color:rgba(201,139,107,.4); }
-    .src-ecosysteme { background:rgba(122,156,107,.16); color:#547048; border-color:rgba(122,156,107,.4); }
-    .dark .src-general { color:#d4b896; } .dark .src-berbere { color:#e0a887; } .dark .src-ecosysteme { color:#a8c79a; }
+    .src-general {
+      background: rgba(19,138,7,.10);
+      color: #0F6F05;
+      border-color: rgba(19,138,7,.3);
+    }
+    .src-berbere {
+      background: rgba(14,165,233,.12);
+      color: #0369A1;
+      border-color: rgba(14,165,233,.35);
+    }
+    .src-ecosysteme {
+      background: rgba(245,158,11,.15);
+      color: #B45309;
+      border-color: rgba(245,158,11,.4);
+    }
+    .dark .src-general    { color: #66BB6A; }
+    .dark .src-berbere    { color: #7DD3FC; }
+    .dark .src-ecosysteme { color: #FBBF24; }
 
+    /* ═══ Badge traduction automatique ═══ */
     .kab-auto-badge {
       display:inline-flex; align-items:center; gap:3px;
       font-size:.66rem; font-weight:500;
@@ -180,6 +318,40 @@
       border:1px solid var(--border-color);
       padding:1px 6px; border-radius:4px; margin-left:6px;
       vertical-align:middle;
+    }
+
+    /* ═══ Coordonnées & données numériques ═══ */
+    .geo-coords {
+      font-family: 'JetBrains Mono', monospace;
+      font-size: .72rem;
+      color: var(--text-muted);
+      letter-spacing: -.01em;
+    }
+    .meta-num {
+      font-family: 'JetBrains Mono', monospace;
+      font-size: .82em;
+      font-weight: 500;
+      color: var(--text-secondary);
+    }
+
+    /* ═══ Code snippets ═══ */
+    code, kbd, samp, pre {
+      font-family: 'JetBrains Mono', monospace;
+      font-size: .88em;
+      background: var(--accent-soft);
+      color: var(--text-primary);
+      padding: 2px 6px;
+      border-radius: 4px;
+      border: 1px solid var(--border-color);
+    }
+    pre { padding: 12px 16px; overflow-x: auto; line-height: 1.55; }
+    pre code { background: transparent; padding: 0; border: none; }
+
+    .id-tag {
+      font-family: 'JetBrains Mono', monospace;
+      font-size: .75rem;
+      color: var(--text-muted);
+      letter-spacing: .02em;
     }
   </style>
 </head>
@@ -191,9 +363,10 @@
     <div class="flex items-center justify-between gap-3 px-3 sm:px-4 h-16">
       <div class="flex items-center gap-3 min-w-0">
         <div class="w-10 h-10 sm:w-11 sm:h-11 rounded-xl bg-accent flex items-center justify-center
-                    font-bold text-white text-lg shadow-lg flex-shrink-0">N</div>
+                    font-bold text-white text-lg shadow-lg flex-shrink-0"
+             style="font-family: 'JetBrains Mono', monospace;">N</div>
         <div class="min-w-0">
-          <h1 class="text-base sm:text-lg font-semibold tracking-wide text-txt truncate leading-tight"
+          <h1 class="text-base sm:text-lg font-semibold tracking-tight text-txt truncate leading-tight"
               data-i18n="site_title">NLP GeoResearch Radar</h1>
           <p class="hidden sm:block text-xs text-txt-3 leading-tight mt-0.5 truncate"
              data-i18n="site_subtitle"></p>
@@ -208,14 +381,12 @@
           <span><span data-i18n="updated">MAJ</span> : <span id="last-updated-time">…</span></span>
         </span>
 
-        <!-- Sélecteur de langue : FR | EN | TQ (Taqbaylit) -->
         <div class="lang-switcher" role="group" aria-label="Language">
           <button type="button" class="lang-btn lang-active" data-lang="fr">FR</button>
           <button type="button" class="lang-btn" data-lang="en">EN</button>
           <button type="button" class="lang-btn" data-lang="kab">TQ</button>
         </div>
 
-        <!-- Toggle thème -->
         <button id="theme-toggle" type="button" class="theme-toggle"
                 aria-label="Basculer le thème" aria-pressed="false">
           <span class="icon icon-sun" aria-hidden="true">☀</span>
@@ -237,7 +408,7 @@
   <div class="flex flex-1 overflow-hidden">
 
     <nav class="hidden lg:flex w-16 bg-app border-r border-line flex-col items-center py-5 gap-3 text-txt-3">
-      <button class="p-2.5 hover:bg-accent-s hover:text-txt rounded-lg transition" title="Dashboard">
+      <button class="p-2.5 hover:bg-accent-s hover:text-accent rounded-lg transition" title="Dashboard">
         <svg class="w-5 h-5" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M4 6a2 2 0 012-2h2a2 2 0 012 2v2a2 2 0 01-2 2H6a2 2 0 01-2-2V6zM14 6a2 2 0 012-2h2a2 2 0 012 2v2a2 2 0 01-2 2h-2a2 2 0 01-2-2V6zM4 16a2 2 0 012-2h2a2 2 0 012 2v2a2 2 0 01-2 2H6a2 2 0 01-2-2v-2zM14 16a2 2 0 012-2h2a2 2 0 012 2v2a2 2 0 01-2 2h-2a2 2 0 01-2-2v-2z"/></svg>
       </button>
       <button class="p-2.5 bg-accent-s text-accent rounded-lg transition" title="Carte">
@@ -255,7 +426,7 @@
                       focus:outline-none focus:border-accent focus:ring-2 focus:ring-accent/20
                       placeholder-txt-3 transition">
         <div class="text-xs text-txt-3 mt-2.5">
-          <span id="results-count">0</span> <span data-i18n="results">résultat(s)</span>
+          <span id="results-count" class="font-mono font-medium">0</span> <span data-i18n="results">résultat(s)</span>
         </div>
       </div>
       <div id="cards-container" class="flex-1 overflow-y-auto p-3 space-y-3"></div>
@@ -342,23 +513,24 @@
         </div>
       </div>
 
+      <!-- ═══ LÉGENDE (couleurs harmonisées au vert) ═══ -->
       <div class="border-t border-line pt-5 mt-auto">
         <h3 class="text-sm font-semibold text-txt-3 uppercase tracking-wider mb-4" data-i18n="legend">Légende</h3>
         <div class="space-y-3 text-sm">
           <div class="flex items-center gap-3">
-            <span class="w-3.5 h-3.5 rounded-full flex-shrink-0" style="background:#c98b6b"></span>
+            <span class="w-3.5 h-3.5 rounded-full flex-shrink-0" style="background:#138A07"></span>
             <span class="text-txt-2" data-i18n="legend_corpus">Corpus / Données</span>
           </div>
           <div class="flex items-center gap-3">
-            <span class="w-3.5 h-3.5 rounded-full flex-shrink-0" style="background:#7a9c6b"></span>
+            <span class="w-3.5 h-3.5 rounded-full flex-shrink-0" style="background:#0EA5E9"></span>
             <span class="text-txt-2" data-i18n="legend_paper">Publications</span>
           </div>
           <div class="flex items-center gap-3">
-            <span class="w-3.5 h-3.5 rounded-full flex-shrink-0" style="background:#d4a24c"></span>
+            <span class="w-3.5 h-3.5 rounded-full flex-shrink-0" style="background:#F59E0B"></span>
             <span class="text-txt-2" data-i18n="legend_model">Modèles & Outils</span>
           </div>
           <div class="flex items-center gap-3">
-            <span class="w-3.5 h-3.5 rounded-full flex-shrink-0" style="background:#b86a8a"></span>
+            <span class="w-3.5 h-3.5 rounded-full flex-shrink-0" style="background:#8B5CF6"></span>
             <span class="text-txt-2" data-i18n="legend_event">Événements</span>
           </div>
         </div>
@@ -392,13 +564,14 @@
   </nav>
 
   <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>
+  <script src="https://unpkg.com/maplibre-gl@4.7.1/dist/maplibre-gl.js"></script>
+  <script src="https://unpkg.com/@maplibre/maplibre-gl-leaflet@0.0.20/leaflet-maplibre-gl.js"></script>
+
   <script>
-    /* ═══════════════ FIX 403 ═══════════════ */
     if (window.L && L.TileLayer && L.TileLayer.prototype.options) {
       L.TileLayer.prototype.options.referrerPolicy = 'strict-origin-when-cross-origin';
     }
 
-    /* ═══════════════ ÉTAT GLOBAL ═══════════════ */
     let activeTab = 'veille';
     let mobileView = 'map';
     let currentLang = 'fr';
@@ -407,14 +580,18 @@
     let ressourcesData = [];
     let sourcesMeta = [];
     let markersMap = new Map();
-    let map = null, tileLayer = null;
+    let map = null;
+    let tileLayer = null;
 
+    /* ═══ COULEURS MARQUEURS — harmonisées au vert Overleaf ═══ */
     const getTypeColor = t => ({
-      Corpus:'#c98b6b', Paper:'#7a9c6b', Model:'#d4a24c',
-      Tool:'#d4a24c',   Event:'#b86a8a'
-    }[t] || '#8b6f47');
+      Corpus: '#138A07',   // vert Overleaf
+      Paper:  '#0EA5E9',   // bleu ciel
+      Model:  '#F59E0B',   // ambre
+      Tool:   '#F59E0B',
+      Event:  '#8B5CF6'    // violet
+    }[t] || '#138A07');
 
-    /* ═══════════════ i18n ═══════════════ */
     function t(key) {
       const dict = i18n[currentLang] || i18n.fr || {};
       return dict[key] || (i18n.fr && i18n.fr[key]) || key;
@@ -441,26 +618,37 @@
       renderAll();
     }
 
-    /* ═══════════════ CARTE + TUILES CARTODB ═══════════════ */
+    /* ═══ CARTE ═══ */
     function createTileLayer(theme) {
       if (!map) return;
-      const url = theme === 'dark'
-        ? 'https://{s}.basemaps.cartocdn.com/dark_all/{z}/{x}/{y}{r}.png'
-        : 'https://{s}.basemaps.cartocdn.com/light_all/{z}/{x}/{y}{r}.png';
-      if (tileLayer) map.removeLayer(tileLayer);
-      tileLayer = L.tileLayer(url, {
-        maxZoom: 20, subdomains: 'abcd',
-        attribution: '© <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> © <a href="https://carto.com/attributions">CARTO</a>',
-        referrerPolicy: 'strict-origin-when-cross-origin'
-      }).addTo(map);
+      if (tileLayer) { map.removeLayer(tileLayer); tileLayer = null; }
+
+      const styleUrl = theme === 'dark'
+        ? 'https://tiles.openfreemap.org/styles/dark'
+        : 'https://tiles.openfreemap.org/styles/positron';
+
+      if (typeof L.maplibreGL === 'function' && maplibregl.supported && maplibregl.supported()) {
+        tileLayer = L.maplibreGL({
+          style: styleUrl,
+          attribution: '© <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> © <a href="https://openfreemap.org">OpenFreeMap</a>'
+        }).addTo(map);
+      } else {
+        console.warn('WebGL non disponible — fallback OSM raster');
+        tileLayer = L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
+          maxZoom: 19,
+          attribution: '© <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a>'
+        }).addTo(map);
+      }
     }
+
     function initMap() {
-      map = L.map('map', { zoomControl: true, attributionControl: true }).setView([33.5, 2.0], 6);
+      map = L.map('map', { zoomControl: true, attributionControl: true })
+              .setView([33.5, 2.0], 6);
       const theme = document.documentElement.classList.contains('dark') ? 'dark' : 'light';
       createTileLayer(theme);
     }
 
-    /* ═══════════════ THÈME ═══════════════ */
+    /* ═══ THÈME ═══ */
     function initTheme() {
       const root = document.documentElement;
       const btn = document.getElementById('theme-toggle');
@@ -481,7 +669,7 @@
       }
     }
 
-    /* ═══════════════ CHARGEMENT ═══════════════ */
+    /* ═══ CHARGEMENT ═══ */
     async function loadI18n() {
       try {
         const r = await fetch('data/i18n.json', { cache: 'no-store' });
@@ -520,7 +708,7 @@
       } finally { showLoading(false); }
     }
 
-    /* ═══════════════ RENDU ═══════════════ */
+    /* ═══ RENDU ═══ */
     function renderAll() {
       if (activeTab === 'veille') renderNotices(filterNotices());
       else renderCatalogue(filterRessources());
@@ -537,6 +725,7 @@
             && (typ === 'ALL' || i.type === typ);
       });
     }
+
     function renderNotices(items) {
       const c = document.getElementById('cards-container');
       c.innerHTML = '';
@@ -554,18 +743,24 @@
           Corpus:'chip-corpus', Paper:'chip-paper',
           Model:'chip-model', Tool:'chip-model', Event:'chip-event'
         }[item.type] || 'chip-corpus';
+
+        const coords = `${Number(item.lat).toFixed(4)}°N, ${Number(item.lng).toFixed(4)}°E`;
+
         card.innerHTML = `
           <div class="flex items-center justify-between gap-2">
             <span class="text-xs font-semibold px-2.5 py-1 rounded-md border ${chipClass}">
               ${esc((item.type||'AUTRE').toUpperCase())}
             </span>
-            <span class="text-sm text-txt-3 whitespace-nowrap">${esc(item.date||'')}</span>
+            <span class="text-sm text-txt-3 whitespace-nowrap meta-mono">${esc(item.date||'')}</span>
           </div>
           <h4 class="text-base font-medium text-txt leading-snug line-clamp-2">${esc(item.title)}</h4>
           <p class="text-sm text-txt-2 leading-relaxed line-clamp-2">${esc(item.summary||'')}</p>
           <div class="text-xs text-txt-3 pt-1 flex items-center justify-between gap-2">
-            <span class="truncate">📍 ${esc(item.region||'')}</span>
-            <span class="truncate">${esc(item.author||'')}</span>
+            <span class="truncate">
+              📍 <span class="meta-mono">${esc(item.region||'')}</span>
+              <span class="geo-coords ml-1">${coords}</span>
+            </span>
+            <span class="truncate meta-mono">${esc(item.author||'')}</span>
           </div>`;
         card.onclick = () => {
           map.flyTo([item.lat, item.lng], 10, { duration: 1.4 });
@@ -574,7 +769,7 @@
         c.appendChild(card);
 
         const color = getTypeColor(item.type);
-        const border = document.documentElement.classList.contains('dark') ? '#1a1410' : '#fffdf7';
+        const border = document.documentElement.classList.contains('dark') ? '#242424' : '#FFFFFF';
         const icon = L.divIcon({
           className: '',
           html: `<div style="background:${color};width:16px;height:16px;border-radius:50%;
@@ -584,13 +779,16 @@
         const mk = L.marker([item.lat, item.lng], { icon }).addTo(map);
         mk.bindPopup(`
           <div class="space-y-2">
-            <span style="font-size:.72rem;font-weight:700;letter-spacing:.06em;text-transform:uppercase;color:var(--accent)">
+            <span style="font-size:.72rem;font-weight:700;letter-spacing:.06em;text-transform:uppercase;color:var(--accent);font-family:'JetBrains Mono',monospace">
               ${esc(item.type)}
             </span>
-            <h3 style="font-size:.98rem;font-weight:700;color:var(--text-primary);line-height:1.3">
+            <h3 style="font-size:.98rem;font-weight:700;color:var(--text-primary);line-height:1.3;font-family:'Inter',sans-serif">
               ${esc(item.title)}
             </h3>
-            <p style="font-size:.85rem;color:var(--text-secondary);line-height:1.4">${esc(item.summary||'')}</p>
+            <p style="font-size:.85rem;color:var(--text-secondary);line-height:1.5">
+              ${esc(item.summary||'')}
+            </p>
+            <div class="popup-coords">📍 ${esc(item.region||'')} · ${coords}</div>
             <a href="${esc(item.url)}" target="_blank" rel="noopener"
                style="font-size:.85rem;color:var(--accent);text-decoration:none;font-weight:500">
               ${t('consult')} →
@@ -637,7 +835,7 @@
         card.innerHTML = `
           <div class="flex items-center justify-between gap-2">
             <span class="src-pill ${SRC_CLASS[r.source]||'src-general'}">${t(SRC_KEY[r.source]||'source_general')}</span>
-            <span class="text-xs text-txt-3 whitespace-nowrap">${esc(r.langue||'')}</span>
+            <span class="text-xs text-txt-3 whitespace-nowrap meta-mono">${esc(r.langue||'')}</span>
           </div>
           <h4 class="text-base font-medium text-txt leading-snug line-clamp-2">${esc(r.nom)}</h4>
           <p class="text-sm text-txt-2 line-clamp-3">${esc(desc)}</p>`;
@@ -662,10 +860,10 @@
         div.href = r.lien; div.target = '_blank'; div.rel = 'noopener';
         div.className = "card-hover block p-5 bg-surface border border-line rounded-xl space-y-3 no-underline";
 
-        const meta = [
-          r.taille ? `📦 ${esc(r.taille)}` : '',
-          r.langue ? `🗣 ${esc(r.langue)}` : '',
-          r.pays && r.pays !== 'International' ? `🌍 ${esc(r.pays)}` : ''
+        const metaParts = [
+          r.taille ? `<span class="meta-mono">📦 ${esc(r.taille)}</span>` : '',
+          r.langue ? `<span class="meta-mono">🗣 ${esc(r.langue)}</span>` : '',
+          r.pays && r.pays !== 'International' ? `<span class="meta-mono">🌍 ${esc(r.pays)}</span>` : ''
         ].filter(Boolean).join(' · ');
 
         div.innerHTML = `
@@ -684,7 +882,7 @@
             ${isKabAuto ? `<span class="kab-auto-badge">⚙ ${t('auto_translated')}</span>` : ''}
           </p>
           <div class="flex items-center justify-between text-xs text-txt-3 pt-3 border-t border-line">
-            <span class="truncate">${meta || '—'}</span>
+            <span class="truncate">${metaParts || '—'}</span>
           </div>`;
         grid.appendChild(div);
       });
@@ -771,15 +969,19 @@
     function updateLastUpdated(iso) {
       const d = new Date(iso);
       const locale = currentLang === 'en' ? 'en-GB' : 'fr-FR';
-      document.getElementById('last-updated-time').textContent =
-        d.toLocaleDateString(locale, { day:'2-digit', month:'short', hour:'2-digit', minute:'2-digit' });
+      const formatted = d.toLocaleDateString(locale, {
+        day:'2-digit', month:'short', hour:'2-digit', minute:'2-digit'
+      });
+      const el = document.getElementById('last-updated-time');
+      el.textContent = formatted;
+      el.classList.add('font-mono');
     }
     const showLoading = s => document.getElementById('loading-overlay').classList.toggle('hidden', !s);
     function showErrorBanner(msg) {
       const b = document.getElementById('last-updated-badge');
-      b.style.background = 'rgba(184,106,138,.18)';
-      b.style.color = '#874769';
-      b.style.borderColor = 'rgba(184,106,138,.4)';
+      b.style.background = 'rgba(239,68,68,.12)';
+      b.style.color = '#DC2626';
+      b.style.borderColor = 'rgba(239,68,68,.4)';
       document.getElementById('last-updated-time').textContent = msg;
       b.classList.remove('hidden'); b.classList.add('flex');
     }
