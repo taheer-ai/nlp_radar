@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""Agent de veille NLP — Récupère arXiv et fusionne avec les ressources."""
+"""Agent de veille NLP — Fusionne arXiv et les ressources géolocalisées pour OpenFreeMap."""
 
 import json, requests, re
 from datetime import datetime, timezone
@@ -37,10 +37,10 @@ def detect_region(text):
 def fetch_arxiv():
     items = []
     for cat in CATEGORIES:
-        params = {"search_query": f"cat:{cat}", "start": 0, "max_results": 30,
+        params = {"search_query": f"cat:{cat}", "start": 0, "max_results": 15,
                   "sortBy": "submittedDate", "sortOrder": "descending"}
         try:
-            r = requests.get(ARXIV_API, params=params, timeout=30)
+            r = requests.get(ARXIV_API, params=params, timeout=60)
             for e in re.findall(r"<entry>(.*?)</entry>", r.text, re.DOTALL):
                 title   = re.search(r"<title>(.*?)</title>", e, re.DOTALL)
                 summary = re.search(r"<summary>(.*?)</summary>", e, re.DOTALL)
@@ -57,51 +57,58 @@ def fetch_arxiv():
             print(f"[WARN] arXiv {cat}: {ex}")
     return items
 
-def build_notices():
-    raw = fetch_arxiv()
-    seen, items = set(), []
-    for i, it in enumerate(raw):
-        key = md5(it["title"].lower().encode()).hexdigest()
-        if key in seen: continue
-        seen.add(key)
-        region = detect_region(it["title"] + " " + it["summary"])
-        lat, lng = REGION_COORDS[region]
-        items.append({
-            "id": i + 1, "title": it["title"],
-            "type": classify(it["title"], it["summary"]),
-            "region": region, "lat": lat, "lng": lng,
-            "date": it["date"], "author": "arXiv",
-            "summary": it["summary"], "url": it["url"],
-        })
-    return items
-
 def load_ressources():
     if not RESSOURCES_PATH.exists():
-        print(f"[WARN] {RESSOURCES_PATH} absent — lancez convert_xlsx_v3.py d'abord.")
         return {"total": 0, "sources": [], "counts": {}, "items": []}
     return json.loads(RESSOURCES_PATH.read_text(encoding="utf-8"))
 
 def main():
-    notices    = build_notices()
+    arxiv_items = fetch_arxiv()
     ressources = load_ressources()
 
-    NOTICES_PATH.write_text(json.dumps({
-        "last_updated": datetime.now(timezone.utc).isoformat(),
-        "total": len(notices), "items": notices,
-    }, ensure_ascii=False, indent=2), encoding="utf-8")
+    notices = []
+    
+    # 1. Ajout des ressources issues des fichiers Excel dans les notices cartographiables
+    for r in ressources.get("items", []):
+        notices.append({
+            "id": r["id"],
+            "title": r["nom"],
+            "type": r["type"],
+            "region": r.get("region", "Global"),
+            "lat": r.get("lat", 33.5),
+            "lng": r.get("lng", 2.0),
+            "date": datetime.now().strftime("%Y-%m-%d"),
+            "author": r.get("source", "Catalogue"),
+            "summary": r.get("summary", ""),
+            "url": r.get("lien", "")
+        })
 
-    radar = {
+    # 2. Ajout des articles arXiv
+    for i, it in enumerate(arxiv_items):
+        region = detect_region(it["title"] + " " + it["summary"])
+        lat, lng = REGION_COORDS[region]
+        notices.append({
+            "id": f"arxiv-{i+1}",
+            "title": it["title"],
+            "type": classify(it["title"], it["summary"]),
+            "region": region,
+            "lat": lat,
+            "lng": lng,
+            "date": it["date"],
+            "author": "arXiv",
+            "summary": it["summary"],
+            "url": it["url"],
+        })
+
+    payload = {
         "last_updated": datetime.now(timezone.utc).isoformat(),
         "notices": {"total": len(notices), "items": notices},
-        "ressources": {
-            "total":   ressources.get("total", 0),
-            "sources": ressources.get("sources", []),
-            "counts":  ressources.get("counts", {}),
-            "items":   ressources.get("items", []),
-        },
+        "ressources": ressources,
     }
-    OUTPUT_PATH.write_text(json.dumps(radar, ensure_ascii=False, indent=2), encoding="utf-8")
-    print(f"[OK] {len(notices)} notices + {ressources.get('total', 0)} ressources")
+
+    OUTPUT_PATH.parent.mkdir(exist_ok=True)
+    OUTPUT_PATH.write_text(json.dumps(payload, ensure_ascii=False, indent=2), encoding="utf-8")
+    print(f"[OK] {len(notices)} points (évenements + ressources) prêts pour la carte OpenFreeMap.")
 
 if __name__ == "__main__":
     main()

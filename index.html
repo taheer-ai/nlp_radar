@@ -189,7 +189,6 @@
     .mobile-nav-btn.mobile-nav-active { color: var(--accent); background: var(--accent-soft); }
     .mobile-nav-btn:hover { color: var(--accent); }
 
-    /* Chips */
     .chip-corpus { background: rgba(19,138,7,.12); color:#0F6F05; border-color: rgba(19,138,7,.35); }
     .chip-paper  { background: rgba(14,165,233,.12); color:#0369A1; border-color: rgba(14,165,233,.35); }
     .chip-model  { background: rgba(245,158,11,.15);  color:#B45309; border-color: rgba(245,158,11,.4); }
@@ -226,7 +225,6 @@
       font-size: .72rem; color: var(--text-muted); letter-spacing: -.01em;
     }
 
-    /* ═══ BOUTON "VOIR SUR LA CARTE" ═══ */
     .btn-map {
       display: inline-flex; align-items: center; gap: 4px;
       font-family: 'JetBrains Mono', monospace;
@@ -264,12 +262,8 @@
       text-decoration: none;
       white-space: nowrap;
     }
-    .btn-open-ext:hover {
-      border-color: var(--accent);
-      color: var(--accent);
-    }
+    .btn-open-ext:hover { border-color: var(--accent); color: var(--accent); }
 
-    /* ═══ BANNIÈRES Current / Latest ═══ */
     .banner-block {
       border-bottom: 1px solid var(--border-color);
       background: var(--bg-app);
@@ -336,7 +330,6 @@
       margin-top: 3px;
     }
 
-    /* ═══ COMPTEUR CARTE (header) ═══ */
     #map-counter {
       display: inline-flex; align-items: center; gap: 5px;
       font-size: .72rem;
@@ -368,7 +361,6 @@
       </div>
 
       <div class="flex items-center gap-2 sm:gap-3 flex-shrink-0">
-        <!-- ⭐ Compteur de points sur la carte -->
         <span id="map-counter" title="Points positionnés sur la carte">
           <span>📍</span><span id="map-counter-num">0</span>
         </span>
@@ -596,7 +588,6 @@
       Tool: '#F59E0B', Event: '#8B5CF6'
     }[t] || '#138A07');
 
-    /* ═══ i18n ═══ */
     function t(key) {
       const dict = i18n[currentLang] || i18n.fr || {};
       return dict[key] || (i18n.fr && i18n.fr[key]) || key;
@@ -624,7 +615,6 @@
       renderAll();
     }
 
-    /* ═══ CARTE ═══ */
     function createTileLayer(theme) {
       if (!map) return;
       if (tileLayer) { map.removeLayer(tileLayer); tileLayer = null; }
@@ -645,12 +635,11 @@
     }
     function initMap() {
       map = L.map('map', { zoomControl: true, attributionControl: true })
-              .setView([33.5, 2.0], 6);
+              .setView([33.5, 2.0], 5);
       const theme = document.documentElement.classList.contains('dark') ? 'dark' : 'light';
       createTileLayer(theme);
     }
 
-    /* ═══ THÈME ═══ */
     function initTheme() {
       const root = document.documentElement;
       const btn = document.getElementById('theme-toggle');
@@ -703,7 +692,6 @@
       return items;
     }
 
-    /* ═══ CHARGEMENT ═══ */
     async function loadI18n() {
       try {
         const r = await fetch('data/i18n.json', { cache: 'no-store' });
@@ -746,13 +734,12 @@
       } finally { showLoading(false); }
     }
 
-    /* ═══ COMPTEUR CARTE ═══ */
     function updateMapCounter(n) {
       const el = document.getElementById('map-counter-num');
       if (el) el.textContent = n;
     }
 
-    /* ═══ BANNIÈRES Current / Latest ═══ */
+    /* ═══ BANNIÈRES ═══ */
     function renderBanners() {
       const container = document.getElementById('banners-container');
       if (!container) return;
@@ -799,31 +786,25 @@
         </details>`;
 
       container.querySelectorAll('[data-banner-id]').forEach(btn => {
-        btn.addEventListener('click', () => {
-          const id = btn.dataset.bannerId;
-          viewOnMap(id);
-        });
+        btn.addEventListener('click', () => viewOnMap(btn.dataset.bannerId));
       });
     }
 
     function bannerItem(n) {
       const color = getTypeColor(n.type);
       const dateStr = n.date || '';
-      const regionStr = n.region || '';
-      const coords = `${Number(n._displayLat ?? n.lat).toFixed(3)}°N, ${Number(n._displayLng ?? n.lng).toFixed(3)}°E`;
+      const place = n.city || n.region || '';
       return `
         <button data-banner-id="${n.id}" class="banner-item">
           <span class="banner-dot" style="background:${color}"></span>
           <span class="banner-body">
             <span class="banner-title">${esc(n.title)}</span>
-            <span class="banner-meta meta-mono">${esc(dateStr)} · ${esc(regionStr)} · ${coords}</span>
+            <span class="banner-meta meta-mono">${esc(dateStr)} · ${esc(place)}</span>
           </span>
         </button>`;
     }
 
-    /* ═══ VOIR SUR LA CARTE (fonction clé) ═══
-       Recherche une notice par ID, bascule sur l'onglet Veille,
-       vole vers sa position et ouvre le popup. */
+    /* ═══ VOIR SUR LA CARTE ═══ */
     function viewOnMap(id, fallbackUrl) {
       const item = noticesData.find(n => String(n.id) === String(id));
       if (!item) {
@@ -831,14 +812,11 @@
         if (fallbackUrl) window.open(fallbackUrl, '_blank', 'noopener');
         return;
       }
-      // 1. Bascule sur l'onglet Veille
       if (activeTab !== 'veille') switchTab('veille');
-      // 2. Sur mobile, s'assurer que la carte est visible
       if (window.matchMedia('(max-width: 1023px)').matches) {
         mobileView = 'map';
         applyMobileView();
       }
-      // 3. Vol vers la position
       const lat = item._displayLat ?? item.lat;
       const lng = item._displayLng ?? item.lng;
       setTimeout(() => {
@@ -866,7 +844,6 @@
       }, 250);
     }
 
-    /* ═══ RENDU ═══ */
     function renderAll() {
       if (activeTab === 'veille') renderNotices(filterNotices());
       else renderCatalogue(filterRessources());
@@ -877,7 +854,7 @@
       const reg = document.getElementById('region-filter').value;
       const typ = document.getElementById('type-filter').value;
       return noticesData.filter(i => {
-        const hay = ((i.title||'') + ' ' + (i.summary||'')).toLowerCase();
+        const hay = ((i.title||'') + ' ' + (i.summary||'') + ' ' + (i.city||'') + ' ' + (i.region||'')).toLowerCase();
         return (!q || hay.includes(q))
             && (reg === 'ALL' || i.region === reg)
             && (typ === 'ALL' || i.type === typ);
@@ -906,6 +883,7 @@
         const dLatDisp = item._displayLat ?? item.lat;
         const dLngDisp = item._displayLng ?? item.lng;
         const coords = `${Number(dLatDisp).toFixed(4)}°N, ${Number(dLngDisp).toFixed(4)}°E`;
+        const place = item.city || item.region || '';
 
         card.innerHTML = `
           <div class="flex items-center justify-between gap-2">
@@ -918,7 +896,7 @@
           <p class="text-sm text-txt-2 leading-relaxed line-clamp-2">${esc(item.summary||'')}</p>
           <div class="text-xs text-txt-3 pt-1 flex items-center justify-between gap-2">
             <span class="truncate">
-              📍 <span class="meta-mono">${esc(item.region||'')}</span>
+              📍 <span class="meta-mono">${esc(place)}</span>
               <span class="geo-coords ml-1">${coords}</span>
             </span>
             <span class="truncate meta-mono">${esc(item.author||'')}</span>
@@ -946,7 +924,7 @@
             <p style="font-size:.85rem;color:var(--text-secondary);line-height:1.5">
               ${esc(item.summary||'')}
             </p>
-            <div class="popup-coords">📍 ${esc(item.region||'')} · ${coords}</div>
+            <div class="popup-coords">📍 ${esc(place)} · ${coords}</div>
             <a href="${esc(item.url)}" target="_blank" rel="noopener"
                style="font-size:.85rem;color:var(--accent);text-decoration:none;font-weight:500">
               ${t('consult')} →
@@ -964,7 +942,7 @@
       const oa = document.getElementById('oa-filter').value;
       return ressourcesData.filter(r => {
         const desc = r.description?.[currentLang] || r.description?.fr || '';
-        const hay = ((r.nom||'') + ' ' + (r.type||'') + ' ' + desc).toLowerCase();
+        const hay = ((r.nom||'') + ' ' + (r.type||'') + ' ' + desc + ' ' + (r.city||'') + ' ' + (r.region||'')).toLowerCase();
         if (q && !hay.includes(q)) return false;
         if (src !== 'ALL' && r.source !== src) return false;
         if (cat !== 'ALL' && r.categorie_key !== cat) return false;
@@ -982,34 +960,32 @@
     const SRC_KEY   = { general:'source_general', berbere:'source_berbere', ecosysteme:'source_ecosysteme' };
 
     function renderCatalogue(items) {
-      // ═══ Sidebar gauche : liste compacte ═══
       const c = document.getElementById('cards-container');
       c.innerHTML = '';
       document.getElementById('results-count').textContent = items.length;
 
       items.forEach(r => {
         const desc = r.description?.[currentLang] || r.description?.fr || r.type || '';
+        const place = r.city || r.region || '';
         const card = document.createElement('div');
         card.className = "card-hover p-4 bg-elevated border border-line rounded-lg cursor-pointer space-y-1.5";
         card.innerHTML = `
           <div class="flex items-center justify-between gap-2">
             <span class="src-pill ${SRC_CLASS[r.source]||'src-general'}">${t(SRC_KEY[r.source]||'source_general')}</span>
-            <span class="text-xs text-txt-3 whitespace-nowrap meta-mono">${esc(r.langue||'')}</span>
+            <span class="text-xs text-txt-3 whitespace-nowrap meta-mono">${esc(place)}</span>
           </div>
           <h4 class="text-base font-medium text-txt leading-snug line-clamp-2">${esc(r.nom)}</h4>
           <p class="text-sm text-txt-2 line-clamp-3">${esc(desc)}</p>
           <div class="flex items-center gap-2 pt-1">
             <button class="btn-map" data-map-id="${esc(r.id)}" data-map-url="${esc(r.lien)}">📍 Carte</button>
           </div>`;
-        // Clic sur la carte = voir sur la carte
         card.onclick = (e) => {
-          if (e.target.closest('.btn-map')) return; // géré par le bouton
+          if (e.target.closest('.btn-map')) return;
           viewOnMap(r.id, r.lien);
         };
         c.appendChild(card);
       });
 
-      // ═══ Grille centrale ═══
       const grid = document.getElementById('catalogue-grid');
       grid.innerHTML = '';
       if (!items.length) {
@@ -1029,7 +1005,7 @@
         const metaParts = [
           r.taille ? `<span class="meta-mono">📦 ${esc(r.taille)}</span>` : '',
           r.langue ? `<span class="meta-mono">🗣 ${esc(r.langue)}</span>` : '',
-          r.pays && r.pays !== 'International' ? `<span class="meta-mono">🌍 ${esc(r.pays)}</span>` : ''
+          (r.city || r.pays) && (r.city || r.pays) !== 'International' ? `<span class="meta-mono">📍 ${esc(r.city || r.pays)}</span>` : ''
         ].filter(Boolean).join(' · ');
 
         div.innerHTML = `
@@ -1061,7 +1037,6 @@
         grid.appendChild(div);
       });
 
-      // Délégation d'événement : un seul listener pour tous les boutons .btn-map
       document.querySelectorAll('.btn-map').forEach(btn => {
         btn.addEventListener('click', (e) => {
           e.stopPropagation();

@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-13T21:26:08.719743+00:00",
+  "last_updated": "2026-09-13T21:50:36.858230+00:00",
   "total": 166,
   "sources": [
     {
@@ -15,6 +15,24 @@
       "label_key": "source_ecosysteme"
     }
   ],
+  "counts": {
+    "general": 47,
+    "berbere": 50,
+    "ecosysteme": 69
+  },
+  "stats": {
+    "descriptions_total": 166,
+    "descriptions_untranslated_kab": 60,
+    "geo_distribution": {
+      "International": 126,
+      "Europe": 5,
+      "Europe de l'Ouest": 3,
+      "Asie": 1,
+      "Amérique du Nord": 1,
+      "Kabylie": 28,
+      "Afrique du Nord": 2
+    }
+  },
   "items": [
     {
       "id": "gen-001",
@@ -27,8 +45,9 @@
       "langue": "Anglais",
       "pays": "International",
       "region": "International",
-      "lat": 33.5,
-      "lng": 2.0,
+      "city": "Amsterdam",
+      "lat": 52.3676,
+      "lng": 4.9041,
       "taille": "",
       "lien": "https://www.aclweb.org/portal/events",
       "url": "https://www.aclweb.org/portal/events",
@@ -52,8 +71,9 @@
       "langue": "Anglais",
       "pays": "International",
       "region": "International",
-      "lat": 33.5,
-      "lng": 2.0,
+      "city": "Berlin",
+      "lat": 52.52,
+      "lng": 13.405,
       "taille": "",
       "lien": "https://aclanthology.org/events/",
       "url": "https://aclanthology.org/events/",
@@ -77,8 +97,9 @@
       "langue": "Anglais",
       "pays": "International",
       "region": "International",
-      "lat": 33.5,
-      "lng": 2.0,
+      "city": "Paris",
+      "lat": 48.8566,
+      "lng": 2.3522,
       "taille": "",
       "lien": "http://www.wikicfp.com/cfp/call?conference=NLP",
       "url": "http://www.wikicfp.com/cfp/call?conference=NLP",
@@ -102,8 +123,9 @@
       "langue": "Anglais",
       "pays": "International",
       "region": "International",
-      "lat": 33.5,
-      "lng": 2.0,
+      "city": "Stockholm",
+      "lat": 59.3293,
+      "lng": 18.0686,
       "taille": "",
       "lien": "https://www.conferencedeadlines.com/conferences/nlp",
       "url": "https://www.conferencedeadlines.com/conferences/nlp",
@@ -127,8 +149,9 @@
       "langue": "Anglais",
       "pays": "International",
       "region": "International",
-      "lat": 33.5,
-      "lng": 2.0,
+      "city": "Stockholm",
+      "lat": 59.3293,
+      "lng": 18.0686,
       "taille": "",
       "lien": "https://waset.org/natural-language-processing-nlp-conferences",
       "url": "https://waset.org/natural-language-processing-nlp-conferences",
@@ -152,8 +175,9 @@
       "langue": "Anglais",
       "pays": "International",
       "region": "International",
-      "lat": 33.5,
-      "lng": 2.0,
+      "city": "London",
+      "lat": 51.5074,
+      "lng": -0.1278,
       "taille": "",
       "lien": "https://conferenceindex.org/conferences/natural-language-processing-nlp",
       "url": "https://conferenceindex.org/conferences/natural-language-processing-nlp",
@@ -176,7 +200,8 @@
       "type": "Event",
       "langue": "Francais",
       "pays": "France",
-      "region": "France",
+      "region": "Europe",
+      "city": "Paris",
       "lat": 48.8566,
       "lng": 2.3522,
       "taille": "",
@@ -201,7 +226,8 @@
       "type": "Event",
       "langue": "Anglais",
       "pays": "Royaume-Uni",
-      "region": "Royaume-Uni",
+      "region": "Europe",
+      "city": "Londres",
       "lat": 51.5074,
       "lng": -0.1278,
       "taille": "",
@@ -227,8 +253,9 @@
       "langue": "Anglais",
       "pays": "International",
       "region": "International",
-      "lat": 33.5,
-      "lng": 2.0,
+      "city": "New York",
+      "lat": 40.7128,
+      "lng": -74.006,
       "taille": "",
       "lien": "https://lrec2026.info/accepted-workshops/",
       "url": "https://lrec2026.info/accepted-workshops/",
@@ -236,9 +263,9 @@
       "summary": "Workshops ressources linguistiques",
       "description": {
         "fr": "Workshops ressources linguistiques",
-        "en": "Workshops ressources linguistiques",
-        "kab": "Workshops ressources linguistiques",
-        "kab_auto": false
+        "en": "Workshops resources linguistiques",
+        "kab": "Workshops iɣbula linguistiques",
+        "kab_auto": true
       }
     },
     {
@@ -252,8 +279,9 @@
       "langue": "Anglais",
       "pays": "International",
       "region": "International",
-      "lat": 33.5,
-      "lng": 2.0,
+      "city": "New York",
+      "lat": 40.7128,
+      "lng": -74.006,
       "taille": "",
       "lien": "https://2026.emnlp.org/calls/workshops/",
       "url": "https://2026.emnlp.org/calls/workshops/",
@@ -277,8 +305,9 @@
       "langue": "Anglais",
       "pays": "International",
       "region": "International",
-      "lat": 33.5,
-      "lng": 2.0,
+      "city": "Sydney",
+      "lat": -33.8688,
+      "lng": 151.2093,
       "taille": "",
       "lien": "https://linguistlist.org/issues/36/2900/",
       "url": "https://linguistlist.org/issues/36/2900/",
@@ -301,7 +330,8 @@
       "type": "Event",
       "langue": "Francais/Anglais",
       "pays": "France",
-      "region": "France",
+      "region": "Europe de l'Ouest",
+      "city": "Paris",
       "lat": 48.8566,
       "lng": 2.3522,
       "taille": "",
@@ -326,7 +356,8 @@
       "type": "Event",
       "langue": "Francais",
       "pays": "France",
-      "region": "France",
+      "region": "Europe",
+      "city": "Paris",
       "lat": 48.8566,
       "lng": 2.3522,
       "taille": "",
@@ -351,7 +382,8 @@
       "type": "Event",
       "langue": "Anglais",
       "pays": "Taiwan",
-      "region": "Taiwan",
+      "region": "Asie",
+      "city": "Taiwan",
       "lat": 25.033,
       "lng": 121.5654,
       "taille": "",
@@ -377,8 +409,9 @@
       "langue": "Anglais",
       "pays": "International",
       "region": "International",
-      "lat": 33.5,
-      "lng": 2.0,
+      "city": "Rabat",
+      "lat": 34.0209,
+      "lng": -6.8416,
       "taille": "",
       "lien": "https://www.allconferencealert.com/natural-language-processing",
       "url": "https://www.allconferencealert.com/natural-language-processing",
@@ -402,8 +435,9 @@
       "langue": "Anglais (+ autres)",
       "pays": "International",
       "region": "International",
-      "lat": 33.5,
-      "lng": 2.0,
+      "city": "Tokyo",
+      "lat": 35.6762,
+      "lng": 139.6503,
       "taille": "",
       "lien": "https://www.indeed.com/q-natural-language-processing-nlp-jobs.html",
       "url": "https://www.indeed.com/q-natural-language-processing-nlp-jobs.html",
@@ -411,9 +445,9 @@
       "summary": "Moteur de recherche (CDI, CDD, stages, freelance)",
       "description": {
         "fr": "Moteur de recherche (CDI, CDD, stages, freelance)",
-        "en": "Moteur de recherche (CDI, CDD, stages, freelance)",
-        "kab": "Moteur de recherche (CDI, CDD, stages, freelance)",
-        "kab_auto": false
+        "en": "Moteur de research (CDI, CDD, stages, freelance)",
+        "kab": "Moteur de anadi (CDI, CDD, stages, freelance)",
+        "kab_auto": true
       }
     },
     {
@@ -427,8 +461,9 @@
       "langue": "Anglais (+ autres)",
       "pays": "International",
       "region": "International",
-      "lat": 33.5,
-      "lng": 2.0,
+      "city": "Tokyo",
+      "lat": 35.6762,
+      "lng": 139.6503,
       "taille": "",
       "lien": "https://www.linkedin.com/jobs/",
       "url": "https://www.linkedin.com/jobs/",
@@ -452,8 +487,9 @@
       "langue": "Anglais/Francais (+ autres)",
       "pays": "International",
       "region": "International",
-      "lat": 33.5,
-      "lng": 2.0,
+      "city": "Stockholm",
+      "lat": 59.3293,
+      "lng": 18.0686,
       "taille": "",
       "lien": "https://www.glassdoor.fr/",
       "url": "https://www.glassdoor.fr/",
@@ -477,8 +513,9 @@
       "langue": "Anglais",
       "pays": "International",
       "region": "International",
-      "lat": 33.5,
-      "lng": 2.0,
+      "city": "Berlin",
+      "lat": 52.52,
+      "lng": 13.405,
       "taille": "",
       "lien": "https://nlppeople.com/jobs/",
       "url": "https://nlppeople.com/jobs/",
@@ -486,9 +523,9 @@
       "summary": "Site communautaire NLP/LLM",
       "description": {
         "fr": "Site communautaire NLP/LLM",
-        "en": "Site communautaire NLP/LLM",
-        "kab": "Site communautaire NLP/LLM",
-        "kab_auto": false
+        "en": "Site community NLP/LLM",
+        "kab": "Site n tegrawla NLP/LLM",
+        "kab_auto": true
       }
     },
     {
@@ -502,8 +539,9 @@
       "langue": "Anglais",
       "pays": "International",
       "region": "International",
-      "lat": 33.5,
-      "lng": 2.0,
+      "city": "Rabat",
+      "lat": 34.0209,
+      "lng": -6.8416,
       "taille": "",
       "lien": "https://www.rebuix.com/jobs",
       "url": "https://www.rebuix.com/jobs",
@@ -527,8 +565,9 @@
       "langue": "Anglais",
       "pays": "International",
       "region": "International",
-      "lat": 33.5,
-      "lng": 2.0,
+      "city": "Bruxelles",
+      "lat": 50.8503,
+      "lng": 4.3517,
       "taille": "",
       "lien": "https://www.neuralhire.ai/",
       "url": "https://www.neuralhire.ai/",
@@ -551,9 +590,10 @@
       "type": "Event",
       "langue": "Anglais",
       "pays": "UK/US/Europe",
-      "region": "Global",
-      "lat": 33.5,
-      "lng": 2.0,
+      "region": "Europe",
+      "city": "Londres",
+      "lat": 51.5074,
+      "lng": -0.1278,
       "taille": "",
       "lien": "https://haystackapp.io/jobs?skills=NLP",
       "url": "https://haystackapp.io/jobs?skills=NLP",
@@ -577,8 +617,9 @@
       "langue": "Anglais",
       "pays": "International",
       "region": "International",
-      "lat": 33.5,
-      "lng": 2.0,
+      "city": "San Francisco",
+      "lat": 37.7749,
+      "lng": -122.4194,
       "taille": "",
       "lien": "https://www.upwork.com/",
       "url": "https://www.upwork.com/",
@@ -602,8 +643,9 @@
       "langue": "Anglais",
       "pays": "International",
       "region": "International",
-      "lat": 33.5,
-      "lng": 2.0,
+      "city": "Alger",
+      "lat": 36.7538,
+      "lng": 3.0588,
       "taille": "",
       "lien": "https://www.toptal.com/",
       "url": "https://www.toptal.com/",
@@ -627,8 +669,9 @@
       "langue": "Anglais",
       "pays": "International",
       "region": "International",
-      "lat": 33.5,
-      "lng": 2.0,
+      "city": "Amsterdam",
+      "lat": 52.3676,
+      "lng": 4.9041,
       "taille": "",
       "lien": "https://www.freelancer.com/",
       "url": "https://www.freelancer.com/",
@@ -652,8 +695,9 @@
       "langue": "Anglais",
       "pays": "International",
       "region": "International",
-      "lat": 33.5,
-      "lng": 2.0,
+      "city": "Bruxelles",
+      "lat": 50.8503,
+      "lng": 4.3517,
       "taille": "",
       "lien": "https://www.aigigjobs.com/skills/nlp",
       "url": "https://www.aigigjobs.com/skills/nlp",
@@ -676,9 +720,10 @@
       "type": "Event",
       "langue": "Anglais",
       "pays": "US/International",
-      "region": "Global",
-      "lat": 33.5,
-      "lng": 2.0,
+      "region": "Amérique du Nord",
+      "city": "Washington",
+      "lat": 38.9072,
+      "lng": -77.0369,
       "taille": "",
       "lien": "https://www.internships.com/browse/nlp",
       "url": "https://www.internships.com/browse/nlp",
@@ -701,9 +746,10 @@
       "type": "Paper",
       "langue": "Anglais",
       "pays": "International (editeur MIT Press)",
-      "region": "Global",
-      "lat": 33.5,
-      "lng": 2.0,
+      "region": "International",
+      "city": "New Delhi",
+      "lat": 28.6139,
+      "lng": 77.209,
       "taille": "",
       "lien": "https://direct.mit.edu/coli",
       "url": "https://direct.mit.edu/coli",
@@ -726,9 +772,10 @@
       "type": "Paper",
       "langue": "Anglais",
       "pays": "International (MIT Press)",
-      "region": "Global",
-      "lat": 33.5,
-      "lng": 2.0,
+      "region": "International",
+      "city": "Mexico",
+      "lat": 19.4326,
+      "lng": -99.1332,
       "taille": "",
       "lien": "https://direct.mit.edu/tacl",
       "url": "https://direct.mit.edu/tacl",
@@ -751,9 +798,10 @@
       "type": "Paper",
       "langue": "Anglais",
       "pays": "International (Cambridge UP)",
-      "region": "Global",
-      "lat": 33.5,
-      "lng": 2.0,
+      "region": "Europe de l'Ouest",
+      "city": "Cambridge",
+      "lat": 52.2053,
+      "lng": 0.1218,
       "taille": "",
       "lien": "https://www.cambridge.org/core/journals/natural-language-processing",
       "url": "https://www.cambridge.org/core/journals/natural-language-processing",
@@ -776,9 +824,10 @@
       "type": "Paper",
       "langue": "Anglais",
       "pays": "International (Elsevier)",
-      "region": "Global",
-      "lat": 33.5,
-      "lng": 2.0,
+      "region": "International",
+      "city": "Toronto",
+      "lat": 43.6532,
+      "lng": -79.3832,
       "taille": "",
       "lien": "https://www.journals.elsevier.com/computer-speech-and-language",
       "url": "https://www.journals.elsevier.com/computer-speech-and-language",
@@ -786,9 +835,9 @@
       "summary": "Parole + NLP",
       "description": {
         "fr": "Parole + NLP",
-        "en": "Parole + NLP",
-        "kab": "Parole + NLP",
-        "kab_auto": false
+        "en": "speech + NLP",
+        "kab": "imeslay + NLP",
+        "kab_auto": true
       }
     },
     {
@@ -801,9 +850,10 @@
       "type": "Paper",
       "langue": "Anglais",
       "pays": "International (Springer)",
-      "region": "Global",
-      "lat": 33.5,
-      "lng": 2.0,
+      "region": "International",
+      "city": "Copenhagen",
+      "lat": 55.6761,
+      "lng": 12.5683,
       "taille": "",
       "lien": "https://www.springer.com/journal/10579",
       "url": "https://www.springer.com/journal/10579",
@@ -811,9 +861,9 @@
       "summary": "Ressources, corpus, evaluation",
       "description": {
         "fr": "Ressources, corpus, evaluation",
-        "en": "Ressources, corpus, evaluation",
-        "kab": "Ressources, corpus, evaluation",
-        "kab_auto": false
+        "en": "resources, corpus, evaluation",
+        "kab": "iɣbula, corpus, evaluation",
+        "kab_auto": true
       }
     },
     {
@@ -826,9 +876,10 @@
       "type": "Paper",
       "langue": "Anglais",
       "pays": "International (AI Access Foundation)",
-      "region": "Global",
-      "lat": 33.5,
-      "lng": 2.0,
+      "region": "International",
+      "city": "Singapore",
+      "lat": 1.3521,
+      "lng": 103.8198,
       "taille": "",
       "lien": "https://www.jair.org/",
       "url": "https://www.jair.org/",
@@ -851,9 +902,10 @@
       "type": "Paper",
       "langue": "Anglais",
       "pays": "International (Elsevier)",
-      "region": "Global",
-      "lat": 33.5,
-      "lng": 2.0,
+      "region": "International",
+      "city": "Taipei",
+      "lat": 25.033,
+      "lng": 121.5654,
       "taille": "",
       "lien": "https://www.journals.elsevier.com/artificial-intelligence",
       "url": "https://www.journals.elsevier.com/artificial-intelligence",
@@ -876,9 +928,10 @@
       "type": "Paper",
       "langue": "Anglais",
       "pays": "International (IEEE)",
-      "region": "Global",
-      "lat": 33.5,
-      "lng": 2.0,
+      "region": "International",
+      "city": "Paris",
+      "lat": 48.8566,
+      "lng": 2.3522,
       "taille": "",
       "lien": "https://www.computer.org/csdl/journal/tp",
       "url": "https://www.computer.org/csdl/journal/tp",
@@ -901,9 +954,10 @@
       "type": "Paper",
       "langue": "Anglais",
       "pays": "International (IEEE)",
-      "region": "Global",
-      "lat": 33.5,
-      "lng": 2.0,
+      "region": "International",
+      "city": "Stockholm",
+      "lat": 59.3293,
+      "lng": 18.0686,
       "taille": "",
       "lien": "https://signalprocessingsociety.org/publications-resources/ieee-transactions-audio-speech-and-language-processing",
       "url": "https://signalprocessingsociety.org/publications-resources/ieee-transactions-audio-speech-and-language-processing",
@@ -911,9 +965,9 @@
       "summary": "Parole, ASR, NLP oral",
       "description": {
         "fr": "Parole, ASR, NLP oral",
-        "en": "Parole, ASR, NLP oral",
-        "kab": "Parole, ASR, NLP oral",
-        "kab_auto": false
+        "en": "speech, ASR, NLP oral",
+        "kab": "imeslay, ASR, NLP oral",
+        "kab_auto": true
       }
     },
     {
@@ -926,9 +980,10 @@
       "type": "Paper",
       "langue": "Anglais",
       "pays": "International (Springer)",
-      "region": "Global",
-      "lat": 33.5,
-      "lng": 2.0,
+      "region": "International",
+      "city": "Berlin",
+      "lat": 52.52,
+      "lng": 13.405,
       "taille": "",
       "lien": "https://www.springer.com/journal/10994",
       "url": "https://www.springer.com/journal/10994",
@@ -951,9 +1006,10 @@
       "type": "Paper",
       "langue": "Anglais",
       "pays": "International (MIT Press)",
-      "region": "Global",
-      "lat": 33.5,
-      "lng": 2.0,
+      "region": "International",
+      "city": "Paris",
+      "lat": 48.8566,
+      "lng": 2.3522,
       "taille": "",
       "lien": "https://direct.mit.edu/neco",
       "url": "https://direct.mit.edu/neco",
@@ -976,9 +1032,10 @@
       "type": "Paper",
       "langue": "Anglais",
       "pays": "International (Elsevier)",
-      "region": "Global",
-      "lat": 33.5,
-      "lng": 2.0,
+      "region": "International",
+      "city": "Taipei",
+      "lat": 25.033,
+      "lng": 121.5654,
       "taille": "",
       "lien": "https://www.journals.elsevier.com/data-and-knowledge-engineering",
       "url": "https://www.journals.elsevier.com/data-and-knowledge-engineering",
@@ -1001,9 +1058,10 @@
       "type": "Paper",
       "langue": "Anglais",
       "pays": "International (Elsevier)",
-      "region": "Global",
-      "lat": 33.5,
-      "lng": 2.0,
+      "region": "International",
+      "city": "Bruxelles",
+      "lat": 50.8503,
+      "lng": 4.3517,
       "taille": "",
       "lien": "https://www.journals.elsevier.com/information-processing-and-management",
       "url": "https://www.journals.elsevier.com/information-processing-and-management",
@@ -1026,9 +1084,10 @@
       "type": "Paper",
       "langue": "Anglais",
       "pays": "International (Elsevier)",
-      "region": "Global",
-      "lat": 33.5,
-      "lng": 2.0,
+      "region": "International",
+      "city": "San Francisco",
+      "lat": 37.7749,
+      "lng": -122.4194,
       "taille": "",
       "lien": "https://www.journals.elsevier.com/knowledge-based-systems",
       "url": "https://www.journals.elsevier.com/knowledge-based-systems",
@@ -1051,9 +1110,10 @@
       "type": "Paper",
       "langue": "Anglais",
       "pays": "International (Elsevier)",
-      "region": "Global",
-      "lat": 33.5,
-      "lng": 2.0,
+      "region": "International",
+      "city": "Toronto",
+      "lat": 43.6532,
+      "lng": -79.3832,
       "taille": "",
       "lien": "https://www.journals.elsevier.com/engineering-applications-of-artificial-intelligence",
       "url": "https://www.journals.elsevier.com/engineering-applications-of-artificial-intelligence",
@@ -1076,9 +1136,10 @@
       "type": "Paper",
       "langue": "Anglais",
       "pays": "International (Elsevier)",
-      "region": "Global",
-      "lat": 33.5,
-      "lng": 2.0,
+      "region": "International",
+      "city": "San Francisco",
+      "lat": 37.7749,
+      "lng": -122.4194,
       "taille": "",
       "lien": "https://www.journals.elsevier.com/journal-of-biomedical-informatics",
       "url": "https://www.journals.elsevier.com/journal-of-biomedical-informatics",
@@ -1101,9 +1162,10 @@
       "type": "Paper",
       "langue": "Anglais",
       "pays": "International (BMC)",
-      "region": "Global",
-      "lat": 33.5,
-      "lng": 2.0,
+      "region": "International",
+      "city": "Copenhagen",
+      "lat": 55.6761,
+      "lng": 12.5683,
       "taille": "",
       "lien": "https://bmcmedinformdecismak.biomedcentral.com/",
       "url": "https://bmcmedinformdecismak.biomedcentral.com/",
@@ -1126,9 +1188,10 @@
       "type": "Paper",
       "langue": "Anglais",
       "pays": "International (Oxford UP)",
-      "region": "Global",
-      "lat": 33.5,
-      "lng": 2.0,
+      "region": "Europe de l'Ouest",
+      "city": "Oxford",
+      "lat": 51.752,
+      "lng": -1.2577,
       "taille": "",
       "lien": "https://academic.oup.com/dsh",
       "url": "https://academic.oup.com/dsh",
@@ -1152,8 +1215,9 @@
       "langue": "Anglais",
       "pays": "International",
       "region": "International",
-      "lat": 33.5,
-      "lng": 2.0,
+      "city": "Cairo",
+      "lat": 30.0444,
+      "lng": 31.2357,
       "taille": "",
       "lien": "https://academic.oup.com/dhq",
       "url": "https://academic.oup.com/dhq",
@@ -1176,9 +1240,10 @@
       "type": "Paper",
       "langue": "Anglais",
       "pays": "International (Springer)",
-      "region": "Global",
-      "lat": 33.5,
-      "lng": 2.0,
+      "region": "International",
+      "city": "Mexico",
+      "lat": 19.4326,
+      "lng": -99.1332,
       "taille": "",
       "lien": "https://www.springer.com/journal/10772",
       "url": "https://www.springer.com/journal/10772",
@@ -1186,9 +1251,9 @@
       "summary": "Parole + NLP",
       "description": {
         "fr": "Parole + NLP",
-        "en": "Parole + NLP",
-        "kab": "Parole + NLP",
-        "kab_auto": false
+        "en": "speech + NLP",
+        "kab": "imeslay + NLP",
+        "kab_auto": true
       }
     },
     {
@@ -1202,8 +1267,9 @@
       "langue": "Tashlhiyt (Berbère)",
       "pays": "International",
       "region": "International",
-      "lat": 33.5,
-      "lng": 2.0,
+      "city": "Alger",
+      "lat": 36.7538,
+      "lng": 3.0588,
       "taille": "",
       "lien": "https://arxiv.org/abs/2603.21571",
       "url": "https://arxiv.org/abs/2603.21571",
@@ -1211,9 +1277,9 @@
       "summary": "Corpus parallèle anglais-tashlhiyt (5000 paires) pour normalisation orthographique",
       "description": {
         "fr": "Corpus parallèle anglais-tashlhiyt (5000 paires) pour normalisation orthographique",
-        "en": "Corpus parallèle anglais-tashlhiyt (5000 paires) pour normalisation orthographique",
-        "kab": "Corpus parallèle anglais-tashlhiyt (5000 paires) pour normalisation orthographique",
-        "kab_auto": false
+        "en": "parallel corpus anglais-tashlhiyt (5000 pairs) pour normalization orthographic",
+        "kab": "ismal amsadaɣ anglais-tashlhiyt (5000 tiguṭṭa) pour aslaz n tira",
+        "kab_auto": true
       }
     },
     {
@@ -1227,8 +1293,9 @@
       "langue": "Tashlhiyt (Berbère)",
       "pays": "International",
       "region": "International",
-      "lat": 33.5,
-      "lng": 2.0,
+      "city": "Sydney",
+      "lat": -33.8688,
+      "lng": 151.2093,
       "taille": "",
       "lien": "https://aclanthology.org/2026.slide-1.11/",
       "url": "https://aclanthology.org/2026.slide-1.11/",
@@ -1252,8 +1319,9 @@
       "langue": "Tamazight (Berbère)",
       "pays": "International",
       "region": "International",
-      "lat": 33.5,
-      "lng": 2.0,
+      "city": "São Paulo",
+      "lat": -23.5505,
+      "lng": -46.6333,
       "taille": "",
       "lien": "https://huggingface.co/collections/Tamazight/audio-datasets",
       "url": "https://huggingface.co/collections/Tamazight/audio-datasets",
@@ -1261,9 +1329,9 @@
       "summary": "Collection de datasets audio pour reconnaissance vocale tamazight",
       "description": {
         "fr": "Collection de datasets audio pour reconnaissance vocale tamazight",
-        "en": "Collection de datasets audio pour reconnaissance vocale tamazight",
-        "kab": "Collection de datasets audio pour reconnaissance vocale tamazight",
-        "kab_auto": false
+        "en": "collection de datasets audio pour speech recognition tamazight",
+        "kab": "tagrumma de ismalen imesli pour assali n yimeslay tamazight",
+        "kab_auto": true
       }
     },
     {
@@ -1277,8 +1345,9 @@
       "langue": "Tamazight (Tifinagh)",
       "pays": "International",
       "region": "International",
-      "lat": 33.5,
-      "lng": 2.0,
+      "city": "London",
+      "lat": 51.5074,
+      "lng": -0.1278,
       "taille": "",
       "lien": "https://huggingface.co/collections/Tamazight/tifinagh-ocr-datasets",
       "url": "https://huggingface.co/collections/Tamazight/tifinagh-ocr-datasets",
@@ -1286,9 +1355,9 @@
       "summary": "Datasets OCR pour écriture Tifinagh (lignes simples et pages complètes)",
       "description": {
         "fr": "Datasets OCR pour écriture Tifinagh (lignes simples et pages complètes)",
-        "en": "Datasets OCR pour écriture Tifinagh (lignes simples et pages complètes)",
-        "kab": "Datasets OCR pour écriture Tifinagh (lignes simples et pages complètes)",
-        "kab_auto": false
+        "en": "datasets OCR pour script Tifinagh (lines simples et pages complètes)",
+        "kab": "ismalen OCR pour tira Tifinagh (izirig simples et isebtar complètes)",
+        "kab_auto": true
       }
     },
     {
@@ -1302,8 +1371,9 @@
       "langue": "Tamazight (zgh)",
       "pays": "International",
       "region": "International",
-      "lat": 33.5,
-      "lng": 2.0,
+      "city": "London",
+      "lat": 51.5074,
+      "lng": -0.1278,
       "taille": "",
       "lien": "https://huggingface.co/datasets/Tamazight-NLP/1002-Amazigh-Proverbs",
       "url": "https://huggingface.co/datasets/Tamazight-NLP/1002-Amazigh-Proverbs",
@@ -1311,9 +1381,9 @@
       "summary": "Collection de proverbes amazighs",
       "description": {
         "fr": "Collection de proverbes amazighs",
-        "en": "Collection de proverbes amazighs",
-        "kab": "Collection de proverbes amazighs",
-        "kab_auto": false
+        "en": "collection de proverbs amazighs",
+        "kab": "tagrumma de inzan amazighs",
+        "kab_auto": true
       }
     },
     {
@@ -1327,8 +1397,9 @@
       "langue": "Tashelhit (Berbère)",
       "pays": "International",
       "region": "International",
-      "lat": 33.5,
-      "lng": 2.0,
+      "city": "Bruxelles",
+      "lat": 50.8503,
+      "lng": 4.3517,
       "taille": "",
       "lien": "https://huggingface.co/datasets/abdelhaqueidali/Tashelhit-Tifinagh-Latin-Parallel-Tatoeba-Dataset",
       "url": "https://huggingface.co/datasets/abdelhaqueidali/Tashelhit-Tifinagh-Latin-Parallel-Tatoeba-Dataset",
@@ -1336,9 +1407,9 @@
       "summary": "Corpus parallèle Tifinagh-Latin pour tashelhit (Tatoeba)",
       "description": {
         "fr": "Corpus parallèle Tifinagh-Latin pour tashelhit (Tatoeba)",
-        "en": "Corpus parallèle Tifinagh-Latin pour tashelhit (Tatoeba)",
-        "kab": "Corpus parallèle Tifinagh-Latin pour tashelhit (Tatoeba)",
-        "kab_auto": false
+        "en": "parallel corpus Tifinagh-Latin pour tashelhit (Tatoeba)",
+        "kab": "ismal amsadaɣ Tifinagh-Latin pour tashelhit (Tatoeba)",
+        "kab_auto": true
       }
     },
     {
@@ -1352,8 +1423,9 @@
       "langue": "Tarifit (Berbère)",
       "pays": "International",
       "region": "International",
-      "lat": 33.5,
-      "lng": 2.0,
+      "city": "Bruxelles",
+      "lat": 50.8503,
+      "lng": 4.3517,
       "taille": "",
       "lien": "https://huggingface.co/datasets/SmokePearl/tarifit-pbc-corpus",
       "url": "https://huggingface.co/datasets/SmokePearl/tarifit-pbc-corpus",
@@ -1377,6 +1449,7 @@
       "langue": "50 langues africaines (dont Kabyle, Tamazight)",
       "pays": "International",
       "region": "Kabylie",
+      "city": "Tizi Ouzou",
       "lat": 36.7118,
       "lng": 4.0459,
       "taille": "4B",
@@ -1386,9 +1459,9 @@
       "summary": "LLM 4B adapté à 50 langues africaines (dont Central Atlas Tamazight, Kabyle) via continued pre-training",
       "description": {
         "fr": "LLM 4B adapté à 50 langues africaines (dont Central Atlas Tamazight, Kabyle) via continued pre-training",
-        "en": "LLM 4B adapté à 50 langues africaines (dont Central Atlas Tamazight, Kabyle) via continued pre-training",
-        "kab": "LLM 4B adapté à 50 langues africaines (dont Central Atlas Tamazight, Kabyle) via continued pre-training",
-        "kab_auto": false
+        "en": "LLM 4B adapté à 50 languages africaines (dont Central Atlas Tamazight, Kabyle) via continued pre-training",
+        "kab": "LLM 4B adapté à 50 tutlayin africaines (dont Central Atlas Tamazight, Kabyle) via continued pre-training",
+        "kab_auto": true
       }
     },
     {
@@ -1402,8 +1475,9 @@
       "langue": "Tamazight (Berbère)",
       "pays": "International",
       "region": "International",
-      "lat": 33.5,
-      "lng": 2.0,
+      "city": "Stockholm",
+      "lat": 59.3293,
+      "lng": 18.0686,
       "taille": "Variable",
       "lien": "https://huggingface.co/collections/Tamazight-NLP/asr-models",
       "url": "https://huggingface.co/collections/Tamazight-NLP/asr-models",
@@ -1411,9 +1485,9 @@
       "summary": "Collection de modèles de reconnaissance vocale pour tamazight",
       "description": {
         "fr": "Collection de modèles de reconnaissance vocale pour tamazight",
-        "en": "Collection de modèles de reconnaissance vocale pour tamazight",
-        "kab": "Collection de modèles de reconnaissance vocale pour tamazight",
-        "kab_auto": false
+        "en": "collection de models de speech recognition pour tamazight",
+        "kab": "tagrumma de timudmiwin de assali n yimeslay pour tamazight",
+        "kab_auto": true
       }
     },
     {
@@ -1427,8 +1501,9 @@
       "langue": "Tamazight (Berbère)",
       "pays": "International",
       "region": "International",
-      "lat": 33.5,
-      "lng": 2.0,
+      "city": "Bruxelles",
+      "lat": 50.8503,
+      "lng": 4.3517,
       "taille": "Variable",
       "lien": "https://huggingface.co/collections/Tamazight-NLP/tts-models",
       "url": "https://huggingface.co/collections/Tamazight-NLP/tts-models",
@@ -1436,9 +1511,9 @@
       "summary": "Collection de modèles de synthèse vocale pour tamazight",
       "description": {
         "fr": "Collection de modèles de synthèse vocale pour tamazight",
-        "en": "Collection de modèles de synthèse vocale pour tamazight",
-        "kab": "Collection de modèles de synthèse vocale pour tamazight",
-        "kab_auto": false
+        "en": "collection de models de speech synthesis pour tamazight",
+        "kab": "tagrumma de timudmiwin de asudeɣ n yimeslay pour tamazight",
+        "kab_auto": true
       }
     },
     {
@@ -1452,8 +1527,9 @@
       "langue": "Tamazight (Berbère)",
       "pays": "International",
       "region": "International",
-      "lat": 33.5,
-      "lng": 2.0,
+      "city": "Mexico",
+      "lat": 19.4326,
+      "lng": -99.1332,
       "taille": "Variable",
       "lien": "https://huggingface.co/collections/Tamazight-NLP/language-identification-models",
       "url": "https://huggingface.co/collections/Tamazight-NLP/language-identification-models",
@@ -1461,9 +1537,9 @@
       "summary": "Modèles d'identification de langue/dialecte berbère",
       "description": {
         "fr": "Modèles d'identification de langue/dialecte berbère",
-        "en": "Modèles d'identification de langue/dialecte berbère",
-        "kab": "Modèles d'identification de langue/dialecte berbère",
-        "kab_auto": false
+        "en": "models d'identification de language/dialecte berbère",
+        "kab": "timudmiwin d'identification de tutlayt/dialecte berbère",
+        "kab_auto": true
       }
     },
     {
@@ -1477,8 +1553,9 @@
       "langue": "Tamazight Tifinagh",
       "pays": "International",
       "region": "International",
-      "lat": 33.5,
-      "lng": 2.0,
+      "city": "Tokyo",
+      "lat": 35.6762,
+      "lng": 139.6503,
       "taille": "Variable",
       "lien": "https://huggingface.co/collections/Tamazight/tifinagh-ocr-models",
       "url": "https://huggingface.co/collections/Tamazight/tifinagh-ocr-models",
@@ -1486,9 +1563,9 @@
       "summary": "Modèles OCR pour écriture Tifinagh",
       "description": {
         "fr": "Modèles OCR pour écriture Tifinagh",
-        "en": "Modèles OCR pour écriture Tifinagh",
-        "kab": "Modèles OCR pour écriture Tifinagh",
-        "kab_auto": false
+        "en": "models OCR pour script Tifinagh",
+        "kab": "timudmiwin OCR pour tira Tifinagh",
+        "kab_auto": true
       }
     },
     {
@@ -1502,8 +1579,9 @@
       "langue": "Tamazight (Berbère)",
       "pays": "International",
       "region": "International",
-      "lat": 33.5,
-      "lng": 2.0,
+      "city": "Alger",
+      "lat": 36.7538,
+      "lng": 3.0588,
       "taille": "",
       "lien": "https://huggingface.co/Tamazight-NLP",
       "url": "https://huggingface.co/Tamazight-NLP",
@@ -1511,9 +1589,9 @@
       "summary": "Organisation HuggingFace centralisant modèles, datasets, papiers et benchmarks tamazight",
       "description": {
         "fr": "Organisation HuggingFace centralisant modèles, datasets, papiers et benchmarks tamazight",
-        "en": "Organisation HuggingFace centralisant modèles, datasets, papiers et benchmarks tamazight",
-        "kab": "Organisation HuggingFace centralisant modèles, datasets, papiers et benchmarks tamazight",
-        "kab_auto": false
+        "en": "organization HuggingFace centralisant models, datasets, papiers et benchmarks tamazight",
+        "kab": "tuddsa HuggingFace centralisant timudmiwin, ismalen, papiers et benchmarks tamazight",
+        "kab_auto": true
       }
     },
     {
@@ -1527,6 +1605,7 @@
       "langue": "Kabyle (kab)",
       "pays": "International",
       "region": "Kabylie",
+      "city": "Tizi Ouzou",
       "lat": 36.7118,
       "lng": 4.0459,
       "taille": "",
@@ -1536,9 +1615,9 @@
       "summary": "Organisation HuggingFace dédiée au NLP kabyle (modèles, datasets, benchmarks)",
       "description": {
         "fr": "Organisation HuggingFace dédiée au NLP kabyle (modèles, datasets, benchmarks)",
-        "en": "Organisation HuggingFace dédiée au NLP kabyle (modèles, datasets, benchmarks)",
-        "kab": "Organisation HuggingFace dédiée au NLP kabyle (modèles, datasets, benchmarks)",
-        "kab_auto": false
+        "en": "organization HuggingFace dédiée au NLP kabyle (models, datasets, benchmarks)",
+        "kab": "tuddsa HuggingFace dédiée au NLP kabyle (timudmiwin, ismalen, benchmarks)",
+        "kab_auto": true
       }
     },
     {
@@ -1552,6 +1631,7 @@
       "langue": "Kabyle (kab)",
       "pays": "International",
       "region": "Kabylie",
+      "city": "Tizi Ouzou",
       "lat": 36.7118,
       "lng": 4.0459,
       "taille": "",
@@ -1561,9 +1641,9 @@
       "summary": "Collection complète ressources kabyles (LibreTranslate, Mmeslay ASR, Kab OCR, etc.)",
       "description": {
         "fr": "Collection complète ressources kabyles (LibreTranslate, Mmeslay ASR, Kab OCR, etc.)",
-        "en": "Collection complète ressources kabyles (LibreTranslate, Mmeslay ASR, Kab OCR, etc.)",
-        "kab": "Collection complète ressources kabyles (LibreTranslate, Mmeslay ASR, Kab OCR, etc.)",
-        "kab_auto": false
+        "en": "collection complète resources kabyles (LibreTranslate, Mmeslay ASR, Kab OCR, etc.)",
+        "kab": "tagrumma complète iɣbula kabyles (LibreTranslate, Mmeslay ASR, Kab OCR, etc.)",
+        "kab_auto": true
       }
     },
     {
@@ -1577,6 +1657,7 @@
       "langue": "Kabyle (kab)",
       "pays": "International",
       "region": "Kabylie",
+      "city": "Tizi Ouzou",
       "lat": 36.7118,
       "lng": 4.0459,
       "taille": "",
@@ -1586,9 +1667,9 @@
       "summary": "Interface de traduction automatique kabyle via LibreTranslate",
       "description": {
         "fr": "Interface de traduction automatique kabyle via LibreTranslate",
-        "en": "Interface de traduction automatique kabyle via LibreTranslate",
-        "kab": "Interface de traduction automatique kabyle via LibreTranslate",
-        "kab_auto": false
+        "en": "interface de machine translation kabyle via LibreTranslate",
+        "kab": "agrudem de tasuqilt tawurmant kabyle via LibreTranslate",
+        "kab_auto": true
       }
     },
     {
@@ -1602,6 +1683,7 @@
       "langue": "Kabyle (kab)",
       "pays": "International",
       "region": "Kabylie",
+      "city": "Tizi Ouzou",
       "lat": 36.7118,
       "lng": 4.0459,
       "taille": "",
@@ -1611,9 +1693,9 @@
       "summary": "Interface web OCR pour texte kabyle (Latin + Tifinagh)",
       "description": {
         "fr": "Interface web OCR pour texte kabyle (Latin + Tifinagh)",
-        "en": "Interface web OCR pour texte kabyle (Latin + Tifinagh)",
-        "kab": "Interface web OCR pour texte kabyle (Latin + Tifinagh)",
-        "kab_auto": false
+        "en": "interface web OCR pour text kabyle (Latin + Tifinagh)",
+        "kab": "agrudem web OCR pour aḍris kabyle (Latin + Tifinagh)",
+        "kab_auto": true
       }
     },
     {
@@ -1627,8 +1709,9 @@
       "langue": "Multilingue (dont berbère potentiel)",
       "pays": "International",
       "region": "International",
-      "lat": 33.5,
-      "lng": 2.0,
+      "city": "Alger",
+      "lat": 36.7538,
+      "lng": 3.0588,
       "taille": "",
       "lien": "https://github.com/anoopkunchukuttan/indic_nlp_library",
       "url": "https://github.com/anoopkunchukuttan/indic_nlp_library",
@@ -1636,9 +1719,9 @@
       "summary": "Bibliothèque pour langues à ressources limitées (adaptable berbère)",
       "description": {
         "fr": "Bibliothèque pour langues à ressources limitées (adaptable berbère)",
-        "en": "Bibliothèque pour langues à ressources limitées (adaptable berbère)",
-        "kab": "Bibliothèque pour langues à ressources limitées (adaptable berbère)",
-        "kab_auto": false
+        "en": "library pour languages à resources limitées (adaptable berbère)",
+        "kab": "tamkarḍit pour tutlayin à iɣbula limitées (adaptable berbère)",
+        "kab_auto": true
       }
     },
     {
@@ -1652,6 +1735,7 @@
       "langue": "Kabyle (kab)",
       "pays": "International",
       "region": "Kabylie",
+      "city": "Tizi Ouzou",
       "lat": 36.7118,
       "lng": 4.0459,
       "taille": "",
@@ -1661,9 +1745,9 @@
       "summary": "Arbres syntaxiques kabyles annotés selon Universal Dependencies",
       "description": {
         "fr": "Arbres syntaxiques kabyles annotés selon Universal Dependencies",
-        "en": "Arbres syntaxiques kabyles annotés selon Universal Dependencies",
-        "kab": "Arbres syntaxiques kabyles annotés selon Universal Dependencies",
-        "kab_auto": false
+        "en": "Arbres syntactic kabyles annotés selon Universal Dependencies",
+        "kab": "Arbres n tsuddest kabyles annotés selon Universal Dependencies",
+        "kab_auto": true
       }
     },
     {
@@ -1677,6 +1761,7 @@
       "langue": "Kabyle (kab)",
       "pays": "International",
       "region": "Kabylie",
+      "city": "Tizi Ouzou",
       "lat": 36.7118,
       "lng": 4.0459,
       "taille": "",
@@ -1686,9 +1771,9 @@
       "summary": "Dépôts GitHub liés au kabyle (recherche par topic)",
       "description": {
         "fr": "Dépôts GitHub liés au kabyle (recherche par topic)",
-        "en": "Dépôts GitHub liés au kabyle (recherche par topic)",
-        "kab": "Dépôts GitHub liés au kabyle (recherche par topic)",
-        "kab_auto": false
+        "en": "Dépôts GitHub liés au kabyle (research par topic)",
+        "kab": "Dépôts GitHub liés au kabyle (anadi par topic)",
+        "kab_auto": true
       }
     },
     {
@@ -1702,8 +1787,9 @@
       "langue": "Kabyle/Tamazight",
       "pays": "International",
       "region": "International",
-      "lat": 33.5,
-      "lng": 2.0,
+      "city": "Cairo",
+      "lat": 30.0444,
+      "lng": 31.2357,
       "taille": "",
       "lien": "https://www.hca-dz.org/",
       "url": "https://www.hca-dz.org/",
@@ -1711,9 +1797,9 @@
       "summary": "Institution algérienne pour promotion amazighité (ressources, publications)",
       "description": {
         "fr": "Institution algérienne pour promotion amazighité (ressources, publications)",
-        "en": "Institution algérienne pour promotion amazighité (ressources, publications)",
-        "kab": "Institution algérienne pour promotion amazighité (ressources, publications)",
-        "kab_auto": false
+        "en": "institution algérienne pour promotion amazighité (resources, publications)",
+        "kab": "tuddsa algérienne pour promotion amazighité (iɣbula, publications)",
+        "kab_auto": true
       }
     },
     {
@@ -1726,9 +1812,10 @@
       "type": "Tool",
       "langue": "Berbère (toutes variantes)",
       "pays": "International",
-      "region": "International",
-      "lat": 33.5,
-      "lng": 2.0,
+      "region": "Europe",
+      "city": "Paris",
+      "lat": 48.8566,
+      "lng": 2.3522,
       "taille": "",
       "lien": "https://www.inalco.fr/",
       "url": "https://www.inalco.fr/",
@@ -1736,9 +1823,9 @@
       "summary": "Recherche linguistique berbère (France) - corpus, thèses, publications",
       "description": {
         "fr": "Recherche linguistique berbère (France) - corpus, thèses, publications",
-        "en": "Recherche linguistique berbère (France) - corpus, thèses, publications",
-        "kab": "Recherche linguistique berbère (France) - corpus, thèses, publications",
-        "kab_auto": false
+        "en": "research linguistique berbère (France) - corpus, thèses, publications",
+        "kab": "anadi linguistique berbère (France) - corpus, thèses, publications",
+        "kab_auto": true
       }
     },
     {
@@ -1751,9 +1838,10 @@
       "type": "Tool",
       "langue": "Berbère (toutes variantes)",
       "pays": "International",
-      "region": "International",
-      "lat": 33.5,
-      "lng": 2.0,
+      "region": "Afrique du Nord",
+      "city": "Béjaïa",
+      "lat": 36.7511,
+      "lng": 5.0567,
       "taille": "",
       "lien": "https://www.univ-bejaia.dz/crb/",
       "url": "https://www.univ-bejaia.dz/crb/",
@@ -1761,9 +1849,9 @@
       "summary": "Centre de recherche en berbère (Université de Béjaïa, Algérie)",
       "description": {
         "fr": "Centre de recherche en berbère (Université de Béjaïa, Algérie)",
-        "en": "Centre de recherche en berbère (Université de Béjaïa, Algérie)",
-        "kab": "Centre de recherche en berbère (Université de Béjaïa, Algérie)",
-        "kab_auto": false
+        "en": "Centre de research en berbère (Université de Béjaïa, Algérie)",
+        "kab": "Centre de anadi en berbère (Université de Béjaïa, Algérie)",
+        "kab_auto": true
       }
     },
     {
@@ -1776,9 +1864,10 @@
       "type": "Tool",
       "langue": "Tamazight (Maroc)",
       "pays": "International",
-      "region": "International",
-      "lat": 33.5,
-      "lng": 2.0,
+      "region": "Afrique du Nord",
+      "city": "Rabat",
+      "lat": 34.0209,
+      "lng": -6.8416,
       "taille": "",
       "lien": "http://www.ircam.ma/",
       "url": "http://www.ircam.ma/",
@@ -1786,9 +1875,9 @@
       "summary": "Normalisation Tifinagh, ressources linguistiques tamazight (Maroc)",
       "description": {
         "fr": "Normalisation Tifinagh, ressources linguistiques tamazight (Maroc)",
-        "en": "Normalisation Tifinagh, ressources linguistiques tamazight (Maroc)",
-        "kab": "Normalisation Tifinagh, ressources linguistiques tamazight (Maroc)",
-        "kab_auto": false
+        "en": "normalization Tifinagh, resources linguistiques tamazight (Maroc)",
+        "kab": "aslaz Tifinagh, iɣbula linguistiques tamazight (Maroc)",
+        "kab_auto": true
       }
     },
     {
@@ -1802,6 +1891,7 @@
       "langue": "Kabyle (kab)",
       "pays": "International",
       "region": "Kabylie",
+      "city": "Tizi Ouzou",
       "lat": 36.7118,
       "lng": 4.0459,
       "taille": "",
@@ -1811,9 +1901,9 @@
       "summary": "188 620 phrases kabyles extraites de PDFs du Haut Commissariat à l'Amazighité (Algérie)",
       "description": {
         "fr": "188 620 phrases kabyles extraites de PDFs du Haut Commissariat à l'Amazighité (Algérie)",
-        "en": "188 620 phrases kabyles extraites de PDFs du Haut Commissariat à l'Amazighité (Algérie)",
-        "kab": "188 620 phrases kabyles extraites de PDFs du Haut Commissariat à l'Amazighité (Algérie)",
-        "kab_auto": false
+        "en": "188 620 sentences kabyles extraites de PDFs du Haut Commissariat à l'Amazighité (Algérie)",
+        "kab": "188 620 tinayin kabyles extraites de PDFs du Haut Commissariat à l'Amazighité (Algérie)",
+        "kab_auto": true
       }
     },
     {
@@ -1827,6 +1917,7 @@
       "langue": "Kabyle (kab)",
       "pays": "International",
       "region": "Kabylie",
+      "city": "Tizi Ouzou",
       "lat": 36.7118,
       "lng": 4.0459,
       "taille": "",
@@ -1836,9 +1927,9 @@
       "summary": "336 982 phrases kabyles extraites de PDFs de l'Université de Bouira (Dépt. Langue Amazighe)",
       "description": {
         "fr": "336 982 phrases kabyles extraites de PDFs de l'Université de Bouira (Dépt. Langue Amazighe)",
-        "en": "336 982 phrases kabyles extraites de PDFs de l'Université de Bouira (Dépt. Langue Amazighe)",
-        "kab": "336 982 phrases kabyles extraites de PDFs de l'Université de Bouira (Dépt. Langue Amazighe)",
-        "kab_auto": false
+        "en": "336 982 sentences kabyles extraites de PDFs de l'Université de Bouira (Dépt. language Amazighe)",
+        "kab": "336 982 tinayin kabyles extraites de PDFs de l'Université de Bouira (Dépt. tutlayt Amazighe)",
+        "kab_auto": true
       }
     },
     {
@@ -1852,8 +1943,9 @@
       "langue": "Kabyle (kab)",
       "pays": "International",
       "region": "International",
-      "lat": 33.5,
-      "lng": 2.0,
+      "city": "Amsterdam",
+      "lat": 52.3676,
+      "lng": 4.9041,
       "taille": "",
       "lien": "https://huggingface.co/datasets/agbalu/KabLex",
       "url": "https://huggingface.co/datasets/agbalu/KabLex",
@@ -1861,9 +1953,9 @@
       "summary": "366 892 entrées lexicales, 17 090 lemmes, 25 642 paires mot-prononciation IPA",
       "description": {
         "fr": "366 892 entrées lexicales, 17 090 lemmes, 25 642 paires mot-prononciation IPA",
-        "en": "366 892 entrées lexicales, 17 090 lemmes, 25 642 paires mot-prononciation IPA",
-        "kab": "366 892 entrées lexicales, 17 090 lemmes, 25 642 paires mot-prononciation IPA",
-        "kab_auto": false
+        "en": "366 892 entries lexicales, 17 090 lemmas, 25 642 pairs mot-prononciation IPA",
+        "kab": "366 892 inekcumen lexicales, 17 090 lemmes, 25 642 tiguṭṭa mot-prononciation IPA",
+        "kab_auto": true
       }
     },
     {
@@ -1877,6 +1969,7 @@
       "langue": "Kabyle (kab)",
       "pays": "International",
       "region": "Kabylie",
+      "city": "Tizi Ouzou",
       "lat": 36.7118,
       "lng": 4.0459,
       "taille": "",
@@ -1886,9 +1979,9 @@
       "summary": "15 000 phrases kabyles labellisées (négatif/neutre/positif) - premier dataset sentiment berbère",
       "description": {
         "fr": "15 000 phrases kabyles labellisées (négatif/neutre/positif) - premier dataset sentiment berbère",
-        "en": "15 000 phrases kabyles labellisées (négatif/neutre/positif) - premier dataset sentiment berbère",
-        "kab": "15 000 phrases kabyles labellisées (négatif/neutre/positif) - premier dataset sentiment berbère",
-        "kab_auto": false
+        "en": "15 000 sentences kabyles labellisées (négatif/neutre/positif) - first dataset sentiment berbère",
+        "kab": "15 000 tinayin kabyles labellisées (négatif/neutre/positif) - amenzu ismal aɣawas n wul berbère",
+        "kab_auto": true
       }
     },
     {
@@ -1902,8 +1995,9 @@
       "langue": "Kabyle (kab)",
       "pays": "International",
       "region": "International",
-      "lat": 33.5,
-      "lng": 2.0,
+      "city": "New York",
+      "lat": 40.7128,
+      "lng": -74.006,
       "taille": "",
       "lien": "https://huggingface.co/datasets/agbalu/KabInflect",
       "url": "https://huggingface.co/datasets/agbalu/KabInflect",
@@ -1911,7 +2005,7 @@
       "summary": "336 151 formes verbales fléchies, 13 226 lemmes, 6 198 paradigmes complets",
       "description": {
         "fr": "336 151 formes verbales fléchies, 13 226 lemmes, 6 198 paradigmes complets",
-        "en": "336 151 formes verbales fléchies, 13 226 lemmes, 6 198 paradigmes complets",
+        "en": "336 151 formes verbales fléchies, 13 226 lemmas, 6 198 paradigmes complets",
         "kab": "336 151 formes verbales fléchies, 13 226 lemmes, 6 198 paradigmes complets",
         "kab_auto": false
       }
@@ -1927,6 +2021,7 @@
       "langue": "Kabyle (kab)",
       "pays": "International",
       "region": "Kabylie",
+      "city": "Tizi Ouzou",
       "lat": 36.7118,
       "lng": 4.0459,
       "taille": "",
@@ -1936,9 +2031,9 @@
       "summary": "497 944 phrases parallèles Tifinagh-Latin kabyle + alignements trilingues (EN/FR)",
       "description": {
         "fr": "497 944 phrases parallèles Tifinagh-Latin kabyle + alignements trilingues (EN/FR)",
-        "en": "497 944 phrases parallèles Tifinagh-Latin kabyle + alignements trilingues (EN/FR)",
-        "kab": "497 944 phrases parallèles Tifinagh-Latin kabyle + alignements trilingues (EN/FR)",
-        "kab_auto": false
+        "en": "497 944 sentences parallèles Tifinagh-Latin kabyle + alignments trilingual (EN/FR)",
+        "kab": "497 944 tinayin parallèles Tifinagh-Latin kabyle + imseddayen n kraḍ tutlayin (EN/FR)",
+        "kab_auto": true
       }
     },
     {
@@ -1952,8 +2047,9 @@
       "langue": "Kabyle (kab)",
       "pays": "International",
       "region": "International",
-      "lat": 33.5,
-      "lng": 2.0,
+      "city": "Tokyo",
+      "lat": 35.6762,
+      "lng": 139.6503,
       "taille": "",
       "lien": "https://huggingface.co/datasets/agbalu/KabPunct",
       "url": "https://huggingface.co/datasets/agbalu/KabPunct",
@@ -1961,9 +2057,9 @@
       "summary": "1 318 707 phrases étiquetées (ponctuation + casse) - premier corpus punctuation restoration berbère",
       "description": {
         "fr": "1 318 707 phrases étiquetées (ponctuation + casse) - premier corpus punctuation restoration berbère",
-        "en": "1 318 707 phrases étiquetées (ponctuation + casse) - premier corpus punctuation restoration berbère",
-        "kab": "1 318 707 phrases étiquetées (ponctuation + casse) - premier corpus punctuation restoration berbère",
-        "kab_auto": false
+        "en": "1 318 707 sentences étiquetées (ponctuation + casse) - first corpus punctuation restoration berbère",
+        "kab": "1 318 707 tinayin étiquetées (ponctuation + casse) - amenzu corpus punctuation restoration berbère",
+        "kab_auto": true
       }
     },
     {
@@ -1977,6 +2073,7 @@
       "langue": "Kabyle (kab)",
       "pays": "International",
       "region": "Kabylie",
+      "city": "Tizi Ouzou",
       "lat": 36.7118,
       "lng": 4.0459,
       "taille": "",
@@ -1986,9 +2083,9 @@
       "summary": "Dataset pour normalisation orthographique (Kabyle informel → canonique)",
       "description": {
         "fr": "Dataset pour normalisation orthographique (Kabyle informel → canonique)",
-        "en": "Dataset pour normalisation orthographique (Kabyle informel → canonique)",
-        "kab": "Dataset pour normalisation orthographique (Kabyle informel → canonique)",
-        "kab_auto": false
+        "en": "dataset pour normalization orthographic (Kabyle informel → canonique)",
+        "kab": "ismal pour aslaz n tira (Kabyle informel → canonique)",
+        "kab_auto": true
       }
     },
     {
@@ -2002,6 +2099,7 @@
       "langue": "Kabyle (kab)",
       "pays": "International",
       "region": "Kabylie",
+      "city": "Tizi Ouzou",
       "lat": 36.7118,
       "lng": 4.0459,
       "taille": "",
@@ -2011,9 +2109,9 @@
       "summary": "Benchmark MT kabyle réparé (2009 phrases) + set 6 langues pour distinguer variantes berbères",
       "description": {
         "fr": "Benchmark MT kabyle réparé (2009 phrases) + set 6 langues pour distinguer variantes berbères",
-        "en": "Benchmark MT kabyle réparé (2009 phrases) + set 6 langues pour distinguer variantes berbères",
-        "kab": "Benchmark MT kabyle réparé (2009 phrases) + set 6 langues pour distinguer variantes berbères",
-        "kab_auto": false
+        "en": "Benchmark MT kabyle réparé (2009 sentences) + set 6 languages pour distinguer variantes berbères",
+        "kab": "Benchmark MT kabyle réparé (2009 tinayin) + set 6 tutlayin pour distinguer variantes berbères",
+        "kab_auto": true
       }
     },
     {
@@ -2027,6 +2125,7 @@
       "langue": "Kabyle (kab)",
       "pays": "International",
       "region": "Kabylie",
+      "city": "Tizi Ouzou",
       "lat": 36.7118,
       "lng": 4.0459,
       "taille": "",
@@ -2036,9 +2135,9 @@
       "summary": "47 789 phrases kabyles avec audio (~25.78h) pour ASR, orthographe corrigée",
       "description": {
         "fr": "47 789 phrases kabyles avec audio (~25.78h) pour ASR, orthographe corrigée",
-        "en": "47 789 phrases kabyles avec audio (~25.78h) pour ASR, orthographe corrigée",
-        "kab": "47 789 phrases kabyles avec audio (~25.78h) pour ASR, orthographe corrigée",
-        "kab_auto": false
+        "en": "47 789 sentences kabyles avec audio (~25.78h) pour ASR, orthographe corrigée",
+        "kab": "47 789 tinayin kabyles avec imesli (~25.78h) pour ASR, orthographe corrigée",
+        "kab_auto": true
       }
     },
     {
@@ -2052,6 +2151,7 @@
       "langue": "Kabyle (kab)",
       "pays": "International",
       "region": "Kabylie",
+      "city": "Tizi Ouzou",
       "lat": 36.7118,
       "lng": 4.0459,
       "taille": "",
@@ -2061,9 +2161,9 @@
       "summary": "Dataset audio kabyle de Mozilla Common Voice (contributions communautaires)",
       "description": {
         "fr": "Dataset audio kabyle de Mozilla Common Voice (contributions communautaires)",
-        "en": "Dataset audio kabyle de Mozilla Common Voice (contributions communautaires)",
-        "kab": "Dataset audio kabyle de Mozilla Common Voice (contributions communautaires)",
-        "kab_auto": false
+        "en": "dataset audio kabyle de Mozilla Common Voice (contributions communautaires)",
+        "kab": "ismal imesli kabyle de Mozilla Common Voice (contributions communautaires)",
+        "kab_auto": true
       }
     },
     {
@@ -2077,6 +2177,7 @@
       "langue": "Kabyle (kab)",
       "pays": "International",
       "region": "Kabylie",
+      "city": "Tizi Ouzou",
       "lat": 36.7118,
       "lng": 4.0459,
       "taille": "",
@@ -2101,9 +2202,10 @@
       "type": "Model",
       "langue": "Kabyle (kab)",
       "pays": "International",
-      "region": "International",
-      "lat": 33.5,
-      "lng": 2.0,
+      "region": "Kabylie",
+      "city": "Tizi Ouzou",
+      "lat": 36.7118,
+      "lng": 4.0459,
       "taille": "1.3B",
       "lien": "https://huggingface.co/agbalu/Amrouche-1.3B",
       "url": "https://huggingface.co/agbalu/Amrouche-1.3B",
@@ -2111,9 +2213,9 @@
       "summary": "Modèle de traduction 1.3B (EN↔KAB, FR↔KAB) - bat NLLB-200-1.3B sur toutes directions",
       "description": {
         "fr": "Modèle de traduction 1.3B (EN↔KAB, FR↔KAB) - bat NLLB-200-1.3B sur toutes directions",
-        "en": "Modèle de traduction 1.3B (EN↔KAB, FR↔KAB) - bat NLLB-200-1.3B sur toutes directions",
-        "kab": "Modèle de traduction 1.3B (EN↔KAB, FR↔KAB) - bat NLLB-200-1.3B sur toutes directions",
-        "kab_auto": false
+        "en": "model de traduction 1.3B (EN↔KAB, FR↔KAB) - bat NLLB-200-1.3B sur toutes directions",
+        "kab": "tamudmiwt de traduction 1.3B (EN↔KAB, FR↔KAB) - bat NLLB-200-1.3B sur toutes directions",
+        "kab_auto": true
       }
     },
     {
@@ -2127,8 +2229,9 @@
       "langue": "Kabyle (kab)",
       "pays": "International",
       "region": "International",
-      "lat": 33.5,
-      "lng": 2.0,
+      "city": "Singapore",
+      "lat": 1.3521,
+      "lng": 103.8198,
       "taille": "278M",
       "lien": "https://huggingface.co/agbalu/SiMohand-278M",
       "url": "https://huggingface.co/agbalu/SiMohand-278M",
@@ -2136,9 +2239,9 @@
       "summary": "Embeddings de phrases + retrieval (97% Recall@1) - compression 12× sans perte",
       "description": {
         "fr": "Embeddings de phrases + retrieval (97% Recall@1) - compression 12× sans perte",
-        "en": "Embeddings de phrases + retrieval (97% Recall@1) - compression 12× sans perte",
-        "kab": "Embeddings de phrases + retrieval (97% Recall@1) - compression 12× sans perte",
-        "kab_auto": false
+        "en": "embeddings de sentences + retrieval (97% Recall@1) - compression 12× sans perte",
+        "kab": "tigrummiwin de tinayin + retrieval (97% Recall@1) - compression 12× sans perte",
+        "kab_auto": true
       }
     },
     {
@@ -2152,6 +2255,7 @@
       "langue": "Kabyle (kab)",
       "pays": "International",
       "region": "Kabylie",
+      "city": "Tizi Ouzou",
       "lat": 36.7118,
       "lng": 4.0459,
       "taille": "48M",
@@ -2177,6 +2281,7 @@
       "langue": "Kabyle (kab)",
       "pays": "International",
       "region": "Kabylie",
+      "city": "Tizi Ouzou",
       "lat": 36.7118,
       "lng": 4.0459,
       "taille": "27M",
@@ -2186,9 +2291,9 @@
       "summary": "Conversion Tifinagh→Latin kabyle + restauration voyelle 'e' (94.22% exact match)",
       "description": {
         "fr": "Conversion Tifinagh→Latin kabyle + restauration voyelle 'e' (94.22% exact match)",
-        "en": "Conversion Tifinagh→Latin kabyle + restauration voyelle 'e' (94.22% exact match)",
-        "kab": "Conversion Tifinagh→Latin kabyle + restauration voyelle 'e' (94.22% exact match)",
-        "kab_auto": false
+        "en": "conversion Tifinagh→Latin kabyle + restauration voyelle 'e' (94.22% exact match)",
+        "kab": "asegzi Tifinagh→Latin kabyle + restauration voyelle 'e' (94.22% exact match)",
+        "kab_auto": true
       }
     },
     {
@@ -2202,6 +2307,7 @@
       "langue": "Kabyle (kab)",
       "pays": "International",
       "region": "Kabylie",
+      "city": "Tizi Ouzou",
       "lat": 36.7118,
       "lng": 4.0459,
       "taille": "36M",
@@ -2227,6 +2333,7 @@
       "langue": "Kabyle (kab)",
       "pays": "International",
       "region": "Kabylie",
+      "city": "Tizi Ouzou",
       "lat": 36.7118,
       "lng": 4.0459,
       "taille": "51M",
@@ -2236,9 +2343,9 @@
       "summary": "Reconnaissance CTC 51M pour lignes imprimées kabyles (Latin CER 7.34%, Tifinagh CER 0.91%)",
       "description": {
         "fr": "Reconnaissance CTC 51M pour lignes imprimées kabyles (Latin CER 7.34%, Tifinagh CER 0.91%)",
-        "en": "Reconnaissance CTC 51M pour lignes imprimées kabyles (Latin CER 7.34%, Tifinagh CER 0.91%)",
-        "kab": "Reconnaissance CTC 51M pour lignes imprimées kabyles (Latin CER 7.34%, Tifinagh CER 0.91%)",
-        "kab_auto": false
+        "en": "Reconnaissance CTC 51M pour lines imprimées kabyles (Latin CER 7.34%, Tifinagh CER 0.91%)",
+        "kab": "Reconnaissance CTC 51M pour izirig imprimées kabyles (Latin CER 7.34%, Tifinagh CER 0.91%)",
+        "kab_auto": true
       }
     },
     {
@@ -2252,8 +2359,9 @@
       "langue": "Kabyle (kab)",
       "pays": "International",
       "region": "International",
-      "lat": 33.5,
-      "lng": 2.0,
+      "city": "Paris",
+      "lat": 48.8566,
+      "lng": 2.3522,
       "taille": "31M",
       "lien": "https://huggingface.co/agbalu/Masinissa-Sentiment",
       "url": "https://huggingface.co/agbalu/Masinissa-Sentiment",
@@ -2261,9 +2369,9 @@
       "summary": "Premier classifieur sentiment berbère (90.27% accuracy, 0.90 F1 macro)",
       "description": {
         "fr": "Premier classifieur sentiment berbère (90.27% accuracy, 0.90 F1 macro)",
-        "en": "Premier classifieur sentiment berbère (90.27% accuracy, 0.90 F1 macro)",
-        "kab": "Premier classifieur sentiment berbère (90.27% accuracy, 0.90 F1 macro)",
-        "kab_auto": false
+        "en": "first classifieur sentiment berbère (90.27% accuracy, 0.90 F1 macro)",
+        "kab": "amenzu classifieur aɣawas n wul berbère (90.27% accuracy, 0.90 F1 macro)",
+        "kab_auto": true
       }
     },
     {
@@ -2277,6 +2385,7 @@
       "langue": "Kabyle (kab)",
       "pays": "International",
       "region": "Kabylie",
+      "city": "Tizi Ouzou",
       "lat": 36.7118,
       "lng": 4.0459,
       "taille": "31M",
@@ -2286,9 +2395,9 @@
       "summary": "Restauration ponctuation + casse pour kabyle (entraîné sur KabPunct)",
       "description": {
         "fr": "Restauration ponctuation + casse pour kabyle (entraîné sur KabPunct)",
-        "en": "Restauration ponctuation + casse pour kabyle (entraîné sur KabPunct)",
-        "kab": "Restauration ponctuation + casse pour kabyle (entraîné sur KabPunct)",
-        "kab_auto": false
+        "en": "Restauration ponctuation + casse pour kabyle (trained sur KabPunct)",
+        "kab": "Restauration ponctuation + casse pour kabyle (yettwaselmed sur KabPunct)",
+        "kab_auto": true
       }
     },
     {
@@ -2302,6 +2411,7 @@
       "langue": "Kabyle (kab)",
       "pays": "International",
       "region": "Kabylie",
+      "city": "Tizi Ouzou",
       "lat": 36.7118,
       "lng": 4.0459,
       "taille": "",
@@ -2327,6 +2437,7 @@
       "langue": "Kabyle (kab)",
       "pays": "International",
       "region": "Kabylie",
+      "city": "Tizi Ouzou",
       "lat": 36.7118,
       "lng": 4.0459,
       "taille": "82M",
@@ -2336,9 +2447,9 @@
       "summary": "Modèle TTS 82M (StyleTTS2 fine-tune) sur Common Voice Kabyle restauré",
       "description": {
         "fr": "Modèle TTS 82M (StyleTTS2 fine-tune) sur Common Voice Kabyle restauré",
-        "en": "Modèle TTS 82M (StyleTTS2 fine-tune) sur Common Voice Kabyle restauré",
-        "kab": "Modèle TTS 82M (StyleTTS2 fine-tune) sur Common Voice Kabyle restauré",
-        "kab_auto": false
+        "en": "model TTS 82M (StyleTTS2 fine-tune) sur Common Voice Kabyle restauré",
+        "kab": "tamudmiwt TTS 82M (StyleTTS2 fine-tune) sur Common Voice Kabyle restauré",
+        "kab_auto": true
       }
     },
     {
@@ -2352,6 +2463,7 @@
       "langue": "Kabyle (kab)",
       "pays": "International",
       "region": "Kabylie",
+      "city": "Tizi Ouzou",
       "lat": 36.7118,
       "lng": 4.0459,
       "taille": "48k vocab",
@@ -2361,9 +2473,9 @@
       "summary": "Tokenizer BPE 48k propre avec normalisation NFC + alphabet CLDR (fertilité 1.736)",
       "description": {
         "fr": "Tokenizer BPE 48k propre avec normalisation NFC + alphabet CLDR (fertilité 1.736)",
-        "en": "Tokenizer BPE 48k propre avec normalisation NFC + alphabet CLDR (fertilité 1.736)",
-        "kab": "Tokenizer BPE 48k propre avec normalisation NFC + alphabet CLDR (fertilité 1.736)",
-        "kab_auto": false
+        "en": "tokenizer BPE 48k propre avec normalization NFC + alphabet CLDR (fertilité 1.736)",
+        "kab": "amsegzay BPE 48k propre avec aslaz NFC + alphabet CLDR (fertilité 1.736)",
+        "kab_auto": true
       }
     },
     {
@@ -2377,6 +2489,7 @@
       "langue": "Kabyle (kab)",
       "pays": "International",
       "region": "Kabylie",
+      "city": "Tizi Ouzou",
       "lat": 36.7118,
       "lng": 4.0459,
       "taille": "279M",
@@ -2402,6 +2515,7 @@
       "langue": "Kabyle (kab)",
       "pays": "International",
       "region": "Kabylie",
+      "city": "Tizi Ouzou",
       "lat": 36.7118,
       "lng": 4.0459,
       "taille": "Variable",
@@ -2427,6 +2541,7 @@
       "langue": "Kabyle (kab)",
       "pays": "International",
       "region": "Kabylie",
+      "city": "Tizi Ouzou",
       "lat": 36.7118,
       "lng": 4.0459,
       "taille": "Variable",
@@ -2436,9 +2551,9 @@
       "summary": "Synthèse vocale kabyle via OmniVoice",
       "description": {
         "fr": "Synthèse vocale kabyle via OmniVoice",
-        "en": "Synthèse vocale kabyle via OmniVoice",
-        "kab": "Synthèse vocale kabyle via OmniVoice",
-        "kab_auto": false
+        "en": "speech synthesis kabyle via OmniVoice",
+        "kab": "asudeɣ n yimeslay kabyle via OmniVoice",
+        "kab_auto": true
       }
     },
     {
@@ -2452,8 +2567,9 @@
       "langue": "Multilingue",
       "pays": "International",
       "region": "International",
-      "lat": 33.5,
-      "lng": 2.0,
+      "city": "Mexico",
+      "lat": 19.4326,
+      "lng": -99.1332,
       "taille": "",
       "lien": "https://huggingface.co/datasets",
       "url": "https://huggingface.co/datasets",
@@ -2462,8 +2578,8 @@
       "description": {
         "fr": "Plus grande plateforme de datasets NLP (SQuAD, GLUE, CommonCrawl, etc.)",
         "en": "Plus grande plateforme de datasets NLP (SQuAD, GLUE, CommonCrawl, etc.)",
-        "kab": "Plus grande plateforme de datasets NLP (SQuAD, GLUE, CommonCrawl, etc.)",
-        "kab_auto": false
+        "kab": "Plus grande plateforme de ismalen NLP (SQuAD, GLUE, CommonCrawl, etc.)",
+        "kab_auto": true
       }
     },
     {
@@ -2477,8 +2593,9 @@
       "langue": "Multilingue",
       "pays": "International",
       "region": "International",
-      "lat": 33.5,
-      "lng": 2.0,
+      "city": "Toronto",
+      "lat": 43.6532,
+      "lng": -79.3832,
       "taille": "",
       "lien": "https://www.kaggle.com/datasets?tags=13208-NLP",
       "url": "https://www.kaggle.com/datasets?tags=13208-NLP",
@@ -2486,9 +2603,9 @@
       "summary": "Datasets NLP variés (sentiment, classification, traduction, etc.)",
       "description": {
         "fr": "Datasets NLP variés (sentiment, classification, traduction, etc.)",
-        "en": "Datasets NLP variés (sentiment, classification, traduction, etc.)",
-        "kab": "Datasets NLP variés (sentiment, classification, traduction, etc.)",
-        "kab_auto": false
+        "en": "datasets NLP variés (sentiment, classification, traduction, etc.)",
+        "kab": "ismalen NLP variés (aɣawas n wul, taggayt, traduction, etc.)",
+        "kab_auto": true
       }
     },
     {
@@ -2502,8 +2619,9 @@
       "langue": "Multilingue",
       "pays": "International",
       "region": "International",
-      "lat": 33.5,
-      "lng": 2.0,
+      "city": "Berlin",
+      "lat": 52.52,
+      "lng": 13.405,
       "taille": "",
       "lien": "https://archive.ics.uci.edu/datasets?query=text",
       "url": "https://archive.ics.uci.edu/datasets?query=text",
@@ -2511,9 +2629,9 @@
       "summary": "Datasets classiques pour classification de texte, spam, etc.",
       "description": {
         "fr": "Datasets classiques pour classification de texte, spam, etc.",
-        "en": "Datasets classiques pour classification de texte, spam, etc.",
-        "kab": "Datasets classiques pour classification de texte, spam, etc.",
-        "kab_auto": false
+        "en": "datasets classiques pour classification de text, spam, etc.",
+        "kab": "ismalen classiques pour taggayt de aḍris, spam, etc.",
+        "kab_auto": true
       }
     },
     {
@@ -2527,8 +2645,9 @@
       "langue": "Multilingue",
       "pays": "International",
       "region": "International",
-      "lat": 33.5,
-      "lng": 2.0,
+      "city": "Tokyo",
+      "lat": 35.6762,
+      "lng": 139.6503,
       "taille": "",
       "lien": "https://aclanthology.org/",
       "url": "https://aclanthology.org/",
@@ -2536,9 +2655,9 @@
       "summary": "Datasets associés aux publications ACL/EMNLP/NAACL",
       "description": {
         "fr": "Datasets associés aux publications ACL/EMNLP/NAACL",
-        "en": "Datasets associés aux publications ACL/EMNLP/NAACL",
-        "kab": "Datasets associés aux publications ACL/EMNLP/NAACL",
-        "kab_auto": false
+        "en": "datasets associés aux publications ACL/EMNLP/NAACL",
+        "kab": "ismalen associés aux publications ACL/EMNLP/NAACL",
+        "kab_auto": true
       }
     },
     {
@@ -2552,8 +2671,9 @@
       "langue": "Multilingue",
       "pays": "International",
       "region": "International",
-      "lat": 33.5,
-      "lng": 2.0,
+      "city": "Amsterdam",
+      "lat": 52.3676,
+      "lng": 4.9041,
       "taille": "",
       "lien": "https://www.ldc.upenn.edu/",
       "url": "https://www.ldc.upenn.edu/",
@@ -2561,9 +2681,9 @@
       "summary": "Datasets linguistiques professionnels (payants pour certains)",
       "description": {
         "fr": "Datasets linguistiques professionnels (payants pour certains)",
-        "en": "Datasets linguistiques professionnels (payants pour certains)",
-        "kab": "Datasets linguistiques professionnels (payants pour certains)",
-        "kab_auto": false
+        "en": "datasets linguistiques professionnels (payants pour certains)",
+        "kab": "ismalen linguistiques professionnels (payants pour certains)",
+        "kab_auto": true
       }
     },
     {
@@ -2577,8 +2697,9 @@
       "langue": "Multilingue",
       "pays": "International",
       "region": "International",
-      "lat": 33.5,
-      "lng": 2.0,
+      "city": "Sydney",
+      "lat": -33.8688,
+      "lng": 151.2093,
       "taille": "",
       "lien": "https://www.elra.info/",
       "url": "https://www.elra.info/",
@@ -2586,9 +2707,9 @@
       "summary": "Ressources linguistiques européennes (corpus, lexiques, etc.)",
       "description": {
         "fr": "Ressources linguistiques européennes (corpus, lexiques, etc.)",
-        "en": "Ressources linguistiques européennes (corpus, lexiques, etc.)",
-        "kab": "Ressources linguistiques européennes (corpus, lexiques, etc.)",
-        "kab_auto": false
+        "en": "resources linguistiques européennes (corpus, lexiques, etc.)",
+        "kab": "iɣbula linguistiques européennes (corpus, lexiques, etc.)",
+        "kab_auto": true
       }
     },
     {
@@ -2602,8 +2723,9 @@
       "langue": "Multilingue",
       "pays": "International",
       "region": "International",
-      "lat": 33.5,
-      "lng": 2.0,
+      "city": "Mexico",
+      "lat": 19.4326,
+      "lng": -99.1332,
       "taille": "",
       "lien": "https://universaldependencies.org/",
       "url": "https://universaldependencies.org/",
@@ -2611,9 +2733,9 @@
       "summary": "Corpus annotés en dépendances syntaxiques pour 100+ langues",
       "description": {
         "fr": "Corpus annotés en dépendances syntaxiques pour 100+ langues",
-        "en": "Corpus annotés en dépendances syntaxiques pour 100+ langues",
-        "kab": "Corpus annotés en dépendances syntaxiques pour 100+ langues",
-        "kab_auto": false
+        "en": "Corpus annotés en dépendances syntactic pour 100+ languages",
+        "kab": "Corpus annotés en dépendances n tsuddest pour 100+ tutlayin",
+        "kab_auto": true
       }
     },
     {
@@ -2627,8 +2749,9 @@
       "langue": "Multilingue",
       "pays": "International",
       "region": "International",
-      "lat": 33.5,
-      "lng": 2.0,
+      "city": "Singapore",
+      "lat": 1.3521,
+      "lng": 103.8198,
       "taille": "",
       "lien": "https://clpsych.org/shared-tasks/",
       "url": "https://clpsych.org/shared-tasks/",
@@ -2636,9 +2759,9 @@
       "summary": "Datasets pour NLP clinique et santé mentale",
       "description": {
         "fr": "Datasets pour NLP clinique et santé mentale",
-        "en": "Datasets pour NLP clinique et santé mentale",
-        "kab": "Datasets pour NLP clinique et santé mentale",
-        "kab_auto": false
+        "en": "datasets pour NLP clinique et santé mentale",
+        "kab": "ismalen pour NLP clinique et santé mentale",
+        "kab_auto": true
       }
     },
     {
@@ -2652,8 +2775,9 @@
       "langue": "Multilingue",
       "pays": "International",
       "region": "International",
-      "lat": 33.5,
-      "lng": 2.0,
+      "city": "Tokyo",
+      "lat": 35.6762,
+      "lng": 139.6503,
       "taille": "",
       "lien": "https://osf.io/search?q=nlp",
       "url": "https://osf.io/search?q=nlp",
@@ -2661,9 +2785,9 @@
       "summary": "Datasets NLP de recherches en sciences sociales et humaines",
       "description": {
         "fr": "Datasets NLP de recherches en sciences sociales et humaines",
-        "en": "Datasets NLP de recherches en sciences sociales et humaines",
-        "kab": "Datasets NLP de recherches en sciences sociales et humaines",
-        "kab_auto": false
+        "en": "datasets NLP de recherches en sciences sociales et humaines",
+        "kab": "ismalen NLP de recherches en sciences sociales et humaines",
+        "kab_auto": true
       }
     },
     {
@@ -2677,8 +2801,9 @@
       "langue": "Multilingue",
       "pays": "International",
       "region": "International",
-      "lat": 33.5,
-      "lng": 2.0,
+      "city": "Singapore",
+      "lat": 1.3521,
+      "lng": 103.8198,
       "taille": "",
       "lien": "https://datasetsearch.research.google.com/search?query=nlp",
       "url": "https://datasetsearch.research.google.com/search?query=nlp",
@@ -2686,9 +2811,9 @@
       "summary": "Moteur de recherche de datasets NLP tous domaines",
       "description": {
         "fr": "Moteur de recherche de datasets NLP tous domaines",
-        "en": "Moteur de recherche de datasets NLP tous domaines",
-        "kab": "Moteur de recherche de datasets NLP tous domaines",
-        "kab_auto": false
+        "en": "Moteur de research de datasets NLP tous domaines",
+        "kab": "Moteur de anadi de ismalen NLP tous domaines",
+        "kab_auto": true
       }
     },
     {
@@ -2702,8 +2827,9 @@
       "langue": "Multilingue",
       "pays": "International",
       "region": "International",
-      "lat": 33.5,
-      "lng": 2.0,
+      "city": "Paris",
+      "lat": 48.8566,
+      "lng": 2.3522,
       "taille": "",
       "lien": "https://paperswithcode.com/datasets?task=natural-language-processing",
       "url": "https://paperswithcode.com/datasets?task=natural-language-processing",
@@ -2711,9 +2837,9 @@
       "summary": "Datasets NLP avec benchmarks et code associé",
       "description": {
         "fr": "Datasets NLP avec benchmarks et code associé",
-        "en": "Datasets NLP avec benchmarks et code associé",
-        "kab": "Datasets NLP avec benchmarks et code associé",
-        "kab_auto": false
+        "en": "datasets NLP avec benchmarks et code associé",
+        "kab": "ismalen NLP avec benchmarks et code associé",
+        "kab_auto": true
       }
     },
     {
@@ -2727,8 +2853,9 @@
       "langue": "Multilingue",
       "pays": "International",
       "region": "International",
-      "lat": 33.5,
-      "lng": 2.0,
+      "city": "Paris",
+      "lat": 48.8566,
+      "lng": 2.3522,
       "taille": "",
       "lien": "https://commoncrawl.org/",
       "url": "https://commoncrawl.org/",
@@ -2736,9 +2863,9 @@
       "summary": "Corpus web massif pour pré-entraînement de modèles de langage",
       "description": {
         "fr": "Corpus web massif pour pré-entraînement de modèles de langage",
-        "en": "Corpus web massif pour pré-entraînement de modèles de langage",
-        "kab": "Corpus web massif pour pré-entraînement de modèles de langage",
-        "kab_auto": false
+        "en": "Corpus web massif pour pré-entraînement de models de langage",
+        "kab": "Corpus web massif pour pré-entraînement de timudmiwin de langage",
+        "kab_auto": true
       }
     },
     {
@@ -2752,8 +2879,9 @@
       "langue": "Multilingue",
       "pays": "International",
       "region": "International",
-      "lat": 33.5,
-      "lng": 2.0,
+      "city": "Bruxelles",
+      "lat": 50.8503,
+      "lng": 4.3517,
       "taille": "",
       "lien": "http://opus.nlpl.eu/",
       "url": "http://opus.nlpl.eu/",
@@ -2761,9 +2889,9 @@
       "summary": "Corpus parallèles pour traduction automatique (100+ langues)",
       "description": {
         "fr": "Corpus parallèles pour traduction automatique (100+ langues)",
-        "en": "Corpus parallèles pour traduction automatique (100+ langues)",
-        "kab": "Corpus parallèles pour traduction automatique (100+ langues)",
-        "kab_auto": false
+        "en": "Corpus parallèles pour machine translation (100+ languages)",
+        "kab": "Corpus parallèles pour tasuqilt tawurmant (100+ tutlayin)",
+        "kab_auto": true
       }
     },
     {
@@ -2777,8 +2905,9 @@
       "langue": "Multilingue",
       "pays": "International",
       "region": "International",
-      "lat": 33.5,
-      "lng": 2.0,
+      "city": "Copenhagen",
+      "lat": 55.6761,
+      "lng": 12.5683,
       "taille": "",
       "lien": "https://statmt.org/wmt25/",
       "url": "https://statmt.org/wmt25/",
@@ -2786,9 +2915,9 @@
       "summary": "Datasets pour traduction automatique (concours annuels)",
       "description": {
         "fr": "Datasets pour traduction automatique (concours annuels)",
-        "en": "Datasets pour traduction automatique (concours annuels)",
-        "kab": "Datasets pour traduction automatique (concours annuels)",
-        "kab_auto": false
+        "en": "datasets pour machine translation (concours annuels)",
+        "kab": "ismalen pour tasuqilt tawurmant (concours annuels)",
+        "kab_auto": true
       }
     },
     {
@@ -2802,8 +2931,9 @@
       "langue": "Multilingue",
       "pays": "International",
       "region": "International",
-      "lat": 33.5,
-      "lng": 2.0,
+      "city": "Alger",
+      "lat": 36.7538,
+      "lng": 3.0588,
       "taille": "",
       "lien": "https://gluebenchmark.com/",
       "url": "https://gluebenchmark.com/",
@@ -2827,8 +2957,9 @@
       "langue": "Multilingue",
       "pays": "International",
       "region": "International",
-      "lat": 33.5,
-      "lng": 2.0,
+      "city": "New Delhi",
+      "lat": 28.6139,
+      "lng": 77.209,
       "taille": "",
       "lien": "https://rajpurkar.github.io/SQuAD-explorer/",
       "url": "https://rajpurkar.github.io/SQuAD-explorer/",
@@ -2836,9 +2967,9 @@
       "summary": "Dataset de question-réponse en anglais",
       "description": {
         "fr": "Dataset de question-réponse en anglais",
-        "en": "Dataset de question-réponse en anglais",
-        "kab": "Dataset de question-réponse en anglais",
-        "kab_auto": false
+        "en": "dataset de question-réponse en anglais",
+        "kab": "ismal de question-réponse en anglais",
+        "kab_auto": true
       }
     },
     {
@@ -2852,8 +2983,9 @@
       "langue": "Multilingue",
       "pays": "International",
       "region": "International",
-      "lat": 33.5,
-      "lng": 2.0,
+      "city": "Rabat",
+      "lat": 34.0209,
+      "lng": -6.8416,
       "taille": "",
       "lien": "https://conll.org/",
       "url": "https://conll.org/",
@@ -2861,9 +2993,9 @@
       "summary": "Datasets pour parsing, NER, dépendances syntaxiques",
       "description": {
         "fr": "Datasets pour parsing, NER, dépendances syntaxiques",
-        "en": "Datasets pour parsing, NER, dépendances syntaxiques",
-        "kab": "Datasets pour parsing, NER, dépendances syntaxiques",
-        "kab_auto": false
+        "en": "datasets pour parsing, NER, dépendances syntactic",
+        "kab": "ismalen pour parsing, NER, dépendances n tsuddest",
+        "kab_auto": true
       }
     },
     {
@@ -2877,8 +3009,9 @@
       "langue": "Multilingue",
       "pays": "International",
       "region": "International",
-      "lat": 33.5,
-      "lng": 2.0,
+      "city": "San Francisco",
+      "lat": 37.7749,
+      "lng": -122.4194,
       "taille": "",
       "lien": "https://semeval.github.io/semeval2025/",
       "url": "https://semeval.github.io/semeval2025/",
@@ -2886,9 +3019,9 @@
       "summary": "Datasets pour tâches sémantiques (similarité, irony, etc.)",
       "description": {
         "fr": "Datasets pour tâches sémantiques (similarité, irony, etc.)",
-        "en": "Datasets pour tâches sémantiques (similarité, irony, etc.)",
-        "kab": "Datasets pour tâches sémantiques (similarité, irony, etc.)",
-        "kab_auto": false
+        "en": "datasets pour tâches sémantiques (similarité, irony, etc.)",
+        "kab": "ismalen pour tâches sémantiques (similarité, irony, etc.)",
+        "kab_auto": true
       }
     },
     {
@@ -2902,8 +3035,9 @@
       "langue": "Multilingue",
       "pays": "International",
       "region": "International",
-      "lat": 33.5,
-      "lng": 2.0,
+      "city": "São Paulo",
+      "lat": -23.5505,
+      "lng": -46.6333,
       "taille": "",
       "lien": "https://github.com/AI4Bharat/indic-nlp-datasets",
       "url": "https://github.com/AI4Bharat/indic-nlp-datasets",
@@ -2911,9 +3045,9 @@
       "summary": "Datasets pour langues indiennes (traduction, NER, etc.)",
       "description": {
         "fr": "Datasets pour langues indiennes (traduction, NER, etc.)",
-        "en": "Datasets pour langues indiennes (traduction, NER, etc.)",
-        "kab": "Datasets pour langues indiennes (traduction, NER, etc.)",
-        "kab_auto": false
+        "en": "datasets pour languages indiennes (traduction, NER, etc.)",
+        "kab": "ismalen pour tutlayin indiennes (traduction, NER, etc.)",
+        "kab_auto": true
       }
     },
     {
@@ -2927,8 +3061,9 @@
       "langue": "Multilingue",
       "pays": "International",
       "region": "International",
-      "lat": 33.5,
-      "lng": 2.0,
+      "city": "London",
+      "lat": 51.5074,
+      "lng": -0.1278,
       "taille": "",
       "lien": "https://github.com/h9-tec/Awesome_Arabic_NLP",
       "url": "https://github.com/h9-tec/Awesome_Arabic_NLP",
@@ -2937,8 +3072,8 @@
       "description": {
         "fr": "Catalogue de 600+ datasets NLP arabes",
         "en": "Catalogue de 600+ datasets NLP arabes",
-        "kab": "Catalogue de 600+ datasets NLP arabes",
-        "kab_auto": false
+        "kab": "Catalogue de 600+ ismalen NLP arabes",
+        "kab_auto": true
       }
     },
     {
@@ -2952,8 +3087,9 @@
       "langue": "Multilingue",
       "pays": "International",
       "region": "International",
-      "lat": 33.5,
-      "lng": 2.0,
+      "city": "Taipei",
+      "lat": 25.033,
+      "lng": 121.5654,
       "taille": "",
       "lien": "https://huggingface.co/models",
       "url": "https://huggingface.co/models",
@@ -2961,9 +3097,9 @@
       "summary": "1M+ modèles NLP pré-entraînés (BERT, GPT, Llama, etc.)",
       "description": {
         "fr": "1M+ modèles NLP pré-entraînés (BERT, GPT, Llama, etc.)",
-        "en": "1M+ modèles NLP pré-entraînés (BERT, GPT, Llama, etc.)",
-        "kab": "1M+ modèles NLP pré-entraînés (BERT, GPT, Llama, etc.)",
-        "kab_auto": false
+        "en": "1M+ models NLP pré-entraînés (BERT, GPT, Llama, etc.)",
+        "kab": "1M+ timudmiwin NLP pré-entraînés (BERT, GPT, Llama, etc.)",
+        "kab_auto": true
       }
     },
     {
@@ -2977,8 +3113,9 @@
       "langue": "Multilingue",
       "pays": "International",
       "region": "International",
-      "lat": 33.5,
-      "lng": 2.0,
+      "city": "Paris",
+      "lat": 48.8566,
+      "lng": 2.3522,
       "taille": "",
       "lien": "https://tfhub.dev/s?module-type=text-embedding",
       "url": "https://tfhub.dev/s?module-type=text-embedding",
@@ -2986,9 +3123,9 @@
       "summary": "Modèles NLP pour TensorFlow (embeddings, classification, etc.)",
       "description": {
         "fr": "Modèles NLP pour TensorFlow (embeddings, classification, etc.)",
-        "en": "Modèles NLP pour TensorFlow (embeddings, classification, etc.)",
-        "kab": "Modèles NLP pour TensorFlow (embeddings, classification, etc.)",
-        "kab_auto": false
+        "en": "models NLP pour TensorFlow (embeddings, classification, etc.)",
+        "kab": "timudmiwin NLP pour TensorFlow (tigrummiwin, taggayt, etc.)",
+        "kab_auto": true
       }
     },
     {
@@ -3002,8 +3139,9 @@
       "langue": "Multilingue",
       "pays": "International",
       "region": "International",
-      "lat": 33.5,
-      "lng": 2.0,
+      "city": "New Delhi",
+      "lat": 28.6139,
+      "lng": 77.209,
       "taille": "",
       "lien": "https://pytorch.org/hub/",
       "url": "https://pytorch.org/hub/",
@@ -3011,9 +3149,9 @@
       "summary": "Modèles pré-entraînés PyTorch dont NLP (transformers, etc.)",
       "description": {
         "fr": "Modèles pré-entraînés PyTorch dont NLP (transformers, etc.)",
-        "en": "Modèles pré-entraînés PyTorch dont NLP (transformers, etc.)",
-        "kab": "Modèles pré-entraînés PyTorch dont NLP (transformers, etc.)",
-        "kab_auto": false
+        "en": "models pré-entraînés PyTorch dont NLP (transformers, etc.)",
+        "kab": "timudmiwin pré-entraînés PyTorch dont NLP (transformers, etc.)",
+        "kab_auto": true
       }
     },
     {
@@ -3027,8 +3165,9 @@
       "langue": "Multilingue",
       "pays": "International",
       "region": "International",
-      "lat": 33.5,
-      "lng": 2.0,
+      "city": "Cairo",
+      "lat": 30.0444,
+      "lng": 31.2357,
       "taille": "",
       "lien": "https://huggingface.co/onnxmodelzoo",
       "url": "https://huggingface.co/onnxmodelzoo",
@@ -3036,9 +3175,9 @@
       "summary": "Modèles NLP exportés en format ONNX pour inférence rapide",
       "description": {
         "fr": "Modèles NLP exportés en format ONNX pour inférence rapide",
-        "en": "Modèles NLP exportés en format ONNX pour inférence rapide",
-        "kab": "Modèles NLP exportés en format ONNX pour inférence rapide",
-        "kab_auto": false
+        "en": "models NLP exportés en format ONNX pour inférence rapide",
+        "kab": "timudmiwin NLP exportés en format ONNX pour inférence rapide",
+        "kab_auto": true
       }
     },
     {
@@ -3052,8 +3191,9 @@
       "langue": "Multilingue",
       "pays": "International",
       "region": "International",
-      "lat": 33.5,
-      "lng": 2.0,
+      "city": "Singapore",
+      "lat": 1.3521,
+      "lng": 103.8198,
       "taille": "",
       "lien": "https://keras.io/keras_hub/",
       "url": "https://keras.io/keras_hub/",
@@ -3061,9 +3201,9 @@
       "summary": "Modèles NLP Keras pré-entraînés (BERT, RoBERTa, etc.)",
       "description": {
         "fr": "Modèles NLP Keras pré-entraînés (BERT, RoBERTa, etc.)",
-        "en": "Modèles NLP Keras pré-entraînés (BERT, RoBERTa, etc.)",
-        "kab": "Modèles NLP Keras pré-entraînés (BERT, RoBERTa, etc.)",
-        "kab_auto": false
+        "en": "models NLP Keras pré-entraînés (BERT, RoBERTa, etc.)",
+        "kab": "timudmiwin NLP Keras pré-entraînés (BERT, RoBERTa, etc.)",
+        "kab_auto": true
       }
     },
     {
@@ -3077,8 +3217,9 @@
       "langue": "Multilingue",
       "pays": "International",
       "region": "International",
-      "lat": 33.5,
-      "lng": 2.0,
+      "city": "New Delhi",
+      "lat": 28.6139,
+      "lng": 77.209,
       "taille": "",
       "lien": "https://github.com/tensorflow/models/tree/master/official/nlp",
       "url": "https://github.com/tensorflow/models/tree/master/official/nlp",
@@ -3102,8 +3243,9 @@
       "langue": "Multilingue",
       "pays": "International",
       "region": "International",
-      "lat": 33.5,
-      "lng": 2.0,
+      "city": "Taipei",
+      "lat": 25.033,
+      "lng": 121.5654,
       "taille": "",
       "lien": "https://github.com/facebookresearch/fairseq",
       "url": "https://github.com/facebookresearch/fairseq",
@@ -3111,9 +3253,9 @@
       "summary": "Modèles de traduction et génération de texte (Marian, BART, etc.)",
       "description": {
         "fr": "Modèles de traduction et génération de texte (Marian, BART, etc.)",
-        "en": "Modèles de traduction et génération de texte (Marian, BART, etc.)",
-        "kab": "Modèles de traduction et génération de texte (Marian, BART, etc.)",
-        "kab_auto": false
+        "en": "models de traduction et génération de text (Marian, BART, etc.)",
+        "kab": "timudmiwin de traduction et génération de aḍris (Marian, BART, etc.)",
+        "kab_auto": true
       }
     },
     {
@@ -3127,8 +3269,9 @@
       "langue": "Multilingue",
       "pays": "International",
       "region": "International",
-      "lat": 33.5,
-      "lng": 2.0,
+      "city": "Taipei",
+      "lat": 25.033,
+      "lng": 121.5654,
       "taille": "",
       "lien": "https://github.com/espnet/espnet",
       "url": "https://github.com/espnet/espnet",
@@ -3136,9 +3279,9 @@
       "summary": "Modèles pour speech-to-text et NLP vocal",
       "description": {
         "fr": "Modèles pour speech-to-text et NLP vocal",
-        "en": "Modèles pour speech-to-text et NLP vocal",
-        "kab": "Modèles pour speech-to-text et NLP vocal",
-        "kab_auto": false
+        "en": "models pour speech-to-text et NLP vocal",
+        "kab": "timudmiwin pour speech-to-text et NLP vocal",
+        "kab_auto": true
       }
     },
     {
@@ -3152,8 +3295,9 @@
       "langue": "Multilingue",
       "pays": "International",
       "region": "International",
-      "lat": 33.5,
-      "lng": 2.0,
+      "city": "Toronto",
+      "lat": 43.6532,
+      "lng": -79.3832,
       "taille": "",
       "lien": "https://huggingface.co/sentence-transformers",
       "url": "https://huggingface.co/sentence-transformers",
@@ -3161,9 +3305,9 @@
       "summary": "Modèles pour embeddings de phrases et similarité sémantique",
       "description": {
         "fr": "Modèles pour embeddings de phrases et similarité sémantique",
-        "en": "Modèles pour embeddings de phrases et similarité sémantique",
-        "kab": "Modèles pour embeddings de phrases et similarité sémantique",
-        "kab_auto": false
+        "en": "models pour embeddings de sentences et similarité sémantique",
+        "kab": "timudmiwin pour tigrummiwin de tinayin et similarité sémantique",
+        "kab_auto": true
       }
     },
     {
@@ -3177,8 +3321,9 @@
       "langue": "Multilingue",
       "pays": "International",
       "region": "International",
-      "lat": 33.5,
-      "lng": 2.0,
+      "city": "Cairo",
+      "lat": 30.0444,
+      "lng": 31.2357,
       "taille": "",
       "lien": "https://github.com/flairNLP/flair",
       "url": "https://github.com/flairNLP/flair",
@@ -3186,9 +3331,9 @@
       "summary": "Modèles pour NER, POS tagging, classification de texte",
       "description": {
         "fr": "Modèles pour NER, POS tagging, classification de texte",
-        "en": "Modèles pour NER, POS tagging, classification de texte",
-        "kab": "Modèles pour NER, POS tagging, classification de texte",
-        "kab_auto": false
+        "en": "models pour NER, POS tagging, classification de text",
+        "kab": "timudmiwin pour NER, POS tagging, taggayt de aḍris",
+        "kab_auto": true
       }
     },
     {
@@ -3202,8 +3347,9 @@
       "langue": "Multilingue",
       "pays": "International",
       "region": "International",
-      "lat": 33.5,
-      "lng": 2.0,
+      "city": "San Francisco",
+      "lat": 37.7749,
+      "lng": -122.4194,
       "taille": "",
       "lien": "https://github.com/stanfordnlp/stanza",
       "url": "https://github.com/stanfordnlp/stanza",
@@ -3227,8 +3373,9 @@
       "langue": "Multilingue",
       "pays": "International",
       "region": "International",
-      "lat": 33.5,
-      "lng": 2.0,
+      "city": "New York",
+      "lat": 40.7128,
+      "lng": -74.006,
       "taille": "",
       "lien": "https://spacy.io/models",
       "url": "https://spacy.io/models",
@@ -3236,9 +3383,9 @@
       "summary": "Modèles pré-entraînés pour 60+ langues (NER, POS, parsing)",
       "description": {
         "fr": "Modèles pré-entraînés pour 60+ langues (NER, POS, parsing)",
-        "en": "Modèles pré-entraînés pour 60+ langues (NER, POS, parsing)",
-        "kab": "Modèles pré-entraînés pour 60+ langues (NER, POS, parsing)",
-        "kab_auto": false
+        "en": "models pré-entraînés pour 60+ languages (NER, POS, parsing)",
+        "kab": "timudmiwin pré-entraînés pour 60+ tutlayin (NER, POS, parsing)",
+        "kab_auto": true
       }
     },
     {
@@ -3252,8 +3399,9 @@
       "langue": "Multilingue",
       "pays": "International",
       "region": "International",
-      "lat": 33.5,
-      "lng": 2.0,
+      "city": "Copenhagen",
+      "lat": 55.6761,
+      "lng": 12.5683,
       "taille": "",
       "lien": "https://github.com/allenai/allennlp-models",
       "url": "https://github.com/allenai/allennlp-models",
@@ -3261,9 +3409,9 @@
       "summary": "Modèles pour tâches NLP avancées (QA, coref, parsing)",
       "description": {
         "fr": "Modèles pour tâches NLP avancées (QA, coref, parsing)",
-        "en": "Modèles pour tâches NLP avancées (QA, coref, parsing)",
-        "kab": "Modèles pour tâches NLP avancées (QA, coref, parsing)",
-        "kab_auto": false
+        "en": "models pour tâches NLP avancées (QA, coref, parsing)",
+        "kab": "timudmiwin pour tâches NLP avancées (QA, coref, parsing)",
+        "kab_auto": true
       }
     },
     {
@@ -3277,8 +3425,9 @@
       "langue": "Multilingue",
       "pays": "International",
       "region": "International",
-      "lat": 33.5,
-      "lng": 2.0,
+      "city": "Cairo",
+      "lat": 30.0444,
+      "lng": 31.2357,
       "taille": "",
       "lien": "https://github.com/PaddlePaddle/PaddleNLP",
       "url": "https://github.com/PaddlePaddle/PaddleNLP",
@@ -3286,9 +3435,9 @@
       "summary": "Modèles NLP pour framework PaddlePaddle (chinois et multilingue)",
       "description": {
         "fr": "Modèles NLP pour framework PaddlePaddle (chinois et multilingue)",
-        "en": "Modèles NLP pour framework PaddlePaddle (chinois et multilingue)",
-        "kab": "Modèles NLP pour framework PaddlePaddle (chinois et multilingue)",
-        "kab_auto": false
+        "en": "models NLP pour framework PaddlePaddle (chinois et multilingue)",
+        "kab": "timudmiwin NLP pour framework PaddlePaddle (chinois et multilingue)",
+        "kab_auto": true
       }
     },
     {
@@ -3302,8 +3451,9 @@
       "langue": "Multilingue",
       "pays": "International",
       "region": "International",
-      "lat": 33.5,
-      "lng": 2.0,
+      "city": "Stockholm",
+      "lat": 59.3293,
+      "lng": 18.0686,
       "taille": "",
       "lien": "https://github.com/NVIDIA/NeMo",
       "url": "https://github.com/NVIDIA/NeMo",
@@ -3311,9 +3461,9 @@
       "summary": "Modèles NLP et speech-to-text optimisés GPU NVIDIA",
       "description": {
         "fr": "Modèles NLP et speech-to-text optimisés GPU NVIDIA",
-        "en": "Modèles NLP et speech-to-text optimisés GPU NVIDIA",
-        "kab": "Modèles NLP et speech-to-text optimisés GPU NVIDIA",
-        "kab_auto": false
+        "en": "models NLP et speech-to-text optimisés GPU NVIDIA",
+        "kab": "timudmiwin NLP et speech-to-text optimisés GPU NVIDIA",
+        "kab_auto": true
       }
     },
     {
@@ -3327,8 +3477,9 @@
       "langue": "Multilingue",
       "pays": "International",
       "region": "International",
-      "lat": 33.5,
-      "lng": 2.0,
+      "city": "Amsterdam",
+      "lat": 52.3676,
+      "lng": 4.9041,
       "taille": "",
       "lien": "https://huggingface.co/docs/transformers.js",
       "url": "https://huggingface.co/docs/transformers.js",
@@ -3336,9 +3487,9 @@
       "summary": "Modèles NLP pour exécution dans le navigateur (JavaScript)",
       "description": {
         "fr": "Modèles NLP pour exécution dans le navigateur (JavaScript)",
-        "en": "Modèles NLP pour exécution dans le navigateur (JavaScript)",
-        "kab": "Modèles NLP pour exécution dans le navigateur (JavaScript)",
-        "kab_auto": false
+        "en": "models NLP pour exécution dans le navigateur (JavaScript)",
+        "kab": "timudmiwin NLP pour exécution dans le navigateur (JavaScript)",
+        "kab_auto": true
       }
     },
     {
@@ -3352,8 +3503,9 @@
       "langue": "Multilingue",
       "pays": "International",
       "region": "International",
-      "lat": 33.5,
-      "lng": 2.0,
+      "city": "Paris",
+      "lat": 48.8566,
+      "lng": 2.3522,
       "taille": "",
       "lien": "https://github.com/ml-explore/mlx-examples",
       "url": "https://github.com/ml-explore/mlx-examples",
@@ -3361,9 +3513,9 @@
       "summary": "Modèles NLP optimisés pour Apple Silicon (M1/M2/M3)",
       "description": {
         "fr": "Modèles NLP optimisés pour Apple Silicon (M1/M2/M3)",
-        "en": "Modèles NLP optimisés pour Apple Silicon (M1/M2/M3)",
-        "kab": "Modèles NLP optimisés pour Apple Silicon (M1/M2/M3)",
-        "kab_auto": false
+        "en": "models NLP optimisés pour Apple Silicon (M1/M2/M3)",
+        "kab": "timudmiwin NLP optimisés pour Apple Silicon (M1/M2/M3)",
+        "kab_auto": true
       }
     },
     {
@@ -3377,8 +3529,9 @@
       "langue": "Multilingue",
       "pays": "International",
       "region": "International",
-      "lat": 33.5,
-      "lng": 2.0,
+      "city": "Mexico",
+      "lat": 19.4326,
+      "lng": -99.1332,
       "taille": "",
       "lien": "https://huggingface.co/models?library=gguf",
       "url": "https://huggingface.co/models?library=gguf",
@@ -3386,9 +3539,9 @@
       "summary": "Modèles LLM quantifiés pour inférence CPU efficace",
       "description": {
         "fr": "Modèles LLM quantifiés pour inférence CPU efficace",
-        "en": "Modèles LLM quantifiés pour inférence CPU efficace",
-        "kab": "Modèles LLM quantifiés pour inférence CPU efficace",
-        "kab_auto": false
+        "en": "models LLM quantifiés pour inférence CPU efficace",
+        "kab": "timudmiwin LLM quantifiés pour inférence CPU efficace",
+        "kab_auto": true
       }
     },
     {
@@ -3402,8 +3555,9 @@
       "langue": "Multilingue",
       "pays": "International",
       "region": "International",
-      "lat": 33.5,
-      "lng": 2.0,
+      "city": "Sydney",
+      "lat": -33.8688,
+      "lng": 151.2093,
       "taille": "",
       "lien": "https://github.com/openvinotoolkit",
       "url": "https://github.com/openvinotoolkit",
@@ -3411,9 +3565,9 @@
       "summary": "Modèles NLP optimisés pour matériel Intel",
       "description": {
         "fr": "Modèles NLP optimisés pour matériel Intel",
-        "en": "Modèles NLP optimisés pour matériel Intel",
-        "kab": "Modèles NLP optimisés pour matériel Intel",
-        "kab_auto": false
+        "en": "models NLP optimisés pour matériel Intel",
+        "kab": "timudmiwin NLP optimisés pour matériel Intel",
+        "kab_auto": true
       }
     },
     {
@@ -3427,8 +3581,9 @@
       "langue": "Multilingue",
       "pays": "International",
       "region": "International",
-      "lat": 33.5,
-      "lng": 2.0,
+      "city": "Taipei",
+      "lat": 25.033,
+      "lng": 121.5654,
       "taille": "",
       "lien": "https://huggingface.co/VaishalBusiness/opus",
       "url": "https://huggingface.co/VaishalBusiness/opus",
@@ -3436,9 +3591,9 @@
       "summary": "1000+ modèles de traduction OPUS-MT en format ONNX",
       "description": {
         "fr": "1000+ modèles de traduction OPUS-MT en format ONNX",
-        "en": "1000+ modèles de traduction OPUS-MT en format ONNX",
-        "kab": "1000+ modèles de traduction OPUS-MT en format ONNX",
-        "kab_auto": false
+        "en": "1000+ models de traduction OPUS-MT en format ONNX",
+        "kab": "1000+ timudmiwin de traduction OPUS-MT en format ONNX",
+        "kab_auto": true
       }
     },
     {
@@ -3452,8 +3607,9 @@
       "langue": "Multilingue",
       "pays": "International",
       "region": "International",
-      "lat": 33.5,
-      "lng": 2.0,
+      "city": "New York",
+      "lat": 40.7128,
+      "lng": -74.006,
       "taille": "",
       "lien": "https://github.com/huggingface/transformers",
       "url": "https://github.com/huggingface/transformers",
@@ -3461,9 +3617,9 @@
       "summary": "Bibliothèque de référence pour modèles NLP (BERT, GPT, etc.)",
       "description": {
         "fr": "Bibliothèque de référence pour modèles NLP (BERT, GPT, etc.)",
-        "en": "Bibliothèque de référence pour modèles NLP (BERT, GPT, etc.)",
-        "kab": "Bibliothèque de référence pour modèles NLP (BERT, GPT, etc.)",
-        "kab_auto": false
+        "en": "library de référence pour models NLP (BERT, GPT, etc.)",
+        "kab": "tamkarḍit de référence pour timudmiwin NLP (BERT, GPT, etc.)",
+        "kab_auto": true
       }
     },
     {
@@ -3477,8 +3633,9 @@
       "langue": "Multilingue",
       "pays": "International",
       "region": "International",
-      "lat": 33.5,
-      "lng": 2.0,
+      "city": "Stockholm",
+      "lat": 59.3293,
+      "lng": 18.0686,
       "taille": "",
       "lien": "https://github.com/explosion/spaCy",
       "url": "https://github.com/explosion/spaCy",
@@ -3486,9 +3643,9 @@
       "summary": "Bibliothèque NLP industrielle rapide et documentée",
       "description": {
         "fr": "Bibliothèque NLP industrielle rapide et documentée",
-        "en": "Bibliothèque NLP industrielle rapide et documentée",
-        "kab": "Bibliothèque NLP industrielle rapide et documentée",
-        "kab_auto": false
+        "en": "library NLP industrielle rapide et documentée",
+        "kab": "tamkarḍit NLP industrielle rapide et documentée",
+        "kab_auto": true
       }
     },
     {
@@ -3502,8 +3659,9 @@
       "langue": "Multilingue",
       "pays": "International",
       "region": "International",
-      "lat": 33.5,
-      "lng": 2.0,
+      "city": "New York",
+      "lat": 40.7128,
+      "lng": -74.006,
       "taille": "",
       "lien": "https://github.com/nltk/nltk",
       "url": "https://github.com/nltk/nltk",
@@ -3511,9 +3669,9 @@
       "summary": "Toolkit classique pour enseignement et recherche NLP",
       "description": {
         "fr": "Toolkit classique pour enseignement et recherche NLP",
-        "en": "Toolkit classique pour enseignement et recherche NLP",
-        "kab": "Toolkit classique pour enseignement et recherche NLP",
-        "kab_auto": false
+        "en": "Toolkit classique pour enseignement et research NLP",
+        "kab": "Toolkit classique pour enseignement et anadi NLP",
+        "kab_auto": true
       }
     },
     {
@@ -3527,8 +3685,9 @@
       "langue": "Multilingue",
       "pays": "International",
       "region": "International",
-      "lat": 33.5,
-      "lng": 2.0,
+      "city": "Alger",
+      "lat": 36.7538,
+      "lng": 3.0588,
       "taille": "",
       "lien": "https://github.com/RaRe-Technologies/gensim",
       "url": "https://github.com/RaRe-Technologies/gensim",
@@ -3536,9 +3695,9 @@
       "summary": "Bibliothèque pour topic modeling et word embeddings",
       "description": {
         "fr": "Bibliothèque pour topic modeling et word embeddings",
-        "en": "Bibliothèque pour topic modeling et word embeddings",
-        "kab": "Bibliothèque pour topic modeling et word embeddings",
-        "kab_auto": false
+        "en": "library pour topic modeling et word embeddings",
+        "kab": "tamkarḍit pour topic modeling et word tigrummiwin",
+        "kab_auto": true
       }
     },
     {
@@ -3552,8 +3711,9 @@
       "langue": "Multilingue",
       "pays": "International",
       "region": "International",
-      "lat": 33.5,
-      "lng": 2.0,
+      "city": "Taipei",
+      "lat": 25.033,
+      "lng": 121.5654,
       "taille": "",
       "lien": "https://github.com/stanfordnlp/CoreNLP",
       "url": "https://github.com/stanfordnlp/CoreNLP",
@@ -3561,9 +3721,9 @@
       "summary": "Suite complète d'outils NLP (parsing, NER, coref, etc.)",
       "description": {
         "fr": "Suite complète d'outils NLP (parsing, NER, coref, etc.)",
-        "en": "Suite complète d'outils NLP (parsing, NER, coref, etc.)",
-        "kab": "Suite complète d'outils NLP (parsing, NER, coref, etc.)",
-        "kab_auto": false
+        "en": "Suite complète d'tools NLP (parsing, NER, coref, etc.)",
+        "kab": "Suite complète d'ifecka NLP (parsing, NER, coref, etc.)",
+        "kab_auto": true
       }
     },
     {
@@ -3577,8 +3737,9 @@
       "langue": "Multilingue",
       "pays": "International",
       "region": "International",
-      "lat": 33.5,
-      "lng": 2.0,
+      "city": "San Francisco",
+      "lat": 37.7749,
+      "lng": -122.4194,
       "taille": "",
       "lien": "https://github.com/allenai/allennlp",
       "url": "https://github.com/allenai/allennlp",
@@ -3586,9 +3747,9 @@
       "summary": "Framework de recherche NLP basé sur PyTorch",
       "description": {
         "fr": "Framework de recherche NLP basé sur PyTorch",
-        "en": "Framework de recherche NLP basé sur PyTorch",
-        "kab": "Framework de recherche NLP basé sur PyTorch",
-        "kab_auto": false
+        "en": "Framework de research NLP basé sur PyTorch",
+        "kab": "Framework de anadi NLP basé sur PyTorch",
+        "kab_auto": true
       }
     },
     {
@@ -3602,8 +3763,9 @@
       "langue": "Multilingue",
       "pays": "International",
       "region": "International",
-      "lat": 33.5,
-      "lng": 2.0,
+      "city": "Toronto",
+      "lat": 43.6532,
+      "lng": -79.3832,
       "taille": "",
       "lien": "https://github.com/facebookresearch/fastText",
       "url": "https://github.com/facebookresearch/fastText",
@@ -3611,9 +3773,9 @@
       "summary": "Bibliothèque pour word embeddings et classification de texte",
       "description": {
         "fr": "Bibliothèque pour word embeddings et classification de texte",
-        "en": "Bibliothèque pour word embeddings et classification de texte",
-        "kab": "Bibliothèque pour word embeddings et classification de texte",
-        "kab_auto": false
+        "en": "library pour word embeddings et classification de text",
+        "kab": "tamkarḍit pour word tigrummiwin et taggayt de aḍris",
+        "kab_auto": true
       }
     },
     {
@@ -3627,8 +3789,9 @@
       "langue": "Multilingue",
       "pays": "International",
       "region": "International",
-      "lat": 33.5,
-      "lng": 2.0,
+      "city": "Cairo",
+      "lat": 30.0444,
+      "lng": 31.2357,
       "taille": "",
       "lien": "https://github.com/sloria/TextBlob",
       "url": "https://github.com/sloria/TextBlob",
@@ -3636,9 +3799,9 @@
       "summary": "Interface simple pour tâches NLP basiques (sentiment, traduction)",
       "description": {
         "fr": "Interface simple pour tâches NLP basiques (sentiment, traduction)",
-        "en": "Interface simple pour tâches NLP basiques (sentiment, traduction)",
-        "kab": "Interface simple pour tâches NLP basiques (sentiment, traduction)",
-        "kab_auto": false
+        "en": "interface simple pour tâches NLP basiques (sentiment, traduction)",
+        "kab": "agrudem simple pour tâches NLP basiques (aɣawas n wul, traduction)",
+        "kab_auto": true
       }
     },
     {
@@ -3652,8 +3815,9 @@
       "langue": "Multilingue",
       "pays": "International",
       "region": "International",
-      "lat": 33.5,
-      "lng": 2.0,
+      "city": "Mexico",
+      "lat": 19.4326,
+      "lng": -99.1332,
       "taille": "",
       "lien": "https://github.com/aboSamoor/polyglot",
       "url": "https://github.com/aboSamoor/polyglot",
@@ -3662,8 +3826,8 @@
       "description": {
         "fr": "Toolkit NLP multilingue (NER, POS, embeddings)",
         "en": "Toolkit NLP multilingue (NER, POS, embeddings)",
-        "kab": "Toolkit NLP multilingue (NER, POS, embeddings)",
-        "kab_auto": false
+        "kab": "Toolkit NLP multilingue (NER, POS, tigrummiwin)",
+        "kab_auto": true
       }
     },
     {
@@ -3677,8 +3841,9 @@
       "langue": "Multilingue",
       "pays": "International",
       "region": "International",
-      "lat": 33.5,
-      "lng": 2.0,
+      "city": "São Paulo",
+      "lat": -23.5505,
+      "lng": -46.6333,
       "taille": "",
       "lien": "https://github.com/clips/pattern",
       "url": "https://github.com/clips/pattern",
@@ -3686,9 +3851,9 @@
       "summary": "Bibliothèque pour web mining et NLP (anglais, allemand, etc.)",
       "description": {
         "fr": "Bibliothèque pour web mining et NLP (anglais, allemand, etc.)",
-        "en": "Bibliothèque pour web mining et NLP (anglais, allemand, etc.)",
-        "kab": "Bibliothèque pour web mining et NLP (anglais, allemand, etc.)",
-        "kab_auto": false
+        "en": "library pour web mining et NLP (anglais, allemand, etc.)",
+        "kab": "tamkarḍit pour web mining et NLP (anglais, allemand, etc.)",
+        "kab_auto": true
       }
     },
     {
@@ -3702,8 +3867,9 @@
       "langue": "Multilingue",
       "pays": "International",
       "region": "International",
-      "lat": 33.5,
-      "lng": 2.0,
+      "city": "Tokyo",
+      "lat": 35.6762,
+      "lng": 139.6503,
       "taille": "",
       "lien": "https://github.com/anoopkunchukuttan/indic_nlp_library",
       "url": "https://github.com/anoopkunchukuttan/indic_nlp_library",
@@ -3711,9 +3877,9 @@
       "summary": "Outils pour langues indiennes (tokenization, translitération)",
       "description": {
         "fr": "Outils pour langues indiennes (tokenization, translitération)",
-        "en": "Outils pour langues indiennes (tokenization, translitération)",
-        "kab": "Outils pour langues indiennes (tokenization, translitération)",
-        "kab_auto": false
+        "en": "tools pour languages indiennes (tokenization, translitération)",
+        "kab": "ifecka pour tutlayin indiennes (tokenization, translitération)",
+        "kab_auto": true
       }
     },
     {
@@ -3727,8 +3893,9 @@
       "langue": "Multilingue",
       "pays": "International",
       "region": "International",
-      "lat": 33.5,
-      "lng": 2.0,
+      "city": "Alger",
+      "lat": 36.7538,
+      "lng": 3.0588,
       "taille": "",
       "lien": "https://github.com/CAMeL-Lab/camel_tools",
       "url": "https://github.com/CAMeL-Lab/camel_tools",
@@ -3736,9 +3903,9 @@
       "summary": "Suite d'outils pour NLP arabe (morphologie, NER, etc.)",
       "description": {
         "fr": "Suite d'outils pour NLP arabe (morphologie, NER, etc.)",
-        "en": "Suite d'outils pour NLP arabe (morphologie, NER, etc.)",
-        "kab": "Suite d'outils pour NLP arabe (morphologie, NER, etc.)",
-        "kab_auto": false
+        "en": "Suite d'tools pour NLP arabe (morphologie, NER, etc.)",
+        "kab": "Suite d'ifecka pour NLP arabe (morphologie, NER, etc.)",
+        "kab_auto": true
       }
     },
     {
@@ -3752,8 +3919,9 @@
       "langue": "Multilingue",
       "pays": "International",
       "region": "International",
-      "lat": 33.5,
-      "lng": 2.0,
+      "city": "Toronto",
+      "lat": 43.6532,
+      "lng": -79.3832,
       "taille": "",
       "lien": "https://github.com/QCRI/farasa",
       "url": "https://github.com/QCRI/farasa",
@@ -3777,8 +3945,9 @@
       "langue": "Multilingue",
       "pays": "International",
       "region": "International",
-      "lat": 33.5,
-      "lng": 2.0,
+      "city": "Taipei",
+      "lat": 25.033,
+      "lng": 121.5654,
       "taille": "",
       "lien": "https://github.com/mishari/alipy",
       "url": "https://github.com/mishari/alipy",
@@ -3786,9 +3955,9 @@
       "summary": "Bibliothèque Python pour manipulation de texte arabe",
       "description": {
         "fr": "Bibliothèque Python pour manipulation de texte arabe",
-        "en": "Bibliothèque Python pour manipulation de texte arabe",
-        "kab": "Bibliothèque Python pour manipulation de texte arabe",
-        "kab_auto": false
+        "en": "library Python pour manipulation de text arabe",
+        "kab": "tamkarḍit Python pour manipulation de aḍris arabe",
+        "kab_auto": true
       }
     },
     {
@@ -3802,8 +3971,9 @@
       "langue": "Multilingue",
       "pays": "International",
       "region": "International",
-      "lat": 33.5,
-      "lng": 2.0,
+      "city": "Taipei",
+      "lat": 25.033,
+      "lng": 121.5654,
       "taille": "",
       "lien": "https://github.com/IntelLabs/nlp-architect",
       "url": "https://github.com/IntelLabs/nlp-architect",
@@ -3811,9 +3981,9 @@
       "summary": "Bibliothèque pour architectures NLP avancées",
       "description": {
         "fr": "Bibliothèque pour architectures NLP avancées",
-        "en": "Bibliothèque pour architectures NLP avancées",
-        "kab": "Bibliothèque pour architectures NLP avancées",
-        "kab_auto": false
+        "en": "library pour architectures NLP avancées",
+        "kab": "tamkarḍit pour architectures NLP avancées",
+        "kab_auto": true
       }
     },
     {
@@ -3827,8 +3997,9 @@
       "langue": "Multilingue",
       "pays": "International",
       "region": "International",
-      "lat": 33.5,
-      "lng": 2.0,
+      "city": "Stockholm",
+      "lat": 59.3293,
+      "lng": 18.0686,
       "taille": "",
       "lien": "https://github.com/deepset-ai/haystack",
       "url": "https://github.com/deepset-ai/haystack",
@@ -3836,9 +4007,9 @@
       "summary": "Framework pour systèmes de QA et recherche sémantique",
       "description": {
         "fr": "Framework pour systèmes de QA et recherche sémantique",
-        "en": "Framework pour systèmes de QA et recherche sémantique",
-        "kab": "Framework pour systèmes de QA et recherche sémantique",
-        "kab_auto": false
+        "en": "Framework pour systèmes de QA et research sémantique",
+        "kab": "Framework pour systèmes de QA et anadi sémantique",
+        "kab_auto": true
       }
     },
     {
@@ -3852,8 +4023,9 @@
       "langue": "Multilingue",
       "pays": "International",
       "region": "International",
-      "lat": 33.5,
-      "lng": 2.0,
+      "city": "New York",
+      "lat": 40.7128,
+      "lng": -74.006,
       "taille": "",
       "lien": "https://github.com/RasaHQ/rasa",
       "url": "https://github.com/RasaHQ/rasa",
@@ -3877,8 +4049,9 @@
       "langue": "Multilingue",
       "pays": "International",
       "region": "International",
-      "lat": 33.5,
-      "lng": 2.0,
+      "city": "Paris",
+      "lat": 48.8566,
+      "lng": 2.3522,
       "taille": "",
       "lien": "https://github.com/googleapis/python-dialogflow",
       "url": "https://github.com/googleapis/python-dialogflow",
@@ -3902,8 +4075,9 @@
       "langue": "Multilingue",
       "pays": "International",
       "region": "International",
-      "lat": 33.5,
-      "lng": 2.0,
+      "city": "New Delhi",
+      "lat": 28.6139,
+      "lng": 77.209,
       "taille": "",
       "lien": "https://github.com/langchain-ai/langchain",
       "url": "https://github.com/langchain-ai/langchain",
@@ -3927,8 +4101,9 @@
       "langue": "Multilingue",
       "pays": "International",
       "region": "International",
-      "lat": 33.5,
-      "lng": 2.0,
+      "city": "New Delhi",
+      "lat": 28.6139,
+      "lng": 77.209,
       "taille": "",
       "lien": "https://github.com/run-llama/llama_index",
       "url": "https://github.com/run-llama/llama_index",
@@ -3952,8 +4127,9 @@
       "langue": "Multilingue",
       "pays": "International",
       "region": "International",
-      "lat": 33.5,
-      "lng": 2.0,
+      "city": "Copenhagen",
+      "lat": 55.6761,
+      "lng": 12.5683,
       "taille": "",
       "lien": "https://github.com/deepset-ai/haystack-core-integrations",
       "url": "https://github.com/deepset-ai/haystack-core-integrations",
@@ -3977,8 +4153,9 @@
       "langue": "Multilingue",
       "pays": "International",
       "region": "International",
-      "lat": 33.5,
-      "lng": 2.0,
+      "city": "Singapore",
+      "lat": 1.3521,
+      "lng": 103.8198,
       "taille": "",
       "lien": "https://github.com/google/sentencepiece",
       "url": "https://github.com/google/sentencepiece",
@@ -3986,9 +4163,9 @@
       "summary": "Tokenizeur subword pour modèles de langage",
       "description": {
         "fr": "Tokenizeur subword pour modèles de langage",
-        "en": "Tokenizeur subword pour modèles de langage",
-        "kab": "Tokenizeur subword pour modèles de langage",
-        "kab_auto": false
+        "en": "Tokenizeur subword pour models de langage",
+        "kab": "Tokenizeur subword pour timudmiwin de langage",
+        "kab_auto": true
       }
     },
     {
@@ -4002,8 +4179,9 @@
       "langue": "Multilingue",
       "pays": "International",
       "region": "International",
-      "lat": 33.5,
-      "lng": 2.0,
+      "city": "London",
+      "lat": 51.5074,
+      "lng": -0.1278,
       "taille": "",
       "lien": "https://github.com/huggingface/tokenizers",
       "url": "https://github.com/huggingface/tokenizers",
@@ -4027,8 +4205,9 @@
       "langue": "Multilingue",
       "pays": "International",
       "region": "International",
-      "lat": 33.5,
-      "lng": 2.0,
+      "city": "New York",
+      "lat": 40.7128,
+      "lng": -74.006,
       "taille": "",
       "lien": "https://github.com/huggingface/evaluate",
       "url": "https://github.com/huggingface/evaluate",
@@ -4036,9 +4215,9 @@
       "summary": "Bibliothèque de métriques pour évaluation de modèles NLP",
       "description": {
         "fr": "Bibliothèque de métriques pour évaluation de modèles NLP",
-        "en": "Bibliothèque de métriques pour évaluation de modèles NLP",
-        "kab": "Bibliothèque de métriques pour évaluation de modèles NLP",
-        "kab_auto": false
+        "en": "library de métriques pour évaluation de models NLP",
+        "kab": "tamkarḍit de métriques pour évaluation de timudmiwin NLP",
+        "kab_auto": true
       }
     },
     {
@@ -4052,8 +4231,9 @@
       "langue": "Multilingue",
       "pays": "International",
       "region": "International",
-      "lat": 33.5,
-      "lng": 2.0,
+      "city": "London",
+      "lat": 51.5074,
+      "lng": -0.1278,
       "taille": "",
       "lien": "https://github.com/huggingface/datasets",
       "url": "https://github.com/huggingface/datasets",
@@ -4061,9 +4241,9 @@
       "summary": "Bibliothèque pour chargement et prétraitement de datasets",
       "description": {
         "fr": "Bibliothèque pour chargement et prétraitement de datasets",
-        "en": "Bibliothèque pour chargement et prétraitement de datasets",
-        "kab": "Bibliothèque pour chargement et prétraitement de datasets",
-        "kab_auto": false
+        "en": "library pour chargement et prétraitement de datasets",
+        "kab": "tamkarḍit pour chargement et prétraitement de ismalen",
+        "kab_auto": true
       }
     },
     {
@@ -4077,8 +4257,9 @@
       "langue": "Multilingue",
       "pays": "International",
       "region": "International",
-      "lat": 33.5,
-      "lng": 2.0,
+      "city": "Toronto",
+      "lat": 43.6532,
+      "lng": -79.3832,
       "taille": "",
       "lien": "https://github.com/huggingface/accelerate",
       "url": "https://github.com/huggingface/accelerate",
@@ -4102,8 +4283,9 @@
       "langue": "Multilingue",
       "pays": "International",
       "region": "International",
-      "lat": 33.5,
-      "lng": 2.0,
+      "city": "Rabat",
+      "lat": 34.0209,
+      "lng": -6.8416,
       "taille": "",
       "lien": "https://github.com/huggingface/peft",
       "url": "https://github.com/huggingface/peft",
@@ -4111,9 +4293,9 @@
       "summary": "Fine-tuning efficace (LoRA, adapters) pour grands modèles",
       "description": {
         "fr": "Fine-tuning efficace (LoRA, adapters) pour grands modèles",
-        "en": "Fine-tuning efficace (LoRA, adapters) pour grands modèles",
-        "kab": "Fine-tuning efficace (LoRA, adapters) pour grands modèles",
-        "kab_auto": false
+        "en": "Fine-tuning efficace (LoRA, adapters) pour grands models",
+        "kab": "Fine-tuning efficace (LoRA, adapters) pour grands timudmiwin",
+        "kab_auto": true
       }
     },
     {
@@ -4127,8 +4309,9 @@
       "langue": "Multilingue",
       "pays": "International",
       "region": "International",
-      "lat": 33.5,
-      "lng": 2.0,
+      "city": "New York",
+      "lat": 40.7128,
+      "lng": -74.006,
       "taille": "",
       "lien": "https://github.com/huggingface/diffusers",
       "url": "https://github.com/huggingface/diffusers",
@@ -4136,9 +4319,9 @@
       "summary": "Bibliothèque pour modèles de diffusion (texte-image, etc.)",
       "description": {
         "fr": "Bibliothèque pour modèles de diffusion (texte-image, etc.)",
-        "en": "Bibliothèque pour modèles de diffusion (texte-image, etc.)",
-        "kab": "Bibliothèque pour modèles de diffusion (texte-image, etc.)",
-        "kab_auto": false
+        "en": "library pour models de diffusion (text-image, etc.)",
+        "kab": "tamkarḍit pour timudmiwin de diffusion (aḍris-image, etc.)",
+        "kab_auto": true
       }
     },
     {
@@ -4152,8 +4335,9 @@
       "langue": "Multilingue",
       "pays": "International",
       "region": "International",
-      "lat": 33.5,
-      "lng": 2.0,
+      "city": "Stockholm",
+      "lat": 59.3293,
+      "lng": 18.0686,
       "taille": "",
       "lien": "https://github.com/huggingface/optimum",
       "url": "https://github.com/huggingface/optimum",
@@ -4161,9 +4345,9 @@
       "summary": "Optimisation et déploiement de modèles transformers",
       "description": {
         "fr": "Optimisation et déploiement de modèles transformers",
-        "en": "Optimisation et déploiement de modèles transformers",
-        "kab": "Optimisation et déploiement de modèles transformers",
-        "kab_auto": false
+        "en": "Optimisation et déploiement de models transformers",
+        "kab": "Optimisation et déploiement de timudmiwin transformers",
+        "kab_auto": true
       }
     }
   ]
