@@ -2,22 +2,41 @@ name: Veille NLP quotidienne
 on:
   schedule: [{ cron: '0 6 * * *' }]
   workflow_dispatch:
-permissions: { contents: write }
+
+permissions:
+  contents: write   # commit des données de veille
+  issues: write     # requêtes suivies : lecture des issues « veille:requete » + accusé de réception
+
+concurrency:
+  group: veille
+  cancel-in-progress: false
 
 jobs:
   collect:
     runs-on: ubuntu-latest
+    timeout-minutes: 45
     steps:
-      - uses: actions/checkout@v4
-      - uses: actions/setup-python@v5
+      # v5 / v6 : versions qui tournent nativement sur Node 24 (Node 20 est déprécié sur les runners)
+      - uses: actions/checkout@v5
+      - uses: actions/setup-python@v6
         with: { python-version: '3.12' }
       - run: pip install requests pandas openpyxl
       - run: python scripts/convert_xlsx_v3.py
       - run: python scripts/agent_veille_nlp.py
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}     # quotas API GitHub + requêtes suivies
+          # Optionnel : notices rédigées par Gemini (Settings → Secrets → Actions → GEMINI_API_KEY)
+          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
       - name: Commit
         run: |
           git config user.name "veille-bot"
           git config user.email "bot@users.noreply.github.com"
-          git add data/radar.json data/notices.json data/ressources.json
-          git diff --cached --quiet || git commit -m "veille auto $(date -u +%Y-%m-%d)"
-          git push
+          # tout data/ : catalogue.json (onglet Catalogue), historique et caches persistants de l'agent
+          git add data/
+          if git diff --cached --quiet; then
+            echo "Aucun changement à committer."
+          else
+            git commit -m "veille auto $(date -u +%Y-%m-%d)"
+            git pull --rebase --autostash origin main
+            git push
+          fi
