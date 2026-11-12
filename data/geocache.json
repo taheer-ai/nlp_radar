@@ -1,0 +1,1257 @@
+{
+ "@icra": {
+  "lat": 41.9274,
+  "lng": 2.2529,
+  "label": "Icra"
+ },
+ "aarhus university": {
+  "lat": 56.1671,
+  "lng": 10.2026,
+  "label": "Aarhus Universitet"
+ },
+ "abu dhabi": {
+  "lat": 24.4538,
+  "lng": 54.3774,
+  "label": "Abou Dabi"
+ },
+ "afyon kocatepe university": {
+  "lat": 38.8323,
+  "lng": 30.5291,
+  "label": "Afyon Kocatepe Üniversitesi Ahmet Necdet Sezer Kampüsü"
+ },
+ "ahwaz": {
+  "lat": 31.3231,
+  "lng": 48.6793,
+  "label": "Ahvaz"
+ },
+ "alicante, spain": {
+  "lat": 38.3436,
+  "lng": -0.4882,
+  "label": "Alicante"
+ },
+ "andijan state university, faculty of artificial intelligence and digital technologies associate professor of the department of computer engineering, ph.d.": null,
+ "argonne national laboratory": {
+  "lat": 41.7091,
+  "lng": -87.9786,
+  "label": "Argonne National Laboratory"
+ },
+ "athens, greece": {
+  "lat": 37.9756,
+  "lng": 23.7348,
+  "label": "Athènes"
+ },
+ "azti": {
+  "lat": 43.0652,
+  "lng": -1.9348,
+  "label": "Azti"
+ },
+ "baltimore": {
+  "lat": 39.2909,
+  "lng": -76.6108,
+  "label": "Baltimore"
+ },
+ "bandung institute of technology": {
+  "lat": -6.8904,
+  "lng": 107.6103,
+  "label": "Institut Teknologi Bandung"
+ },
+ "bangkok": {
+  "lat": 13.7525,
+  "lng": 100.4935,
+  "label": "Bangkok"
+ },
+ "barcelona": {
+  "lat": 41.3826,
+  "lng": 2.1771,
+  "label": "Barcelone"
+ },
+ "barcelona supercomputing center": {
+  "lat": 41.3898,
+  "lng": 2.1164,
+  "label": "Barcelona Supercomputing Center"
+ },
+ "basque centre for climate change": null,
+ "bergamo - italy": {
+  "lat": 45.7567,
+  "lng": 9.7542,
+  "label": "Bergame"
+ },
+ "bolzano/bozen, italy": {
+  "lat": 46.499,
+  "lng": 11.3121,
+  "label": "Bolzano - Bozen"
+ },
+ "canada": {
+  "lat": 61.0667,
+  "lng": -107.9917,
+  "label": "Canada"
+ },
+ "carnegie mellon university qatar": {
+  "lat": 25.3159,
+  "lng": 51.439,
+  "label": "Carnegie Mellon University in Qatar"
+ },
+ "charité - universitätsmedizin berlin": {
+  "lat": 52.53,
+  "lng": 13.3487,
+  "label": "Institut für Rechtsmedizin der Charité Universitätsmedizin Berlin"
+ },
+ "chemnitz university of technology": {
+  "lat": 50.8142,
+  "lng": 12.9294,
+  "label": "Technische Universität Chemnitz"
+ },
+ "concordia university": {
+  "lat": 45.4583,
+  "lng": -73.6394,
+  "label": "Université Concordia"
+ },
+ "country:au": {
+  "lat": -24.7761,
+  "lng": 134.755,
+  "label": "Australie"
+ },
+ "country:be": {
+  "lat": 50.6403,
+  "lng": 4.6667,
+  "label": "Belgique"
+ },
+ "country:ch": {
+  "lat": 46.7986,
+  "lng": 8.232,
+  "label": "Suisse"
+ },
+ "country:cn": {
+  "lat": 34.5412,
+  "lng": 108.9237,
+  "label": "Chine"
+ },
+ "country:fr": {
+  "lat": 46.6034,
+  "lng": 1.8883,
+  "label": "France"
+ },
+ "country:nl": {
+  "lat": 52.2435,
+  "lng": 5.6343,
+  "label": "Pays-Bas"
+ },
+ "country:rs": {
+  "lat": 44.1534,
+  "lng": 20.5514,
+  "label": "Serbie"
+ },
+ "country:tn": {
+  "lat": 33.8439,
+  "lng": 9.4001,
+  "label": "Tunisie"
+ },
+ "country:us": {
+  "lat": 39.7837,
+  "lng": -100.4459,
+  "label": "États-Unis d'Amérique"
+ },
+ "department of data science, cheongju university, cheongju, republic of korea": null,
+ "department of ecology, faculty of science, charles university, prague, czechia; institute of microbiology of the czech academy of sciences, prague, czechia": null,
+ "department of language teaching in medicine,  andijan branch of kokand university, uzbekistan": null,
+ "department of plant sciences, university of cambridge, uk": null,
+ "department of veterinary integrative data analytics, wageningen bioveterinary research, wageningen university & research, lelystad, the netherlands": null,
+ "department of zoology, university of granada, granada, spain": null,
+ "division of science, new york university abu dhabi, abu dhabi, united arab emirates": null,
+ "donostia-san sebastián": {
+  "lat": 43.3224,
+  "lng": -1.9839,
+  "label": "Saint-Sébastien"
+ },
+ "edinburgh": {
+  "lat": 55.9533,
+  "lng": -3.1884,
+  "label": "Édimbourg"
+ },
+ "european commission, joint research centre, ispra, italy": null,
+ "euskal herriko unibertsitatea": {
+  "lat": 43.3092,
+  "lng": -2.0108,
+  "label": "Euskal Herriko Unibertsitatea, Ibaeta Campusa"
+ },
+ "eötvös loránd university": {
+  "lat": 47.4935,
+  "lng": 19.0619,
+  "label": "Eötvös Loránd Tudományegyetem Bölcsészettudományi Kar"
+ },
+ "flux-frontiers": null,
+ "fukuoka, japan": {
+  "lat": 33.6251,
+  "lng": 130.618,
+  "label": "Préfecture de Fukuoka"
+ },
+ "gdańsk, poland": {
+  "lat": 54.3483,
+  "lng": 18.654,
+  "label": "Dantzig"
+ },
+ "genève": {
+  "lat": 46.2018,
+  "lng": 6.1466,
+  "label": "Genève"
+ },
+ "goethe university frankfurt": {
+  "lat": 50.1272,
+  "lng": 8.6676,
+  "label": "Johann-Wolfgang-Goethe-Universität Campus Westend"
+ },
+ "gothenburg, sweden": {
+  "lat": 57.7072,
+  "lng": 11.967,
+  "label": "Göteborg"
+ },
+ "granada, spain": {
+  "lat": 37.1735,
+  "lng": -3.5995,
+  "label": "Grenade"
+ },
+ "grenoble": {
+  "lat": 45.1876,
+  "lng": 5.7358,
+  "label": "Grenoble"
+ },
+ "gwangju, south korea": {
+  "lat": 35.1558,
+  "lng": 126.8306,
+  "label": "Gwangju"
+ },
+ "göteborg": {
+  "lat": 57.7072,
+  "lng": 11.967,
+  "label": "Göteborg"
+ },
+ "hanyang university erica": {
+  "lat": 37.2984,
+  "lng": 126.8388,
+  "label": "ERICA GUEST HOUSE at Hanyang university"
+ },
+ "heidelberg": {
+  "lat": 49.4094,
+  "lng": 8.6947,
+  "label": "Heidelberg"
+ },
+ "helmholtz institute erlangen-nürnberg": null,
+ "helsinki": {
+  "lat": 60.1666,
+  "lng": 24.9435,
+  "label": "Helsinki"
+ },
+ "hf:abhirajputnikku7": null,
+ "hf:abhishekdelmundu": null,
+ "hf:abu-dju": null,
+ "hf:adegier": null,
+ "hf:adithyanai": null,
+ "hf:aeryx-ai": {
+  "fullname": "Aeryx AI"
+ },
+ "hf:afifaimran": null,
+ "hf:afrispeech": {
+  "fullname": "AfriSpeech"
+ },
+ "hf:agentlans": null,
+ "hf:ahsanmandhar": null,
+ "hf:ajesujoba": null,
+ "hf:ajmcclary": null,
+ "hf:akpsahan": null,
+ "hf:akynovaaigul": null,
+ "hf:aletheiaaing": {
+  "fullname": "Aletheia AI"
+ },
+ "hf:aliados": null,
+ "hf:alphaedge-ai": {
+  "fullname": "AlphaEdgeAI"
+ },
+ "hf:amaimedia": null,
+ "hf:amine-khelif": null,
+ "hf:amitness": null,
+ "hf:anirdari": null,
+ "hf:anonlion1": null,
+ "hf:anotona-music": null,
+ "hf:aoiandroid": null,
+ "hf:apjanco": null,
+ "hf:arankays": null,
+ "hf:arrisx": null,
+ "hf:artemmmmmmmmmmmmmmmmmmm": null,
+ "hf:ash3241": null,
+ "hf:astroware": {
+  "fullname": "Astroware Labs"
+ },
+ "hf:athaze": null,
+ "hf:atrezonator": null,
+ "hf:augurybot": null,
+ "hf:avericaai": {
+  "fullname": "Averica"
+ },
+ "hf:ayymen": null,
+ "hf:azrunguraya": null,
+ "hf:baobabtech": {
+  "fullname": "Baobab Tech"
+ },
+ "hf:barendjl": null,
+ "hf:beardedmonster": null,
+ "hf:belhaddadmohamed": null,
+ "hf:bezzam": null,
+ "hf:birgermoell": null,
+ "hf:bjnortier": null,
+ "hf:bltlab": {
+  "fullname": "Broadening Linguistic Technologies Lab (BLT Lab)"
+ },
+ "hf:bobbydeveloper2014": null,
+ "hf:bramvanroy": null,
+ "hf:bretagne": {
+  "fullname": "Bretagne"
+ },
+ "hf:btb01": null,
+ "hf:caoyuji": null,
+ "hf:cartik": null,
+ "hf:catalan258": null,
+ "hf:ccop": null,
+ "hf:chao0524": null,
+ "hf:cis-lmu": {
+  "fullname": "CIS, LMU Munich"
+ },
+ "hf:clarusc64": null,
+ "hf:cluesurf": {
+  "fullname": "ClueSurf"
+ },
+ "hf:cointegrated": null,
+ "hf:collectionstudio": null,
+ "hf:coml": {
+  "fullname": "Cognitive Machine Learning | @ENS"
+ },
+ "hf:cpral": null,
+ "hf:csukuangfj": null,
+ "hf:cutting3dg3": null,
+ "hf:danjack0": null,
+ "hf:darija-audio1": {
+  "fullname": "Darija Audio Dataset"
+ },
+ "hf:data-gouv-ml": {
+  "fullname": "Data-Gouv-Community"
+ },
+ "hf:datoric": {
+  "fullname": "Datoric"
+ },
+ "hf:datoricai": null,
+ "hf:dendriteholdings": {
+  "fullname": "Dendrite Holdings"
+ },
+ "hf:derive11": null,
+ "hf:devilloots": null,
+ "hf:dhyeye": null,
+ "hf:dictionlabs": {
+  "fullname": "Diction Labs"
+ },
+ "hf:dksibbs": null,
+ "hf:doannv": null,
+ "hf:draconiticlabs": null,
+ "hf:dsa1": null,
+ "hf:ec5ug": null,
+ "hf:edvv1n": null,
+ "hf:egekocabas": null,
+ "hf:ekanshbfoe": null,
+ "hf:emerald7664": null,
+ "hf:emogheneakpomedaye": null,
+ "hf:enockackaah": null,
+ "hf:epfml": {
+  "fullname": "EPFL Machine Learning and Optimization Laboratory"
+ },
+ "hf:erenyeager-1": null,
+ "hf:espnet": {
+  "fullname": "ESPnet"
+ },
+ "hf:exaistudio": null,
+ "hf:extraplus": null,
+ "hf:ezequiel-andrade": null,
+ "hf:f-labs": null,
+ "hf:fares5462": null,
+ "hf:florianvoss": null,
+ "hf:fpadovani": null,
+ "hf:francesca9805": null,
+ "hf:franciscobdl": null,
+ "hf:frankmorales2020": null,
+ "hf:french-open-data": {
+  "fullname": "French Open Data"
+ },
+ "hf:gabmerlo": null,
+ "hf:gagni": null,
+ "hf:ggaaaga": null,
+ "hf:ggghv": null,
+ "hf:glimpse-dictation": {
+  "fullname": "Glimpse Dictation"
+ },
+ "hf:golden-eaglet": null,
+ "hf:gtak1": null,
+ "hf:guardion": {
+  "fullname": "guardion"
+ },
+ "hf:hbb-community": {
+  "fullname": "HBB Community"
+ },
+ "hf:helsinki-nlp": {
+  "fullname": "Helsinki-NLP Research Group"
+ },
+ "hf:henrikhoffmanndk": null,
+ "hf:herald-dictation": {
+  "fullname": "Herald"
+ },
+ "hf:himanshu9636": null,
+ "hf:hoanglinhn0": null,
+ "hf:horizon-labs": null,
+ "hf:hosstia": null,
+ "hf:hplt": {
+  "fullname": "HPLT"
+ },
+ "hf:hthuatong": null,
+ "hf:huggingfacefw": {
+  "fullname": "FineData"
+ },
+ "hf:hyuki5": null,
+ "hf:ikatrik": null,
+ "hf:imsidag-community": {
+  "fullname": "Imsidag"
+ },
+ "hf:inferenceport-ai": {
+  "fullname": "InferencePort AI (InferencePort LLC)"
+ },
+ "hf:infinix-ai": null,
+ "hf:infinix-io": null,
+ "hf:innadark": null,
+ "hf:irlab-udc": {
+  "fullname": "Information Retrieval Lab @ University of A Coruña"
+ },
+ "hf:iseddik": null,
+ "hf:itspeet": null,
+ "hf:iukocha": null,
+ "hf:jake-anto": null,
+ "hf:janavivekariya": null,
+ "hf:jbmkmbrlb": null,
+ "hf:jhu-clsp": {
+  "fullname": "Center for Language and Speech Processing @ JHU"
+ },
+ "hf:jimwong8899": null,
+ "hf:jinever": null,
+ "hf:jingjingji007": null,
+ "hf:jknafou": null,
+ "hf:johannes765": null,
+ "hf:jonnyverse": null,
+ "hf:jonvidal": null,
+ "hf:jotalbot": null,
+ "hf:jscreatorpro": {
+  "fullname": "JSCreatorPro Pte. Ltd."
+ },
+ "hf:justmeeandy": null,
+ "hf:kataguru": null,
+ "hf:katmarie": null,
+ "hf:kefranabg": null,
+ "hf:kirilldual0987": null,
+ "hf:korosh405": null,
+ "hf:krynexlabs": null,
+ "hf:ladinomendes": null,
+ "hf:lambfool15": null,
+ "hf:langtech-mt": {
+  "fullname": "LangTech Machine Translation"
+ },
+ "hf:lbourdois": null,
+ "hf:lgi2p": null,
+ "hf:lhajtechno": null,
+ "hf:lifeai-dev": {
+  "fullname": "LifeAi"
+ },
+ "hf:linguardia": null,
+ "hf:lipik": {
+  "fullname": "Lipik"
+ },
+ "hf:lmaana": {
+  "fullname": "Lmaana"
+ },
+ "hf:lodrick-the-lafted": null,
+ "hf:lopatnov": null,
+ "hf:maanka2": null,
+ "hf:mabus46": null,
+ "hf:madurox": null,
+ "hf:mahesh27": null,
+ "hf:maigonis": null,
+ "hf:maliba-ai": {
+  "fullname": "MALIBA-AI"
+ },
+ "hf:mashbox-labs": {
+  "fullname": "MASHBOX Labs"
+ },
+ "hf:mathmaster1122": null,
+ "hf:matterwaveai": {
+  "fullname": "MatterWaveAI"
+ },
+ "hf:mattkent": null,
+ "hf:meriemdarija": null,
+ "hf:miguelgp-13": null,
+ "hf:mihaipopa-1": null,
+ "hf:mijuanlo": null,
+ "hf:mimech011": null,
+ "hf:minishlab": {
+  "fullname": "Minish"
+ },
+ "hf:mistralai": {
+  "fullname": "Mistral"
+ },
+ "hf:mlnomad": null,
+ "hf:modrill": null,
+ "hf:morocco-mitnra-labs": {
+  "fullname": "Ministère de l'IA, de la Transformation Numérique et de la Réforme de l'Administration"
+ },
+ "hf:mpoli": null,
+ "hf:mradermacher": null,
+ "hf:mscoffeebeans": null,
+ "hf:mubarak123456": null,
+ "hf:mubarak2026s": null,
+ "hf:mykor": {
+  "fullname": "My Korean Language Models"
+ },
+ "hf:nailyk14": null,
+ "hf:neuronix12314585": null,
+ "hf:neweret": null,
+ "hf:nicolassuez": null,
+ "hf:nlpai-lab": {
+  "fullname": "NLP & AI - Korea University"
+ },
+ "hf:noeflandre": null,
+ "hf:noerror": null,
+ "hf:nordinb": null,
+ "hf:nostraempire": null,
+ "hf:ojiksenpai": null,
+ "hf:olaverse": {
+  "fullname": "Olaverse Lab"
+ },
+ "hf:onashia": null,
+ "hf:onnx-community": {
+  "fullname": "ONNX Community"
+ },
+ "hf:open-index": {
+  "fullname": "OpenIndex"
+ },
+ "hf:openvoiceos": {
+  "fullname": "OpenVoiceOS"
+ },
+ "hf:organisation-participant-27": {
+  "fullname": "organisation-participant-27"
+ },
+ "hf:orpheraai": {
+  "fullname": "Orphera AI"
+ },
+ "hf:os-software": null,
+ "hf:oussamamaat": null,
+ "hf:padas-lab": {
+  "fullname": "Chair of Data Science, University of Passau"
+ },
+ "hf:panga-azazia": null,
+ "hf:pauhu": {
+  "fullname": "Pauhu AI"
+ },
+ "hf:pcq8848": null,
+ "hf:phase-technologies": null,
+ "hf:physicalai-bmi": {
+  "fullname": "Institute for Physical AI @ BMI"
+ },
+ "hf:pisar": {
+  "fullname": "Pozdnekov Labs"
+ },
+ "hf:plutonupv": null,
+ "hf:prachi-munda": null,
+ "hf:quiho": null,
+ "hf:rattyc": null,
+ "hf:redhatai": {
+  "fullname": "Red Hat AI"
+ },
+ "hf:remydrescarlet": null,
+ "hf:reubencf": null,
+ "hf:reza2140": null,
+ "hf:rifailabs": {
+  "fullname": "rifai"
+ },
+ "hf:robertbschuette": null,
+ "hf:rosany": null,
+ "hf:rozabel": null,
+ "hf:rshoemake": null,
+ "hf:rudrakshrakeshzodage": null,
+ "hf:ryusei-46": null,
+ "hf:salahuddin1234": null,
+ "hf:sdobson": null,
+ "hf:sepidmnorozy": null,
+ "hf:serotoninboi": null,
+ "hf:shaikayany": null,
+ "hf:shashankholla3": null,
+ "hf:shields": null,
+ "hf:shun3232": null,
+ "hf:shunyalabs": {
+  "fullname": "Shunya Labs"
+ },
+ "hf:shustov-te": null,
+ "hf:sigtunnel": null,
+ "hf:simonleee": null,
+ "hf:sinceaihq": {
+  "fullname": "Since AI"
+ },
+ "hf:skilledu": null,
+ "hf:small-models-for-glam": {
+  "fullname": "Small Models for GLAM"
+ },
+ "hf:sonoale": null,
+ "hf:speakleash": {
+  "fullname": "SpeakLeash | Spichlerz"
+ },
+ "hf:sunbird": {
+  "fullname": "Sunbird AI"
+ },
+ "hf:sundram1996": null,
+ "hf:supbatomic": null,
+ "hf:svngoku": null,
+ "hf:swinliq-ain-2": {
+  "fullname": "SwinliQ-AI"
+ },
+ "hf:talzoomanzoo": null,
+ "hf:tampajohn": null,
+ "hf:tatathamon": null,
+ "hf:teamflaxia": {
+  "fullname": "TeamFlaxia"
+ },
+ "hf:tech4bueno": null,
+ "hf:thandieao": null,
+ "hf:theavenger": null,
+ "hf:theoracleguy": null,
+ "hf:tigregotico": {
+  "fullname": "Tigre Gótico Lda"
+ },
+ "hf:timteamteem": null,
+ "hf:tjulxx": null,
+ "hf:tokentinkerer": null,
+ "hf:topherau": null,
+ "hf:torkovweryyy": null,
+ "hf:translated": {
+  "fullname": "Translated"
+ },
+ "hf:tremulo": null,
+ "hf:trimux": null,
+ "hf:tryambientai": null,
+ "hf:tts-omnivoice": {
+  "fullname": "tts-omnivoice"
+ },
+ "hf:tts4all": {
+  "fullname": "Text To Speech For All"
+ },
+ "hf:ucrelnlp": {
+  "fullname": "UCREL NLP Research Group"
+ },
+ "hf:uiafuqhfi": null,
+ "hf:universal-dependencies": {
+  "fullname": "universal-dependencies"
+ },
+ "hf:unknown1122111": null,
+ "hf:unswnlporg": {
+  "fullname": "UNSW NLP"
+ },
+ "hf:usa15371": null,
+ "hf:vamboai": {
+  "fullname": "Vambo AI"
+ },
+ "hf:vansh62": null,
+ "hf:vext-ma": {
+  "fullname": "Vext"
+ },
+ "hf:vimal082": null,
+ "hf:vnahata": null,
+ "hf:voiceunlimited": null,
+ "hf:vongocanhthi": null,
+ "hf:vonjack": null,
+ "hf:votepurchase": null,
+ "hf:walydevelopers": null,
+ "hf:wannaphong": null,
+ "hf:warttren": null,
+ "hf:wikilangs": {
+  "fullname": "Wikilangs"
+ },
+ "hf:wikimedia": {
+  "fullname": "Wikimedia"
+ },
+ "hf:windstormlabs": {
+  "fullname": "Windstorm Labs"
+ },
+ "hf:worldcuisines": {
+  "fullname": "World Cuisines"
+ },
+ "hf:worxrit17": null,
+ "hf:wuvya": null,
+ "hf:x054848": null,
+ "hf:xiaoxiaodong1": null,
+ "hf:yama01tgt665": null,
+ "hf:yrrhall": null,
+ "hf:yuiti-ara": null,
+ "hf:zarnite": {
+  "fullname": "zarnite"
+ },
+ "hf:zengzzy": null,
+ "hf:zmakra": null,
+ "ikerbasque": {
+  "lat": 43.3056,
+  "lng": -2.008,
+  "label": "Ikerbasque"
+ },
+ "independent researcher": null,
+ "independent researcher, brno, czech republic": null,
+ "institució catalana de recerca i estudis avançats": null,
+ "institute for chemical research, kyoto university, uji, kyoto 611-0011, japan": null,
+ "ionian university": {
+  "lat": 37.7659,
+  "lng": 20.9028,
+  "label": "Ιόνιο Πανεπιστήμιο - Ζάκυνθος"
+ },
+ "korea railroad research institute": null,
+ "kraków": {
+  "lat": 50.0619,
+  "lng": 19.9369,
+  "label": "Cracovie"
+ },
+ "ku leuven": {
+  "lat": 50.8057,
+  "lng": 3.2915,
+  "label": "KU Leuven Kulak"
+ },
+ "laboratori de botànica – unitat associada csic. facultat de farmàcia i ciències de l'alimentació. institut de recerca de la biodiversitat. universitat de barcelona. av. joan xxiii, 27-31. 08028 barcelona, catalonia": null,
+ "language technologies institute, cmu": null,
+ "leeuwarden": {
+  "lat": 53.2006,
+  "lng": 5.7919,
+  "label": "Leuvarde"
+ },
+ "lieu variable": null,
+ "lisboa": {
+  "lat": 38.7078,
+  "lng": -9.1366,
+  "label": "Lisbonne"
+ },
+ "lisbon, portugal": {
+  "lat": 38.7078,
+  "lng": -9.1366,
+  "label": "Lisbonne"
+ },
+ "london, uk": {
+  "lat": 51.5074,
+  "lng": -0.1278,
+  "label": "Grand Londres"
+ },
+ "london, united kingdom": {
+  "lat": 51.5074,
+  "lng": -0.1278,
+  "label": "Grand Londres"
+ },
+ "macau, china": {
+  "lat": 22.1758,
+  "lng": 113.5514,
+  "label": "Macao"
+ },
+ "manchester metropolitan university": {
+  "lat": 53.4695,
+  "lng": -2.238,
+  "label": "Grosvenor West"
+ },
+ "mila - université de montréal": null,
+ "msida": {
+  "lat": 35.8957,
+  "lng": 14.4892,
+  "label": "L-Imsida"
+ },
+ "münchen": {
+  "lat": 48.1371,
+  "lng": 11.5754,
+  "label": "Munich"
+ },
+ "münchen (germany)": {
+  "lat": 48.1371,
+  "lng": 11.5754,
+  "label": "Munich"
+ },
+ "nancy": {
+  "lat": 48.6937,
+  "lng": 6.1834,
+  "label": "Nancy"
+ },
+ "national university of trujillo": {
+  "lat": -8.1146,
+  "lng": -79.0386,
+  "label": "Universidad Nacional de Trujillo"
+ },
+ "north china electric power university": {
+  "lat": 38.876,
+  "lng": 115.4974,
+  "label": "华北电力大学"
+ },
+ "nzilbb": null,
+ "paris": {
+  "lat": 48.8589,
+  "lng": 2.32,
+  "label": "Paris"
+ },
+ "penang, malaysia": {
+  "lat": 5.4065,
+  "lng": 100.2559,
+  "label": "Penang"
+ },
+ "pisa": {
+  "lat": 43.4715,
+  "lng": 10.6798,
+  "label": "Pise"
+ },
+ "pittsburgh": {
+  "lat": 40.4407,
+  "lng": -80.0026,
+  "label": "Pittsburgh"
+ },
+ "porto, portugal": {
+  "lat": 41.1502,
+  "lng": -8.6103,
+  "label": "Porto"
+ },
+ "prague": {
+  "lat": 50.0875,
+  "lng": 14.4213,
+  "label": "Prague"
+ },
+ "princess sumaya university for technology": {
+  "lat": 32.0231,
+  "lng": 35.8768,
+  "label": "جامعة الأميرة سمية للتكنولوجيا"
+ },
+ "research library for the history of education": null,
+ "rovereto": {
+  "lat": 45.8865,
+  "lng": 11.0452,
+  "label": "Rovereto"
+ },
+ "saarbrücken": {
+  "lat": 49.2344,
+  "lng": 6.9964,
+  "label": "Sarrebruck"
+ },
+ "san francisco": {
+  "lat": 37.7879,
+  "lng": -122.4075,
+  "label": "San Francisco"
+ },
+ "san francisco, california, united states": {
+  "lat": 37.7879,
+  "lng": -122.4075,
+  "label": "San Francisco"
+ },
+ "san francisco, california, usa": {
+  "lat": 37.7879,
+  "lng": -122.4075,
+  "label": "San Francisco"
+ },
+ "san francisco, usa": {
+  "lat": 37.7879,
+  "lng": -122.4075,
+  "label": "San Francisco"
+ },
+ "seattle": {
+  "lat": 47.6038,
+  "lng": -122.3301,
+  "label": "Seattle"
+ },
+ "southern illinois university": {
+  "lat": 37.7083,
+  "lng": -89.2276,
+  "label": "Southern Illinois University Carbondale"
+ },
+ "spain": {
+  "lat": 39.3261,
+  "lng": -4.838,
+  "label": "Espagne"
+ },
+ "srm institute of science and technology": {
+  "lat": 12.8234,
+  "lng": 80.045,
+  "label": "SRM Institute of Science and Technology"
+ },
+ "stuttgart": {
+  "lat": 48.7784,
+  "lng": 9.18,
+  "label": "Stuttgart"
+ },
+ "sydney, australia": {
+  "lat": -33.8698,
+  "lng": 151.2083,
+  "label": "Sydney"
+ },
+ "teacher, philology, turan international university, namangan, uzbekistan": null,
+ "termez state university, uzbekistan,": {
+  "lat": 37.2397,
+  "lng": 67.3122,
+  "label": "Termiz davlat muhandislik va agrotexnalogiyalar universiteti"
+ },
+ "the university of texas at el paso": {
+  "lat": 31.7758,
+  "lng": -106.5079,
+  "label": "The University of Texas at El Paso"
+ },
+ "tohoku university": {
+  "lat": 38.2542,
+  "lng": 140.8407,
+  "label": "東北大学 青葉山東キャンパス"
+ },
+ "toronto": {
+  "lat": 43.6535,
+  "lng": -79.3839,
+  "label": "Toronto"
+ },
+ "toronto, canada": {
+  "lat": 43.6535,
+  "lng": -79.3839,
+  "label": "Toronto"
+ },
+ "télétravail · usa, canada, usa timezones": null,
+ "tübingen": {
+  "lat": 48.5203,
+  "lng": 9.0536,
+  "label": "Tübingen"
+ },
+ "united arab emirates": {
+  "lat": 24.0002,
+  "lng": 53.9995,
+  "label": "Émirats arabes unis"
+ },
+ "united kingdom": {
+  "lat": 54.7024,
+  "lng": -3.2766,
+  "label": "Royaume-Uni"
+ },
+ "universidad de los andes": {
+  "lat": 4.6014,
+  "lng": -74.0649,
+  "label": "Universidad de los Andes"
+ },
+ "universidade da coruña": {
+  "lat": 43.3709,
+  "lng": -8.3902,
+  "label": "Reitorado da Universidade da Coruña"
+ },
+ "universitat oberta de catalunya": {
+  "lat": 41.1539,
+  "lng": 1.1004,
+  "label": "Universitat Oberta de Catalunya"
+ },
+ "universitat politècnica de catalunya": {
+  "lat": 41.2214,
+  "lng": 1.7301,
+  "label": "Escola Politècnica Superior d''Enginyeria de Vilanova i la Geltrú (EPSEVG)"
+ },
+ "universitat ramon llull": {
+  "lat": 41.4118,
+  "lng": 2.1335,
+  "label": "Universitat Ramon Llull"
+ },
+ "university of business and science  til va adabiyot ta'limi kafedrasi o'qituvchisi": null,
+ "university of konstanz": {
+  "lat": 47.69,
+  "lng": 9.1883,
+  "label": "Université de Constance"
+ },
+ "university of michigan": {
+  "lat": 42.2942,
+  "lng": -83.71,
+  "label": "University of Michigan"
+ },
+ "university of michigan–dearborn": {
+  "lat": 42.3172,
+  "lng": -83.2319,
+  "label": "University of Michigan-Dearborn"
+ },
+ "university of north texas": {
+  "lat": 33.2099,
+  "lng": -97.1515,
+  "label": "University of North Texas"
+ },
+ "university of nottingham": {
+  "lat": 52.9387,
+  "lng": -1.2003,
+  "label": "University of Nottingham"
+ },
+ "university of texas at austin": {
+  "lat": 30.2851,
+  "lng": -97.7339,
+  "label": "University of Texas at Austin"
+ },
+ "university of the basque country": {
+  "lat": 43.3092,
+  "lng": -2.0108,
+  "label": "Euskal Herriko Unibertsitatea, Ibaeta Campusa"
+ },
+ "university of virginia": {
+  "lat": 38.0411,
+  "lng": -78.5055,
+  "label": "University of Virginia"
+ },
+ "università degli sudi di messina": null,
+ "uppsala": {
+  "lat": 59.8586,
+  "lng": 17.6387,
+  "label": "Uppsala"
+ },
+ "varna, bulgaria": {
+  "lat": 43.2074,
+  "lng": 27.9167,
+  "label": "Varna"
+ },
+ "venice": {
+  "lat": 45.4372,
+  "lng": 12.3346,
+  "label": "Venise"
+ },
+ "vtt technical research centre of finland": null,
+ "waltham": {
+  "lat": 42.3762,
+  "lng": -71.2356,
+  "label": "Waltham"
+ },
+ "wd:ai-ling.publia.org": null,
+ "wd:bop.unibe.ch": {
+  "lat": 46.84,
+  "lng": 7.6,
+  "city": "Bern Open Publishing",
+  "region": "Suisse",
+  "geo_source": "Wikidata · Bern Open Publishing",
+  "_coarse": false
+ },
+ "wd:daryaft.numl.edu.pk": null,
+ "wd:dialogica-journal.com": null,
+ "wd:e-journals.unmul.ac.id": null,
+ "wd:edu.pl": null,
+ "wd:folli.info": null,
+ "wd:imist.ma": {
+  "lat": 34.0211,
+  "lng": -6.8414,
+  "city": "Moroccan Institute for Scientific and Technical Information",
+  "region": "Maroc",
+  "geo_source": "Wikidata · Moroccan Institute for Scientific and Technical Information",
+  "_coarse": false
+ },
+ "wd:inacl.id": null,
+ "wd:ispan.edu.pl": null,
+ "wd:jci.numl.edu.pk": null,
+ "wd:jcls.io": null,
+ "wd:journals.ispan.edu.pl": null,
+ "wd:journals.lki.lt": null,
+ "wd:journals.openedition.org": null,
+ "wd:journals.pu.edu.pk": null,
+ "wd:kalbos.ktu.lt": null,
+ "wd:knu.ua": {
+  "lat": 50.4419,
+  "lng": 30.5113,
+  "city": "université nationale Taras-Chevtchenko de Kiev",
+  "region": "Ukraine",
+  "geo_source": "Wikidata · université nationale Taras-Chevtchenko de Kiev",
+  "_coarse": false
+ },
+ "wd:ktu.lt": null,
+ "wd:kubg.edu.ua": {
+  "lat": 50.4528,
+  "lng": 30.5016,
+  "city": "Borys Grinchenko Kyiv Metropolitan University",
+  "region": "Ukraine",
+  "geo_source": "Wikidata · Borys Grinchenko Kyiv Metropolitan University",
+  "_coarse": false
+ },
+ "wd:lki.lt": {
+  "lat": 54.6951,
+  "lng": 25.3054,
+  "city": "Institut de la langue de la Lituanie",
+  "region": "Lituanie",
+  "geo_source": "Wikidata · Institut de la langue de la Lituanie",
+  "_coarse": false
+ },
+ "wd:movoznavstvo.knu.ua": null,
+ "wd:nejlt.org": null,
+ "wd:numl.edu.pk": {
+  "lat": 33.6989,
+  "lng": 73.0369,
+  "city": "Islamabad",
+  "region": "Pakistan",
+  "geo_source": "Wikidata · National University of Modern Languages",
+  "_coarse": false
+ },
+ "wd:openedition.org": {
+  "lat": 43.2967,
+  "lng": 5.3764,
+  "city": "Marseille",
+  "region": "France",
+  "geo_source": "Wikidata · OpenEdition",
+  "_coarse": false
+ },
+ "wd:pu.edu.pk": {
+  "lat": 31.2928,
+  "lng": 74.1747,
+  "city": "université du Pendjab",
+  "region": "Pakistan",
+  "geo_source": "Wikidata · université du Pendjab",
+  "_coarse": false
+ },
+ "wd:publia.org": {
+  "lat": 51.0,
+  "lng": 10.0,
+  "city": "PUBLIA – SLUB Open Publishing",
+  "region": "Allemagne",
+  "geo_source": "Wikidata · PUBLIA – SLUB Open Publishing",
+  "_coarse": true
+ },
+ "wd:revistes.ub.edu": null,
+ "wd:revues.imist.ma": null,
+ "wd:semantics.knu.ua": null,
+ "wd:sindhjol.smiu.edu.pk": null,
+ "wd:smiu.edu.pk": {
+  "lat": 24.8508,
+  "lng": 67.004,
+  "city": "université Sind Madressatul Islam",
+  "region": "Pakistan",
+  "geo_source": "Wikidata · université Sind Madressatul Islam",
+  "_coarse": false
+ },
+ "wd:sociolinguistics.ru": null,
+ "wd:studiap.kubg.edu.ua": null,
+ "wd:testoesenso.it": null,
+ "wd:ub.edu": null,
+ "wd:ukr.movoznavstvo.knu.ua": null,
+ "wd:unmul.ac.id": {
+  "lat": -0.4684,
+  "lng": 117.1541,
+  "city": "Mulawarman University",
+  "region": "Indonésie",
+  "geo_source": "Wikidata · Mulawarman University",
+  "_coarse": false
+ },
+ "wd:uonbi.ac.ke": {
+  "lat": -1.2797,
+  "lng": 36.8165,
+  "city": "Université de Nairobi",
+  "region": "Kenya",
+  "geo_source": "Wikidata · Université de Nairobi",
+  "_coarse": false
+ },
+ "wd:uonjournals.uonbi.ac.ke": null,
+ "wd:utafitionline.com": null,
+ "wd:wuwr.pl": null,
+ "wd:ziglobitha.org": null,
+ "wdn:aeryx ai": null,
+ "wdn:afrispeech": null,
+ "wdn:aletheia ai": null,
+ "wdn:alphaedgeai": null,
+ "wdn:astroware labs": null,
+ "wdn:averica": null,
+ "wdn:baobab tech": null,
+ "wdn:bretagne": {
+  "lat": 47.5953,
+  "lng": 6.9978,
+  "city": "Bretagne",
+  "region": "France",
+  "geo_source": "Wikidata · Bretagne"
+ },
+ "wdn:broadening linguistic technologies lab blt lab": null,
+ "wdn:center for language and speech processing jhu": null,
+ "wdn:chair of data science university of passau": null,
+ "wdn:cis lmu munich": null,
+ "wdn:cluesurf": null,
+ "wdn:cognitive machine learning ens": null,
+ "wdn:darija audio dataset": null,
+ "wdn:data gouv community": null,
+ "wdn:datoric": null,
+ "wdn:dendrite holdings": null,
+ "wdn:diction labs": null,
+ "wdn:epfl machine learning and optimization laboratory": null,
+ "wdn:espnet": null,
+ "wdn:finedata": null,
+ "wdn:french open data": null,
+ "wdn:glimpse dictation": null,
+ "wdn:guardion": null,
+ "wdn:hbb community": null,
+ "wdn:helsinki nlp research group": null,
+ "wdn:herald": null,
+ "wdn:hplt": null,
+ "wdn:imsidag": null,
+ "wdn:inferenceport ai inferenceport llc": null,
+ "wdn:information retrieval lab university of a coru a": null,
+ "wdn:institute for physical ai bmi": null,
+ "wdn:jscreatorpro pte ltd": null,
+ "wdn:langtech machine translation": null,
+ "wdn:lifeai": null,
+ "wdn:lipik": {
+  "lat": 45.4142,
+  "lng": 17.1611,
+  "city": "Lipik",
+  "region": "Croatie",
+  "geo_source": "Wikidata · Lipik"
+ },
+ "wdn:lmaana": null,
+ "wdn:maliba ai": null,
+ "wdn:mashbox labs": null,
+ "wdn:matterwaveai": null,
+ "wdn:minish": null,
+ "wdn:minist re de l ia de la transformation num rique et de la r forme de l administration": null,
+ "wdn:mistral": null,
+ "wdn:my korean language models": null,
+ "wdn:nlp ai korea university": null,
+ "wdn:olaverse lab": null,
+ "wdn:onnx community": null,
+ "wdn:openindex": null,
+ "wdn:openvoiceos": null,
+ "wdn:organisation participant 27": null,
+ "wdn:orphera ai": null,
+ "wdn:pauhu ai": null,
+ "wdn:pozdnekov labs": null,
+ "wdn:red hat ai": null,
+ "wdn:rifai": null,
+ "wdn:shunya labs": null,
+ "wdn:since ai": null,
+ "wdn:small models for glam": null,
+ "wdn:speakleash spichlerz": null,
+ "wdn:sunbird ai": {
+  "lat": 35.5311,
+  "lng": -81.0297,
+  "city": "Denver",
+  "region": "États-Unis",
+  "geo_source": "Wikidata · Sunbird Airlines"
+ },
+ "wdn:swinliq ai": null,
+ "wdn:teamflaxia": null,
+ "wdn:text to speech for all": null,
+ "wdn:tigre g tico lda": null,
+ "wdn:translated": null,
+ "wdn:tts omnivoice": null,
+ "wdn:ucrel nlp research group": null,
+ "wdn:universal dependencies": null,
+ "wdn:unsw nlp": null,
+ "wdn:vambo ai": null,
+ "wdn:vext": {
+  "lat": 33.5992,
+  "lng": -7.62,
+  "city": "Casablanca",
+  "region": "Maroc",
+  "geo_source": "Wikidata · Vext"
+ },
+ "wdn:wikilangs": null,
+ "wdn:wikimedia": null,
+ "wdn:windstorm labs": null,
+ "wdn:world cuisines": null,
+ "wdn:zarnite": null,
+ "xi'an, china": {
+  "lat": 34.261,
+  "lng": 108.9423,
+  "label": "Xi'an"
+ },
+ "école polytechnique fédérale de lausanne": {
+  "lat": 46.5187,
+  "lng": 6.5666,
+  "label": "École Polytechnique Fédérale de Lausanne"
+ }
+}

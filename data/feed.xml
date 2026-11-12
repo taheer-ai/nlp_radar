@@ -1,0 +1,811 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>ConnecTAL — veille TAL</title>
+    <link>https://omnital.github.io/</link>
+    <atom:link href="https://omnital.github.io/data/feed.xml" rel="self" type="application/rss+xml"/>
+    <description>Nouvelles ressources en traitement automatique des langues (arXiv, HAL, Hugging Face, GitHub, WikiCFP).</description>
+    <language>fr</language>
+    <lastBuildDate>Thu, 12 Nov 2026 15:23:07 +0000</lastBuildDate>
+    <item>
+      <title>[Event] IberLEF 2027 : [IberLEF 2027] Call for Task Proposals</title>
+      <link>http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=204166</link>
+      <guid isPermaLink="false">wikicfp:204166</guid>
+      <pubDate>Thu, 12 Nov 2026 00:00:00 +0000</pubDate>
+      <category>wikicfp</category>
+      <description>[IberLEF 2027] Call for Task Proposals</description>
+    </item>
+    <item>
+      <title>[Event] FQAS 2027 : Flexible Query Answering Systems - 2027</title>
+      <link>http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=203475</link>
+      <guid isPermaLink="false">wikicfp:203475</guid>
+      <pubDate>Thu, 12 Nov 2026 00:00:00 +0000</pubDate>
+      <category>wikicfp</category>
+      <description>Flexible Query Answering Systems - 2027</description>
+    </item>
+    <item>
+      <title>[Event] RANLP 2027 : 16th Conference RECENT ADVANCES IN NATURAL LANGUAGE PROCESSING</title>
+      <link>http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=204100</link>
+      <guid isPermaLink="false">wikicfp:204100</guid>
+      <pubDate>Thu, 12 Nov 2026 00:00:00 +0000</pubDate>
+      <category>wikicfp</category>
+      <description>16th Conference RECENT ADVANCES IN NATURAL LANGUAGE PROCESSING</description>
+    </item>
+    <item>
+      <title>[Event] LCS 2027 : 14th International Conference on Language, Communication, and Society 2027</title>
+      <link>http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=202863</link>
+      <guid isPermaLink="false">wikicfp:202863</guid>
+      <pubDate>Thu, 12 Nov 2026 00:00:00 +0000</pubDate>
+      <category>wikicfp</category>
+      <description>14th International Conference on Language, Communication, and Society 2027</description>
+    </item>
+    <item>
+      <title>[Event] ICLL 2027 : 2027 11th International Conference on Linguistics and Literature (ICLL 2027)</title>
+      <link>http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=203492</link>
+      <guid isPermaLink="false">wikicfp:203492</guid>
+      <pubDate>Thu, 12 Nov 2026 00:00:00 +0000</pubDate>
+      <category>wikicfp</category>
+      <description>2027 11th International Conference on Linguistics and Literature (ICLL 2027)</description>
+    </item>
+    <item>
+      <title>[Event] MDTT 2027 : 6th International Conference on Multilingual Digital Terminology Today</title>
+      <link>http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=203634</link>
+      <guid isPermaLink="false">wikicfp:203634</guid>
+      <pubDate>Thu, 12 Nov 2026 00:00:00 +0000</pubDate>
+      <category>wikicfp</category>
+      <description>6th International Conference on Multilingual Digital Terminology Today</description>
+    </item>
+    <item>
+      <title>[Event] LTEDI 2027 : Seventh Workshop on Language Technology for Equality, Diversity and Inclusion</title>
+      <link>http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=204137</link>
+      <guid isPermaLink="false">wikicfp:204137</guid>
+      <pubDate>Thu, 12 Nov 2026 00:00:00 +0000</pubDate>
+      <category>wikicfp</category>
+      <description>Seventh Workshop on Language Technology for Equality, Diversity and Inclusion</description>
+    </item>
+    <item>
+      <title>[Event] WASP 2027 : The 5th Workshop on Artificial Intelligence for Scientific Publications</title>
+      <link>http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=204088</link>
+      <guid isPermaLink="false">wikicfp:204088</guid>
+      <pubDate>Thu, 12 Nov 2026 00:00:00 +0000</pubDate>
+      <category>wikicfp</category>
+      <description>The 5th Workshop on Artificial Intelligence for Scientific Publications</description>
+    </item>
+    <item>
+      <title>[Event] NAACL-SRW 2027 : NAACL 2027 Student Research Workshop: Call for Papers and Mentors</title>
+      <link>http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=203342</link>
+      <guid isPermaLink="false">wikicfp:203342</guid>
+      <pubDate>Thu, 12 Nov 2026 00:00:00 +0000</pubDate>
+      <category>wikicfp</category>
+      <description>NAACL 2027 Student Research Workshop: Call for Papers and Mentors</description>
+    </item>
+    <item>
+      <title>[Event] NAACL 2027 : The 2027 Annual Conference of the Nations of the Americas Chapter of the Association for Computational Linguistics</title>
+      <link>http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=202808</link>
+      <guid isPermaLink="false">wikicfp:202808</guid>
+      <pubDate>Thu, 12 Nov 2026 00:00:00 +0000</pubDate>
+      <category>wikicfp</category>
+      <description>The 2027 Annual Conference of the Nations of the Americas Chapter of the Association for Computational Linguistics</description>
+    </item>
+    <item>
+      <title>[Event] TIMES 2027 : Temporality, Interpretation, Meaning, Evolution and Society - International Conference on Language, Culture, Media and Temporal Meaning</title>
+      <link>http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=203960</link>
+      <guid isPermaLink="false">wikicfp:203960</guid>
+      <pubDate>Thu, 12 Nov 2026 00:00:00 +0000</pubDate>
+      <category>wikicfp</category>
+      <description>Temporality, Interpretation, Meaning, Evolution and Society - International Conference on Language, Culture, Media and Temporal Meaning</description>
+    </item>
+    <item>
+      <title>[Event] TIMES 2027 : Temporality, Interpretation, Meaning, Evolution and Society - International Conference on Language, Culture, Media and Temporal Meaning</title>
+      <link>http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=203959</link>
+      <guid isPermaLink="false">wikicfp:203959</guid>
+      <pubDate>Thu, 12 Nov 2026 00:00:00 +0000</pubDate>
+      <category>wikicfp</category>
+      <description>Temporality, Interpretation, Meaning, Evolution and Society - International Conference on Language, Culture, Media and Temporal Meaning</description>
+    </item>
+    <item>
+      <title>[Event] ICCLL 2027 : 2027 the 13th International Conference on Culture, Languages and Literature (ICCLL 2027)</title>
+      <link>http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=201230</link>
+      <guid isPermaLink="false">wikicfp:201230</guid>
+      <pubDate>Thu, 12 Nov 2026 00:00:00 +0000</pubDate>
+      <category>wikicfp</category>
+      <description>2027 the 13th International Conference on Culture, Languages and Literature (ICCLL 2027)</description>
+    </item>
+    <item>
+      <title>[Event] ICASSP 2027 : 2027 IEEE International Conference on Acoustics, Speech, and Signal Processing</title>
+      <link>http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=201211</link>
+      <guid isPermaLink="false">wikicfp:201211</guid>
+      <pubDate>Thu, 12 Nov 2026 00:00:00 +0000</pubDate>
+      <category>wikicfp</category>
+      <description>2027 IEEE International Conference on Acoustics, Speech, and Signal Processing</description>
+    </item>
+    <item>
+      <title>[Event] COLING 2027 : 32nd International Conference on Computational Linguistics</title>
+      <link>http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=201720</link>
+      <guid isPermaLink="false">wikicfp:201720</guid>
+      <pubDate>Thu, 12 Nov 2026 00:00:00 +0000</pubDate>
+      <category>wikicfp</category>
+      <description>32nd International Conference on Computational Linguistics</description>
+    </item>
+    <item>
+      <title>[Event] ICDT 2027 : The Twenty-Second International Conference on Digital Telecommunications</title>
+      <link>http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=204118</link>
+      <guid isPermaLink="false">wikicfp:204118</guid>
+      <pubDate>Thu, 12 Nov 2026 00:00:00 +0000</pubDate>
+      <category>wikicfp</category>
+      <description>The Twenty-Second International Conference on Digital Telecommunications</description>
+    </item>
+    <item>
+      <title>[Event] KNLP@SAC 2027 : Knowledge and Natural Language Processing Track @ ACM SAC 2027</title>
+      <link>http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=203406</link>
+      <guid isPermaLink="false">wikicfp:203406</guid>
+      <pubDate>Thu, 12 Nov 2026 00:00:00 +0000</pubDate>
+      <category>wikicfp</category>
+      <description>Knowledge and Natural Language Processing Track @ ACM SAC 2027</description>
+    </item>
+    <item>
+      <title>[Event] KNLP 2027 : Knowledge and Natural Language Processing Track @ ACM SAC 2027</title>
+      <link>http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=202785</link>
+      <guid isPermaLink="false">wikicfp:202785</guid>
+      <pubDate>Thu, 12 Nov 2026 00:00:00 +0000</pubDate>
+      <category>wikicfp</category>
+      <description>Knowledge and Natural Language Processing Track @ ACM SAC 2027</description>
+    </item>
+    <item>
+      <title>[Event] LInDA 2027 : First Workshop on Linguistic Information for Downstream Applications</title>
+      <link>http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=203731</link>
+      <guid isPermaLink="false">wikicfp:203731</guid>
+      <pubDate>Thu, 12 Nov 2026 00:00:00 +0000</pubDate>
+      <category>wikicfp</category>
+      <description>First Workshop on Linguistic Information for Downstream Applications</description>
+    </item>
+    <item>
+      <title>[Event] Slavic-NLP 2027 : The 11th Workshop on NLP for Slavic languages</title>
+      <link>http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=203784</link>
+      <guid isPermaLink="false">wikicfp:203784</guid>
+      <pubDate>Thu, 12 Nov 2026 00:00:00 +0000</pubDate>
+      <category>wikicfp</category>
+      <description>The 11th Workshop on NLP for Slavic languages</description>
+    </item>
+    <item>
+      <title>[Event] MultiDems 2027 : The 1st Multidisciplinary Workshop on NLP for Democracies</title>
+      <link>http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=203732</link>
+      <guid isPermaLink="false">wikicfp:203732</guid>
+      <pubDate>Thu, 12 Nov 2026 00:00:00 +0000</pubDate>
+      <category>wikicfp</category>
+      <description>The 1st Multidisciplinary Workshop on NLP for Democracies</description>
+    </item>
+    <item>
+      <title>[Event] ArgMining 2027 : 14th Workshop on Argument Mining and Reasoning</title>
+      <link>http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=203730</link>
+      <guid isPermaLink="false">wikicfp:203730</guid>
+      <pubDate>Thu, 12 Nov 2026 00:00:00 +0000</pubDate>
+      <category>wikicfp</category>
+      <description>14th Workshop on Argument Mining and Reasoning</description>
+    </item>
+    <item>
+      <title>[Event] CHOMPS 2027 : Second Workshop on Confabulation, Hallucinations, &amp; Overgeneration in Multilingual &amp; Precision-critical Scenarios</title>
+      <link>http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=203703</link>
+      <guid isPermaLink="false">wikicfp:203703</guid>
+      <pubDate>Thu, 12 Nov 2026 00:00:00 +0000</pubDate>
+      <category>wikicfp</category>
+      <description>Second Workshop on Confabulation, Hallucinations, &amp; Overgeneration in Multilingual &amp; Precision-critical Scenarios</description>
+    </item>
+    <item>
+      <title>[Event] MWE 2027 : The 23rd Workshop on Multiword Expressions</title>
+      <link>http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=203633</link>
+      <guid isPermaLink="false">wikicfp:203633</guid>
+      <pubDate>Thu, 12 Nov 2026 00:00:00 +0000</pubDate>
+      <category>wikicfp</category>
+      <description>The 23rd Workshop on Multiword Expressions</description>
+    </item>
+    <item>
+      <title>[Event] CILiDi 2027 : 4th International Conference on Digital Linguistics, Shaping the Future of Discourse in the Digital Age</title>
+      <link>http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=203514</link>
+      <guid isPermaLink="false">wikicfp:203514</guid>
+      <pubDate>Thu, 12 Nov 2026 00:00:00 +0000</pubDate>
+      <category>wikicfp</category>
+      <description>4th International Conference on Digital Linguistics, Shaping the Future of Discourse in the Digital Age</description>
+    </item>
+    <item>
+      <title>[Event] TLLL 2027 : The 12th International Conference on Languages, Linguistics, Translation and Literature</title>
+      <link>http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=202994</link>
+      <guid isPermaLink="false">wikicfp:202994</guid>
+      <pubDate>Thu, 12 Nov 2026 00:00:00 +0000</pubDate>
+      <category>wikicfp</category>
+      <description>The 12th International Conference on Languages, Linguistics, Translation and Literature</description>
+    </item>
+    <item>
+      <title>[Event] QDLCA 2027 : Quantitative Diachronic Linguistics and Cultural Analytics</title>
+      <link>http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=199741</link>
+      <guid isPermaLink="false">wikicfp:199741</guid>
+      <pubDate>Thu, 12 Nov 2026 00:00:00 +0000</pubDate>
+      <category>wikicfp</category>
+      <description>Quantitative Diachronic Linguistics and Cultural Analytics</description>
+    </item>
+    <item>
+      <title>[Event] Cross-AI ReNL2SQL 2026 : 1st International Workshop on Reliable NL2SQL for Enterprise AI</title>
+      <link>http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=203459</link>
+      <guid isPermaLink="false">wikicfp:203459</guid>
+      <pubDate>Thu, 12 Nov 2026 00:00:00 +0000</pubDate>
+      <category>wikicfp</category>
+      <description>1st International Workshop on Reliable NL2SQL for Enterprise AI</description>
+    </item>
+    <item>
+      <title>[Event] RTCA 2026 : Real-Time Conversational Agents Workshop at NeurIPS 2026</title>
+      <link>http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=202573</link>
+      <guid isPermaLink="false">wikicfp:202573</guid>
+      <pubDate>Thu, 12 Nov 2026 00:00:00 +0000</pubDate>
+      <category>wikicfp</category>
+      <description>Real-Time Conversational Agents Workshop at NeurIPS 2026</description>
+    </item>
+    <item>
+      <title>[Event] IWCLUL 2026 : International Workshop on Computational Linguistics for Uralic Languages</title>
+      <link>http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=203476</link>
+      <guid isPermaLink="false">wikicfp:203476</guid>
+      <pubDate>Thu, 12 Nov 2026 00:00:00 +0000</pubDate>
+      <category>wikicfp</category>
+      <description>International Workshop on Computational Linguistics for Uralic Languages</description>
+    </item>
+    <item>
+      <title>[Event] DL2 International Workshop 2026 : 1st DL2 International Workshop</title>
+      <link>http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=194621</link>
+      <guid isPermaLink="false">wikicfp:194621</guid>
+      <pubDate>Thu, 12 Nov 2026 00:00:00 +0000</pubDate>
+      <category>wikicfp</category>
+      <description>1st DL2 International Workshop</description>
+    </item>
+    <item>
+      <title>[Corpus] Global tree mortality data</title>
+      <link>https://zenodo.org/records/23559433</link>
+      <guid isPermaLink="false">zenodo:23559432</guid>
+      <pubDate>Thu, 12 Nov 2026 00:00:00 +0000</pubDate>
+      <category>zenodo</category>
+      <description>Processed forest dynamics data for the paper Tree mortality exerts strong control on the variation of the global forest carbon sink (Esquivel-Muelbert et al.). The data come from 210,323 multi-census forest plots in research networks and…</description>
+    </item>
+    <item>
+      <title>[Event] LLMSSH 2026 : LLMs and the Social Sciences and Humanities: Research, Resources and Infrastructures</title>
+      <link>http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=203752</link>
+      <guid isPermaLink="false">wikicfp:203752</guid>
+      <pubDate>Thu, 12 Nov 2026 00:00:00 +0000</pubDate>
+      <category>wikicfp</category>
+      <description>LLMs and the Social Sciences and Humanities: Research, Resources and Infrastructures</description>
+    </item>
+    <item>
+      <title>[Event] X Doctoral Conference 2026 : X Doctoral Conference Ca’ Foscari University of Venice</title>
+      <link>http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=194219</link>
+      <guid isPermaLink="false">wikicfp:194219</guid>
+      <pubDate>Thu, 12 Nov 2026 00:00:00 +0000</pubDate>
+      <category>wikicfp</category>
+      <description>X Doctoral Conference Ca’ Foscari University of Venice</description>
+    </item>
+    <item>
+      <title>[Event] ACLing 2026 : 8th International Conference on AI in Computational Linguistics</title>
+      <link>http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=203115</link>
+      <guid isPermaLink="false">wikicfp:203115</guid>
+      <pubDate>Thu, 12 Nov 2026 00:00:00 +0000</pubDate>
+      <category>wikicfp</category>
+      <description>8th International Conference on AI in Computational Linguistics</description>
+    </item>
+    <item>
+      <title>[Event] NAtoms 2026 : Narrative Atoms: The Persistence and Transformation of Fundamental Story Units in Culture</title>
+      <link>http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=202502</link>
+      <guid isPermaLink="false">wikicfp:202502</guid>
+      <pubDate>Thu, 12 Nov 2026 00:00:00 +0000</pubDate>
+      <category>wikicfp</category>
+      <description>Narrative Atoms: The Persistence and Transformation of Fundamental Story Units in Culture</description>
+    </item>
+    <item>
+      <title>[Event] NLPCL 2026 : 7th International Conference on Natural Language Processing and Computational Linguistics</title>
+      <link>http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=195149</link>
+      <guid isPermaLink="false">wikicfp:195149</guid>
+      <pubDate>Thu, 12 Nov 2026 00:00:00 +0000</pubDate>
+      <category>wikicfp</category>
+      <description>7th International Conference on Natural Language Processing and Computational Linguistics</description>
+    </item>
+    <item>
+      <title>[Event] NLP4CALL 2026 : workshop on Natural Language Processing for Computer-Assisted Language Learning</title>
+      <link>http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=195230</link>
+      <guid isPermaLink="false">wikicfp:195230</guid>
+      <pubDate>Thu, 12 Nov 2026 00:00:00 +0000</pubDate>
+      <category>wikicfp</category>
+      <description>workshop on Natural Language Processing for Computer-Assisted Language Learning</description>
+    </item>
+    <item>
+      <title>[Event] ISCSLP 2026 : International Symposium on Chinese Spoken Language Processing</title>
+      <link>http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=199861</link>
+      <guid isPermaLink="false">wikicfp:199861</guid>
+      <pubDate>Thu, 12 Nov 2026 00:00:00 +0000</pubDate>
+      <category>wikicfp</category>
+      <description>International Symposium on Chinese Spoken Language Processing</description>
+    </item>
+    <item>
+      <title>[Event] ISCSLP 2026 : The 15th International Symposium on Chinese Spoken Language Processing</title>
+      <link>http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=199858</link>
+      <guid isPermaLink="false">wikicfp:199858</guid>
+      <pubDate>Thu, 12 Nov 2026 00:00:00 +0000</pubDate>
+      <category>wikicfp</category>
+      <description>The 15th International Symposium on Chinese Spoken Language Processing</description>
+    </item>
+    <item>
+      <title>[Corpus] HYUKI5/CohereLabs__include-base-44</title>
+      <link>https://huggingface.co/datasets/HYUKI5/CohereLabs__include-base-44</link>
+      <guid isPermaLink="false">hf:datasets:HYUKI5/CohereLabs__include-base-44</guid>
+      <pubDate>Thu, 12 Nov 2026 00:00:00 +0000</pubDate>
+      <category>huggingface</category>
+      <description>CohereLabs/include-base-44（複製） データの内容 44 言語の、各国の学術試験と専門試験から抽出した 4 択の知識問題のデータ。1 行が 1 問で、language と country に言語と国、subject に分野、question に問題文、option_a から option_d に選択肢、answer に正解の番号（整数）が入る。運転免許や医療免許などの免許・資格の試験も含まれ、地域の知識を問う問題がある。 データの概要 項目 値…</description>
+    </item>
+    <item>
+      <title>[Model] frankmorales2020/deepseek-moe-16b-topo-cbp-merged-gguf</title>
+      <link>https://huggingface.co/frankmorales2020/deepseek-moe-16b-topo-cbp-merged-gguf</link>
+      <guid isPermaLink="false">hf:models:frankmorales2020/deepseek-moe-16b-topo-cbp-merged-gguf</guid>
+      <pubDate>Thu, 12 Nov 2026 00:00:00 +0000</pubDate>
+      <category>huggingface</category>
+      <description></description>
+    </item>
+    <item>
+      <title>[Model] MattKent/screenbrief-parakeet-ultra-mixed-int8</title>
+      <link>https://huggingface.co/MattKent/screenbrief-parakeet-ultra-mixed-int8</link>
+      <guid isPermaLink="false">hf:models:MattKent/screenbrief-parakeet-ultra-mixed-int8</guid>
+      <pubDate>Thu, 12 Nov 2026 00:00:00 +0000</pubDate>
+      <category>huggingface</category>
+      <description></description>
+    </item>
+    <item>
+      <title>[Model] mahmoudalyosify/BA</title>
+      <link>https://huggingface.co/mahmoudalyosify/BA</link>
+      <guid isPermaLink="false">hf:models:mahmoudalyosify/BA</guid>
+      <pubDate>Thu, 12 Nov 2026 00:00:00 +0000</pubDate>
+      <category>huggingface</category>
+      <description></description>
+    </item>
+    <item>
+      <title>[Tool] Python-Based Computational Pipeline for Diachronic Text Corpus Analysis and High-Resolution Plotting</title>
+      <link>https://zenodo.org/records/24153687</link>
+      <guid isPermaLink="false">zenodo:24153686</guid>
+      <pubDate>Thu, 12 Nov 2026 00:00:00 +0000</pubDate>
+      <category>zenodo</category>
+      <description>Description This record contains the datasets collected via TuniCo, along with the computational scripts, diachronic text corpora, and documentation associated with the comparative analysis of trilingual code-switching (Tunisian Arabic,…</description>
+    </item>
+    <item>
+      <title>[Corpus] Citizen-science fish occurrence and retrospective image-review research data for BioMARató Catalunya, 2020–2026</title>
+      <link>https://zenodo.org/records/24161093</link>
+      <guid isPermaLink="false">zenodo:24161092</guid>
+      <pubDate>Thu, 12 Nov 2026 00:00:00 +0000</pubDate>
+      <category>zenodo</category>
+      <description>This dataset supports the research article "Citizen science and AI for early detection of fish range shifts". It contains processed biodiversity observations from the MINKA citizen-science observatory and BioMARató Catalunya along the…</description>
+    </item>
+    <item>
+      <title>[Paper] Analyse linguistique des toponymes de deux localités kabyles « Adekar et Souq letnin »</title>
+      <link>https://dspace.ummto.dz/handle/ummto/31638</link>
+      <guid isPermaLink="false">dspace:ummto:ummto/31638</guid>
+      <pubDate>Thu, 12 Nov 2026 00:00:00 +0000</pubDate>
+      <category>dspace</category>
+      <description>Notre étude s’inscrit dans le domaine de l’onomastique, plus exactement l’étude des toponymes, ses dernier sont liés à l’histoire et a la culture de la région . Dans cette recherche toponymique que nous avons suivie, nous avons fait un…</description>
+    </item>
+    <item>
+      <title>[Paper] Essaie de traduction du français vers tamazight (kabyle) du livre « tradition et renouvellement dans la littérature kabyle » de Amar Ameziane</title>
+      <link>https://dspace.ummto.dz/handle/ummto/31637</link>
+      <guid isPermaLink="false">dspace:ummto:ummto/31637</guid>
+      <pubDate>Thu, 12 Nov 2026 00:00:00 +0000</pubDate>
+      <category>dspace</category>
+      <description>La traduction de certain lexique était un objet d‟étude pour nous, cela avec l‟aide de quelques ouvrages, site web, et dictionnaire surtout. Dans le premier chapitre, on a définit la traduction, puis ces buts, ces types, ensuite ces…</description>
+    </item>
+    <item>
+      <title>[Paper] L’analyse syntaxique des phrases dans le roman « Murḍus » de TAHAR OULD AMAR</title>
+      <link>https://dspace.ummto.dz/handle/ummto/31627</link>
+      <guid isPermaLink="false">dspace:ummto:ummto/31627</guid>
+      <pubDate>Thu, 12 Nov 2026 00:00:00 +0000</pubDate>
+      <category>dspace</category>
+      <description>Tutlayt, d alall yesɛan azal meqqren: s yis-s yettmeslay umdan maca amussnaw n tesnilest ixeddem-d ilugan n tira i tutlayt-agi. Ihi di tseddast d tin yesɛan azal meqqren deg uḥric n tesnilest imi d nettat i d-yeskanayen tira n tefyar…</description>
+    </item>
+    <item>
+      <title>[Paper] Etude de cas de l’échange matrimonial au village Taourirt Mokrane des années soixante à nos jours</title>
+      <link>https://dspace.ummto.dz/handle/ummto/31642</link>
+      <guid isPermaLink="false">dspace:ummto:ummto/31642</guid>
+      <pubDate>Thu, 12 Nov 2026 00:00:00 +0000</pubDate>
+      <category>dspace</category>
+      <description>Tissulya1, d ansay2 i yesɛan azal ɣer Leqbayel, d tagnit i useğhed n wassaɣen3 gar twaculin d yiɣerfan. Insayen i icudden ɣer tssulya llant deg-sent takkayin4 yemgaraden am usuter n zzwaǧ, istagen5 ɣef tmeṭṭut, asfugel amezwaru akked d…</description>
+    </item>
+    <item>
+      <title>[Paper] Étude socio-anthropologique des pratiques rituelles du nouveau-né dans les régions de Tizi Gheniff et de Ouadhias</title>
+      <link>https://dspace.ummto.dz/handle/ummto/31640</link>
+      <guid isPermaLink="false">dspace:ummto:ummto/31640</guid>
+      <pubDate>Thu, 12 Nov 2026 00:00:00 +0000</pubDate>
+      <category>dspace</category>
+      <description>Ansayen-nneɣ yeqqnen ɣer tlalit n yigerdan ufan laṣel-nsen deg umezruy, ttawin daxel-nsen aselmed n lejdud d usirem n tyemmatin. Deg tmetti taqbaylit, talalit tesɛa azal meqqren, tettuneḥsab d tameɣra, ladɣa talalit n uqcic imi d netta i…</description>
+    </item>
+    <item>
+      <title>[Paper] Tamachaut taqbaylit deg yizeḍwan inmettiyen: Tasleḍt n usufeɣ d termest</title>
+      <link>https://dspace.ummto.dz/handle/ummto/31639</link>
+      <guid isPermaLink="false">dspace:ummto:ummto/31639</guid>
+      <pubDate>Thu, 12 Nov 2026 00:00:00 +0000</pubDate>
+      <category>dspace</category>
+      <description>Nessemres tarayt n tkanit, nesserwes tamacahut deg yizeḍwan inmettiyen γer yilugan n tsiwelt Ad d-nesmekti, anadi-tneγ newwi-t-id γef tesleḍt nufaris n tmacahut deg yizeḍwan inmettiyen You tube, neeḍ ad nẓer dacu-ten yiferdisen n tmacahut…</description>
+    </item>
+    <item>
+      <title>[Paper] Tasleḍt n tsiwelt deg wammud n tullisin « Tid yuran » N Djamal Mahroug</title>
+      <link>https://dspace.ummto.dz/handle/ummto/31633</link>
+      <guid isPermaLink="false">dspace:ummto:ummto/31633</guid>
+      <pubDate>Thu, 12 Nov 2026 00:00:00 +0000</pubDate>
+      <category>dspace</category>
+      <description>Deg yixef amazwaru i wumi n semma tadyizt n umsawal deg –s newwi-d awal ɣef tbadut n tsiwelt akked umsawal d leṣnaf –is d twuriwin-is , deg wayen yaɛnan amsawal n teḥkayt yella s waṭas d aniri mačči d netta i d- iḥekkun ayen iḍarrun d…</description>
+    </item>
+    <item>
+      <title>[Paper] Taṣleḍt tasentalant n yisefra n tlawin seg temnaḍin n Iwaḍiyen (Ait Lqayed) d Micli (Aqbil).</title>
+      <link>https://dspace.ummto.dz/handle/ummto/31630</link>
+      <guid isPermaLink="false">dspace:ummto:ummto/31630</guid>
+      <pubDate>Thu, 12 Nov 2026 00:00:00 +0000</pubDate>
+      <category>dspace</category>
+      <description>Leqdic-agi yebḍa ɣef sin n yiḥricen.aḥric amezwaru yemmeslay-d ɣef wayen yerzen tameṭṭut taqbaylit ama ɣef tmedyazt-is di tmetti tamensayt s tewsatin-is yegaraden (azuzen,aserqes,aḥiḥa,urar ) d ttamedyazt yesɛan azal imi teselmad…</description>
+    </item>
+    <item>
+      <title>[Paper] Tasleḍt n yiwudam yellan di tmucuha n yiẓeḍwan imettiyen</title>
+      <link>https://dspace.ummto.dz/handle/ummto/31629</link>
+      <guid isPermaLink="false">dspace:ummto:ummto/31629</guid>
+      <pubDate>Thu, 12 Nov 2026 00:00:00 +0000</pubDate>
+      <category>dspace</category>
+      <description>Di tazwara n umahil-agi nejmeɛ-d 12 n tmucuha deg uẓḍa n youtube, nura-tent, send nexdem-asent agzul i yal yiwet, nexdem tabadut ama n tmacahut ama n yiwudam, tulmisin n tmacahut tin n timawit akked yineẓwan imettiyen, leṣnaf-nsent, ɣer…</description>
+    </item>
+    <item>
+      <title>[Paper] Analyse morphologique et lexicale des toponymes de la commune d'Iboudraren et la commune de Boghni</title>
+      <link>https://dspace.ummto.dz/handle/ummto/31641</link>
+      <guid isPermaLink="false">dspace:ummto:ummto/31641</guid>
+      <pubDate>Thu, 12 Nov 2026 00:00:00 +0000</pubDate>
+      <category>dspace</category>
+      <description>Dans ce mémoire, nous avons réalisé une analyse détaillée des aspects morphologiques et lexicaux des toponymes dans les communes d’Iboudraren et de Boghni. Notre but principal était d’explorer la structure et l’origine linguistique de ces…</description>
+    </item>
+    <item>
+      <title>[Paper] Etude morphologique et sémantique d’un champ lexical des plantes médicinales dans les deux localités (AIT OUACIF et FRIKAT).</title>
+      <link>https://dspace.ummto.dz/handle/ummto/31634</link>
+      <guid isPermaLink="false">dspace:ummto:ummto/31634</guid>
+      <pubDate>Thu, 12 Nov 2026 00:00:00 +0000</pubDate>
+      <category>dspace</category>
+      <description>Dans ce modeste travail, nous avons étudié le champ lexicale des plantes médicinales de deux régions (AIT OACIF et FRIKAT).Afin de répondre aux questions posées dans la problématique, nous avons fait une analyse morphologique et…</description>
+    </item>
+    <item>
+      <title>[Paper] Some complete ω-powers of a one-counter language in the difference hierarchy</title>
+      <link>https://hal.science/hal-05790654v2</link>
+      <guid isPermaLink="false">hal:hal-05790654</guid>
+      <pubDate>Thu, 12 Nov 2026 00:00:00 +0000</pubDate>
+      <category>hal</category>
+      <description>Fix a finite alphabet $\Sigma$ having at least two letters, and natural numbers $n,k\geq 1$. We denote by $D_n(\mathbf{\Pi}^0_k)$ the class of differences of $n$ subsets of the Cantor space $\Sigma^\omega$ in $\mathbf{\Pi}^0_k$, and by…</description>
+    </item>
+    <item>
+      <title>[Corpus] TIL KORPUSI ASOSIDAGI EKOLINGVISTIK TADQIQOTLAR</title>
+      <link>https://zenodo.org/records/24165412</link>
+      <guid isPermaLink="false">zenodo:24165411</guid>
+      <pubDate>Thu, 12 Nov 2026 00:00:00 +0000</pubDate>
+      <category>zenodo</category>
+      <description>Maqolada til korpusi ekolingvistik tadqiqotning empirik asosi sifatida ko‘rib chiqiladi. Jahon tilshunosligidagi korpusga asoslangan ekologik diskurs tahlili tajribasi hamda o‘zbek tilshunosligida korpus lingvistikasi va ekolingvistika…</description>
+    </item>
+    <item>
+      <title>[Corpus] AptaLM: structurally screened RNA pool, training corpora, draws, analyses and ablation checkpoints</title>
+      <link>https://zenodo.org/records/23988517</link>
+      <guid isPermaLink="false">zenodo:23988515</guid>
+      <pubDate>Thu, 12 Nov 2026 00:00:00 +0000</pubDate>
+      <category>zenodo</category>
+      <description>Core record for AptaLM, a 21-million-parameter masked-diffusion RNA language model trained on a synthetic-only structurally screened pool of 3.82 million RNA sequences (10-80 nt; no external catalog inlets). It contains what is needed to…</description>
+    </item>
+    <item>
+      <title>[Corpus] FRAMING NATIONAL DEVELOPMENT THROUGH METAPHOR: A COGNITIVE-LINGUISTIC ANALYSIS OF PRESIDENTIAL SPEECHES IN UZBEKISTAN</title>
+      <link>https://zenodo.org/records/24155622</link>
+      <guid isPermaLink="false">zenodo:24155621</guid>
+      <pubDate>Thu, 12 Nov 2026 00:00:00 +0000</pubDate>
+      <category>zenodo</category>
+      <description>National development is communicated not only as policy but also through metaphors of movement, construction and shared social life. This article examines six presidential speeches by Shavkat Mirziyoyev (2021–2025), using their Uzbek…</description>
+    </item>
+    <item>
+      <title>[Corpus] NUMERICAL METHODS AND SOFTWARE COMPLEX OF ADAPTIVE ADJUSTMENT OF IMAGE-LANGUAGE MODELS IN UZBEK LANGUAGE</title>
+      <link>https://zenodo.org/records/24154193</link>
+      <guid isPermaLink="false">zenodo:24154192</guid>
+      <pubDate>Thu, 12 Nov 2026 00:00:00 +0000</pubDate>
+      <category>zenodo</category>
+      <description>This article proposes numerical methods and a software architecture for adaptive optimization of Uzbek vision-language models under limited computational resources. The mathematical formulation combines contrastive alignment,…</description>
+    </item>
+    <item>
+      <title>[Corpus] MAA thermoelectric analysis: analysis records, logs, corpus, Supplementary Data, figures and SI sources for "Autonomous Analysis of Thermoelectric Materials Big Data by Multi-Agentic AI and Construction of a Knowledge Base and Specialized AI"</title>
+      <link>https://zenodo.org/records/23679547</link>
+      <guid isPermaLink="false">zenodo:23679546</guid>
+      <pubDate>Thu, 12 Nov 2026 00:00:00 +0000</pubDate>
+      <category>zenodo</category>
+      <description>Records accompanying the manuscript "Autonomous Analysis of Thermoelectric Materials Big Data by Multi-Agentic AI and Construction of a Knowledge Base and Specialized AI" (preprint arXiv:2611.00627). Contents: text records of the 110…</description>
+    </item>
+    <item>
+      <title>[Tool] Replication archive for 'Failed exercises mark error-prone periods: error rates before and after errors in app-based language practice'</title>
+      <link>https://zenodo.org/records/24165342</link>
+      <guid isPermaLink="false">zenodo:24165341</guid>
+      <pubDate>Thu, 12 Nov 2026 00:00:00 +0000</pubDate>
+      <category>zenodo</category>
+      <description>Analysis code, analysis plan and numerical outputs for the Brief Report 'Failed exercises mark error-prone periods: error rates before and after errors in app-based language practice' (H. Jeong). The study is a secondary analysis of the…</description>
+    </item>
+    <item>
+      <title>[Tool] Pipeline di linguistica computazionale contrastiva per i giochi di carte tradizionali di Briscola e Belote</title>
+      <link>https://zenodo.org/records/24164945</link>
+      <guid isPermaLink="false">zenodo:24164944</guid>
+      <pubDate>Thu, 12 Nov 2026 00:00:00 +0000</pubDate>
+      <category>zenodo</category>
+      <description>ING This deposit contains the reproducible computational pipeline and Jupyter Notebook developed for the contrastive linguistic and diachronic text analysis of traditional card game terminology (specifically focusing on Briscola and…</description>
+    </item>
+    <item>
+      <title>[Event] JoNN 2026 : Inaugural Issue of Journal of Niche NLP</title>
+      <link>http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=204085</link>
+      <guid isPermaLink="false">wikicfp:204085</guid>
+      <pubDate>Thu, 12 Nov 2026 00:00:00 +0000</pubDate>
+      <category>wikicfp</category>
+      <description>Inaugural Issue of Journal of Niche NLP</description>
+    </item>
+    <item>
+      <title>[Event] LRE-LTH 2027 : Language Resources and Evaluation Special Issue on Language Technologies for Health</title>
+      <link>http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=203802</link>
+      <guid isPermaLink="false">wikicfp:203802</guid>
+      <pubDate>Thu, 12 Nov 2026 00:00:00 +0000</pubDate>
+      <category>wikicfp</category>
+      <description>Language Resources and Evaluation Special Issue on Language Technologies for Health</description>
+    </item>
+    <item>
+      <title>[Event] PLN 78 2027 : issue 78 - Journal of Procesamiento del Lenguaje Natural</title>
+      <link>http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=203590</link>
+      <guid isPermaLink="false">wikicfp:203590</guid>
+      <pubDate>Thu, 12 Nov 2026 00:00:00 +0000</pubDate>
+      <category>wikicfp</category>
+      <description>issue 78 - Journal of Procesamiento del Lenguaje Natural</description>
+    </item>
+    <item>
+      <title>[Event] LRE-PPLD 2027 : Special Issue Preserving the Privacy of Language Data: Emerging Technologies, Evolving Standards and Beyond at the Language Resources and Evaluation Journal</title>
+      <link>http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=203521</link>
+      <guid isPermaLink="false">wikicfp:203521</guid>
+      <pubDate>Thu, 12 Nov 2026 00:00:00 +0000</pubDate>
+      <category>wikicfp</category>
+      <description>Special Issue Preserving the Privacy of Language Data: Emerging Technologies, Evolving Standards and Beyond at the Language Resources and Evaluation Journal</description>
+    </item>
+    <item>
+      <title>[Event] Computer Speech and Language 2021 : Special Issue on Speech Based Evaluation of Neurological Diseases</title>
+      <link>http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=118657</link>
+      <guid isPermaLink="false">wikicfp:118657</guid>
+      <pubDate>Thu, 12 Nov 2026 00:00:00 +0000</pubDate>
+      <category>wikicfp</category>
+      <description>Special Issue on Speech Based Evaluation of Neurological Diseases</description>
+    </item>
+    <item>
+      <title>[Event] RiCL special issue 2027 : special issue of Research in Corpus Linguistics (RiCL) ‘Learner Corpus Research meets the Common European Framework of Reference for Languages and the Companion Volume’</title>
+      <link>http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=194494</link>
+      <guid isPermaLink="false">wikicfp:194494</guid>
+      <pubDate>Thu, 12 Nov 2026 00:00:00 +0000</pubDate>
+      <category>wikicfp</category>
+      <description>special issue of Research in Corpus Linguistics (RiCL) ‘Learner Corpus Research meets the Common European Framework of Reference for Languages and the Companion Volume’</description>
+    </item>
+    <item>
+      <title>[Event] UAIS 2023 : International Journal on Universal Access in the Information Society</title>
+      <link>http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=169509</link>
+      <guid isPermaLink="false">wikicfp:169509</guid>
+      <pubDate>Thu, 12 Nov 2026 00:00:00 +0000</pubDate>
+      <category>wikicfp</category>
+      <description>International Journal on Universal Access in the Information Society</description>
+    </item>
+    <item>
+      <title>[Opportunity] Erasmus Mundus Master in Language and Communication Technologies (LCT)</title>
+      <link>https://lct-master.org/</link>
+      <guid isPermaLink="false">formation:consortium-coordonn-par-l-universit-t-des-saarlandes-erasmus-mundus-master-in-language-and</guid>
+      <pubDate>Thu, 12 Nov 2026 00:00:00 +0000</pubDate>
+      <category>formations</category>
+      <description>Consortium coordonné par l'Universität des Saarlandes — Saarbrücken. Langue(s) d'enseignement : en.</description>
+    </item>
+    <item>
+      <title>[Opportunity] MSc Language Science and Technology</title>
+      <link>https://www.lst.uni-saarland.de/</link>
+      <guid isPermaLink="false">formation:universit-t-des-saarlandes-msc-language-science-and-technology</guid>
+      <pubDate>Thu, 12 Nov 2026 00:00:00 +0000</pubDate>
+      <category>formations</category>
+      <description>Universität des Saarlandes — Saarbrücken. Langue(s) d'enseignement : en.</description>
+    </item>
+    <item>
+      <title>[Opportunity] MSc Computational Linguistics</title>
+      <link>https://www.ims.uni-stuttgart.de/en/</link>
+      <guid isPermaLink="false">formation:universit-t-stuttgart-ims-msc-computational-linguistics</guid>
+      <pubDate>Thu, 12 Nov 2026 00:00:00 +0000</pubDate>
+      <category>formations</category>
+      <description>Universität Stuttgart (IMS) — Stuttgart. Langue(s) d'enseignement : en, de.</description>
+    </item>
+    <item>
+      <title>[Opportunity] MA Computational Linguistics</title>
+      <link>https://uni-tuebingen.de/en/</link>
+      <guid isPermaLink="false">formation:eberhard-karls-universit-t-t-bingen-ma-computational-linguistics</guid>
+      <pubDate>Thu, 12 Nov 2026 00:00:00 +0000</pubDate>
+      <category>formations</category>
+      <description>Eberhard Karls Universität Tübingen — Tübingen. Langue(s) d'enseignement : en, de.</description>
+    </item>
+    <item>
+      <title>[Opportunity] MSc Speech and Language Processing</title>
+      <link>https://www.ed.ac.uk/</link>
+      <guid isPermaLink="false">formation:university-of-edinburgh-msc-speech-and-language-processing</guid>
+      <pubDate>Thu, 12 Nov 2026 00:00:00 +0000</pubDate>
+      <category>formations</category>
+      <description>University of Edinburgh — Edinburgh. Langue(s) d'enseignement : en.</description>
+    </item>
+    <item>
+      <title>[Opportunity] Master of Language Technologies (MLT)</title>
+      <link>https://www.lti.cs.cmu.edu/</link>
+      <guid isPermaLink="false">formation:carnegie-mellon-university-language-technologies-institute-master-of-language-technologies</guid>
+      <pubDate>Thu, 12 Nov 2026 00:00:00 +0000</pubDate>
+      <category>formations</category>
+      <description>Carnegie Mellon University – Language Technologies Institute — Pittsburgh. Langue(s) d'enseignement : en.</description>
+    </item>
+    <item>
+      <title>[Opportunity] MS in Computational Linguistics (CLMS)</title>
+      <link>https://www.compling.uw.edu/</link>
+      <guid isPermaLink="false">formation:university-of-washington-ms-in-computational-linguistics-clms</guid>
+      <pubDate>Thu, 12 Nov 2026 00:00:00 +0000</pubDate>
+      <category>formations</category>
+      <description>University of Washington — Seattle. Langue(s) d'enseignement : en.</description>
+    </item>
+    <item>
+      <title>[Opportunity] MS in Computational Linguistics</title>
+      <link>https://www.brandeis.edu/</link>
+      <guid isPermaLink="false">formation:brandeis-university-ms-in-computational-linguistics</guid>
+      <pubDate>Thu, 12 Nov 2026 00:00:00 +0000</pubDate>
+      <category>formations</category>
+      <description>Brandeis University — Waltham. Langue(s) d'enseignement : en.</description>
+    </item>
+    <item>
+      <title>[Opportunity] Master in Language Technology (MLT)</title>
+      <link>https://www.gu.se/en</link>
+      <guid isPermaLink="false">formation:university-of-gothenburg-master-in-language-technology-mlt</guid>
+      <pubDate>Thu, 12 Nov 2026 00:00:00 +0000</pubDate>
+      <category>formations</category>
+      <description>University of Gothenburg — Göteborg. Langue(s) d'enseignement : en.</description>
+    </item>
+    <item>
+      <title>[Opportunity] Master Programme in Language Technology</title>
+      <link>https://www.uu.se/en</link>
+      <guid isPermaLink="false">formation:uppsala-university-master-programme-in-language-technology</guid>
+      <pubDate>Thu, 12 Nov 2026 00:00:00 +0000</pubDate>
+      <category>formations</category>
+      <description>Uppsala University — Uppsala. Langue(s) d'enseignement : en.</description>
+    </item>
+    <item>
+      <title>[Opportunity] MSc Computer Science – Computational Linguistics</title>
+      <link>https://ufal.mff.cuni.cz/</link>
+      <guid isPermaLink="false">formation:univerzita-karlova-fal-msc-computer-science-computational-linguistics</guid>
+      <pubDate>Thu, 12 Nov 2026 00:00:00 +0000</pubDate>
+      <category>formations</category>
+      <description>Univerzita Karlova (ÚFAL) — Prague. Langue(s) d'enseignement : en, cs.</description>
+    </item>
+    <item>
+      <title>[Opportunity] Master in Language Analysis and Processing (LAP)</title>
+      <link>https://www.hitz.eus/</link>
+      <guid isPermaLink="false">formation:universidad-del-pa-s-vasco-euskal-herriko-unibertsitatea-hitz-master-in-language-analysis-</guid>
+      <pubDate>Thu, 12 Nov 2026 00:00:00 +0000</pubDate>
+      <category>formations</category>
+      <description>Universidad del País Vasco / Euskal Herriko Unibertsitatea (HiTZ) — Donostia-San Sebastián. Langue(s) d'enseignement : en, eu, es.</description>
+    </item>
+    <item>
+      <title>[Opportunity] MSc Human Language Science and Technology</title>
+      <link>https://www.um.edu.mt/linguistics/</link>
+      <guid isPermaLink="false">formation:university-of-malta-institute-of-linguistics-and-language-technology-msc-human-language-sc</guid>
+      <pubDate>Thu, 12 Nov 2026 00:00:00 +0000</pubDate>
+      <category>formations</category>
+      <description>University of Malta – Institute of Linguistics and Language Technology — Msida. Langue(s) d'enseignement : en, mt.</description>
+    </item>
+    <item>
+      <title>[Opportunity] Master Traitement automatique des langues</title>
+      <link>https://idmc.univ-lorraine.fr/</link>
+      <guid isPermaLink="false">formation:universit-de-lorraine-idmc-master-traitement-automatique-des-langues</guid>
+      <pubDate>Thu, 12 Nov 2026 00:00:00 +0000</pubDate>
+      <category>formations</category>
+      <description>Université de Lorraine (IDMC) — Nancy. Langue(s) d'enseignement : fr.</description>
+    </item>
+    <item>
+      <title>[Opportunity] Master TAL – Plurital</title>
+      <link>https://www.inalco.fr/</link>
+      <guid isPermaLink="false">formation:inalco-universit-sorbonne-nouvelle-universit-paris-nanterre-master-tal-plurital</guid>
+      <pubDate>Thu, 12 Nov 2026 00:00:00 +0000</pubDate>
+      <category>formations</category>
+      <description>Inalco, Université Sorbonne Nouvelle, Université Paris Nanterre — Paris. Langue(s) d'enseignement : fr.</description>
+    </item>
+    <item>
+      <title>[Opportunity] Master Linguistique informatique</title>
+      <link>https://u-paris.fr/</link>
+      <guid isPermaLink="false">formation:universit-paris-cit-master-linguistique-informatique</guid>
+      <pubDate>Thu, 12 Nov 2026 00:00:00 +0000</pubDate>
+      <category>formations</category>
+      <description>Université Paris Cité — Paris. Langue(s) d'enseignement : fr.</description>
+    </item>
+    <item>
+      <title>[Opportunity] Master Industries de la langue</title>
+      <link>https://www.univ-grenoble-alpes.fr/</link>
+      <guid isPermaLink="false">formation:universit-grenoble-alpes-master-industries-de-la-langue</guid>
+      <pubDate>Thu, 12 Nov 2026 00:00:00 +0000</pubDate>
+      <category>formations</category>
+      <description>Université Grenoble Alpes — Grenoble. Langue(s) d'enseignement : fr.</description>
+    </item>
+    <item>
+      <title>[Opportunity] Master Langue et informatique</title>
+      <link>https://www.sorbonne-universite.fr/</link>
+      <guid isPermaLink="false">formation:sorbonne-universit-master-langue-et-informatique</guid>
+      <pubDate>Thu, 12 Nov 2026 00:00:00 +0000</pubDate>
+      <category>formations</category>
+      <description>Sorbonne Université — Paris. Langue(s) d'enseignement : fr.</description>
+    </item>
+    <item>
+      <title>[Opportunity] Master en traitement informatique multilingue</title>
+      <link>https://www.unige.ch/fti/</link>
+      <guid isPermaLink="false">formation:universit-de-gen-ve-facult-de-traduction-et-d-interpr-tation-master-en-traitement-informat</guid>
+      <pubDate>Thu, 12 Nov 2026 00:00:00 +0000</pubDate>
+      <category>formations</category>
+      <description>Université de Genève – Faculté de traduction et d'interprétation — Genève. Langue(s) d'enseignement : fr, en.</description>
+    </item>
+    <item>
+      <title>[Opportunity] MSc in Natural Language Processing</title>
+      <link>https://mbzuai.ac.ae/</link>
+      <guid isPermaLink="false">formation:mohamed-bin-zayed-university-of-artificial-intelligence-mbzuai-msc-in-natural-language-pro</guid>
+      <pubDate>Thu, 12 Nov 2026 00:00:00 +0000</pubDate>
+      <category>formations</category>
+      <description>Mohamed bin Zayed University of Artificial Intelligence (MBZUAI) — Abu Dhabi. Langue(s) d'enseignement : en.</description>
+    </item>
+    <item>
+      <title>[Opportunity] Master's Programme in Linguistic Diversity and Digital Humanities</title>
+      <link>https://www.helsinki.fi/en</link>
+      <guid isPermaLink="false">formation:university-of-helsinki-master-s-programme-in-linguistic-diversity-and-digital-humanities</guid>
+      <pubDate>Thu, 12 Nov 2026 00:00:00 +0000</pubDate>
+      <category>formations</category>
+      <description>University of Helsinki — Helsinki. Langue(s) d'enseignement : en.</description>
+    </item>
+    <item>
+      <title>[Opportunity] MSc Voice Technology</title>
+      <link>https://www.rug.nl/</link>
+      <guid isPermaLink="false">formation:rijksuniversiteit-groningen-campus-frysl-n-msc-voice-technology</guid>
+      <pubDate>Thu, 12 Nov 2026 00:00:00 +0000</pubDate>
+      <category>formations</category>
+      <description>Rijksuniversiteit Groningen – Campus Fryslân — Leeuwarden. Langue(s) d'enseignement : en.</description>
+    </item>
+    <item>
+      <title>[Opportunity] Laurea magistrale in Informatica umanistica</title>
+      <link>https://www.unipi.it/</link>
+      <guid isPermaLink="false">formation:universit-di-pisa-laurea-magistrale-in-informatica-umanistica</guid>
+      <pubDate>Thu, 12 Nov 2026 00:00:00 +0000</pubDate>
+      <category>formations</category>
+      <description>Università di Pisa — Pisa. Langue(s) d'enseignement : it.</description>
+    </item>
+    <item>
+      <title>[Opportunity] MSc Cognitive Science – Language and Multimodal Interaction</title>
+      <link>https://www.unitn.it/</link>
+      <guid isPermaLink="false">formation:universit-di-trento-msc-cognitive-science-language-and-multimodal-interaction</guid>
+      <pubDate>Thu, 12 Nov 2026 00:00:00 +0000</pubDate>
+      <category>formations</category>
+      <description>Università di Trento — Rovereto. Langue(s) d'enseignement : en.</description>
+    </item>
+    <item>
+      <title>[Opportunity] Master in Theoretical and Applied Linguistics</title>
+      <link>https://www.upf.edu/</link>
+      <guid isPermaLink="false">formation:universitat-pompeu-fabra-master-in-theoretical-and-applied-linguistics</guid>
+      <pubDate>Thu, 12 Nov 2026 00:00:00 +0000</pubDate>
+      <category>formations</category>
+      <description>Universitat Pompeu Fabra — Barcelona. Langue(s) d'enseignement : en, es, ca.</description>
+    </item>
+    <item>
+      <title>[Opportunity] BSc Computerlinguistik</title>
+      <link>https://www.uni-saarland.de/</link>
+      <guid isPermaLink="false">formation:universit-t-des-saarlandes-bsc-computerlinguistik</guid>
+      <pubDate>Thu, 12 Nov 2026 00:00:00 +0000</pubDate>
+      <category>formations</category>
+      <description>Universität des Saarlandes — Saarbrücken. Langue(s) d'enseignement : de.</description>
+    </item>
+    <item>
+      <title>[Opportunity] BSc Maschinelle Sprachverarbeitung</title>
+      <link>https://www.ims.uni-stuttgart.de/</link>
+      <guid isPermaLink="false">formation:universit-t-stuttgart-ims-bsc-maschinelle-sprachverarbeitung</guid>
+      <pubDate>Thu, 12 Nov 2026 00:00:00 +0000</pubDate>
+      <category>formations</category>
+      <description>Universität Stuttgart (IMS) — Stuttgart. Langue(s) d'enseignement : de.</description>
+    </item>
+    <item>
+      <title>[Opportunity] BA Computerlinguistik</title>
+      <link>https://www.cl.uni-heidelberg.de/</link>
+      <guid isPermaLink="false">formation:universit-t-heidelberg-ba-computerlinguistik</guid>
+      <pubDate>Thu, 12 Nov 2026 00:00:00 +0000</pubDate>
+      <category>formations</category>
+      <description>Universität Heidelberg — Heidelberg. Langue(s) d'enseignement : de.</description>
+    </item>
+  </channel>
+</rss>
