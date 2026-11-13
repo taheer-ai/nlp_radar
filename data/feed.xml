@@ -6,806 +6,806 @@
     <atom:link href="https://omnital.github.io/data/feed.xml" rel="self" type="application/rss+xml"/>
     <description>Nouvelles ressources en traitement automatique des langues (arXiv, HAL, Hugging Face, GitHub, WikiCFP).</description>
     <language>fr</language>
-    <lastBuildDate>Thu, 12 Nov 2026 15:23:07 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 13 Nov 2026 14:42:11 +0000</lastBuildDate>
     <item>
-      <title>[Event] IberLEF 2027 : [IberLEF 2027] Call for Task Proposals</title>
-      <link>http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=204166</link>
-      <guid isPermaLink="false">wikicfp:204166</guid>
-      <pubDate>Thu, 12 Nov 2026 00:00:00 +0000</pubDate>
-      <category>wikicfp</category>
-      <description>[IberLEF 2027] Call for Task Proposals</description>
+      <title>[Opportunity] Typologie des parcours de soins dans les maladies non transmissibles (MNT) : séquences, ruptures et continuité</title>
+      <link>https://theses.fr/s445731</link>
+      <guid isPermaLink="false">theses:s445731</guid>
+      <pubDate>Fri, 13 Nov 2026 00:00:00 +0000</pubDate>
+      <category>theses</category>
+      <description>Thèse en préparation — Biologie Chimie Santé mention Santé publique, épidémiologie, environnement et sociétés . Direction : Jean Toniolo, Dieu donné Gnonlonfoun. Laboratoire : Epidémiologie des Maladies Chroniques Tropicales</description>
     </item>
     <item>
-      <title>[Event] FQAS 2027 : Flexible Query Answering Systems - 2027</title>
-      <link>http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=203475</link>
-      <guid isPermaLink="false">wikicfp:203475</guid>
-      <pubDate>Thu, 12 Nov 2026 00:00:00 +0000</pubDate>
-      <category>wikicfp</category>
-      <description>Flexible Query Answering Systems - 2027</description>
+      <title>[Opportunity] Apprentissage multi-tâche pour la segmentation et l'identification audio</title>
+      <link>https://theses.fr/s443109</link>
+      <guid isPermaLink="false">theses:s443109</guid>
+      <pubDate>Fri, 13 Nov 2026 00:00:00 +0000</pubDate>
+      <category>theses</category>
+      <description>Thèse en préparation — Informatique, données, IA. Direction : Gaël Richard. Laboratoire : Laboratoire de Traitement et Communication de l'Information</description>
     </item>
     <item>
-      <title>[Event] RANLP 2027 : 16th Conference RECENT ADVANCES IN NATURAL LANGUAGE PROCESSING</title>
-      <link>http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=204100</link>
-      <guid isPermaLink="false">wikicfp:204100</guid>
-      <pubDate>Thu, 12 Nov 2026 00:00:00 +0000</pubDate>
-      <category>wikicfp</category>
-      <description>16th Conference RECENT ADVANCES IN NATURAL LANGUAGE PROCESSING</description>
+      <title>[Opportunity] Fouille d'argumentation non supervisée</title>
+      <link>https://theses.fr/s444546</link>
+      <guid isPermaLink="false">theses:s444546</guid>
+      <pubDate>Fri, 13 Nov 2026 00:00:00 +0000</pubDate>
+      <category>theses</category>
+      <description>Thèse en préparation — Informatique. Direction : Serena Villata. Laboratoire : I3S - Informatique, Signaux et Systèmes de Sophia-Antipolis</description>
     </item>
     <item>
-      <title>[Event] LCS 2027 : 14th International Conference on Language, Communication, and Society 2027</title>
-      <link>http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=202863</link>
-      <guid isPermaLink="false">wikicfp:202863</guid>
-      <pubDate>Thu, 12 Nov 2026 00:00:00 +0000</pubDate>
-      <category>wikicfp</category>
-      <description>14th International Conference on Language, Communication, and Society 2027</description>
-    </item>
-    <item>
-      <title>[Event] ICLL 2027 : 2027 11th International Conference on Linguistics and Literature (ICLL 2027)</title>
-      <link>http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=203492</link>
-      <guid isPermaLink="false">wikicfp:203492</guid>
-      <pubDate>Thu, 12 Nov 2026 00:00:00 +0000</pubDate>
-      <category>wikicfp</category>
-      <description>2027 11th International Conference on Linguistics and Literature (ICLL 2027)</description>
-    </item>
-    <item>
-      <title>[Event] MDTT 2027 : 6th International Conference on Multilingual Digital Terminology Today</title>
-      <link>http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=203634</link>
-      <guid isPermaLink="false">wikicfp:203634</guid>
-      <pubDate>Thu, 12 Nov 2026 00:00:00 +0000</pubDate>
-      <category>wikicfp</category>
-      <description>6th International Conference on Multilingual Digital Terminology Today</description>
-    </item>
-    <item>
-      <title>[Event] LTEDI 2027 : Seventh Workshop on Language Technology for Equality, Diversity and Inclusion</title>
-      <link>http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=204137</link>
-      <guid isPermaLink="false">wikicfp:204137</guid>
-      <pubDate>Thu, 12 Nov 2026 00:00:00 +0000</pubDate>
-      <category>wikicfp</category>
-      <description>Seventh Workshop on Language Technology for Equality, Diversity and Inclusion</description>
-    </item>
-    <item>
-      <title>[Event] WASP 2027 : The 5th Workshop on Artificial Intelligence for Scientific Publications</title>
-      <link>http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=204088</link>
-      <guid isPermaLink="false">wikicfp:204088</guid>
-      <pubDate>Thu, 12 Nov 2026 00:00:00 +0000</pubDate>
-      <category>wikicfp</category>
-      <description>The 5th Workshop on Artificial Intelligence for Scientific Publications</description>
-    </item>
-    <item>
-      <title>[Event] NAACL-SRW 2027 : NAACL 2027 Student Research Workshop: Call for Papers and Mentors</title>
-      <link>http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=203342</link>
-      <guid isPermaLink="false">wikicfp:203342</guid>
-      <pubDate>Thu, 12 Nov 2026 00:00:00 +0000</pubDate>
-      <category>wikicfp</category>
-      <description>NAACL 2027 Student Research Workshop: Call for Papers and Mentors</description>
-    </item>
-    <item>
-      <title>[Event] NAACL 2027 : The 2027 Annual Conference of the Nations of the Americas Chapter of the Association for Computational Linguistics</title>
-      <link>http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=202808</link>
-      <guid isPermaLink="false">wikicfp:202808</guid>
-      <pubDate>Thu, 12 Nov 2026 00:00:00 +0000</pubDate>
-      <category>wikicfp</category>
-      <description>The 2027 Annual Conference of the Nations of the Americas Chapter of the Association for Computational Linguistics</description>
-    </item>
-    <item>
-      <title>[Event] TIMES 2027 : Temporality, Interpretation, Meaning, Evolution and Society - International Conference on Language, Culture, Media and Temporal Meaning</title>
-      <link>http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=203960</link>
-      <guid isPermaLink="false">wikicfp:203960</guid>
-      <pubDate>Thu, 12 Nov 2026 00:00:00 +0000</pubDate>
-      <category>wikicfp</category>
-      <description>Temporality, Interpretation, Meaning, Evolution and Society - International Conference on Language, Culture, Media and Temporal Meaning</description>
-    </item>
-    <item>
-      <title>[Event] TIMES 2027 : Temporality, Interpretation, Meaning, Evolution and Society - International Conference on Language, Culture, Media and Temporal Meaning</title>
-      <link>http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=203959</link>
-      <guid isPermaLink="false">wikicfp:203959</guid>
-      <pubDate>Thu, 12 Nov 2026 00:00:00 +0000</pubDate>
-      <category>wikicfp</category>
-      <description>Temporality, Interpretation, Meaning, Evolution and Society - International Conference on Language, Culture, Media and Temporal Meaning</description>
-    </item>
-    <item>
-      <title>[Event] ICCLL 2027 : 2027 the 13th International Conference on Culture, Languages and Literature (ICCLL 2027)</title>
-      <link>http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=201230</link>
-      <guid isPermaLink="false">wikicfp:201230</guid>
-      <pubDate>Thu, 12 Nov 2026 00:00:00 +0000</pubDate>
-      <category>wikicfp</category>
-      <description>2027 the 13th International Conference on Culture, Languages and Literature (ICCLL 2027)</description>
-    </item>
-    <item>
-      <title>[Event] ICASSP 2027 : 2027 IEEE International Conference on Acoustics, Speech, and Signal Processing</title>
-      <link>http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=201211</link>
-      <guid isPermaLink="false">wikicfp:201211</guid>
-      <pubDate>Thu, 12 Nov 2026 00:00:00 +0000</pubDate>
-      <category>wikicfp</category>
-      <description>2027 IEEE International Conference on Acoustics, Speech, and Signal Processing</description>
-    </item>
-    <item>
-      <title>[Event] COLING 2027 : 32nd International Conference on Computational Linguistics</title>
-      <link>http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=201720</link>
-      <guid isPermaLink="false">wikicfp:201720</guid>
-      <pubDate>Thu, 12 Nov 2026 00:00:00 +0000</pubDate>
-      <category>wikicfp</category>
-      <description>32nd International Conference on Computational Linguistics</description>
-    </item>
-    <item>
-      <title>[Event] ICDT 2027 : The Twenty-Second International Conference on Digital Telecommunications</title>
-      <link>http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=204118</link>
-      <guid isPermaLink="false">wikicfp:204118</guid>
-      <pubDate>Thu, 12 Nov 2026 00:00:00 +0000</pubDate>
-      <category>wikicfp</category>
-      <description>The Twenty-Second International Conference on Digital Telecommunications</description>
-    </item>
-    <item>
-      <title>[Event] KNLP@SAC 2027 : Knowledge and Natural Language Processing Track @ ACM SAC 2027</title>
-      <link>http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=203406</link>
-      <guid isPermaLink="false">wikicfp:203406</guid>
-      <pubDate>Thu, 12 Nov 2026 00:00:00 +0000</pubDate>
-      <category>wikicfp</category>
-      <description>Knowledge and Natural Language Processing Track @ ACM SAC 2027</description>
-    </item>
-    <item>
-      <title>[Event] KNLP 2027 : Knowledge and Natural Language Processing Track @ ACM SAC 2027</title>
-      <link>http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=202785</link>
-      <guid isPermaLink="false">wikicfp:202785</guid>
-      <pubDate>Thu, 12 Nov 2026 00:00:00 +0000</pubDate>
-      <category>wikicfp</category>
-      <description>Knowledge and Natural Language Processing Track @ ACM SAC 2027</description>
-    </item>
-    <item>
-      <title>[Event] LInDA 2027 : First Workshop on Linguistic Information for Downstream Applications</title>
-      <link>http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=203731</link>
-      <guid isPermaLink="false">wikicfp:203731</guid>
-      <pubDate>Thu, 12 Nov 2026 00:00:00 +0000</pubDate>
-      <category>wikicfp</category>
-      <description>First Workshop on Linguistic Information for Downstream Applications</description>
-    </item>
-    <item>
-      <title>[Event] Slavic-NLP 2027 : The 11th Workshop on NLP for Slavic languages</title>
-      <link>http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=203784</link>
-      <guid isPermaLink="false">wikicfp:203784</guid>
-      <pubDate>Thu, 12 Nov 2026 00:00:00 +0000</pubDate>
-      <category>wikicfp</category>
-      <description>The 11th Workshop on NLP for Slavic languages</description>
-    </item>
-    <item>
-      <title>[Event] MultiDems 2027 : The 1st Multidisciplinary Workshop on NLP for Democracies</title>
-      <link>http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=203732</link>
-      <guid isPermaLink="false">wikicfp:203732</guid>
-      <pubDate>Thu, 12 Nov 2026 00:00:00 +0000</pubDate>
-      <category>wikicfp</category>
-      <description>The 1st Multidisciplinary Workshop on NLP for Democracies</description>
-    </item>
-    <item>
-      <title>[Event] ArgMining 2027 : 14th Workshop on Argument Mining and Reasoning</title>
-      <link>http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=203730</link>
-      <guid isPermaLink="false">wikicfp:203730</guid>
-      <pubDate>Thu, 12 Nov 2026 00:00:00 +0000</pubDate>
-      <category>wikicfp</category>
-      <description>14th Workshop on Argument Mining and Reasoning</description>
-    </item>
-    <item>
-      <title>[Event] CHOMPS 2027 : Second Workshop on Confabulation, Hallucinations, &amp; Overgeneration in Multilingual &amp; Precision-critical Scenarios</title>
-      <link>http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=203703</link>
-      <guid isPermaLink="false">wikicfp:203703</guid>
-      <pubDate>Thu, 12 Nov 2026 00:00:00 +0000</pubDate>
-      <category>wikicfp</category>
-      <description>Second Workshop on Confabulation, Hallucinations, &amp; Overgeneration in Multilingual &amp; Precision-critical Scenarios</description>
-    </item>
-    <item>
-      <title>[Event] MWE 2027 : The 23rd Workshop on Multiword Expressions</title>
-      <link>http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=203633</link>
-      <guid isPermaLink="false">wikicfp:203633</guid>
-      <pubDate>Thu, 12 Nov 2026 00:00:00 +0000</pubDate>
-      <category>wikicfp</category>
-      <description>The 23rd Workshop on Multiword Expressions</description>
-    </item>
-    <item>
-      <title>[Event] CILiDi 2027 : 4th International Conference on Digital Linguistics, Shaping the Future of Discourse in the Digital Age</title>
-      <link>http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=203514</link>
-      <guid isPermaLink="false">wikicfp:203514</guid>
-      <pubDate>Thu, 12 Nov 2026 00:00:00 +0000</pubDate>
-      <category>wikicfp</category>
-      <description>4th International Conference on Digital Linguistics, Shaping the Future of Discourse in the Digital Age</description>
-    </item>
-    <item>
-      <title>[Event] TLLL 2027 : The 12th International Conference on Languages, Linguistics, Translation and Literature</title>
-      <link>http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=202994</link>
-      <guid isPermaLink="false">wikicfp:202994</guid>
-      <pubDate>Thu, 12 Nov 2026 00:00:00 +0000</pubDate>
-      <category>wikicfp</category>
-      <description>The 12th International Conference on Languages, Linguistics, Translation and Literature</description>
-    </item>
-    <item>
-      <title>[Event] QDLCA 2027 : Quantitative Diachronic Linguistics and Cultural Analytics</title>
-      <link>http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=199741</link>
-      <guid isPermaLink="false">wikicfp:199741</guid>
-      <pubDate>Thu, 12 Nov 2026 00:00:00 +0000</pubDate>
-      <category>wikicfp</category>
-      <description>Quantitative Diachronic Linguistics and Cultural Analytics</description>
-    </item>
-    <item>
-      <title>[Event] Cross-AI ReNL2SQL 2026 : 1st International Workshop on Reliable NL2SQL for Enterprise AI</title>
-      <link>http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=203459</link>
-      <guid isPermaLink="false">wikicfp:203459</guid>
-      <pubDate>Thu, 12 Nov 2026 00:00:00 +0000</pubDate>
-      <category>wikicfp</category>
-      <description>1st International Workshop on Reliable NL2SQL for Enterprise AI</description>
-    </item>
-    <item>
-      <title>[Event] RTCA 2026 : Real-Time Conversational Agents Workshop at NeurIPS 2026</title>
-      <link>http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=202573</link>
-      <guid isPermaLink="false">wikicfp:202573</guid>
-      <pubDate>Thu, 12 Nov 2026 00:00:00 +0000</pubDate>
-      <category>wikicfp</category>
-      <description>Real-Time Conversational Agents Workshop at NeurIPS 2026</description>
-    </item>
-    <item>
-      <title>[Event] IWCLUL 2026 : International Workshop on Computational Linguistics for Uralic Languages</title>
-      <link>http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=203476</link>
-      <guid isPermaLink="false">wikicfp:203476</guid>
-      <pubDate>Thu, 12 Nov 2026 00:00:00 +0000</pubDate>
-      <category>wikicfp</category>
-      <description>International Workshop on Computational Linguistics for Uralic Languages</description>
-    </item>
-    <item>
-      <title>[Event] DL2 International Workshop 2026 : 1st DL2 International Workshop</title>
-      <link>http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=194621</link>
-      <guid isPermaLink="false">wikicfp:194621</guid>
-      <pubDate>Thu, 12 Nov 2026 00:00:00 +0000</pubDate>
-      <category>wikicfp</category>
-      <description>1st DL2 International Workshop</description>
-    </item>
-    <item>
-      <title>[Corpus] Global tree mortality data</title>
-      <link>https://zenodo.org/records/23559433</link>
-      <guid isPermaLink="false">zenodo:23559432</guid>
-      <pubDate>Thu, 12 Nov 2026 00:00:00 +0000</pubDate>
-      <category>zenodo</category>
-      <description>Processed forest dynamics data for the paper Tree mortality exerts strong control on the variation of the global forest carbon sink (Esquivel-Muelbert et al.). The data come from 210,323 multi-census forest plots in research networks and…</description>
-    </item>
-    <item>
-      <title>[Event] LLMSSH 2026 : LLMs and the Social Sciences and Humanities: Research, Resources and Infrastructures</title>
-      <link>http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=203752</link>
-      <guid isPermaLink="false">wikicfp:203752</guid>
-      <pubDate>Thu, 12 Nov 2026 00:00:00 +0000</pubDate>
-      <category>wikicfp</category>
-      <description>LLMs and the Social Sciences and Humanities: Research, Resources and Infrastructures</description>
-    </item>
-    <item>
-      <title>[Event] X Doctoral Conference 2026 : X Doctoral Conference Ca’ Foscari University of Venice</title>
-      <link>http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=194219</link>
-      <guid isPermaLink="false">wikicfp:194219</guid>
-      <pubDate>Thu, 12 Nov 2026 00:00:00 +0000</pubDate>
-      <category>wikicfp</category>
-      <description>X Doctoral Conference Ca’ Foscari University of Venice</description>
-    </item>
-    <item>
-      <title>[Event] ACLing 2026 : 8th International Conference on AI in Computational Linguistics</title>
-      <link>http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=203115</link>
-      <guid isPermaLink="false">wikicfp:203115</guid>
-      <pubDate>Thu, 12 Nov 2026 00:00:00 +0000</pubDate>
-      <category>wikicfp</category>
-      <description>8th International Conference on AI in Computational Linguistics</description>
-    </item>
-    <item>
-      <title>[Event] NAtoms 2026 : Narrative Atoms: The Persistence and Transformation of Fundamental Story Units in Culture</title>
-      <link>http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=202502</link>
-      <guid isPermaLink="false">wikicfp:202502</guid>
-      <pubDate>Thu, 12 Nov 2026 00:00:00 +0000</pubDate>
-      <category>wikicfp</category>
-      <description>Narrative Atoms: The Persistence and Transformation of Fundamental Story Units in Culture</description>
-    </item>
-    <item>
-      <title>[Event] NLPCL 2026 : 7th International Conference on Natural Language Processing and Computational Linguistics</title>
-      <link>http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=195149</link>
-      <guid isPermaLink="false">wikicfp:195149</guid>
-      <pubDate>Thu, 12 Nov 2026 00:00:00 +0000</pubDate>
-      <category>wikicfp</category>
-      <description>7th International Conference on Natural Language Processing and Computational Linguistics</description>
-    </item>
-    <item>
-      <title>[Event] NLP4CALL 2026 : workshop on Natural Language Processing for Computer-Assisted Language Learning</title>
-      <link>http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=195230</link>
-      <guid isPermaLink="false">wikicfp:195230</guid>
-      <pubDate>Thu, 12 Nov 2026 00:00:00 +0000</pubDate>
-      <category>wikicfp</category>
-      <description>workshop on Natural Language Processing for Computer-Assisted Language Learning</description>
-    </item>
-    <item>
-      <title>[Event] ISCSLP 2026 : International Symposium on Chinese Spoken Language Processing</title>
-      <link>http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=199861</link>
-      <guid isPermaLink="false">wikicfp:199861</guid>
-      <pubDate>Thu, 12 Nov 2026 00:00:00 +0000</pubDate>
-      <category>wikicfp</category>
-      <description>International Symposium on Chinese Spoken Language Processing</description>
-    </item>
-    <item>
-      <title>[Event] ISCSLP 2026 : The 15th International Symposium on Chinese Spoken Language Processing</title>
-      <link>http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=199858</link>
-      <guid isPermaLink="false">wikicfp:199858</guid>
-      <pubDate>Thu, 12 Nov 2026 00:00:00 +0000</pubDate>
-      <category>wikicfp</category>
-      <description>The 15th International Symposium on Chinese Spoken Language Processing</description>
-    </item>
-    <item>
-      <title>[Corpus] HYUKI5/CohereLabs__include-base-44</title>
-      <link>https://huggingface.co/datasets/HYUKI5/CohereLabs__include-base-44</link>
-      <guid isPermaLink="false">hf:datasets:HYUKI5/CohereLabs__include-base-44</guid>
-      <pubDate>Thu, 12 Nov 2026 00:00:00 +0000</pubDate>
+      <title>[Corpus] HYUKI5/tasksource__oasst1_pairwise_rlhf_reward</title>
+      <link>https://huggingface.co/datasets/HYUKI5/tasksource__oasst1_pairwise_rlhf_reward</link>
+      <guid isPermaLink="false">hf:datasets:HYUKI5/tasksource__oasst1_pairwise_rlhf_reward</guid>
+      <pubDate>Fri, 13 Nov 2026 00:00:00 +0000</pubDate>
       <category>huggingface</category>
-      <description>CohereLabs/include-base-44（複製） データの内容 44 言語の、各国の学術試験と専門試験から抽出した 4 択の知識問題のデータ。1 行が 1 問で、language と country に言語と国、subject に分野、question に問題文、option_a から option_d に選択肢、answer に正解の番号（整数）が入る。運転免許や医療免許などの免許・資格の試験も含まれ、地域の知識を問う問題がある。 データの概要 項目 値…</description>
+      <description>tasksource/oasst1_pairwise_rlhf_reward（複製） データの内容 OASST1（OpenAssistant の会話データ）から報酬モデル学習用の比較の組を作ったデータ。1 行は同じ親の返答どうしの比較で、prompt に親までの会話を role: text の行で連ねたもの、chosen と rejected に返答が入り、lang で言語を持つ。rank の値が小さい返答を chosen、大きい返答を rejected…</description>
     </item>
     <item>
-      <title>[Model] frankmorales2020/deepseek-moe-16b-topo-cbp-merged-gguf</title>
-      <link>https://huggingface.co/frankmorales2020/deepseek-moe-16b-topo-cbp-merged-gguf</link>
-      <guid isPermaLink="false">hf:models:frankmorales2020/deepseek-moe-16b-topo-cbp-merged-gguf</guid>
-      <pubDate>Thu, 12 Nov 2026 00:00:00 +0000</pubDate>
+      <title>[Corpus] HYUKI5/juletxara__xstory_cloze</title>
+      <link>https://huggingface.co/datasets/HYUKI5/juletxara__xstory_cloze</link>
+      <guid isPermaLink="false">hf:datasets:HYUKI5/juletxara__xstory_cloze</guid>
+      <pubDate>Fri, 13 Nov 2026 00:00:00 +0000</pubDate>
+      <category>huggingface</category>
+      <description>juletxara/xstory_cloze（複製） データの内容 英語の StoryCloze を 10 の言語にプロの翻訳者が訳した、物語の結末を選ぶ常識推論のデータ。1 行が 1 話で、input_sentence_1 から input_sentence_4 に 4 文の物語、sentence_quiz1 と sentence_quiz2 に結末の候補、answer_right_ending に正しい方の番号（1 か 2）が入る。言語ごとに train 用 360…</description>
+    </item>
+    <item>
+      <title>[Model] hf-audio/omniasr-ctc-7b-v2</title>
+      <link>https://huggingface.co/hf-audio/omniasr-ctc-7b-v2</link>
+      <guid isPermaLink="false">hf:models:hf-audio/omniasr-ctc-7b-v2</guid>
+      <pubDate>Fri, 13 Nov 2026 00:00:00 +0000</pubDate>
       <category>huggingface</category>
       <description></description>
     </item>
     <item>
-      <title>[Model] MattKent/screenbrief-parakeet-ultra-mixed-int8</title>
-      <link>https://huggingface.co/MattKent/screenbrief-parakeet-ultra-mixed-int8</link>
-      <guid isPermaLink="false">hf:models:MattKent/screenbrief-parakeet-ultra-mixed-int8</guid>
-      <pubDate>Thu, 12 Nov 2026 00:00:00 +0000</pubDate>
+      <title>[Model] hf-audio/omniasr-ctc-3b-v2</title>
+      <link>https://huggingface.co/hf-audio/omniasr-ctc-3b-v2</link>
+      <guid isPermaLink="false">hf:models:hf-audio/omniasr-ctc-3b-v2</guid>
+      <pubDate>Fri, 13 Nov 2026 00:00:00 +0000</pubDate>
       <category>huggingface</category>
       <description></description>
     </item>
     <item>
-      <title>[Model] mahmoudalyosify/BA</title>
-      <link>https://huggingface.co/mahmoudalyosify/BA</link>
-      <guid isPermaLink="false">hf:models:mahmoudalyosify/BA</guid>
-      <pubDate>Thu, 12 Nov 2026 00:00:00 +0000</pubDate>
+      <title>[Model] hf-audio/omniasr-ctc-1b-v2</title>
+      <link>https://huggingface.co/hf-audio/omniasr-ctc-1b-v2</link>
+      <guid isPermaLink="false">hf:models:hf-audio/omniasr-ctc-1b-v2</guid>
+      <pubDate>Fri, 13 Nov 2026 00:00:00 +0000</pubDate>
       <category>huggingface</category>
       <description></description>
     </item>
     <item>
-      <title>[Tool] Python-Based Computational Pipeline for Diachronic Text Corpus Analysis and High-Resolution Plotting</title>
-      <link>https://zenodo.org/records/24153687</link>
-      <guid isPermaLink="false">zenodo:24153686</guid>
-      <pubDate>Thu, 12 Nov 2026 00:00:00 +0000</pubDate>
-      <category>zenodo</category>
-      <description>Description This record contains the datasets collected via TuniCo, along with the computational scripts, diachronic text corpora, and documentation associated with the comparative analysis of trilingual code-switching (Tunisian Arabic,…</description>
+      <title>[Model] hf-audio/omniasr-ctc-300m-v2</title>
+      <link>https://huggingface.co/hf-audio/omniasr-ctc-300m-v2</link>
+      <guid isPermaLink="false">hf:models:hf-audio/omniasr-ctc-300m-v2</guid>
+      <pubDate>Fri, 13 Nov 2026 00:00:00 +0000</pubDate>
+      <category>huggingface</category>
+      <description></description>
     </item>
     <item>
-      <title>[Corpus] Citizen-science fish occurrence and retrospective image-review research data for BioMARató Catalunya, 2020–2026</title>
-      <link>https://zenodo.org/records/24161093</link>
-      <guid isPermaLink="false">zenodo:24161092</guid>
-      <pubDate>Thu, 12 Nov 2026 00:00:00 +0000</pubDate>
-      <category>zenodo</category>
-      <description>This dataset supports the research article "Citizen science and AI for early detection of fish range shifts". It contains processed biodiversity observations from the MINKA citizen-science observatory and BioMARató Catalunya along the…</description>
+      <title>[Model] xix3r/voxix-whisper-large-v3-gguf</title>
+      <link>https://huggingface.co/xix3r/voxix-whisper-large-v3-gguf</link>
+      <guid isPermaLink="false">hf:models:xix3r/voxix-whisper-large-v3-gguf</guid>
+      <pubDate>Fri, 13 Nov 2026 00:00:00 +0000</pubDate>
+      <category>huggingface</category>
+      <description></description>
     </item>
     <item>
-      <title>[Paper] Analyse linguistique des toponymes de deux localités kabyles « Adekar et Souq letnin »</title>
-      <link>https://dspace.ummto.dz/handle/ummto/31638</link>
-      <guid isPermaLink="false">dspace:ummto:ummto/31638</guid>
-      <pubDate>Thu, 12 Nov 2026 00:00:00 +0000</pubDate>
-      <category>dspace</category>
-      <description>Notre étude s’inscrit dans le domaine de l’onomastique, plus exactement l’étude des toponymes, ses dernier sont liés à l’histoire et a la culture de la région . Dans cette recherche toponymique que nous avons suivie, nous avons fait un…</description>
+      <title>[Model] xix3r/voxix-whisper-large-v2-gguf</title>
+      <link>https://huggingface.co/xix3r/voxix-whisper-large-v2-gguf</link>
+      <guid isPermaLink="false">hf:models:xix3r/voxix-whisper-large-v2-gguf</guid>
+      <pubDate>Fri, 13 Nov 2026 00:00:00 +0000</pubDate>
+      <category>huggingface</category>
+      <description></description>
     </item>
     <item>
-      <title>[Paper] Essaie de traduction du français vers tamazight (kabyle) du livre « tradition et renouvellement dans la littérature kabyle » de Amar Ameziane</title>
-      <link>https://dspace.ummto.dz/handle/ummto/31637</link>
-      <guid isPermaLink="false">dspace:ummto:ummto/31637</guid>
-      <pubDate>Thu, 12 Nov 2026 00:00:00 +0000</pubDate>
-      <category>dspace</category>
-      <description>La traduction de certain lexique était un objet d‟étude pour nous, cela avec l‟aide de quelques ouvrages, site web, et dictionnaire surtout. Dans le premier chapitre, on a définit la traduction, puis ces buts, ces types, ensuite ces…</description>
+      <title>[Model] xix3r/voxix-whisper-large-gguf</title>
+      <link>https://huggingface.co/xix3r/voxix-whisper-large-gguf</link>
+      <guid isPermaLink="false">hf:models:xix3r/voxix-whisper-large-gguf</guid>
+      <pubDate>Fri, 13 Nov 2026 00:00:00 +0000</pubDate>
+      <category>huggingface</category>
+      <description></description>
     </item>
     <item>
-      <title>[Paper] L’analyse syntaxique des phrases dans le roman « Murḍus » de TAHAR OULD AMAR</title>
-      <link>https://dspace.ummto.dz/handle/ummto/31627</link>
-      <guid isPermaLink="false">dspace:ummto:ummto/31627</guid>
-      <pubDate>Thu, 12 Nov 2026 00:00:00 +0000</pubDate>
-      <category>dspace</category>
-      <description>Tutlayt, d alall yesɛan azal meqqren: s yis-s yettmeslay umdan maca amussnaw n tesnilest ixeddem-d ilugan n tira i tutlayt-agi. Ihi di tseddast d tin yesɛan azal meqqren deg uḥric n tesnilest imi d nettat i d-yeskanayen tira n tefyar…</description>
+      <title>[Model] xix3r/voxix-whisper-large-v3-turbo-gguf</title>
+      <link>https://huggingface.co/xix3r/voxix-whisper-large-v3-turbo-gguf</link>
+      <guid isPermaLink="false">hf:models:xix3r/voxix-whisper-large-v3-turbo-gguf</guid>
+      <pubDate>Fri, 13 Nov 2026 00:00:00 +0000</pubDate>
+      <category>huggingface</category>
+      <description></description>
     </item>
     <item>
-      <title>[Paper] Etude de cas de l’échange matrimonial au village Taourirt Mokrane des années soixante à nos jours</title>
-      <link>https://dspace.ummto.dz/handle/ummto/31642</link>
-      <guid isPermaLink="false">dspace:ummto:ummto/31642</guid>
-      <pubDate>Thu, 12 Nov 2026 00:00:00 +0000</pubDate>
-      <category>dspace</category>
-      <description>Tissulya1, d ansay2 i yesɛan azal ɣer Leqbayel, d tagnit i useğhed n wassaɣen3 gar twaculin d yiɣerfan. Insayen i icudden ɣer tssulya llant deg-sent takkayin4 yemgaraden am usuter n zzwaǧ, istagen5 ɣef tmeṭṭut, asfugel amezwaru akked d…</description>
+      <title>[Model] xix3r/voxix-whisper-small-gguf</title>
+      <link>https://huggingface.co/xix3r/voxix-whisper-small-gguf</link>
+      <guid isPermaLink="false">hf:models:xix3r/voxix-whisper-small-gguf</guid>
+      <pubDate>Fri, 13 Nov 2026 00:00:00 +0000</pubDate>
+      <category>huggingface</category>
+      <description></description>
     </item>
     <item>
-      <title>[Paper] Étude socio-anthropologique des pratiques rituelles du nouveau-né dans les régions de Tizi Gheniff et de Ouadhias</title>
-      <link>https://dspace.ummto.dz/handle/ummto/31640</link>
-      <guid isPermaLink="false">dspace:ummto:ummto/31640</guid>
-      <pubDate>Thu, 12 Nov 2026 00:00:00 +0000</pubDate>
-      <category>dspace</category>
-      <description>Ansayen-nneɣ yeqqnen ɣer tlalit n yigerdan ufan laṣel-nsen deg umezruy, ttawin daxel-nsen aselmed n lejdud d usirem n tyemmatin. Deg tmetti taqbaylit, talalit tesɛa azal meqqren, tettuneḥsab d tameɣra, ladɣa talalit n uqcic imi d netta i…</description>
+      <title>[Model] xix3r/voxix-whisper-base-gguf</title>
+      <link>https://huggingface.co/xix3r/voxix-whisper-base-gguf</link>
+      <guid isPermaLink="false">hf:models:xix3r/voxix-whisper-base-gguf</guid>
+      <pubDate>Fri, 13 Nov 2026 00:00:00 +0000</pubDate>
+      <category>huggingface</category>
+      <description></description>
     </item>
     <item>
-      <title>[Paper] Tamachaut taqbaylit deg yizeḍwan inmettiyen: Tasleḍt n usufeɣ d termest</title>
-      <link>https://dspace.ummto.dz/handle/ummto/31639</link>
-      <guid isPermaLink="false">dspace:ummto:ummto/31639</guid>
-      <pubDate>Thu, 12 Nov 2026 00:00:00 +0000</pubDate>
-      <category>dspace</category>
-      <description>Nessemres tarayt n tkanit, nesserwes tamacahut deg yizeḍwan inmettiyen γer yilugan n tsiwelt Ad d-nesmekti, anadi-tneγ newwi-t-id γef tesleḍt nufaris n tmacahut deg yizeḍwan inmettiyen You tube, neeḍ ad nẓer dacu-ten yiferdisen n tmacahut…</description>
+      <title>[Model] xix3r/voxix-whisper-tiny-gguf</title>
+      <link>https://huggingface.co/xix3r/voxix-whisper-tiny-gguf</link>
+      <guid isPermaLink="false">hf:models:xix3r/voxix-whisper-tiny-gguf</guid>
+      <pubDate>Fri, 13 Nov 2026 00:00:00 +0000</pubDate>
+      <category>huggingface</category>
+      <description></description>
     </item>
     <item>
-      <title>[Paper] Tasleḍt n tsiwelt deg wammud n tullisin « Tid yuran » N Djamal Mahroug</title>
-      <link>https://dspace.ummto.dz/handle/ummto/31633</link>
-      <guid isPermaLink="false">dspace:ummto:ummto/31633</guid>
-      <pubDate>Thu, 12 Nov 2026 00:00:00 +0000</pubDate>
-      <category>dspace</category>
-      <description>Deg yixef amazwaru i wumi n semma tadyizt n umsawal deg –s newwi-d awal ɣef tbadut n tsiwelt akked umsawal d leṣnaf –is d twuriwin-is , deg wayen yaɛnan amsawal n teḥkayt yella s waṭas d aniri mačči d netta i d- iḥekkun ayen iḍarrun d…</description>
+      <title>[Model] xix3r/voxix-whisper-medium-gguf</title>
+      <link>https://huggingface.co/xix3r/voxix-whisper-medium-gguf</link>
+      <guid isPermaLink="false">hf:models:xix3r/voxix-whisper-medium-gguf</guid>
+      <pubDate>Fri, 13 Nov 2026 00:00:00 +0000</pubDate>
+      <category>huggingface</category>
+      <description></description>
     </item>
     <item>
-      <title>[Paper] Taṣleḍt tasentalant n yisefra n tlawin seg temnaḍin n Iwaḍiyen (Ait Lqayed) d Micli (Aqbil).</title>
-      <link>https://dspace.ummto.dz/handle/ummto/31630</link>
-      <guid isPermaLink="false">dspace:ummto:ummto/31630</guid>
-      <pubDate>Thu, 12 Nov 2026 00:00:00 +0000</pubDate>
-      <category>dspace</category>
-      <description>Leqdic-agi yebḍa ɣef sin n yiḥricen.aḥric amezwaru yemmeslay-d ɣef wayen yerzen tameṭṭut taqbaylit ama ɣef tmedyazt-is di tmetti tamensayt s tewsatin-is yegaraden (azuzen,aserqes,aḥiḥa,urar ) d ttamedyazt yesɛan azal imi teselmad…</description>
+      <title>[Model] FluidVoice-Labs/fluid-speech-pro-gguf</title>
+      <link>https://huggingface.co/FluidVoice-Labs/fluid-speech-pro-gguf</link>
+      <guid isPermaLink="false">hf:models:FluidVoice-Labs/fluid-speech-pro-gguf</guid>
+      <pubDate>Fri, 13 Nov 2026 00:00:00 +0000</pubDate>
+      <category>huggingface</category>
+      <description></description>
     </item>
     <item>
-      <title>[Paper] Tasleḍt n yiwudam yellan di tmucuha n yiẓeḍwan imettiyen</title>
-      <link>https://dspace.ummto.dz/handle/ummto/31629</link>
-      <guid isPermaLink="false">dspace:ummto:ummto/31629</guid>
-      <pubDate>Thu, 12 Nov 2026 00:00:00 +0000</pubDate>
-      <category>dspace</category>
-      <description>Di tazwara n umahil-agi nejmeɛ-d 12 n tmucuha deg uẓḍa n youtube, nura-tent, send nexdem-asent agzul i yal yiwet, nexdem tabadut ama n tmacahut ama n yiwudam, tulmisin n tmacahut tin n timawit akked yineẓwan imettiyen, leṣnaf-nsent, ɣer…</description>
+      <title>[Model] FluidVoice-Labs/fluid-speech-pro-mlx</title>
+      <link>https://huggingface.co/FluidVoice-Labs/fluid-speech-pro-mlx</link>
+      <guid isPermaLink="false">hf:models:FluidVoice-Labs/fluid-speech-pro-mlx</guid>
+      <pubDate>Fri, 13 Nov 2026 00:00:00 +0000</pubDate>
+      <category>huggingface</category>
+      <description></description>
     </item>
     <item>
-      <title>[Paper] Analyse morphologique et lexicale des toponymes de la commune d'Iboudraren et la commune de Boghni</title>
-      <link>https://dspace.ummto.dz/handle/ummto/31641</link>
-      <guid isPermaLink="false">dspace:ummto:ummto/31641</guid>
-      <pubDate>Thu, 12 Nov 2026 00:00:00 +0000</pubDate>
-      <category>dspace</category>
-      <description>Dans ce mémoire, nous avons réalisé une analyse détaillée des aspects morphologiques et lexicaux des toponymes dans les communes d’Iboudraren et de Boghni. Notre but principal était d’explorer la structure et l’origine linguistique de ces…</description>
+      <title>[Model] FluidVoice-Labs/fluid-speech-pro-onnx</title>
+      <link>https://huggingface.co/FluidVoice-Labs/fluid-speech-pro-onnx</link>
+      <guid isPermaLink="false">hf:models:FluidVoice-Labs/fluid-speech-pro-onnx</guid>
+      <pubDate>Fri, 13 Nov 2026 00:00:00 +0000</pubDate>
+      <category>huggingface</category>
+      <description></description>
     </item>
     <item>
-      <title>[Paper] Etude morphologique et sémantique d’un champ lexical des plantes médicinales dans les deux localités (AIT OUACIF et FRIKAT).</title>
-      <link>https://dspace.ummto.dz/handle/ummto/31634</link>
-      <guid isPermaLink="false">dspace:ummto:ummto/31634</guid>
-      <pubDate>Thu, 12 Nov 2026 00:00:00 +0000</pubDate>
-      <category>dspace</category>
-      <description>Dans ce modeste travail, nous avons étudié le champ lexicale des plantes médicinales de deux régions (AIT OACIF et FRIKAT).Afin de répondre aux questions posées dans la problématique, nous avons fait une analyse morphologique et…</description>
+      <title>[Model] FluidVoice-Labs/fluid-speech-pro-coreml</title>
+      <link>https://huggingface.co/FluidVoice-Labs/fluid-speech-pro-coreml</link>
+      <guid isPermaLink="false">hf:models:FluidVoice-Labs/fluid-speech-pro-coreml</guid>
+      <pubDate>Fri, 13 Nov 2026 00:00:00 +0000</pubDate>
+      <category>huggingface</category>
+      <description></description>
     </item>
     <item>
-      <title>[Paper] Some complete ω-powers of a one-counter language in the difference hierarchy</title>
-      <link>https://hal.science/hal-05790654v2</link>
-      <guid isPermaLink="false">hal:hal-05790654</guid>
-      <pubDate>Thu, 12 Nov 2026 00:00:00 +0000</pubDate>
-      <category>hal</category>
-      <description>Fix a finite alphabet $\Sigma$ having at least two letters, and natural numbers $n,k\geq 1$. We denote by $D_n(\mathbf{\Pi}^0_k)$ the class of differences of $n$ subsets of the Cantor space $\Sigma^\omega$ in $\mathbf{\Pi}^0_k$, and by…</description>
+      <title>[Model] xix3r/voxix-parakeet-tdt-0.6b-v3-gguf</title>
+      <link>https://huggingface.co/xix3r/voxix-parakeet-tdt-0.6b-v3-gguf</link>
+      <guid isPermaLink="false">hf:models:xix3r/voxix-parakeet-tdt-0.6b-v3-gguf</guid>
+      <pubDate>Fri, 13 Nov 2026 00:00:00 +0000</pubDate>
+      <category>huggingface</category>
+      <description></description>
     </item>
     <item>
-      <title>[Corpus] TIL KORPUSI ASOSIDAGI EKOLINGVISTIK TADQIQOTLAR</title>
-      <link>https://zenodo.org/records/24165412</link>
-      <guid isPermaLink="false">zenodo:24165411</guid>
-      <pubDate>Thu, 12 Nov 2026 00:00:00 +0000</pubDate>
-      <category>zenodo</category>
-      <description>Maqolada til korpusi ekolingvistik tadqiqotning empirik asosi sifatida ko‘rib chiqiladi. Jahon tilshunosligidagi korpusga asoslangan ekologik diskurs tahlili tajribasi hamda o‘zbek tilshunosligida korpus lingvistikasi va ekolingvistika…</description>
+      <title>[Model] xix3r/voxix-canary-1b-v2-gguf</title>
+      <link>https://huggingface.co/xix3r/voxix-canary-1b-v2-gguf</link>
+      <guid isPermaLink="false">hf:models:xix3r/voxix-canary-1b-v2-gguf</guid>
+      <pubDate>Fri, 13 Nov 2026 00:00:00 +0000</pubDate>
+      <category>huggingface</category>
+      <description></description>
     </item>
     <item>
-      <title>[Corpus] AptaLM: structurally screened RNA pool, training corpora, draws, analyses and ablation checkpoints</title>
-      <link>https://zenodo.org/records/23988517</link>
-      <guid isPermaLink="false">zenodo:23988515</guid>
-      <pubDate>Thu, 12 Nov 2026 00:00:00 +0000</pubDate>
-      <category>zenodo</category>
-      <description>Core record for AptaLM, a 21-million-parameter masked-diffusion RNA language model trained on a synthetic-only structurally screened pool of 3.82 million RNA sequences (10-80 nt; no external catalog inlets). It contains what is needed to…</description>
+      <title>[Model] xix3r/voxix-Fun-ASR-MLT-Nano-2512-gguf</title>
+      <link>https://huggingface.co/xix3r/voxix-Fun-ASR-MLT-Nano-2512-gguf</link>
+      <guid isPermaLink="false">hf:models:xix3r/voxix-Fun-ASR-MLT-Nano-2512-gguf</guid>
+      <pubDate>Fri, 13 Nov 2026 00:00:00 +0000</pubDate>
+      <category>huggingface</category>
+      <description></description>
     </item>
     <item>
-      <title>[Corpus] FRAMING NATIONAL DEVELOPMENT THROUGH METAPHOR: A COGNITIVE-LINGUISTIC ANALYSIS OF PRESIDENTIAL SPEECHES IN UZBEKISTAN</title>
-      <link>https://zenodo.org/records/24155622</link>
-      <guid isPermaLink="false">zenodo:24155621</guid>
-      <pubDate>Thu, 12 Nov 2026 00:00:00 +0000</pubDate>
-      <category>zenodo</category>
-      <description>National development is communicated not only as policy but also through metaphors of movement, construction and shared social life. This article examines six presidential speeches by Shavkat Mirziyoyev (2021–2025), using their Uzbek…</description>
+      <title>[Model] JihaneJra/darija-lid-fasttext</title>
+      <link>https://huggingface.co/JihaneJra/darija-lid-fasttext</link>
+      <guid isPermaLink="false">hf:models:JihaneJra/darija-lid-fasttext</guid>
+      <pubDate>Fri, 13 Nov 2026 00:00:00 +0000</pubDate>
+      <category>huggingface</category>
+      <description></description>
     </item>
     <item>
-      <title>[Corpus] NUMERICAL METHODS AND SOFTWARE COMPLEX OF ADAPTIVE ADJUSTMENT OF IMAGE-LANGUAGE MODELS IN UZBEK LANGUAGE</title>
-      <link>https://zenodo.org/records/24154193</link>
-      <guid isPermaLink="false">zenodo:24154192</guid>
-      <pubDate>Thu, 12 Nov 2026 00:00:00 +0000</pubDate>
-      <category>zenodo</category>
-      <description>This article proposes numerical methods and a software architecture for adaptive optimization of Uzbek vision-language models under limited computational resources. The mathematical formulation combines contrastive alignment,…</description>
+      <title>[Tool] Nour-Ghribi/DerjaSpeechLab-Tunisian-Arabic-ASR-Speech-Translation</title>
+      <link>https://github.com/Nour-Ghribi/DerjaSpeechLab-Tunisian-Arabic-ASR-Speech-Translation</link>
+      <guid isPermaLink="false">gh:nour-ghribi/derjaspeechlab-tunisian-arabic-asr-speech-translation</guid>
+      <pubDate>Fri, 13 Nov 2026 00:00:00 +0000</pubDate>
+      <category>github</category>
+      <description>Research-oriented NLP project for Tunisian Arabic speech recognition, multilingual speech translation, code-switching analysis and LLM-assisted text processing using Whisper, NLLB and LoRA.</description>
     </item>
     <item>
-      <title>[Corpus] MAA thermoelectric analysis: analysis records, logs, corpus, Supplementary Data, figures and SI sources for "Autonomous Analysis of Thermoelectric Materials Big Data by Multi-Agentic AI and Construction of a Knowledge Base and Specialized AI"</title>
-      <link>https://zenodo.org/records/23679547</link>
-      <guid isPermaLink="false">zenodo:23679546</guid>
-      <pubDate>Thu, 12 Nov 2026 00:00:00 +0000</pubDate>
-      <category>zenodo</category>
-      <description>Records accompanying the manuscript "Autonomous Analysis of Thermoelectric Materials Big Data by Multi-Agentic AI and Construction of a Knowledge Base and Specialized AI" (preprint arXiv:2611.00627). Contents: text records of the 110…</description>
+      <title>[Corpus] HYUKI5/mrlbenchmarks__global-piqa-parallel</title>
+      <link>https://huggingface.co/datasets/HYUKI5/mrlbenchmarks__global-piqa-parallel</link>
+      <guid isPermaLink="false">hf:datasets:HYUKI5/mrlbenchmarks__global-piqa-parallel</guid>
+      <pubDate>Fri, 13 Nov 2026 00:00:00 +0000</pubDate>
+      <category>huggingface</category>
+      <description>mrlbenchmarks/global-piqa-parallel（複製） データの内容 物理的な常識を問う 4 択問題のデータ。1 行が 1 問で、prompt に問い、solution0 から solution3 に 4 つの解答、label に正解の番号が入る。英語の問題を機械翻訳して母語話者が直したもので、言語ごとに約 100 問と少ない。配布は CC BY-SA 4.0 だが、用途は LLM の評価に限られ、AI…</description>
     </item>
     <item>
-      <title>[Tool] Replication archive for 'Failed exercises mark error-prone periods: error rates before and after errors in app-based language practice'</title>
-      <link>https://zenodo.org/records/24165342</link>
-      <guid isPermaLink="false">zenodo:24165341</guid>
-      <pubDate>Thu, 12 Nov 2026 00:00:00 +0000</pubDate>
-      <category>zenodo</category>
-      <description>Analysis code, analysis plan and numerical outputs for the Brief Report 'Failed exercises mark error-prone periods: error rates before and after errors in app-based language practice' (H. Jeong). The study is a secondary analysis of the…</description>
+      <title>[Model] speakleash/Bielik-One-11B-v3.1-r1-Adapter</title>
+      <link>https://huggingface.co/speakleash/Bielik-One-11B-v3.1-r1-Adapter</link>
+      <guid isPermaLink="false">hf:models:speakleash/Bielik-One-11B-v3.1-r1-Adapter</guid>
+      <pubDate>Fri, 13 Nov 2026 00:00:00 +0000</pubDate>
+      <category>huggingface</category>
+      <description></description>
     </item>
     <item>
-      <title>[Tool] Pipeline di linguistica computazionale contrastiva per i giochi di carte tradizionali di Briscola e Belote</title>
-      <link>https://zenodo.org/records/24164945</link>
-      <guid isPermaLink="false">zenodo:24164944</guid>
-      <pubDate>Thu, 12 Nov 2026 00:00:00 +0000</pubDate>
-      <category>zenodo</category>
-      <description>ING This deposit contains the reproducible computational pipeline and Jupyter Notebook developed for the contrastive linguistic and diachronic text analysis of traditional card game terminology (specifically focusing on Briscola and…</description>
+      <title>[Model] speakleash/Bielik-One-11B-v3.1-r1</title>
+      <link>https://huggingface.co/speakleash/Bielik-One-11B-v3.1-r1</link>
+      <guid isPermaLink="false">hf:models:speakleash/Bielik-One-11B-v3.1-r1</guid>
+      <pubDate>Fri, 13 Nov 2026 00:00:00 +0000</pubDate>
+      <category>huggingface</category>
+      <description></description>
     </item>
     <item>
-      <title>[Event] JoNN 2026 : Inaugural Issue of Journal of Niche NLP</title>
-      <link>http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=204085</link>
-      <guid isPermaLink="false">wikicfp:204085</guid>
-      <pubDate>Thu, 12 Nov 2026 00:00:00 +0000</pubDate>
-      <category>wikicfp</category>
-      <description>Inaugural Issue of Journal of Niche NLP</description>
+      <title>[Opportunity] Égalité des genres dans les textes générés par l'Intelligence Artificielle : étude contrastive d'un corpus multilingue de textes comparables</title>
+      <link>https://theses.fr/s445893</link>
+      <guid isPermaLink="false">theses:s445893</guid>
+      <pubDate>Fri, 13 Nov 2026 00:00:00 +0000</pubDate>
+      <category>theses</category>
+      <description>Thèse en préparation — Langues, littératures et civilisations. Direction : Hélène Vinckel-roisin, Mirjam Schmuck. Laboratoire : ATILF - Analyse et Traitement Informatique de la Langue Française</description>
     </item>
     <item>
-      <title>[Event] LRE-LTH 2027 : Language Resources and Evaluation Special Issue on Language Technologies for Health</title>
-      <link>http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=203802</link>
-      <guid isPermaLink="false">wikicfp:203802</guid>
-      <pubDate>Thu, 12 Nov 2026 00:00:00 +0000</pubDate>
-      <category>wikicfp</category>
-      <description>Language Resources and Evaluation Special Issue on Language Technologies for Health</description>
+      <title>[Model] ankush13r/prelude-base-iter_1192093-yarn-160k</title>
+      <link>https://huggingface.co/ankush13r/prelude-base-iter_1192093-yarn-160k</link>
+      <guid isPermaLink="false">hf:models:ankush13r/prelude-base-iter_1192093-yarn-160k</guid>
+      <pubDate>Fri, 13 Nov 2026 00:00:00 +0000</pubDate>
+      <category>huggingface</category>
+      <description></description>
     </item>
     <item>
-      <title>[Event] PLN 78 2027 : issue 78 - Journal of Procesamiento del Lenguaje Natural</title>
-      <link>http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=203590</link>
-      <guid isPermaLink="false">wikicfp:203590</guid>
-      <pubDate>Thu, 12 Nov 2026 00:00:00 +0000</pubDate>
-      <category>wikicfp</category>
-      <description>issue 78 - Journal of Procesamiento del Lenguaje Natural</description>
+      <title>[Opportunity] Analyse multimodale de la parole pour la détection précoce des poussées de la maladie de Crohn par des méthodes d'apprentissage profond</title>
+      <link>https://theses.fr/s442886</link>
+      <guid isPermaLink="false">theses:s442886</guid>
+      <pubDate>Fri, 13 Nov 2026 00:00:00 +0000</pubDate>
+      <category>theses</category>
+      <description>Thèse en préparation — Informatique. Direction : Slim Ouni. Laboratoire : LORIA - Laboratoire Lorrain de Recherche en Informatique et ses Applications</description>
     </item>
     <item>
-      <title>[Event] LRE-PPLD 2027 : Special Issue Preserving the Privacy of Language Data: Emerging Technologies, Evolving Standards and Beyond at the Language Resources and Evaluation Journal</title>
-      <link>http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=203521</link>
-      <guid isPermaLink="false">wikicfp:203521</guid>
-      <pubDate>Thu, 12 Nov 2026 00:00:00 +0000</pubDate>
-      <category>wikicfp</category>
-      <description>Special Issue Preserving the Privacy of Language Data: Emerging Technologies, Evolving Standards and Beyond at the Language Resources and Evaluation Journal</description>
+      <title>[Opportunity] Quantification des risques latents : Construire un cadre général pour rendre mesurables et pilotables les risques non directement observables</title>
+      <link>https://theses.fr/s445213</link>
+      <guid isPermaLink="false">theses:s445213</guid>
+      <pubDate>Fri, 13 Nov 2026 00:00:00 +0000</pubDate>
+      <category>theses</category>
+      <description>Thèse en préparation — Sciences Economiques. Direction : Christophe Hurlin. Laboratoire : LÉO - Laboratoire d'Economie d'Orléans</description>
     </item>
     <item>
-      <title>[Event] Computer Speech and Language 2021 : Special Issue on Speech Based Evaluation of Neurological Diseases</title>
-      <link>http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=118657</link>
-      <guid isPermaLink="false">wikicfp:118657</guid>
-      <pubDate>Thu, 12 Nov 2026 00:00:00 +0000</pubDate>
-      <category>wikicfp</category>
-      <description>Special Issue on Speech Based Evaluation of Neurological Diseases</description>
+      <title>[Opportunity] Détection et annotation sémantique de changements dans des données géographiques</title>
+      <link>https://theses.fr/s443890</link>
+      <guid isPermaLink="false">theses:s443890</guid>
+      <pubDate>Fri, 13 Nov 2026 00:00:00 +0000</pubDate>
+      <category>theses</category>
+      <description>Thèse en préparation — Informatique. Direction : Marlène Villanova. Laboratoire : Laboratoire d'Informatique de Grenoble</description>
     </item>
     <item>
-      <title>[Event] RiCL special issue 2027 : special issue of Research in Corpus Linguistics (RiCL) ‘Learner Corpus Research meets the Common European Framework of Reference for Languages and the Companion Volume’</title>
-      <link>http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=194494</link>
-      <guid isPermaLink="false">wikicfp:194494</guid>
-      <pubDate>Thu, 12 Nov 2026 00:00:00 +0000</pubDate>
-      <category>wikicfp</category>
-      <description>special issue of Research in Corpus Linguistics (RiCL) ‘Learner Corpus Research meets the Common European Framework of Reference for Languages and the Companion Volume’</description>
+      <title>[Opportunity] Construction d'un modèle articulatoire générique multilingue et multilocuteur à l'aide de données IRM temps réel</title>
+      <link>https://theses.fr/s446142</link>
+      <guid isPermaLink="false">theses:s446142</guid>
+      <pubDate>Fri, 13 Nov 2026 00:00:00 +0000</pubDate>
+      <category>theses</category>
+      <description>Thèse en préparation — Informatique. Direction : Yves Laprie. Laboratoire : LORIA - Laboratoire Lorrain de Recherche en Informatique et ses Applications</description>
     </item>
     <item>
-      <title>[Event] UAIS 2023 : International Journal on Universal Access in the Information Society</title>
-      <link>http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=169509</link>
-      <guid isPermaLink="false">wikicfp:169509</guid>
-      <pubDate>Thu, 12 Nov 2026 00:00:00 +0000</pubDate>
-      <category>wikicfp</category>
-      <description>International Journal on Universal Access in the Information Society</description>
+      <title>[Opportunity] Recherche automatique d'intertextualité dans des corpus littéraires</title>
+      <link>https://theses.fr/s442291</link>
+      <guid isPermaLink="false">theses:s442291</guid>
+      <pubDate>Fri, 13 Nov 2026 00:00:00 +0000</pubDate>
+      <category>theses</category>
+      <description>Thèse en préparation — Informatique. Direction : Philippe Gambette. Laboratoire : LIGM - Laboratoire d'informatique Gaspard-Monge</description>
     </item>
     <item>
-      <title>[Opportunity] Erasmus Mundus Master in Language and Communication Technologies (LCT)</title>
-      <link>https://lct-master.org/</link>
-      <guid isPermaLink="false">formation:consortium-coordonn-par-l-universit-t-des-saarlandes-erasmus-mundus-master-in-language-and</guid>
-      <pubDate>Thu, 12 Nov 2026 00:00:00 +0000</pubDate>
-      <category>formations</category>
-      <description>Consortium coordonné par l'Universität des Saarlandes — Saarbrücken. Langue(s) d'enseignement : en.</description>
+      <title>[Opportunity] Détection robuste et fiable des deepfakes</title>
+      <link>https://theses.fr/s445394</link>
+      <guid isPermaLink="false">theses:s445394</guid>
+      <pubDate>Fri, 13 Nov 2026 00:00:00 +0000</pubDate>
+      <category>theses</category>
+      <description>Thèse en préparation — Traitement du signal et des images. Direction : Patrick Bas, Jan Butora. Laboratoire : CRIStAL - Centre de Recherche en Informatique, Signal et Automatique de Lille</description>
     </item>
     <item>
-      <title>[Opportunity] MSc Language Science and Technology</title>
-      <link>https://www.lst.uni-saarland.de/</link>
-      <guid isPermaLink="false">formation:universit-t-des-saarlandes-msc-language-science-and-technology</guid>
-      <pubDate>Thu, 12 Nov 2026 00:00:00 +0000</pubDate>
-      <category>formations</category>
-      <description>Universität des Saarlandes — Saarbrücken. Langue(s) d'enseignement : en.</description>
+      <title>[Opportunity] Modélisation thématique dynamique non supervisée pour l'analyse de flux de documents</title>
+      <link>https://theses.fr/s444522</link>
+      <guid isPermaLink="false">theses:s444522</guid>
+      <pubDate>Fri, 13 Nov 2026 00:00:00 +0000</pubDate>
+      <category>theses</category>
+      <description>Thèse en préparation — Doctorat mathematiques. Direction : Charles Bouveyron, Serena Villata. Laboratoire : INRIA - MASAAI - Models and Algorithms of Artificial Intelligence</description>
     </item>
     <item>
-      <title>[Opportunity] MSc Computational Linguistics</title>
-      <link>https://www.ims.uni-stuttgart.de/en/</link>
-      <guid isPermaLink="false">formation:universit-t-stuttgart-ims-msc-computational-linguistics</guid>
-      <pubDate>Thu, 12 Nov 2026 00:00:00 +0000</pubDate>
-      <category>formations</category>
-      <description>Universität Stuttgart (IMS) — Stuttgart. Langue(s) d'enseignement : en, de.</description>
+      <title>[Opportunity] Écrire un texte contraint à l'Université.Quand l'ordre-de-la-langue interfère avec la possibilité d'habiter sa propre parole.</title>
+      <link>https://theses.fr/s444726</link>
+      <guid isPermaLink="false">theses:s444726</guid>
+      <pubDate>Fri, 13 Nov 2026 00:00:00 +0000</pubDate>
+      <category>theses</category>
+      <description>Thèse en préparation — Sciences de l'éducation. Direction : Pierre Laffitte. Laboratoire : Laboratoire Interculturalités, Apprentissages, marGes, Expérience</description>
     </item>
     <item>
-      <title>[Opportunity] MA Computational Linguistics</title>
-      <link>https://uni-tuebingen.de/en/</link>
-      <guid isPermaLink="false">formation:eberhard-karls-universit-t-t-bingen-ma-computational-linguistics</guid>
-      <pubDate>Thu, 12 Nov 2026 00:00:00 +0000</pubDate>
-      <category>formations</category>
-      <description>Eberhard Karls Universität Tübingen — Tübingen. Langue(s) d'enseignement : en, de.</description>
+      <title>[Opportunity] Intégration des exigences de durabilité pour l'analyse et la réingénierie continue des processus métiers</title>
+      <link>https://theses.fr/s446268</link>
+      <guid isPermaLink="false">theses:s446268</guid>
+      <pubDate>Fri, 13 Nov 2026 00:00:00 +0000</pubDate>
+      <category>theses</category>
+      <description>Thèse en préparation — Informatique, données, IA. Direction : Walid Gaaloul. Laboratoire : SAMOVAR - Services répartis, Architectures, Modélisation, Validation, Administration des Réseaux</description>
     </item>
     <item>
-      <title>[Opportunity] MSc Speech and Language Processing</title>
-      <link>https://www.ed.ac.uk/</link>
-      <guid isPermaLink="false">formation:university-of-edinburgh-msc-speech-and-language-processing</guid>
-      <pubDate>Thu, 12 Nov 2026 00:00:00 +0000</pubDate>
-      <category>formations</category>
-      <description>University of Edinburgh — Edinburgh. Langue(s) d'enseignement : en.</description>
+      <title>[Opportunity] Imagerie en super-résolution des réseaux cellulaires de la dentine par apprentissage profond informé par la physique et la biologie</title>
+      <link>https://theses.fr/s445192</link>
+      <guid isPermaLink="false">theses:s445192</guid>
+      <pubDate>Fri, 13 Nov 2026 00:00:00 +0000</pubDate>
+      <category>theses</category>
+      <description>Thèse en préparation — Signal Image Parole Télécoms. Direction : Aurélien Gourrier, David Rousseau. Laboratoire : Laboratoire Interdisciplinaire de Physique</description>
     </item>
     <item>
-      <title>[Opportunity] Master of Language Technologies (MLT)</title>
-      <link>https://www.lti.cs.cmu.edu/</link>
-      <guid isPermaLink="false">formation:carnegie-mellon-university-language-technologies-institute-master-of-language-technologies</guid>
-      <pubDate>Thu, 12 Nov 2026 00:00:00 +0000</pubDate>
-      <category>formations</category>
-      <description>Carnegie Mellon University – Language Technologies Institute — Pittsburgh. Langue(s) d'enseignement : en.</description>
+      <title>[Opportunity] Conscience linguistique et compétence communicative par l'exposition : approches fondées sur les données à l'aide de corpus et de l'IA générative</title>
+      <link>https://theses.fr/s444348</link>
+      <guid isPermaLink="false">theses:s444348</guid>
+      <pubDate>Fri, 13 Nov 2026 00:00:00 +0000</pubDate>
+      <category>theses</category>
+      <description>Thèse en préparation — Sciences du langage. Direction : Alex Boulton, Eva Vetter. Laboratoire : ATILF - Analyse et Traitement Informatique de la Langue Française</description>
     </item>
     <item>
-      <title>[Opportunity] MS in Computational Linguistics (CLMS)</title>
-      <link>https://www.compling.uw.edu/</link>
-      <guid isPermaLink="false">formation:university-of-washington-ms-in-computational-linguistics-clms</guid>
-      <pubDate>Thu, 12 Nov 2026 00:00:00 +0000</pubDate>
-      <category>formations</category>
-      <description>University of Washington — Seattle. Langue(s) d'enseignement : en.</description>
+      <title>[Opportunity] Langage stéréotypé dans les dictionnaires et thésaurus numériques : genre, race, ethnicité</title>
+      <link>https://theses.fr/s444345</link>
+      <guid isPermaLink="false">theses:s444345</guid>
+      <pubDate>Fri, 13 Nov 2026 00:00:00 +0000</pubDate>
+      <category>theses</category>
+      <description>Thèse en préparation — Langues, littératures et civilisations. Direction : Hélène Vinckel-roisin, Mirjam Schmuck. Laboratoire : ATILF - Analyse et Traitement Informatique de la Langue Française</description>
     </item>
     <item>
-      <title>[Opportunity] MS in Computational Linguistics</title>
-      <link>https://www.brandeis.edu/</link>
-      <guid isPermaLink="false">formation:brandeis-university-ms-in-computational-linguistics</guid>
-      <pubDate>Thu, 12 Nov 2026 00:00:00 +0000</pubDate>
-      <category>formations</category>
-      <description>Brandeis University — Waltham. Langue(s) d'enseignement : en.</description>
+      <title>[Opportunity] Politiques linguistiques en France, en Allemagne et au Luxembourg : une analyse comparative multidimensionnelle des acteurs institutionnels et de la Critical Multilingual Language Awareness</title>
+      <link>https://theses.fr/s444343</link>
+      <guid isPermaLink="false">theses:s444343</guid>
+      <pubDate>Fri, 13 Nov 2026 00:00:00 +0000</pubDate>
+      <category>theses</category>
+      <description>Thèse en préparation — Langues, littératures et civilisations. Direction : Hélène Vinckel-roisin, Henning Lobin. Laboratoire : ATILF - Analyse et Traitement Informatique de la Langue Française</description>
     </item>
     <item>
-      <title>[Opportunity] Master in Language Technology (MLT)</title>
-      <link>https://www.gu.se/en</link>
-      <guid isPermaLink="false">formation:university-of-gothenburg-master-in-language-technology-mlt</guid>
-      <pubDate>Thu, 12 Nov 2026 00:00:00 +0000</pubDate>
-      <category>formations</category>
-      <description>University of Gothenburg — Göteborg. Langue(s) d'enseignement : en.</description>
+      <title>[Opportunity] Transformers visio-linguistiques avancés pour la compréhension de journaux historiques</title>
+      <link>https://theses.fr/s444109</link>
+      <guid isPermaLink="false">theses:s444109</guid>
+      <pubDate>Fri, 13 Nov 2026 00:00:00 +0000</pubDate>
+      <category>theses</category>
+      <description>Thèse en préparation — Informatique. Direction : Bertrand Couasnon</description>
     </item>
     <item>
-      <title>[Opportunity] Master Programme in Language Technology</title>
-      <link>https://www.uu.se/en</link>
-      <guid isPermaLink="false">formation:uppsala-university-master-programme-in-language-technology</guid>
-      <pubDate>Thu, 12 Nov 2026 00:00:00 +0000</pubDate>
-      <category>formations</category>
-      <description>Uppsala University — Uppsala. Langue(s) d'enseignement : en.</description>
+      <title>[Opportunity] La prosodie dans le cadre de l'allemand langue étrangère : une étude expérimentale sur l'efficacité d'un apprentissage fondé sur la linguistique chez les italophones.</title>
+      <link>https://theses.fr/s443849</link>
+      <guid isPermaLink="false">theses:s443849</guid>
+      <pubDate>Fri, 13 Nov 2026 00:00:00 +0000</pubDate>
+      <category>theses</category>
+      <description>Thèse en préparation — Sciences du langage. Direction : Ingo Feldhausen. Laboratoire : ATILF - Analyse et Traitement Informatique de la Langue Française</description>
     </item>
     <item>
-      <title>[Opportunity] MSc Computer Science – Computational Linguistics</title>
-      <link>https://ufal.mff.cuni.cz/</link>
-      <guid isPermaLink="false">formation:univerzita-karlova-fal-msc-computer-science-computational-linguistics</guid>
-      <pubDate>Thu, 12 Nov 2026 00:00:00 +0000</pubDate>
-      <category>formations</category>
-      <description>Univerzita Karlova (ÚFAL) — Prague. Langue(s) d'enseignement : en, cs.</description>
+      <title>[Opportunity] Fiabilisation et souveraineté des LLM pour l'aide à la décision médicale</title>
+      <link>https://theses.fr/s445411</link>
+      <guid isPermaLink="false">theses:s445411</guid>
+      <pubDate>Fri, 13 Nov 2026 00:00:00 +0000</pubDate>
+      <category>theses</category>
+      <description>Thèse en préparation — Informatique et applications. Direction : Elod Egyed-zsigmond. Laboratoire : LIRIS - Laboratoire d'InfoRmatique en Image et Systèmes d'information</description>
     </item>
     <item>
-      <title>[Opportunity] Master in Language Analysis and Processing (LAP)</title>
-      <link>https://www.hitz.eus/</link>
-      <guid isPermaLink="false">formation:universidad-del-pa-s-vasco-euskal-herriko-unibertsitatea-hitz-master-in-language-analysis-</guid>
-      <pubDate>Thu, 12 Nov 2026 00:00:00 +0000</pubDate>
-      <category>formations</category>
-      <description>Universidad del País Vasco / Euskal Herriko Unibertsitatea (HiTZ) — Donostia-San Sebastián. Langue(s) d'enseignement : en, eu, es.</description>
+      <title>[Opportunity] Modélisation électromagnétique des signatures radar et IA pour la reconnaissance d'objets</title>
+      <link>https://theses.fr/s439498</link>
+      <guid isPermaLink="false">theses:s439498</guid>
+      <pubDate>Fri, 13 Nov 2026 00:00:00 +0000</pubDate>
+      <category>theses</category>
+      <description>Thèse en préparation — Signal Image Parole Télécoms. Direction : Jean-Baptiste Dore. Laboratoire : CEA LETI - Laboratoire d'électronique et de technologie de l'information</description>
     </item>
     <item>
-      <title>[Opportunity] MSc Human Language Science and Technology</title>
-      <link>https://www.um.edu.mt/linguistics/</link>
-      <guid isPermaLink="false">formation:university-of-malta-institute-of-linguistics-and-language-technology-msc-human-language-sc</guid>
-      <pubDate>Thu, 12 Nov 2026 00:00:00 +0000</pubDate>
-      <category>formations</category>
-      <description>University of Malta – Institute of Linguistics and Language Technology — Msida. Langue(s) d'enseignement : en, mt.</description>
+      <title>[Opportunity] Fusion de capteurs multi-physiques et Physics-Informed Deep Learning pour le monitoring prédictif de mécanismes de dégradations batterie Li-Ion et Na-Ion</title>
+      <link>https://theses.fr/s445088</link>
+      <guid isPermaLink="false">theses:s445088</guid>
+      <pubDate>Fri, 13 Nov 2026 00:00:00 +0000</pubDate>
+      <category>theses</category>
+      <description>Thèse en préparation — Signal Image Parole Télécoms. Direction : Vincent Heiries, Mathieu Salanne, Sandrine Lyonnard. Laboratoire : CEA/LITEN - Laboratoire d'Innovation pour les Technologies des Energies Nouvelles et les Nanomatériaux</description>
     </item>
     <item>
-      <title>[Opportunity] Master Traitement automatique des langues</title>
-      <link>https://idmc.univ-lorraine.fr/</link>
-      <guid isPermaLink="false">formation:universit-de-lorraine-idmc-master-traitement-automatique-des-langues</guid>
-      <pubDate>Thu, 12 Nov 2026 00:00:00 +0000</pubDate>
-      <category>formations</category>
-      <description>Université de Lorraine (IDMC) — Nancy. Langue(s) d'enseignement : fr.</description>
+      <title>[Opportunity] Mobilités transfrontalières et vulnérabilités des acteurs dans et hors l'école : étude de cas de la scolarisation des élèves haïtiens à la frontière entre la République d'Haïti et la République dominicaine.</title>
+      <link>https://theses.fr/s442899</link>
+      <guid isPermaLink="false">theses:s442899</guid>
+      <pubDate>Fri, 13 Nov 2026 00:00:00 +0000</pubDate>
+      <category>theses</category>
+      <description>Thèse en préparation — Sciences de l'Education et de la Formation. Direction : Choukri Ben ayed, Maryan Lemoine. Laboratoire : Education et Diversités en espaces Francophones</description>
     </item>
     <item>
-      <title>[Opportunity] Master TAL – Plurital</title>
-      <link>https://www.inalco.fr/</link>
-      <guid isPermaLink="false">formation:inalco-universit-sorbonne-nouvelle-universit-paris-nanterre-master-tal-plurital</guid>
-      <pubDate>Thu, 12 Nov 2026 00:00:00 +0000</pubDate>
-      <category>formations</category>
-      <description>Inalco, Université Sorbonne Nouvelle, Université Paris Nanterre — Paris. Langue(s) d'enseignement : fr.</description>
+      <title>[Opportunity] Conception et évaluation d'un dispositif d'intelligence artificielle pour la transformation et la médiation de l'information sur les risques liés à la biodiversité en finance</title>
+      <link>https://theses.fr/s443317</link>
+      <guid isPermaLink="false">theses:s443317</guid>
+      <pubDate>Fri, 13 Nov 2026 00:00:00 +0000</pubDate>
+      <category>theses</category>
+      <description>Thèse en préparation — Sciences de l'information et de la communication. Direction : Federico Tajariol, Wided Khiari, Sylvain Sagot. Laboratoire : ELLIADD</description>
     </item>
     <item>
-      <title>[Opportunity] Master Linguistique informatique</title>
-      <link>https://u-paris.fr/</link>
-      <guid isPermaLink="false">formation:universit-paris-cit-master-linguistique-informatique</guid>
-      <pubDate>Thu, 12 Nov 2026 00:00:00 +0000</pubDate>
-      <category>formations</category>
-      <description>Université Paris Cité — Paris. Langue(s) d'enseignement : fr.</description>
+      <title>[Opportunity] Médiations numériques, intelligence artificielle et traitement des langues pour l'insertion professionnelle et la communication internationale des entreprises en contexte</title>
+      <link>https://theses.fr/s443325</link>
+      <guid isPermaLink="false">theses:s443325</guid>
+      <pubDate>Fri, 13 Nov 2026 00:00:00 +0000</pubDate>
+      <category>theses</category>
+      <description>Thèse en préparation — Sciences de l'information et de la communication. Direction : Thibaud Hulin. Laboratoire : ELLIADD</description>
     </item>
     <item>
-      <title>[Opportunity] Master Industries de la langue</title>
-      <link>https://www.univ-grenoble-alpes.fr/</link>
-      <guid isPermaLink="false">formation:universit-grenoble-alpes-master-industries-de-la-langue</guid>
-      <pubDate>Thu, 12 Nov 2026 00:00:00 +0000</pubDate>
-      <category>formations</category>
-      <description>Université Grenoble Alpes — Grenoble. Langue(s) d'enseignement : fr.</description>
+      <title>[Opportunity] La divergence terminologique entre le discours coranique et le discours prophétique : étude diachronique</title>
+      <link>https://theses.fr/s442832</link>
+      <guid isPermaLink="false">theses:s442832</guid>
+      <pubDate>Fri, 13 Nov 2026 00:00:00 +0000</pubDate>
+      <category>theses</category>
+      <description>Thèse en préparation — Linguistique, littérature et civilisation arabes. Direction : Stéphane Valter, Mohamed Ali Mostfa. Laboratoire : CeRLA - Centre de Recherche En Linguistique Appliquée</description>
     </item>
     <item>
-      <title>[Opportunity] Master Langue et informatique</title>
-      <link>https://www.sorbonne-universite.fr/</link>
-      <guid isPermaLink="false">formation:sorbonne-universit-master-langue-et-informatique</guid>
-      <pubDate>Thu, 12 Nov 2026 00:00:00 +0000</pubDate>
-      <category>formations</category>
-      <description>Sorbonne Université — Paris. Langue(s) d'enseignement : fr.</description>
+      <title>[Opportunity] La formalisation comme traduction : la représentation du sens dans les systèmes formels</title>
+      <link>https://theses.fr/s442184</link>
+      <guid isPermaLink="false">theses:s442184</guid>
+      <pubDate>Fri, 13 Nov 2026 00:00:00 +0000</pubDate>
+      <category>theses</category>
+      <description>Thèse en préparation — Philosophie. Direction : Andrew Arana, Kai Kai Wehmeier. Laboratoire : AHP-PReST - Archives Henri Poincaré - Philosophie et Recherches sur les Sciences et les Technologies</description>
     </item>
     <item>
-      <title>[Opportunity] Master en traitement informatique multilingue</title>
-      <link>https://www.unige.ch/fti/</link>
-      <guid isPermaLink="false">formation:universit-de-gen-ve-facult-de-traduction-et-d-interpr-tation-master-en-traitement-informat</guid>
-      <pubDate>Thu, 12 Nov 2026 00:00:00 +0000</pubDate>
-      <category>formations</category>
-      <description>Université de Genève – Faculté de traduction et d'interprétation — Genève. Langue(s) d'enseignement : fr, en.</description>
+      <title>[Opportunity] Former les enseignants à l'allemand en contextes frontaliers : dispositifs collaboratifs et sécurité linguistique dans le Grand Est</title>
+      <link>https://theses.fr/s442226</link>
+      <guid isPermaLink="false">theses:s442226</guid>
+      <pubDate>Fri, 13 Nov 2026 00:00:00 +0000</pubDate>
+      <category>theses</category>
+      <description>Thèse en préparation — Sciences du langage. Direction : Grégory Miras. Laboratoire : ATILF - Analyse et Traitement Informatique de la Langue Française</description>
     </item>
     <item>
-      <title>[Opportunity] MSc in Natural Language Processing</title>
-      <link>https://mbzuai.ac.ae/</link>
-      <guid isPermaLink="false">formation:mohamed-bin-zayed-university-of-artificial-intelligence-mbzuai-msc-in-natural-language-pro</guid>
-      <pubDate>Thu, 12 Nov 2026 00:00:00 +0000</pubDate>
-      <category>formations</category>
-      <description>Mohamed bin Zayed University of Artificial Intelligence (MBZUAI) — Abu Dhabi. Langue(s) d'enseignement : en.</description>
+      <title>[Opportunity] REPRODUCTIBILITÉ DE RÉSULTATS SCIENTIFIQUES EN HÉLIOPHYSIQUE AU MOYEN DE MODÈLES DE LANGUE</title>
+      <link>https://theses.fr/s439610</link>
+      <guid isPermaLink="false">theses:s439610</guid>
+      <pubDate>Fri, 13 Nov 2026 00:00:00 +0000</pubDate>
+      <category>theses</category>
+      <description>Thèse en préparation — Astronomie et astrophysique. Direction : Baptiste Cecconi, Cyril Grouin. Laboratoire : Laboratoire d'Instrumentation et de Recherche en Astrophysique</description>
     </item>
     <item>
-      <title>[Opportunity] Master's Programme in Linguistic Diversity and Digital Humanities</title>
-      <link>https://www.helsinki.fi/en</link>
-      <guid isPermaLink="false">formation:university-of-helsinki-master-s-programme-in-linguistic-diversity-and-digital-humanities</guid>
-      <pubDate>Thu, 12 Nov 2026 00:00:00 +0000</pubDate>
-      <category>formations</category>
-      <description>University of Helsinki — Helsinki. Langue(s) d'enseignement : en.</description>
+      <title>[Opportunity] Reconnaissance et traduction de la Langue des Signes Française (LSF) à l'aide de réseaux prototypiques en apprentissage à peu d'exemples (Few-Shot Prototypical Networks)</title>
+      <link>https://theses.fr/s438754</link>
+      <guid isPermaLink="false">theses:s438754</guid>
+      <pubDate>Fri, 13 Nov 2026 00:00:00 +0000</pubDate>
+      <category>theses</category>
+      <description>Thèse en préparation — Signal Image Parole Télécoms. Direction : Denis Beautemps. Laboratoire : Grenoble Images Parole Signal Automatique</description>
     </item>
     <item>
-      <title>[Opportunity] MSc Voice Technology</title>
-      <link>https://www.rug.nl/</link>
-      <guid isPermaLink="false">formation:rijksuniversiteit-groningen-campus-frysl-n-msc-voice-technology</guid>
-      <pubDate>Thu, 12 Nov 2026 00:00:00 +0000</pubDate>
-      <category>formations</category>
-      <description>Rijksuniversiteit Groningen – Campus Fryslân — Leeuwarden. Langue(s) d'enseignement : en.</description>
+      <title>[Opportunity] Vers une IA explicable pour les Humanités Numériques : modélisation computationnelle de l'implicite dans le texte littéraire</title>
+      <link>https://theses.fr/s437203</link>
+      <guid isPermaLink="false">theses:s437203</guid>
+      <pubDate>Fri, 13 Nov 2026 00:00:00 +0000</pubDate>
+      <category>theses</category>
+      <description>Thèse en préparation — Littératures françaises. Direction : Sophie Basch, Gauvain Bourgne. Laboratoire : Centre d'étude de la langue et des littératures françaises</description>
     </item>
     <item>
-      <title>[Opportunity] Laurea magistrale in Informatica umanistica</title>
-      <link>https://www.unipi.it/</link>
-      <guid isPermaLink="false">formation:universit-di-pisa-laurea-magistrale-in-informatica-umanistica</guid>
-      <pubDate>Thu, 12 Nov 2026 00:00:00 +0000</pubDate>
-      <category>formations</category>
-      <description>Università di Pisa — Pisa. Langue(s) d'enseignement : it.</description>
+      <title>[Opportunity] Comment les croyances des parents concernant l'esprit de leur nourrisson influencent leurs premiers échanges</title>
+      <link>https://theses.fr/s437990</link>
+      <guid isPermaLink="false">theses:s437990</guid>
+      <pubDate>Fri, 13 Nov 2026 00:00:00 +0000</pubDate>
+      <category>theses</category>
+      <description>Thèse en préparation — PCN - Sciences cognitives, psychologie et neurocognition. Direction : Louise Goupil. Laboratoire : Laboratoire de Psychologie et Neuro Cognition</description>
     </item>
     <item>
-      <title>[Opportunity] MSc Cognitive Science – Language and Multimodal Interaction</title>
-      <link>https://www.unitn.it/</link>
-      <guid isPermaLink="false">formation:universit-di-trento-msc-cognitive-science-language-and-multimodal-interaction</guid>
-      <pubDate>Thu, 12 Nov 2026 00:00:00 +0000</pubDate>
-      <category>formations</category>
-      <description>Università di Trento — Rovereto. Langue(s) d'enseignement : en.</description>
+      <title>[Opportunity] Ancrage multimodal et social des modèles de langue oraux pour l'étude du développement du langage humain</title>
+      <link>https://theses.fr/s438701</link>
+      <guid isPermaLink="false">theses:s438701</guid>
+      <pubDate>Fri, 13 Nov 2026 00:00:00 +0000</pubDate>
+      <category>theses</category>
+      <description>Thèse en préparation — Signal Image Parole Télécoms. Direction : Thomas Hueber, Laurent Girin, Stéphane Lathuiliere. Laboratoire : Grenoble Images Parole Signal Automatique</description>
     </item>
     <item>
-      <title>[Opportunity] Master in Theoretical and Applied Linguistics</title>
-      <link>https://www.upf.edu/</link>
-      <guid isPermaLink="false">formation:universitat-pompeu-fabra-master-in-theoretical-and-applied-linguistics</guid>
-      <pubDate>Thu, 12 Nov 2026 00:00:00 +0000</pubDate>
-      <category>formations</category>
-      <description>Universitat Pompeu Fabra — Barcelona. Langue(s) d'enseignement : en, es, ca.</description>
+      <title>[Opportunity] Optimisation des architectures de reconnaissance automatique de la parole pour les langues peu dotées</title>
+      <link>https://theses.fr/s442771</link>
+      <guid isPermaLink="false">theses:s442771</guid>
+      <pubDate>Fri, 13 Nov 2026 00:00:00 +0000</pubDate>
+      <category>theses</category>
+      <description>Thèse en préparation — Sciences pour l'ingénieur spécialité Informatique. Direction : Samia Bouzefrane, Kamal Naït zerad. Laboratoire : Cedric - Centre d'études et de recherche en informatique et communications</description>
     </item>
     <item>
-      <title>[Opportunity] BSc Computerlinguistik</title>
-      <link>https://www.uni-saarland.de/</link>
-      <guid isPermaLink="false">formation:universit-t-des-saarlandes-bsc-computerlinguistik</guid>
-      <pubDate>Thu, 12 Nov 2026 00:00:00 +0000</pubDate>
-      <category>formations</category>
-      <description>Universität des Saarlandes — Saarbrücken. Langue(s) d'enseignement : de.</description>
+      <title>[Opportunity] Aptitudes métalinguistiques des grands modèles de langage</title>
+      <link>https://theses.fr/s442374</link>
+      <guid isPermaLink="false">theses:s442374</guid>
+      <pubDate>Fri, 13 Nov 2026 00:00:00 +0000</pubDate>
+      <category>theses</category>
+      <description>Thèse en préparation — Sciences et technologies de l'information et de la communication. Direction : Benoît Sagot. Laboratoire : Centre INRIA de Paris</description>
     </item>
     <item>
-      <title>[Opportunity] BSc Maschinelle Sprachverarbeitung</title>
-      <link>https://www.ims.uni-stuttgart.de/</link>
-      <guid isPermaLink="false">formation:universit-t-stuttgart-ims-bsc-maschinelle-sprachverarbeitung</guid>
-      <pubDate>Thu, 12 Nov 2026 00:00:00 +0000</pubDate>
-      <category>formations</category>
-      <description>Universität Stuttgart (IMS) — Stuttgart. Langue(s) d'enseignement : de.</description>
+      <title>[Opportunity] Caractérisation acoustique des consonnes fricatives dans la dysarthrie parkinsonienne : relations entre production, perception et sévérité clinique</title>
+      <link>https://theses.fr/s441353</link>
+      <guid isPermaLink="false">theses:s441353</guid>
+      <pubDate>Fri, 13 Nov 2026 00:00:00 +0000</pubDate>
+      <category>theses</category>
+      <description>Thèse en préparation — Sciences du langage Spécialité Linguistique Sociolinguistique et Acquisition du langage. Direction : Nathalie Vallee. Laboratoire : Grenoble Images Parole Signal Automatique</description>
     </item>
     <item>
-      <title>[Opportunity] BA Computerlinguistik</title>
-      <link>https://www.cl.uni-heidelberg.de/</link>
-      <guid isPermaLink="false">formation:universit-t-heidelberg-ba-computerlinguistik</guid>
-      <pubDate>Thu, 12 Nov 2026 00:00:00 +0000</pubDate>
-      <category>formations</category>
-      <description>Universität Heidelberg — Heidelberg. Langue(s) d'enseignement : de.</description>
+      <title>[Opportunity] Analyse de l'apprentissage multimodal tenant compte de la fiabilité pour prédire les approches d'apprentissage de l'anglais des étudiants et soutenir une prise de décision pédagogique personnalisée</title>
+      <link>https://theses.fr/s441012</link>
+      <guid isPermaLink="false">theses:s441012</guid>
+      <pubDate>Fri, 13 Nov 2026 00:00:00 +0000</pubDate>
+      <category>theses</category>
+      <description>Thèse en préparation — Sciences du Langage, mention Traitement Automatique des Langues. Direction : Iana Atanassova, Jaafar Gaber. Laboratoire : Centre de Recherches Interdisciplinaires et Transculturelles</description>
+    </item>
+    <item>
+      <title>[Opportunity] Optimisation et adaptation des modèles de langage à grande échelle (LLM) pourles langues à faibles ressources</title>
+      <link>https://theses.fr/s440519</link>
+      <guid isPermaLink="false">theses:s440519</guid>
+      <pubDate>Fri, 13 Nov 2026 00:00:00 +0000</pubDate>
+      <category>theses</category>
+      <description>Thèse en préparation — Sciences pour l'ingénieur spécialité Informatique. Direction : Samia Bouzefrane. Laboratoire : Cedric - Centre d'études et de recherche en informatique et communications</description>
+    </item>
+    <item>
+      <title>[Opportunity] Etude comparative de projets de développement socio-économiques sur terres coutumières : une géographie des conflits fonciers et de la gestion collective des ressources en Kanaky Nouvelle-Calédonie et Aotearoa Nouvelle-Zélande.</title>
+      <link>https://theses.fr/s437828</link>
+      <guid isPermaLink="false">theses:s437828</guid>
+      <pubDate>Fri, 13 Nov 2026 00:00:00 +0000</pubDate>
+      <category>theses</category>
+      <description>Thèse en préparation — Géographie politique, économique, sociale et culturelle. Direction : Matthias Kowasch. Laboratoire : MÉDIATIONS Sciences des lieux, sciences des liens</description>
+    </item>
+    <item>
+      <title>[Opportunity] MeRLIn : Vers un méta-modèle unificateur pour le liage conceptuel des DataFrames</title>
+      <link>https://theses.fr/s438053</link>
+      <guid isPermaLink="false">theses:s438053</guid>
+      <pubDate>Fri, 13 Nov 2026 00:00:00 +0000</pubDate>
+      <category>theses</category>
+      <description>Thèse en préparation — Informatique. Direction : Zoubida Kedad. Laboratoire : Données Algorithmes pour une ville intelligente et durable</description>
+    </item>
+    <item>
+      <title>[Opportunity] Météorologie de l'espace : prédire, prévenir et communiquer</title>
+      <link>https://theses.fr/s437434</link>
+      <guid isPermaLink="false">theses:s437434</guid>
+      <pubDate>Fri, 13 Nov 2026 00:00:00 +0000</pubDate>
+      <category>theses</category>
+      <description>Thèse en préparation — Sciences de l'Information et de la Communication. Direction : Jean Stéphane Carnel, Antonio Guerrero ortega. Laboratoire : Groupe de Recherche sur les Enjeux de la Communication</description>
+    </item>
+    <item>
+      <title>[Opportunity] Syntaxe ou statistiques ? Comprendre les représentations linguistiques dans les grands modèles de langage et chez l'humain</title>
+      <link>https://theses.fr/s439933</link>
+      <guid isPermaLink="false">theses:s439933</guid>
+      <pubDate>Fri, 13 Nov 2026 00:00:00 +0000</pubDate>
+      <category>theses</category>
+      <description>Thèse en préparation — Psychologie. Direction : Arnaud Rey, Alexis Nasr. Laboratoire : CRPN - Centre de Recherche en Psychologie et Neurosciences</description>
+    </item>
+    <item>
+      <title>[Opportunity] Enrichissement du discours public à l'aide d'informations implicites et pertinentes manquantes en utilisant le TAL</title>
+      <link>https://theses.fr/s441634</link>
+      <guid isPermaLink="false">theses:s441634</guid>
+      <pubDate>Fri, 13 Nov 2026 00:00:00 +0000</pubDate>
+      <category>theses</category>
+      <description>Thèse en préparation — Informatique, données, IA. Direction : Oana Balalau. Laboratoire : Centre INRIA Saclay - Île-de-France</description>
+    </item>
+    <item>
+      <title>[Opportunity] Suivi dynamique des risques sur une flotte de moteurs : Algorithmes d'aide à la décision</title>
+      <link>https://theses.fr/s441970</link>
+      <guid isPermaLink="false">theses:s441970</guid>
+      <pubDate>Fri, 13 Nov 2026 00:00:00 +0000</pubDate>
+      <category>theses</category>
+      <description>Thèse en préparation — Mathématiques appliquées. Direction : M'hammed Sahnoun. Laboratoire : CESI LINEACT - Laboratoire d'Innovation Numérique</description>
+    </item>
+    <item>
+      <title>[Opportunity] Modélisation de la progression de la sclérose en plaques à partir de grandes bases de données d'historiques médicaux</title>
+      <link>https://theses.fr/s442377</link>
+      <guid isPermaLink="false">theses:s442377</guid>
+      <pubDate>Fri, 13 Nov 2026 00:00:00 +0000</pubDate>
+      <category>theses</category>
+      <description>Thèse en préparation — Sciences et technologies de l'information et de la communication. Direction : Stanley Durrleman, Emmanuelle Leray. Laboratoire : Institut du cerveau</description>
+    </item>
+    <item>
+      <title>[Opportunity] schémas de quasi-isométries</title>
+      <link>https://theses.fr/s442282</link>
+      <guid isPermaLink="false">theses:s442282</guid>
+      <pubDate>Fri, 13 Nov 2026 00:00:00 +0000</pubDate>
+      <category>theses</category>
+      <description>Thèse en préparation — Mathématiques. Direction : Lionel Vaux. Laboratoire : I2M - Institut de Mathématiques de Marseille</description>
+    </item>
+    <item>
+      <title>[Opportunity] Reconnaissance multimodale d'objets en vocabulaire ouvert par modèles de Vision-Langage</title>
+      <link>https://theses.fr/s443465</link>
+      <guid isPermaLink="false">theses:s443465</guid>
+      <pubDate>Fri, 13 Nov 2026 00:00:00 +0000</pubDate>
+      <category>theses</category>
+      <description>Thèse en préparation — Informatique, données, IA. Direction : Gianni Franchi, Benjamin Pannetier. Laboratoire : Agence Ministérielle pour l'IA de Défense</description>
+    </item>
+    <item>
+      <title>[Opportunity] IA de Confiance pour l'Aide à la Décision Clinique : Agents Augmentés par Graphes de Connaissances et Contrats Sémantiques</title>
+      <link>https://theses.fr/s440896</link>
+      <guid isPermaLink="false">theses:s440896</guid>
+      <pubDate>Fri, 13 Nov 2026 00:00:00 +0000</pubDate>
+      <category>theses</category>
+      <description>Thèse en préparation — Intelligence artificielle. Direction : Michel Salomon, Joseph Azar. Laboratoire : Franche Comté Electronique Mécanique Thermique et Optique - Sciences et Technologies</description>
+    </item>
+    <item>
+      <title>[Opportunity] Quantifier, commensurer, démocratiser les impacts écologiques et sociaux : étude des conditions, modalités et effets transformateurs des pratiques de double matérialité</title>
+      <link>https://theses.fr/s441377</link>
+      <guid isPermaLink="false">theses:s441377</guid>
+      <pubDate>Fri, 13 Nov 2026 00:00:00 +0000</pubDate>
+      <category>theses</category>
+      <description>Thèse en préparation — Management. Direction : Nicolas Balas. Laboratoire : Dauphine Recherches en Management</description>
+    </item>
+    <item>
+      <title>[Opportunity] Apprentissage des solutions HJB pour l'apprentissage par renforcement en temps continu</title>
+      <link>https://theses.fr/s441516</link>
+      <guid isPermaLink="false">theses:s441516</guid>
+      <pubDate>Fri, 13 Nov 2026 00:00:00 +0000</pubDate>
+      <category>theses</category>
+      <description>Thèse en préparation — Informatique. Direction : Matthieu Kowalski. Laboratoire : Laboratoire Interdisciplinaire des Sciences du Numérique</description>
+    </item>
+    <item>
+      <title>[Opportunity] Modèles asynchrones sensibles aux biais pour la dynamique des opinions dans les réseaux sociaux</title>
+      <link>https://theses.fr/s438947</link>
+      <guid isPermaLink="false">theses:s438947</guid>
+      <pubDate>Fri, 13 Nov 2026 00:00:00 +0000</pubDate>
+      <category>theses</category>
+      <description>Thèse en préparation — Informatique, données, IA. Direction : Frank Valencia. Laboratoire : LIX - Laboratoire d'informatique</description>
+    </item>
+    <item>
+      <title>[Opportunity] Comment les Enfants Acquièrent la Référence Contextuelle : Variabilité de l’Input et Développement de Représentations Abstraites</title>
+      <link>https://theses.fr/s444926</link>
+      <guid isPermaLink="false">theses:s444926</guid>
+      <pubDate>Fri, 13 Nov 2026 00:00:00 +0000</pubDate>
+      <category>theses</category>
+      <description>Thèse en préparation — Sciences du langage. Direction : Hamida Demirdache, Mora Maldonado. Laboratoire : LABORATOIRE DE LINGUISTIQUE DE NANTES</description>
+    </item>
+    <item>
+      <title>[Opportunity] Apprendre à briser le passé : approches neuronales de la cryptanalyse historique</title>
+      <link>https://theses.fr/s439606</link>
+      <guid isPermaLink="false">theses:s439606</guid>
+      <pubDate>Fri, 13 Nov 2026 00:00:00 +0000</pubDate>
+      <category>theses</category>
+      <description>Thèse en préparation — Informatique. Direction : Pierrick Gaudry. Laboratoire : LORIA - Laboratoire Lorrain de Recherche en Informatique et ses Applications</description>
+    </item>
+    <item>
+      <title>[Opportunity] Discours et représentations des produits sucrés à la fin du Moyen Âge (1350-1580) et depuis les années 2000 : deux périodes charnières en matière de prescriptions alimentaires</title>
+      <link>https://theses.fr/s438723</link>
+      <guid isPermaLink="false">theses:s438723</guid>
+      <pubDate>Fri, 13 Nov 2026 00:00:00 +0000</pubDate>
+      <category>theses</category>
+      <description>Thèse en préparation — Langue française. Direction : Géraldine Veysseyre. Laboratoire : Sens, texte, informatique, histoire</description>
+    </item>
+    <item>
+      <title>[Opportunity] Apprentissage de représentations hybrides, basées sur des modèles et les donées, pour la reconnaissance multimodale des émotions</title>
+      <link>https://theses.fr/s443428</link>
+      <guid isPermaLink="false">theses:s443428</guid>
+      <pubDate>Fri, 13 Nov 2026 00:00:00 +0000</pubDate>
+      <category>theses</category>
+      <description>Thèse en préparation — Sciences du traitement du signal et des images. Direction : Dro Désiré Sidibé. Laboratoire : IBISC - Informatique, BioInformatique, Systèmes Complexes</description>
+    </item>
+    <item>
+      <title>[Opportunity] Modélisation et génération sémantiquement informées des gestes co-verbaux à l'aide de modèles de langage multimodaux</title>
+      <link>https://theses.fr/s441302</link>
+      <guid isPermaLink="false">theses:s441302</guid>
+      <pubDate>Fri, 13 Nov 2026 00:00:00 +0000</pubDate>
+      <category>theses</category>
+      <description>Thèse en préparation — Informatique. Direction : Slim Ouni. Laboratoire : LORIA - Laboratoire Lorrain de Recherche en Informatique et ses Applications</description>
+    </item>
+    <item>
+      <title>[Opportunity] Analyse par intelligence artificielle des mécanismes articulatoires, cognitifs et moteurs dans la trisomie 21</title>
+      <link>https://theses.fr/s441201</link>
+      <guid isPermaLink="false">theses:s441201</guid>
+      <pubDate>Fri, 13 Nov 2026 00:00:00 +0000</pubDate>
+      <category>theses</category>
+      <description>Thèse en préparation — Informatique et applications. Direction : Mohamed Daoudi. Laboratoire : CRIStAL - Centre de Recherche en Informatique, Signal et Automatique de Lille</description>
+    </item>
+    <item>
+      <title>[Opportunity] DYSCUSSION (DYScours : Communication Universelle de Synthèse par la Science, l'Innovation et les Outils Numériques)</title>
+      <link>https://theses.fr/s445670</link>
+      <guid isPermaLink="false">theses:s445670</guid>
+      <pubDate>Fri, 13 Nov 2026 00:00:00 +0000</pubDate>
+      <category>theses</category>
+      <description>Thèse en préparation — Informatique-25DIN0. Direction : Catherine Huyghe, Gilles Dequen. Laboratoire : MIS - Unité de recherche Modélisation, Information et Systèmes</description>
+    </item>
+    <item>
+      <title>[Opportunity] Détection d'action pour la reconnaissance des interactions sociales.</title>
+      <link>https://theses.fr/s437915</link>
+      <guid isPermaLink="false">theses:s437915</guid>
+      <pubDate>Fri, 13 Nov 2026 00:00:00 +0000</pubDate>
+      <category>theses</category>
+      <description>Thèse en préparation — Automatique traitement du signal et des images. Direction : François Bremond. Laboratoire : Spatio-Temporal Activity Recognition Systems</description>
+    </item>
+    <item>
+      <title>[Opportunity] Modélisation macroscopique et contrôle des services de mobilité à la demande</title>
+      <link>https://theses.fr/s441764</link>
+      <guid isPermaLink="false">theses:s441764</guid>
+      <pubDate>Fri, 13 Nov 2026 00:00:00 +0000</pubDate>
+      <category>theses</category>
+      <description>Thèse en préparation — Automatique - Productique. Direction : Paolo Frasca. Laboratoire : Grenoble Images Parole Signal Automatique</description>
+    </item>
+    <item>
+      <title>[Opportunity] Etude des méthodes de ranking dans le classement des universités</title>
+      <link>https://theses.fr/s443235</link>
+      <guid isPermaLink="false">theses:s443235</guid>
+      <pubDate>Fri, 13 Nov 2026 00:00:00 +0000</pubDate>
+      <category>theses</category>
+      <description>Thèse en préparation — Informatique. Direction : Dritan Nace. Laboratoire : Heuristique et diagnostic des systèmes complexes</description>
+    </item>
+    <item>
+      <title>[Opportunity] Entre musique et psyché : caractérisation acoustique de la vocalité parentale, attachement et émergence de la symbolisation chez le bébé de 6 à 12 mois. Étude longitudinale au sein de la triade père  mère  bébé.</title>
+      <link>https://theses.fr/s441220</link>
+      <guid isPermaLink="false">theses:s441220</guid>
+      <pubDate>Fri, 13 Nov 2026 00:00:00 +0000</pubDate>
+      <category>theses</category>
+      <description>Thèse en préparation — Psychologie. Direction : Rose-Angélique Belot. Laboratoire : Laboratoire de Psychologie</description>
+    </item>
+    <item>
+      <title>[Opportunity] Pour un réseau lexical des noms de parenté du protoroman</title>
+      <link>https://theses.fr/s440514</link>
+      <guid isPermaLink="false">theses:s440514</guid>
+      <pubDate>Fri, 13 Nov 2026 00:00:00 +0000</pubDate>
+      <category>theses</category>
+      <description>Thèse en préparation — Sciences du langage. Direction : Éva Buchi. Laboratoire : ATILF - Analyse et Traitement Informatique de la Langue Française</description>
+    </item>
+    <item>
+      <title>[Opportunity] Compress, Amortize, Decompose : Efficient Long-Context Reasoning in Large Language Models</title>
+      <link>https://theses.fr/2026SORUS196</link>
+      <guid isPermaLink="false">theses:2026SORUS196</guid>
+      <pubDate>Fri, 13 Nov 2026 00:00:00 +0000</pubDate>
+      <category>theses</category>
+      <description>Thèse soutenue — Sciences et technologies de l'information et de la communication. Direction : Paolo Papotti, Olena Kushakovska. Laboratoire : Institut EURECOM (Sophia-Antipolis, Alpes-Maritimes ; 1992-....)</description>
+    </item>
+    <item>
+      <title>[Opportunity] La traduction de l'humour dans les bande dessinées Astérix et Les Aventures de Tintin en anglais et en japonais : analyse des stratégies de traduction</title>
+      <link>https://theses.fr/s439616</link>
+      <guid isPermaLink="false">theses:s439616</guid>
+      <pubDate>Fri, 13 Nov 2026 00:00:00 +0000</pubDate>
+      <category>theses</category>
+      <description>Thèse en préparation — Sciences du langage. Direction : Yvon Keromnes. Laboratoire : ATILF - Analyse et Traitement Informatique de la Langue Française</description>
+    </item>
+    <item>
+      <title>[Opportunity] L'apport des données dans l'analyse de la variation formelle en morphologie : une question de supplétion et d'allomorphie.</title>
+      <link>https://theses.fr/s439562</link>
+      <guid isPermaLink="false">theses:s439562</guid>
+      <pubDate>Fri, 13 Nov 2026 00:00:00 +0000</pubDate>
+      <category>theses</category>
+      <description>Thèse en préparation — Sciences du langage. Direction : Fiammetta Namer. Laboratoire : ATILF - Analyse et Traitement Informatique de la Langue Française</description>
+    </item>
+    <item>
+      <title>[Opportunity] The influence of identity and social norms on young adults' eating behaviors</title>
+      <link>https://theses.fr/2026UPSLP047</link>
+      <guid isPermaLink="false">theses:2026UPSLP047</guid>
+      <pubDate>Fri, 13 Nov 2026 00:00:00 +0000</pubDate>
+      <category>theses</category>
+      <description>Thèse soutenue — Sciences cognitives. Direction : Jéremie Lafraire. Laboratoire : Cognitions humaine et artificielle (Saint-Denis)</description>
+    </item>
+    <item>
+      <title>[Opportunity] Adaptation de modèles de langue frugaux et multimodaux pour l'acquisition des expressions polylexicales en langue seconde</title>
+      <link>https://theses.fr/s439705</link>
+      <guid isPermaLink="false">theses:s439705</guid>
+      <pubDate>Fri, 13 Nov 2026 00:00:00 +0000</pubDate>
+      <category>theses</category>
+      <description>Thèse en préparation — Sciences du langage. Direction : Mathieu Constant, Amalia Todirascu. Laboratoire : ATILF - Analyse et Traitement Informatique de la Langue Française</description>
+    </item>
+    <item>
+      <title>[Opportunity] Apprentissage efficace et adaptatif de petits modèles de langue</title>
+      <link>https://theses.fr/s439601</link>
+      <guid isPermaLink="false">theses:s439601</guid>
+      <pubDate>Fri, 13 Nov 2026 00:00:00 +0000</pubDate>
+      <category>theses</category>
+      <description>Thèse en préparation — Informatique. Direction : Sophie Rosset. Laboratoire : Laboratoire Interdisciplinaire des Sciences du Numérique</description>
+    </item>
+    <item>
+      <title>[Opportunity] Extraction d'arguments dans les publications scientifique</title>
+      <link>https://theses.fr/s437173</link>
+      <guid isPermaLink="false">theses:s437173</guid>
+      <pubDate>Fri, 13 Nov 2026 00:00:00 +0000</pubDate>
+      <category>theses</category>
+      <description>Thèse en préparation — Informatique. Direction : Elena Cabrio, Serena Villata. Laboratoire : I3S - Informatique, Signaux et Systèmes de Sophia-Antipolis</description>
+    </item>
+    <item>
+      <title>[Opportunity] Factualité des grands modèles de langue assistée par les bases de connaissances</title>
+      <link>https://theses.fr/s437769</link>
+      <guid isPermaLink="false">theses:s437769</guid>
+      <pubDate>Fri, 13 Nov 2026 00:00:00 +0000</pubDate>
+      <category>theses</category>
+      <description>Thèse en préparation — Informatique, données, IA. Direction : Fabian Suchanek. Laboratoire : Laboratoire de Traitement et Communication de l'Information</description>
+    </item>
+    <item>
+      <title>[Opportunity] Compréhension de la lecture dans le domaine clinique et biomédical</title>
+      <link>https://theses.fr/s439920</link>
+      <guid isPermaLink="false">theses:s439920</guid>
+      <pubDate>Fri, 13 Nov 2026 00:00:00 +0000</pubDate>
+      <category>theses</category>
+      <description>Thèse en préparation — Informatique. Direction : Sarah Cohen-boulakia. Laboratoire : Laboratoire Interdisciplinaire des Sciences du Numérique</description>
+    </item>
+    <item>
+      <title>[Opportunity] Résistance vaccinale : profils et discours et méthodes de dialogue</title>
+      <link>https://theses.fr/s438727</link>
+      <guid isPermaLink="false">theses:s438727</guid>
+      <pubDate>Fri, 13 Nov 2026 00:00:00 +0000</pubDate>
+      <category>theses</category>
+      <description>Thèse en préparation — Informatique pour les sciences humaines et sociales. Direction : Gérald Bronner. Laboratoire : Groupe d'étude des methodes de l'analyse sociologique de la Sorbonne</description>
     </item>
   </channel>
 </rss>
