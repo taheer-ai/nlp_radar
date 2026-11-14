@@ -106,6 +106,11 @@
   "lng": 5.9894,
   "label": "Université Marie-et-Louis-Pasteur"
  },
+ "binus university": {
+  "lat": -6.2289,
+  "lng": 106.7968,
+  "label": "Binus University"
+ },
  "bolzano/bozen, italy": {
   "lat": 46.499,
   "lng": 11.3121,
@@ -207,6 +212,7 @@
  "department of language teaching in medicine,  andijan branch of kokand university, uzbekistan": null,
  "department of neurosurgery, china-japan friendship hospital (institute of clinical medical sciences), chinese academy of medical sciences & peking union medical college, beijing 100029, china": null,
  "department of plant sciences, university of cambridge, uk": null,
+ "department of respiratory physiopathology, medical university of białystok, poland": null,
  "department of veterinary integrative data analytics, wageningen bioveterinary research, wageningen university & research, lelystad, the netherlands": null,
  "department of zoology, university of granada, granada, spain": null,
  "digital ether computing llc": null,
@@ -234,6 +240,7 @@
   "lng": 19.0619,
   "label": "Eötvös Loránd Tudományegyetem Bölcsészettudományi Kar"
  },
+ "first-year student,english filology faculty of uzbekistan  state world languages university": null,
  "flux-frontiers": null,
  "fukuoka, japan": {
   "lat": 33.6251,
@@ -249,6 +256,10 @@
   "lat": 46.2018,
   "lng": 6.1466,
   "label": "Genève"
+ },
+ "gh:boromat": {
+  "location": "Poland",
+  "name": "Mateusz Borowy"
  },
  "gh:cattmonkey": {
   "location": null,
@@ -270,6 +281,10 @@
   "location": "Ukraine",
   "name": "Leonidov Yevhen"
  },
+ "gh:miri-labs": {
+  "location": null,
+  "name": "Miri-Labs"
+ },
  "gh:nerverdevs": {
   "location": null,
   "name": "nerverdevs"
@@ -281,6 +296,10 @@
  "gh:ytjanmind": {
   "location": "Toulouse, France",
   "name": "Peter Brooks"
+ },
+ "gh:zaxiu88888": {
+  "location": null,
+  "name": "zx"
  },
  "goethe university frankfurt": {
   "lat": 50.1272,
@@ -322,11 +341,15 @@
   "lng": 8.6947,
   "label": "Heidelberg"
  },
+ "helmholtz centre for environmental research – ufz": null,
  "helmholtz institute erlangen-nürnberg": null,
  "helsinki": {
   "lat": 60.1666,
   "lng": 24.9435,
   "label": "Helsinki"
+ },
+ "hf:aavola": {
+  "fullname": "Aavola"
  },
  "hf:abhirajputnikku7": null,
  "hf:abhishekdelmundu": null,
@@ -360,6 +383,7 @@
  "hf:ankush13r": null,
  "hf:anonlion1": null,
  "hf:anotona-music": null,
+ "hf:anyautomation": null,
  "hf:aoiandroid": null,
  "hf:apjanco": null,
  "hf:arankays": null,
@@ -370,6 +394,7 @@
   "fullname": "Astroware Labs"
  },
  "hf:athaze": null,
+ "hf:atraq": null,
  "hf:atrezonator": null,
  "hf:augurybot": null,
  "hf:avericaai": {
@@ -403,6 +428,9 @@
  "hf:catalan258": null,
  "hf:ccop": null,
  "hf:chao0524": null,
+ "hf:chatrlabs": {
+  "fullname": "Chatr Labs"
+ },
  "hf:cis-lmu": {
   "fullname": "CIS, LMU Munich"
  },
@@ -444,6 +472,9 @@
  "hf:draconiticlabs": null,
  "hf:dsa1": null,
  "hf:ec5ug": null,
+ "hf:edge0": {
+  "fullname": "Edge0"
+ },
  "hf:edvv1n": null,
  "hf:egekocabas": null,
  "hf:ekanshbfoe": null,
@@ -535,9 +566,11 @@
  },
  "hf:itspeet": null,
  "hf:iukocha": null,
+ "hf:jackyb1234": null,
  "hf:jake-anto": null,
  "hf:janavivekariya": null,
  "hf:jbmkmbrlb": null,
+ "hf:jgalego": null,
  "hf:jhu-clsp": {
   "fullname": "Center for Language and Speech Processing @ JHU"
  },
@@ -573,6 +606,9 @@
  "hf:linguardia": null,
  "hf:lipik": {
   "fullname": "Lipik"
+ },
+ "hf:llamaindex": {
+  "fullname": "LlamaIndex"
  },
  "hf:lmaana": {
   "fullname": "Lmaana"
@@ -616,6 +652,7 @@
  "hf:mscoffeebeans": null,
  "hf:mubarak123456": null,
  "hf:mubarak2026s": null,
+ "hf:muntasirelagami": null,
  "hf:mykor": {
   "fullname": "My Korean Language Models"
  },
@@ -672,6 +709,7 @@
  },
  "hf:plutonupv": null,
  "hf:prachi-munda": null,
+ "hf:prithivmlmods": null,
  "hf:pyannote": {
   "fullname": "pyannote"
  },
@@ -687,6 +725,9 @@
   "fullname": "rifai"
  },
  "hf:robertbschuette": null,
+ "hf:ropedia-ai": {
+  "fullname": "Ropedia"
+ },
  "hf:rosany": null,
  "hf:rozabel": null,
  "hf:rshoemake": null,
@@ -832,6 +873,16 @@
   "lng": 20.9028,
   "label": "Ιόνιο Πανεπιστήμιο - Ζάκυνθος"
  },
+ "istanbul": {
+  "lat": 41.0064,
+  "lng": 28.9759,
+  "label": "Istanbul"
+ },
+ "istanbul technical university": {
+  "lat": 41.1046,
+  "lng": 29.0263,
+  "label": "Université technique d’Istanbul"
+ },
  "korea railroad research institute": null,
  "kraków": {
   "lat": 50.0619,
@@ -855,6 +906,11 @@
   "lat": 45.8354,
   "lng": 1.2645,
   "label": "Limoges"
+ },
+ "lincoln university": {
+  "lat": 39.8066,
+  "lng": -75.9287,
+  "label": "Lincoln University"
  },
  "lisboa": {
   "lat": 38.7078,
@@ -890,6 +946,11 @@
   "lat": 45.7822,
   "lng": 4.877,
   "label": "INSA"
+ },
+ "macau university of science and technology": {
+  "lat": 22.1526,
+  "lng": 113.568,
+  "label": "澳門科技大學 Universidade de Ciência e Tecnologia de Macau"
  },
  "macau, china": {
   "lat": 22.1758,
@@ -1005,6 +1066,11 @@
   "lng": -80.0026,
   "label": "Pittsburgh"
  },
+ "poland": {
+  "lat": 52.2159,
+  "lng": 19.1344,
+  "label": "Pologne"
+ },
  "porto, portugal": {
   "lat": 41.1502,
   "lng": -8.6103,
@@ -1055,6 +1121,11 @@
   "lat": 47.6038,
   "lng": -122.3301,
   "label": "Seattle"
+ },
+ "shanghai maritime university": {
+  "lat": 30.877,
+  "lng": 121.9002,
+  "label": "上海海事大学（临港校区）"
  },
  "skopje, north macedonia": {
   "lat": 41.9962,
@@ -1456,6 +1527,7 @@
  "wd:utafitionline.com": null,
  "wd:wuwr.pl": null,
  "wd:ziglobitha.org": null,
+ "wdn:aavola": null,
  "wdn:aeryx ai": null,
  "wdn:afrispeech": null,
  "wdn:ai at meta": null,
@@ -1481,6 +1553,7 @@
  },
  "wdn:center for language and speech processing jhu": null,
  "wdn:chair of data science university of passau": null,
+ "wdn:chatr labs": null,
  "wdn:cis lmu munich": null,
  "wdn:cluesurf": null,
  "wdn:cognitive machine learning ens": null,
@@ -1489,6 +1562,7 @@
  "wdn:datoric": null,
  "wdn:dendrite holdings": null,
  "wdn:diction labs": null,
+ "wdn:edge0": null,
  "wdn:epfl machine learning and optimization laboratory": null,
  "wdn:espnet": null,
  "wdn:finedata": null,
@@ -1517,6 +1591,7 @@
   "region": "Croatie",
   "geo_source": "Wikidata · Lipik"
  },
+ "wdn:llamaindex": null,
  "wdn:lmaana": null,
  "wdn:maliba ai": null,
  "wdn:mashbox labs": null,
@@ -1544,6 +1619,7 @@
  "wdn:pyannote": null,
  "wdn:red hat ai": null,
  "wdn:rifai": null,
+ "wdn:ropedia": null,
  "wdn:shunya labs": null,
  "wdn:since ai": null,
  "wdn:small models for glam": null,
@@ -1578,11 +1654,13 @@
  "wdn:windstorm labs": null,
  "wdn:world cuisines": null,
  "wdn:zarnite": null,
+ "worldly knowledge publishing centre": null,
  "xi'an, china": {
   "lat": 34.261,
   "lng": 108.9423,
   "label": "Xi'an"
  },
+ "xuzhou central hospital, affiliated hospital of southeast university": null,
  "zhejiang university": {
   "lat": 30.5216,
   "lng": 120.7195,
