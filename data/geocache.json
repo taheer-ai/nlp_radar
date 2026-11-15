@@ -55,6 +55,7 @@
   "lng": -122.1884,
   "label": "Artois"
  },
+ "associate professor, department of computer engineering, faculty of artificial intelligence and digital technologies, andijan state university; phd in technical sciences": null,
  "athens, greece": {
   "lat": 37.9756,
   "lng": 23.7348,
@@ -95,7 +96,17 @@
   "lng": 2.1164,
   "label": "Barcelona Supercomputing Center"
  },
+ "basel": {
+  "lat": 47.5581,
+  "lng": 7.5878,
+  "label": "Bâle"
+ },
  "basque centre for climate change": null,
+ "bellinzona": {
+  "lat": 46.1921,
+  "lng": 9.0206,
+  "label": "Bellinzone"
+ },
  "bergamo - italy": {
   "lat": 45.7567,
   "lng": 9.7542,
@@ -131,6 +142,11 @@
   "lng": 51.439,
   "label": "Carnegie Mellon University in Qatar"
  },
+ "chalmers university of technology, se-412 96 gothenburg, sweden": {
+  "lat": 57.6897,
+  "lng": 11.9765,
+  "label": "Chalmers Tekniska Högskola"
+ },
  "charité - universitätsmedizin berlin": {
   "lat": 52.53,
   "lng": 13.3487,
@@ -146,6 +162,7 @@
   "lng": -82.8374,
   "label": "Clemson University"
  },
+ "college of computer engineering, university of technology-iraq, baghdad, iraq": null,
  "compiègne": {
   "lat": 49.4179,
   "lng": 2.8263,
@@ -207,10 +224,12 @@
   "label": "CY Cergy Paris Université - Les Chênes"
  },
  "department of chemistry and biochemistry, university of california san diego": null,
+ "department of civil and environmental engineering, monash university": null,
  "department of data science, cheongju university, cheongju, republic of korea": null,
  "department of ecology, faculty of science, charles university, prague, czechia; institute of microbiology of the czech academy of sciences, prague, czechia": null,
  "department of language teaching in medicine,  andijan branch of kokand university, uzbekistan": null,
  "department of neurosurgery, china-japan friendship hospital (institute of clinical medical sciences), chinese academy of medical sciences & peking union medical college, beijing 100029, china": null,
+ "department of orthopedics, xuzhou central hospital, affiliated hospital of southeast university, xuzhou, jiangsu 221000, china; xuzhou medical university clinical college, xuzhou, jiangsu 221000, china": null,
  "department of plant sciences, university of cambridge, uk": null,
  "department of respiratory physiopathology, medical university of białystok, poland": null,
  "department of veterinary integrative data analytics, wageningen bioveterinary research, wageningen university & research, lelystad, the netherlands": null,
@@ -227,6 +246,11 @@
   "lat": 55.9533,
   "lng": -3.1884,
   "label": "Édimbourg"
+ },
+ "effat university": {
+  "lat": 21.4785,
+  "lng": 39.2114,
+  "label": "جامعة عفت"
  },
  "english language teacher, university of economics and pedagogy  (samarkand campus)": null,
  "european commission, joint research centre, ispra, italy": null,
@@ -273,6 +297,10 @@
   "location": "Armenia",
   "name": "Hyperion AI"
  },
+ "gh:igniaemage": {
+  "location": "Lyon, France",
+  "name": "Finn Jacobs"
+ },
  "gh:imraywang": {
   "location": "on earch",
   "name": "Ray Wang"
@@ -292,6 +320,66 @@
  "gh:suyashkumar05": {
   "location": null,
   "name": "suyashkumar05"
+ },
+ "gh:taboospecialistblade": {
+  "location": null,
+  "name": "taboospecialistblade"
+ },
+ "gh:titanshieldravine": {
+  "location": null,
+  "name": "titanshieldravine"
+ },
+ "gh:tonephorepair": {
+  "location": null,
+  "name": "tonephorepair"
+ },
+ "gh:topapothecarycanal": {
+  "location": null,
+  "name": "topapothecarycanal"
+ },
+ "gh:topconstableinlet67": {
+  "location": null,
+  "name": "topconstableinlet67"
+ },
+ "gh:topkiflare74": {
+  "location": null,
+  "name": "topkiflare74"
+ },
+ "gh:toppatronweave": {
+  "location": null,
+  "name": "toppatronweave"
+ },
+ "gh:tornadonovicewhirl40": {
+  "location": null,
+  "name": "tornadonovicewhirl40"
+ },
+ "gh:torusdrasocket": {
+  "location": null,
+  "name": "torusdrasocket"
+ },
+ "gh:trackboatwrightplan": {
+  "location": null,
+  "name": "trackboatwrightplan"
+ },
+ "gh:trackersnailgrip": {
+  "location": null,
+  "name": "trackersnailgrip"
+ },
+ "gh:trapbladesmith": {
+  "location": null,
+  "name": "trapbladesmith"
+ },
+ "gh:tremorrattackle": {
+  "location": null,
+  "name": "tremorrattackle"
+ },
+ "gh:ultimateakiln": {
+  "location": null,
+  "name": "ultimateakiln"
+ },
+ "gh:violetkomodolimit": {
+  "location": null,
+  "name": "violetkomodolimit"
  },
  "gh:ytjanmind": {
   "location": "Toulouse, France",
@@ -353,6 +441,7 @@
  },
  "hf:abhirajputnikku7": null,
  "hf:abhishekdelmundu": null,
+ "hf:abiray": null,
  "hf:abu-dju": null,
  "hf:adegier": null,
  "hf:adithyanai": null,
@@ -369,6 +458,7 @@
  "hf:ajmcclary": null,
  "hf:akpsahan": null,
  "hf:akynovaaigul": null,
+ "hf:alejandro-rodriguez": null,
  "hf:aletheiaaing": {
   "fullname": "Aletheia AI"
  },
@@ -393,6 +483,7 @@
  "hf:astroware": {
   "fullname": "Astroware Labs"
  },
+ "hf:atelasi": null,
  "hf:athaze": null,
  "hf:atraq": null,
  "hf:atrezonator": null,
@@ -438,6 +529,7 @@
  "hf:cluesurf": {
   "fullname": "ClueSurf"
  },
+ "hf:coder543": null,
  "hf:cointegrated": null,
  "hf:collectionstudio": null,
  "hf:coml": {
@@ -522,6 +614,7 @@
  "hf:guardion": {
   "fullname": "guardion"
  },
+ "hf:hauhaucs": null,
  "hf:hbb-community": {
   "fullname": "HBB Community"
  },
@@ -546,6 +639,7 @@
  "hf:huggingfacefw": {
   "fullname": "FineData"
  },
+ "hf:hunter123": null,
  "hf:hyuki5": null,
  "hf:ikatrik": null,
  "hf:imsidag-community": {
@@ -586,6 +680,7 @@
   "fullname": "JSCreatorPro Pte. Ltd."
  },
  "hf:justmeeandy": null,
+ "hf:kaitemoreau": null,
  "hf:kataguru": null,
  "hf:katmarie": null,
  "hf:kefranabg": null,
@@ -617,6 +712,9 @@
  "hf:lopatnov": null,
  "hf:maanka2": null,
  "hf:mabus46": null,
+ "hf:macepic": {
+  "fullname": "MacEpic"
+ },
  "hf:madurox": null,
  "hf:mahesh27": null,
  "hf:maigonis": null,
@@ -656,6 +754,7 @@
  "hf:mykor": {
   "fullname": "My Korean Language Models"
  },
+ "hf:nahcmon": null,
  "hf:nailyk14": null,
  "hf:neuronix12314585": null,
  "hf:neweret": null,
@@ -701,6 +800,9 @@
  },
  "hf:pcq8848": null,
  "hf:phase-technologies": null,
+ "hf:phoonnx": {
+  "fullname": "Phoonnx"
+ },
  "hf:physicalai-bmi": {
   "fullname": "Institute for Physical AI @ BMI"
  },
@@ -724,6 +826,7 @@
  "hf:rifailabs": {
   "fullname": "rifai"
  },
+ "hf:rigau": null,
  "hf:robertbschuette": null,
  "hf:ropedia-ai": {
   "fullname": "Ropedia"
@@ -734,6 +837,9 @@
  "hf:rudrakshrakeshzodage": null,
  "hf:ryusei-46": null,
  "hf:salahuddin1234": null,
+ "hf:salt-nlp": {
+  "fullname": "Social And Language Technology Lab"
+ },
  "hf:sdobson": null,
  "hf:sepidmnorozy": null,
  "hf:serotoninboi": null,
@@ -821,6 +927,9 @@
  },
  "hf:vimal082": null,
  "hf:vnahata": null,
+ "hf:voiceforever": {
+  "fullname": "VoiceForever.org"
+ },
  "hf:voiceunlimited": null,
  "hf:vongocanhthi": null,
  "hf:vonjack": null,
@@ -828,12 +937,14 @@
  "hf:walydevelopers": null,
  "hf:wannaphong": null,
  "hf:warttren": null,
+ "hf:wiamai": null,
  "hf:wikilangs": {
   "fullname": "Wikilangs"
  },
  "hf:wikimedia": {
   "fullname": "Wikimedia"
  },
+ "hf:williiii": null,
  "hf:windstormlabs": {
   "fullname": "Windstorm Labs"
  },
@@ -896,6 +1007,11 @@
  },
  "laboratori de botànica – unitat associada csic. facultat de farmàcia i ciències de l'alimentació. institut de recerca de la biodiversitat. universitat de barcelona. av. joan xxiii, 27-31. 08028 barcelona, catalonia": null,
  "language technologies institute, cmu": null,
+ "lausanne": {
+  "lat": 46.5218,
+  "lng": 6.6327,
+  "label": "Lausanne"
+ },
  "leeuwarden": {
   "lat": 53.2006,
   "lng": 5.7919,
@@ -932,6 +1048,11 @@
   "lng": -0.1278,
   "label": "Grand Londres"
  },
+ "lugano": {
+  "lat": 46.0038,
+  "lng": 8.9512,
+  "label": "Lugano"
+ },
  "lyon 1": {
   "lat": 33.608,
   "lng": -117.8301,
@@ -941,6 +1062,11 @@
   "lat": 45.776,
   "lng": 4.835,
   "label": "Milpa"
+ },
+ "lyon, france": {
+  "lat": 45.7578,
+  "lng": 4.832,
+  "label": "Lyon"
  },
  "lyon, insa": {
   "lat": 45.7822,
@@ -963,7 +1089,17 @@
   "label": "Grosvenor West"
  },
  "metacognition institute": null,
+ "michigan technological university": {
+  "lat": 47.1097,
+  "lng": -88.5494,
+  "label": "Michigan Technological University"
+ },
  "mila - université de montréal": null,
+ "mines saint-étienne": {
+  "lat": 45.4222,
+  "lng": 4.4085,
+  "label": "École Nationale Supérieure des Mines"
+ },
  "ministry of education": {
   "lat": 25.0425,
   "lng": 121.5192,
@@ -1162,11 +1298,17 @@
   "lng": 151.2083,
   "label": "Sydney"
  },
+ "széchenyi istván university": {
+  "lat": 47.6942,
+  "lng": 17.6274,
+  "label": "Széchenyi István Egyetem"
+ },
  "taras shevchenko national university of kyiv": {
   "lat": 50.3842,
   "lng": 30.4743,
   "label": "Université nationale Taras-Chevtchenko de Kiev"
  },
+ "tashkent state university of law, department of foreign languages, associate professor (phd).": null,
  "teacher, philology, turan international university, namangan, uzbekistan": null,
  "termez state university, uzbekistan": {
   "lat": 37.2397,
@@ -1220,6 +1362,7 @@
   "lng": 31.2718,
   "label": "Ukraine"
  },
+ "unesco chair in digital culture and arts in education (ucdcae), friedrich-alexander-universität erlangen-nürnberg": null,
  "unikl business school, universiti kuala lumpur, kuala lumpur, malaysia": null,
  "united arab emirates": {
   "lat": 24.0002,
@@ -1277,6 +1420,11 @@
   "lng": -3.921,
   "label": "Escuela de Magisterio"
  },
+ "university of illinois urbana-champaign": {
+  "lat": 40.0762,
+  "lng": -88.2233,
+  "label": "University of Illinois Urbana-Champaign"
+ },
  "university of konstanz": {
   "lat": 47.69,
   "lng": 9.1883,
@@ -1312,6 +1460,7 @@
   "lng": -2.0108,
   "label": "Euskal Herriko Unibertsitatea, Ibaeta Campusa"
  },
+ "university of the thai chamber of commerce": null,
  "university of virginia": {
   "lat": 38.0411,
   "lng": -78.5055,
@@ -1593,6 +1742,7 @@
  },
  "wdn:llamaindex": null,
  "wdn:lmaana": null,
+ "wdn:macepic": null,
  "wdn:maliba ai": null,
  "wdn:mashbox labs": null,
  "wdn:matterwaveai": null,
@@ -1615,6 +1765,7 @@
  "wdn:organisation participant 27": null,
  "wdn:orphera ai": null,
  "wdn:pauhu ai": null,
+ "wdn:phoonnx": null,
  "wdn:pozdnekov labs": null,
  "wdn:pyannote": null,
  "wdn:red hat ai": null,
@@ -1623,6 +1774,7 @@
  "wdn:shunya labs": null,
  "wdn:since ai": null,
  "wdn:small models for glam": null,
+ "wdn:social and language technology lab": null,
  "wdn:speakleash spichlerz": null,
  "wdn:sunbird ai": {
   "lat": 35.5311,
@@ -1649,6 +1801,7 @@
   "region": "Maroc",
   "geo_source": "Wikidata · Vext"
  },
+ "wdn:voiceforever org": null,
  "wdn:wikilangs": null,
  "wdn:wikimedia": null,
  "wdn:windstorm labs": null,
@@ -1665,6 +1818,11 @@
   "lat": 30.5216,
   "lng": 120.7195,
   "label": "浙江大学（海宁校区）"
+ },
+ "zurich": {
+  "lat": 47.3744,
+  "lng": 8.541,
+  "label": "Zurich"
  },
  "école polytechnique fédérale de lausanne": {
   "lat": 46.5187,
