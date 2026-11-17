@@ -138,6 +138,7 @@
   "lng": -0.58,
   "label": "Bordeaux"
  },
+ "british association of sport and exercise medicine": null,
  "cambridge, ma": {
   "lat": 42.3656,
   "lng": -71.104,
@@ -153,6 +154,7 @@
   "lng": 51.439,
   "label": "Carnegie Mellon University in Qatar"
  },
+ "centre hospitalier universitaire de reims": null,
  "chalmers university of technology": {
   "lat": 57.6897,
   "lng": 11.9765,
@@ -183,6 +185,7 @@
   "lng": -82.8374,
   "label": "Clemson University"
  },
+ "college of civil aviation, nanjing university of aeronautics and astronautics": null,
  "college of computer engineering, university of technology-iraq, baghdad, iraq": null,
  "college of media and communication, texas tech university": null,
  "compiègne": {
@@ -292,6 +295,11 @@
   "lng": 19.0619,
   "label": "Eötvös Loránd Tudományegyetem Bölcsészettudományi Kar"
  },
+ "faculty of economics and business administration": {
+  "lat": 42.673,
+  "lng": 23.364,
+  "label": "Стопански факултет"
+ },
  "first-year student,english filology faculty of uzbekistan  state world languages university": null,
  "flux-frontiers": null,
  "france": {
@@ -394,6 +402,10 @@
  "gh:cxcscmu": {
   "location": null,
   "name": "cxcscmu"
+ },
+ "gh:davimatosms": {
+  "location": "SP",
+  "name": "Davi Matos"
  },
  "gh:dilrabonu": {
   "location": "Uzbekistan",
@@ -563,13 +575,25 @@
   "location": null,
   "name": "suyashkumar05"
  },
+ "gh:sybil-solutions": {
+  "location": "United States of America",
+  "name": "Sybil Solutions"
+ },
  "gh:taboospecialistblade": {
   "location": null,
   "name": "taboospecialistblade"
  },
+ "gh:tejedabrayan024-ship-it": {
+  "location": null,
+  "name": "tejedabrayan024-ship-it"
+ },
  "gh:third-intelligence": {
   "location": null,
   "name": "third-intelligence"
+ },
+ "gh:tiger-ai-lab": {
+  "location": "Canada",
+  "name": "TIGER Lab"
  },
  "gh:timoncool": {
   "location": null,
@@ -744,6 +768,7 @@
   "lng": 24.9435,
   "label": "Helsinki"
  },
+ "hf:0best": null,
  "hf:aavola": {
   "fullname": "Aavola"
  },
@@ -778,10 +803,12 @@
  "hf:aioxlabs": {
   "fullname": "AIOX Labs"
  },
+ "hf:aj-gonzalez": null,
  "hf:ajescandon": null,
  "hf:ajesujoba": null,
  "hf:ajmcclary": null,
  "hf:akashpb13": null,
+ "hf:akhaliq": null,
  "hf:akhzam-775": null,
  "hf:akpsahan": null,
  "hf:akynovaaigul": null,
@@ -791,6 +818,9 @@
   "fullname": "Aletheia AI"
  },
  "hf:alexdimmock": null,
+ "hf:algerian-nlp": {
+  "fullname": "Algerian NLP Collective"
+ },
  "hf:aliabdo": null,
  "hf:aliados": null,
  "hf:alielmrh": null,
@@ -809,6 +839,7 @@
  "hf:amitness": null,
  "hf:anas0079": null,
  "hf:andrea86": null,
+ "hf:andrewarkadie21": null,
  "hf:angais": null,
  "hf:anirdari": null,
  "hf:ankush13r": null,
@@ -1122,6 +1153,7 @@
  "hf:iukocha": null,
  "hf:iv-ayman": null,
  "hf:jackyb1234": null,
+ "hf:jadermcs": null,
  "hf:jake-anto": null,
  "hf:jamalinu": null,
  "hf:janavivekariya": null,
@@ -1163,6 +1195,9 @@
  "hf:kirilldual0987": null,
  "hf:kirillfpv": null,
  "hf:kmerakeb": null,
+ "hf:kormo-vl": {
+  "fullname": "KORMo-VL"
+ },
  "hf:korosh405": null,
  "hf:krynexlabs": null,
  "hf:kushan1232222": null,
@@ -1172,6 +1207,9 @@
   "fullname": "LAION eV"
  },
  "hf:lambfool15": null,
+ "hf:langtech-innovation": {
+  "fullname": "AI Institute Applied Intelligence"
+ },
  "hf:langtech-mt": {
   "fullname": "LangTech Machine Translation"
  },
@@ -1197,6 +1235,7 @@
  "hf:lodrick-the-lafted": null,
  "hf:lopatnov": null,
  "hf:luca-949": null,
+ "hf:lucasgitguy-co": null,
  "hf:luispoveda93": null,
  "hf:lyra13": null,
  "hf:ma321as": null,
@@ -1225,6 +1264,9 @@
   "fullname": "MatterWaveAI"
  },
  "hf:mattkent": null,
+ "hf:maxwell-model": {
+  "fullname": "maxwell-model"
+ },
  "hf:maziyarpanahi": null,
  "hf:mbar0075": null,
  "hf:megatranscribe": null,
@@ -1250,6 +1292,9 @@
  },
  "hf:modrill": null,
  "hf:mohamedsaousaou": null,
+ "hf:moonmath-ai": {
+  "fullname": "MoonMath.ai"
+ },
  "hf:morethought": null,
  "hf:morocco-mitnra-labs": {
   "fullname": "Ministère de l'IA, de la Transformation Numérique et de la Réforme de l'Administration"
@@ -1257,6 +1302,7 @@
  "hf:mosessss": null,
  "hf:mpoli": null,
  "hf:mradermacher": null,
+ "hf:mrsoundmind": null,
  "hf:mscoffeebeans": null,
  "hf:mubarak123456": null,
  "hf:mubarak2026s": null,
@@ -1268,6 +1314,7 @@
   "fullname": "My Korean Language Models"
  },
  "hf:nadineai1": null,
+ "hf:nadiva1243": null,
  "hf:nahcmon": null,
  "hf:nailyk14": null,
  "hf:narinari3": null,
@@ -1484,6 +1531,7 @@
  "hf:tomaszki": null,
  "hf:topherau": null,
  "hf:torkovweryyy": null,
+ "hf:touati-kamel": null,
  "hf:translated": {
   "fullname": "Translated"
  },
@@ -1535,6 +1583,7 @@
  "hf:votepurchase": null,
  "hf:vpozza": null,
  "hf:vyber07": null,
+ "hf:vyrekai": null,
  "hf:walydevelopers": null,
  "hf:wannaphong": null,
  "hf:warttren": null,
@@ -1560,6 +1609,7 @@
  "hf:xezpeleta": null,
  "hf:xiaoxiaodong1": null,
  "hf:xix3r": null,
+ "hf:xtools-at": null,
  "hf:yama01tgt665": null,
  "hf:yosef0h4": null,
  "hf:yrrhall": null,
@@ -1584,6 +1634,8 @@
   "label": "Ikerbasque"
  },
  "independent researcher": null,
+ "independent researcher in linguistics and translation studies": null,
+ "independent researcher in linguistics mumbai, india": null,
  "independent researcher, brno, czech republic": null,
  "institució catalana de recerca i estudis avançats": null,
  "institut polytechnique de paris": {
@@ -1593,6 +1645,7 @@
  },
  "institute for chemical research, kyoto university, uji, kyoto 611-0011, japan": null,
  "institute of humanities, sungkyunkwan university": null,
+ "instituto universitario de investigación en lingüística aplicada, universidad de cádiz": null,
  "ionian university": {
   "lat": 37.7659,
   "lng": 20.9028,
@@ -1618,6 +1671,11 @@
   "lng": 139.2394,
   "label": "Japon"
  },
+ "jeonbuk national university": {
+  "lat": 35.8467,
+  "lng": 127.1337,
+  "label": "전북대학교 전주캠퍼스"
+ },
  "kangwon national university": {
   "lat": 37.8673,
   "lng": 127.7447,
@@ -1642,6 +1700,7 @@
  "kuwait university; cairo university": null,
  "laboratori de botànica – unitat associada csic. facultat de farmàcia i ciències de l'alimentació. institut de recerca de la biodiversitat. universitat de barcelona. av. joan xxiii, 27-31. 08028 barcelona, catalonia": null,
  "language technologies institute, cmu": null,
+ "lappeenranta-lahti university of technology": null,
  "lausanne": {
   "lat": 46.5218,
   "lng": 6.6327,
@@ -1775,6 +1834,11 @@
   "lng": -79.0386,
   "label": "Universidad Nacional de Trujillo"
  },
+ "netherlands": {
+  "lat": 52.2435,
+  "lng": 5.6343,
+  "label": "Pays-Bas"
+ },
  "normandie": {
   "lat": 49.0678,
   "lng": 0.3139,
@@ -1832,6 +1896,7 @@
   "lng": 100.2559,
   "label": "Penang"
  },
+ "philological researcher, phd.": null,
  "pisa": {
   "lat": 43.4715,
   "lng": 10.6798,
@@ -1847,6 +1912,7 @@
   "lng": 19.1344,
   "label": "Pologne"
  },
+ "pontifícia universidade católica do rio grande do sul (pucrs)": null,
  "porto, portugal": {
   "lat": 41.1502,
   "lng": -8.6103,
@@ -1908,6 +1974,7 @@
   "lng": -122.3301,
   "label": "Seattle"
  },
+ "senior lecturer, uzbekistan state university  of physical education and sport": null,
  "shanghai maritime university": {
   "lat": 30.877,
   "lng": 121.9002,
@@ -1948,6 +2015,11 @@
   "lat": 37.7083,
   "lng": -89.2276,
   "label": "Southern Illinois University Carbondale"
+ },
+ "sp": {
+  "lat": -22.0703,
+  "lng": -48.4334,
+  "label": "São Paulo"
  },
  "spain": {
   "lat": 39.3261,
@@ -2016,6 +2088,11 @@
   "lng": -106.5079,
   "label": "The University of Texas at El Paso"
  },
+ "tianjin university": {
+  "lat": 38.9969,
+  "lng": 117.3063,
+  "label": "天津大学（北洋园校区）"
+ },
  "tib - leibniz information centre for science and technology": null,
  "tohoku university": {
   "lat": 38.2542,
@@ -2052,6 +2129,11 @@
   "lng": 0.6889,
   "label": "Tours"
  },
+ "trinity college dublin": {
+  "lat": 53.3437,
+  "lng": -6.2544,
+  "label": "Trinity College Dublin"
+ },
  "télétravail · usa, canada, usa timezones": null,
  "tübingen": {
   "lat": 48.5203,
@@ -2063,6 +2145,7 @@
   "lng": 35.2317,
   "label": "Turquie"
  },
+ "uit the arctic university of norway": null,
  "ukraine": {
   "lat": 49.4872,
   "lng": 31.2718,
@@ -2084,6 +2167,12 @@
   "lat": 39.7837,
   "lng": -100.4459,
   "label": "États-Unis d'Amérique"
+ },
+ "universidad andrés bello; chilean navy": null,
+ "universidad de la laguna": {
+  "lat": 25.5768,
+  "lng": -103.4293,
+  "label": "Universidad de La Laguna"
  },
  "universidad de los andes": {
   "lat": 4.6014,
@@ -2176,6 +2265,7 @@
   "lng": -83.2319,
   "label": "University of Michigan-Dearborn"
  },
+ "university of neuchâtel": null,
  "university of north texas": {
   "lat": 33.2099,
   "lng": -97.1515,
@@ -2190,6 +2280,11 @@
   "lat": 45.1869,
   "lng": 9.1569,
   "label": "Università degli Studi di Pavia"
+ },
+ "university of rostock": {
+  "lat": 54.0936,
+  "lng": 12.106,
+  "label": "CBS University of Applied Sciences"
  },
  "university of salamanca": {
   "lat": 18.4017,
@@ -2243,6 +2338,11 @@
   "lng": 3.8701,
   "label": "Université de Montpellier Paul-Valéry"
  },
+ "université de reims champagne-ardenne": {
+  "lat": 49.252,
+  "lng": 4.0374,
+  "label": "Rue de l'Université"
+ },
  "université de rennes (2023-....)": {
   "lat": 48.1183,
   "lng": -1.6418,
@@ -2295,6 +2395,11 @@
   "label": "Varna"
  },
  "venice": {
+  "lat": 45.4372,
+  "lng": 12.3346,
+  "label": "Venise"
+ },
+ "venice, italy": {
   "lat": 45.4372,
   "lng": 12.3346,
   "label": "Venise"
@@ -2446,8 +2551,10 @@
  "wdn:aeryx ai": null,
  "wdn:afrispeech": null,
  "wdn:ai at meta": null,
+ "wdn:ai institute applied intelligence": null,
  "wdn:aiox labs": null,
  "wdn:aletheia ai": null,
+ "wdn:algerian nlp collective": null,
  "wdn:allinsama": null,
  "wdn:almanach inria": null,
  "wdn:alphaedgeai": null,
@@ -2525,6 +2632,7 @@
  "wdn:institute of foundation models": null,
  "wdn:ist austria distributed algorithms and systems lab": null,
  "wdn:jscreatorpro pte ltd": null,
+ "wdn:kormo vl": null,
  "wdn:laion ev": null,
  "wdn:langtech machine translation": null,
  "wdn:language technologies laboratory barcelona supercomputing center": null,
@@ -2543,9 +2651,11 @@
  "wdn:maltese language resource server": null,
  "wdn:mashbox labs": null,
  "wdn:matterwaveai": null,
+ "wdn:maxwell model": null,
  "wdn:minish": null,
  "wdn:minist re de l ia de la transformation num rique et de la r forme de l administration": null,
  "wdn:mistral": null,
+ "wdn:moonmath ai": null,
  "wdn:multisynt": null,
  "wdn:my korean language models": null,
  "wdn:nlp ai korea university": null,
@@ -2636,7 +2746,17 @@
   "lng": 120.7195,
   "label": "浙江大学（海宁校区）"
  },
+ "zug": {
+  "lat": 47.1486,
+  "lng": 8.5539,
+  "label": "Zoug"
+ },
  "zurich": {
+  "lat": 47.3744,
+  "lng": 8.541,
+  "label": "Zurich"
+ },
+ "zurich, switzerland": {
   "lat": 47.3744,
   "lng": 8.541,
   "label": "Zurich"
