@@ -1,4 +1,5 @@
 {
+ "9th-grade student at wisdom school": null,
  "@icra": {
   "lat": 41.9274,
   "lng": 2.2529,
@@ -312,6 +313,11 @@
   "lng": 130.618,
   "label": "Préfecture de Fukuoka"
  },
+ "fundação getulio vargas": {
+  "lat": -23.5599,
+  "lng": -46.6535,
+  "label": "Fundação Getulio Vargas"
+ },
  "gdańsk, poland": {
   "lat": 54.3483,
   "lng": 18.654,
@@ -535,6 +541,10 @@
   "location": null,
   "name": "Pivis"
  },
+ "gh:prishaakumar": {
+  "location": null,
+  "name": "prishaakumar"
+ },
  "gh:runanywhereai": {
   "location": "United States of America",
   "name": "RunAnywhere"
@@ -756,6 +766,11 @@
   "lng": 126.8388,
   "label": "ERICA GUEST HOUSE at Hanyang university"
  },
+ "hec montréal": {
+  "lat": 45.5028,
+  "lng": -73.5646,
+  "label": "École des Hautes études commerciales"
+ },
  "heidelberg": {
   "lat": 49.4094,
   "lng": 8.6947,
@@ -769,6 +784,9 @@
   "label": "Helsinki"
  },
  "hf:0best": null,
+ "hf:3dcodeverse": {
+  "fullname": "3dcodeverse"
+ },
  "hf:aavola": {
   "fullname": "Aavola"
  },
@@ -810,6 +828,7 @@
  "hf:akashpb13": null,
  "hf:akhaliq": null,
  "hf:akhzam-775": null,
+ "hf:akoksal": null,
  "hf:akpsahan": null,
  "hf:akynovaaigul": null,
  "hf:alegiuliano": null,
@@ -851,12 +870,16 @@
  "hf:anzart": null,
  "hf:aoiandroid": null,
  "hf:apjanco": null,
+ "hf:apple": {
+  "fullname": "Apple"
+ },
  "hf:aqvaylis": null,
  "hf:arankays": null,
  "hf:arc4g": null,
  "hf:arrisx": null,
  "hf:artemmmmmmmmmmmmmmmmmmm": null,
  "hf:arvindk9835": null,
+ "hf:arvins01": null,
  "hf:ash3241": null,
  "hf:astroware": {
   "fullname": "Astroware Labs"
@@ -881,6 +904,7 @@
  "hf:azhouas": null,
  "hf:azrunguraya": null,
  "hf:azwaw": null,
+ "hf:azyan02": null,
  "hf:baobabtech": {
   "fullname": "Baobab Tech"
  },
@@ -1061,6 +1085,7 @@
   "fullname": "Glimpse Dictation"
  },
  "hf:golden-eaglet": null,
+ "hf:goldfish-models": null,
  "hf:google": {
   "fullname": "Google"
  },
@@ -1078,6 +1103,9 @@
  "hf:hammedalmodel": null,
  "hf:hamzaweb3": null,
  "hf:hannahbillo": null,
+ "hf:harness-hub": {
+  "fullname": "harness-hub"
+ },
  "hf:hauhaucs": null,
  "hf:hbb-community": {
   "fullname": "HBB Community"
@@ -1109,13 +1137,20 @@
  },
  "hf:hsanyyasyn97gmail": null,
  "hf:hthuatong": null,
+ "hf:hublabs": {
+  "fullname": "Hub"
+ },
  "hf:huggingfacefw": {
   "fullname": "FineData"
+ },
+ "hf:huggingfacetb": {
+  "fullname": "Hugging Face Smol Models Research"
  },
  "hf:hunter123": null,
  "hf:hyuki5": null,
  "hf:ibrahimizem": null,
  "hf:icaruana": null,
+ "hf:idavidrein": null,
  "hf:ifm": {
   "fullname": "Institute of Foundation Models"
  },
@@ -1137,6 +1172,7 @@
  "hf:infinix-io": null,
  "hf:innadark": null,
  "hf:insafee": null,
+ "hf:iparramartin": null,
  "hf:irlab-udc": {
   "fullname": "Information Retrieval Lab @ University of A Coruña"
  },
@@ -1195,6 +1231,7 @@
  "hf:kirilldual0987": null,
  "hf:kirillfpv": null,
  "hf:kmerakeb": null,
+ "hf:koptev": null,
  "hf:kormo-vl": {
   "fullname": "KORMo-VL"
  },
@@ -1212,6 +1249,9 @@
  },
  "hf:langtech-mt": {
   "fullname": "LangTech Machine Translation"
+ },
+ "hf:latam-gpt": {
+  "fullname": "LatamGPT"
  },
  "hf:lbourdois": null,
  "hf:lesterpaintstheworld": null,
@@ -1238,6 +1278,7 @@
  "hf:lucasgitguy-co": null,
  "hf:luispoveda93": null,
  "hf:lyra13": null,
+ "hf:m3hrdadfi": null,
  "hf:ma321as": null,
  "hf:maanka2": null,
  "hf:mabus46": null,
@@ -1323,6 +1364,9 @@
  "hf:neuronix12314585": null,
  "hf:neweret": null,
  "hf:nicolassuez": null,
+ "hf:nlp-rise": {
+  "fullname": "NLP @ RISE"
+ },
  "hf:nlpai-lab": {
   "fullname": "NLP & AI - Korea University"
  },
@@ -1353,6 +1397,12 @@
  "hf:openai": {
   "fullname": "OpenAI"
  },
+ "hf:openeurollm": {
+  "fullname": "OpenEuroLLM"
+ },
+ "hf:openflowlm": {
+  "fullname": "OpenFlowLM"
+ },
  "hf:openvoiceos": {
   "fullname": "OpenVoiceOS"
  },
@@ -1364,6 +1414,7 @@
   "fullname": "Orphera AI"
  },
  "hf:os-software": null,
+ "hf:otavio-lemos": null,
  "hf:oumayma03": null,
  "hf:oussamamaat": null,
  "hf:padas-lab": {
@@ -1427,6 +1478,7 @@
  },
  "hf:rigau": null,
  "hf:robertbschuette": null,
+ "hf:roneneldan": null,
  "hf:ropedia-ai": {
   "fullname": "Ropedia"
  },
@@ -1456,6 +1508,9 @@
  "hf:sdantonio": null,
  "hf:sdobson": null,
  "hf:se1emine": null,
+ "hf:sensenova": {
+  "fullname": "SenseNova"
+ },
  "hf:sepidmnorozy": null,
  "hf:serkan007": null,
  "hf:serotoninboi": null,
@@ -1496,6 +1551,9 @@
  "hf:sundram1996": null,
  "hf:supbatomic": null,
  "hf:svngoku": null,
+ "hf:swe-at-scale": {
+  "fullname": "SWE-at-Scale"
+ },
  "hf:swinliq-ain-2": {
   "fullname": "SwinliQ-AI"
  },
@@ -1509,8 +1567,14 @@
   "fullname": "TeamFlaxia"
  },
  "hf:tech4bueno": null,
+ "hf:tencent": {
+  "fullname": "Tencent"
+ },
  "hf:tensorblock": {
   "fullname": "TensorBlock"
+ },
+ "hf:teratts": {
+  "fullname": "TeraSpace TTS"
  },
  "hf:thandieao": null,
  "hf:theagenticdatacompany": {
@@ -1524,6 +1588,7 @@
  "hf:tigregotico": {
   "fullname": "Tigre Gótico Lda"
  },
+ "hf:tilas": null,
  "hf:timteamteem": null,
  "hf:tjulxx": null,
  "hf:toduxlabs": null,
@@ -1531,9 +1596,15 @@
  "hf:tomaszki": null,
  "hf:topherau": null,
  "hf:torkovweryyy": null,
+ "hf:tornadolabs": {
+  "fullname": "TornadoLabs"
+ },
  "hf:touati-kamel": null,
  "hf:translated": {
   "fullname": "Translated"
+ },
+ "hf:trelis": {
+  "fullname": "Trelis"
  },
  "hf:tremulo": null,
  "hf:trimux": null,
@@ -1578,6 +1649,7 @@
   "fullname": "VoiceForever.org"
  },
  "hf:voiceunlimited": null,
+ "hf:voidreaper2026": null,
  "hf:vongocanhthi": null,
  "hf:vonjack": null,
  "hf:votepurchase": null,
@@ -1599,6 +1671,7 @@
  "hf:windstormlabs": {
   "fullname": "Windstorm Labs"
  },
+ "hf:wnt3d": null,
  "hf:worldcuisines": {
   "fullname": "World Cuisines"
  },
@@ -1607,6 +1680,9 @@
  "hf:x054848": null,
  "hf:xaime": null,
  "hf:xezpeleta": null,
+ "hf:xiaomimimo": {
+  "fullname": "Xiaomi MiMo"
+ },
  "hf:xiaoxiaodong1": null,
  "hf:xix3r": null,
  "hf:xtools-at": null,
@@ -1686,6 +1762,7 @@
   "lng": -84.5831,
   "label": "Kennesaw State University"
  },
+ "king abdullah university of science and technology (kaust)": null,
  "korea railroad research institute": null,
  "kraków": {
   "lat": 50.0619,
@@ -1696,6 +1773,11 @@
   "lat": 50.8057,
   "lng": 3.2915,
   "label": "KU Leuven Kulak"
+ },
+ "kuwait university": {
+  "lat": 29.3443,
+  "lng": 48.0834,
+  "label": "الجامعة الأمريكية في الكويت"
  },
  "kuwait university; cairo university": null,
  "laboratori de botànica – unitat associada csic. facultat de farmàcia i ciències de l'alimentació. institut de recerca de la biodiversitat. universitat de barcelona. av. joan xxiii, 27-31. 08028 barcelona, catalonia": null,
@@ -1787,6 +1869,7 @@
   "lng": 8.4673,
   "label": "Mannheim"
  },
+ "medical experimental center, jieyang people's hospital": null,
  "metacognition institute": null,
  "michigan technological university": {
   "lat": 47.1097,
@@ -1927,6 +2010,11 @@
   "lat": 32.0231,
   "lng": 35.8768,
   "label": "جامعة الأميرة سمية للتكنولوجيا"
+ },
+ "pryazovskyi state technical university": {
+  "lat": 47.0942,
+  "lng": 37.541,
+  "label": "Приазовський державний технічний університет"
  },
  "puebla, mx": {
   "lat": 18.8333,
@@ -2239,6 +2327,11 @@
   "lng": 11.5872,
   "label": "Université de Bayreuth"
  },
+ "university of bologna": {
+  "lat": 44.4983,
+  "lng": 11.3545,
+  "label": "Università di Bologna"
+ },
  "university of business and science  til va adabiyot ta'limi kafedrasi o'qituvchisi": null,
  "university of castilla-la mancha": {
   "lat": 38.9894,
@@ -2547,6 +2640,7 @@
  "wd:utafitionline.com": null,
  "wd:wuwr.pl": null,
  "wd:ziglobitha.org": null,
+ "wdn:3dcodeverse": null,
  "wdn:aavola": null,
  "wdn:aeryx ai": null,
  "wdn:afrispeech": null,
@@ -2558,6 +2652,13 @@
  "wdn:allinsama": null,
  "wdn:almanach inria": null,
  "wdn:alphaedgeai": null,
+ "wdn:apple": {
+  "lat": 37.3175,
+  "lng": -122.0419,
+  "city": "Cupertino",
+  "region": "États-Unis",
+  "geo_source": "Wikidata · Apple"
+ },
  "wdn:applied intelligence data analysis universidad polit cnica de madrid": null,
  "wdn:astroware labs": null,
  "wdn:averica": null,
@@ -2613,6 +2714,7 @@
  },
  "wdn:guardion": null,
  "wdn:hackai 2026": null,
+ "wdn:harness hub": null,
  "wdn:hbb community": null,
  "wdn:helsinki nlp research group": null,
  "wdn:herald": null,
@@ -2624,7 +2726,9 @@
   "geo_source": "Wikidata · HiTZ zentroa"
  },
  "wdn:hplt": null,
+ "wdn:hub": null,
  "wdn:hugging face for audio": null,
+ "wdn:hugging face smol models research": null,
  "wdn:imsidag": null,
  "wdn:inferenceport ai inferenceport llc": null,
  "wdn:information retrieval lab university of a coru a": null,
@@ -2636,6 +2740,7 @@
  "wdn:laion ev": null,
  "wdn:langtech machine translation": null,
  "wdn:language technologies laboratory barcelona supercomputing center": null,
+ "wdn:latamgpt": null,
  "wdn:lifeai": null,
  "wdn:lipik": {
   "lat": 45.4142,
@@ -2659,6 +2764,7 @@
  "wdn:multisynt": null,
  "wdn:my korean language models": null,
  "wdn:nlp ai korea university": null,
+ "wdn:nlp rise": null,
  "wdn:nousresearch": null,
  "wdn:nvidia": {
   "lat": 37.35,
@@ -2676,6 +2782,8 @@
   "region": "États-Unis",
   "geo_source": "Wikidata · OpenAI"
  },
+ "wdn:openeurollm": null,
+ "wdn:openflowlm": null,
  "wdn:openindex": null,
  "wdn:openvoiceos": null,
  "wdn:organisation participant 27": null,
@@ -2694,6 +2802,7 @@
  "wdn:ropedia": null,
  "wdn:sandflow": null,
  "wdn:scenario": null,
+ "wdn:sensenova": null,
  "wdn:shunya labs": null,
  "wdn:since ai": null,
  "wdn:small models for glam": null,
@@ -2707,14 +2816,25 @@
   "geo_source": "Wikidata · Sunbird Airlines"
  },
  "wdn:sunbird ai experimental resources": null,
+ "wdn:swe at scale": null,
  "wdn:swinliq ai": null,
  "wdn:teamflaxia": null,
+ "wdn:tencent": {
+  "lat": 19.33,
+  "lng": -81.24,
+  "city": "Grand Cayman",
+  "region": "République populaire de Chine",
+  "geo_source": "Wikidata · Tencent"
+ },
  "wdn:tensorblock": null,
+ "wdn:teraspace tts": null,
  "wdn:text to speech for all": null,
  "wdn:the agentic data company": null,
  "wdn:thinking machines lab": null,
  "wdn:tigre g tico lda": null,
+ "wdn:tornadolabs": null,
  "wdn:translated": null,
+ "wdn:trelis": null,
  "wdn:tts omnivoice": null,
  "wdn:ucrel nlp research group": null,
  "wdn:umuteam": null,
@@ -2733,6 +2853,7 @@
  "wdn:wikimedia": null,
  "wdn:windstorm labs": null,
  "wdn:world cuisines": null,
+ "wdn:xiaomi mimo": null,
  "wdn:zarnite": null,
  "worldly knowledge publishing centre": null,
  "xi'an, china": {
