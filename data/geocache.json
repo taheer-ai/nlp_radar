@@ -150,6 +150,12 @@
   "label": "Bordeaux"
  },
  "british association of sport and exercise medicine": null,
+ "brock university": {
+  "lat": 43.1177,
+  "lng": -79.2499,
+  "label": "Brock University"
+ },
+ "bukhara state universiti phd student": null,
  "cambridge, ma": {
   "lat": 42.3656,
   "lng": -71.104,
@@ -228,6 +234,11 @@
   "lat": 34.5412,
   "lng": 108.9237,
   "label": "Chine"
+ },
+ "country:de": {
+  "lat": 51.1638,
+  "lng": 10.4478,
+  "label": "Allemagne"
  },
  "country:fr": {
   "lat": 46.6034,
@@ -507,6 +518,10 @@
   "location": null,
   "name": "kayson-39"
  },
+ "gh:koelony": {
+  "location": "Hong Kong",
+  "name": "Koelony"
+ },
  "gh:kuxiaowo": {
   "location": null,
   "name": "kuxiaowo"
@@ -518,6 +533,10 @@
  "gh:madeval": {
   "location": "Ukraine",
   "name": "Leonidov Yevhen"
+ },
+ "gh:mankidev": {
+  "location": null,
+  "name": "manki"
  },
  "gh:mdiri-ai": {
   "location": null,
@@ -546,6 +565,10 @@
  "gh:modulate-ai": {
   "location": "Cambridge, MA",
   "name": "Modulate"
+ },
+ "gh:molly554": {
+  "location": null,
+  "name": "Molly"
  },
  "gh:n1neman": {
   "location": null,
@@ -988,6 +1011,7 @@
  "hf:azrunguraya": null,
  "hf:azwaw": null,
  "hf:azyan02": null,
+ "hf:azyg0s": null,
  "hf:baobabtech": {
   "fullname": "Baobab Tech"
  },
@@ -1262,6 +1286,9 @@
  },
  "hf:huihui-ai": null,
  "hf:hunter123": null,
+ "hf:hyperbots-inc": {
+  "fullname": "Hyperbots Inc"
+ },
  "hf:hyuki5": null,
  "hf:ibrahimizem": null,
  "hf:icaruana": null,
@@ -1416,6 +1443,7 @@
  "hf:maghreb-ai-research": null,
  "hf:maghrebi": null,
  "hf:mahesh27": null,
+ "hf:mahmoudalrefaey": null,
  "hf:mahmoudalyosify": null,
  "hf:maigonis": null,
  "hf:maliba-ai": {
@@ -1449,6 +1477,9 @@
  },
  "hf:michsethowusu": null,
  "hf:microguy1": null,
+ "hf:microsoft": {
+  "fullname": "Microsoft"
+ },
  "hf:miguelgp-13": null,
  "hf:mihaipopa-1": null,
  "hf:mijuanlo": null,
@@ -1461,6 +1492,7 @@
   "fullname": "Minish"
  },
  "hf:mirellecb": null,
+ "hf:miscovery": null,
  "hf:misterkissi": null,
  "hf:mistralai": {
   "fullname": "Mistral"
@@ -1516,6 +1548,9 @@
  },
  "hf:noeflandre": null,
  "hf:noerror": null,
+ "hf:nokkela-ai": {
+  "fullname": "Nokkela.AI"
+ },
  "hf:nordinb": null,
  "hf:nostraempire": null,
  "hf:nousresearch": {
@@ -1564,6 +1599,7 @@
  "hf:ovhaillm": {
   "fullname": "OVHai LLM"
  },
+ "hf:oyildirim": null,
  "hf:padas-lab": {
   "fullname": "Chair of Data Science, University of Passau"
  },
@@ -1594,6 +1630,7 @@
   "fullname": "Platzi Community"
  },
  "hf:plutonupv": null,
+ "hf:polydata5": null,
  "hf:polystation": null,
  "hf:prachi-munda": null,
  "hf:prithivmlmods": null,
@@ -1637,6 +1674,7 @@
  },
  "hf:rigau": null,
  "hf:robertbschuette": null,
+ "hf:rodrigoflorencio": null,
  "hf:roneneldan": null,
  "hf:ropedia-ai": {
   "fullname": "Ropedia"
@@ -1699,6 +1737,9 @@
  "hf:small-models-for-glam": {
   "fullname": "Small Models for GLAM"
  },
+ "hf:software-mansion": {
+  "fullname": "Software Mansion AI Labs"
+ },
  "hf:sonoale": null,
  "hf:speakleash": {
   "fullname": "SpeakLeash | Spichlerz"
@@ -1723,6 +1764,9 @@
  },
  "hf:swinliq-ain-2": {
   "fullname": "SwinliQ-AI"
+ },
+ "hf:syntriq": {
+  "fullname": "Syntriq"
  },
  "hf:talzoomanzoo": null,
  "hf:tampajohn": null,
@@ -1749,6 +1793,7 @@
   "fullname": "The Agentic Data Company"
  },
  "hf:theavenger": null,
+ "hf:thejagstudio": null,
  "hf:theoracleguy": null,
  "hf:thinkingmachines": {
   "fullname": "Thinking Machines Lab"
@@ -1791,6 +1836,7 @@
  },
  "hf:uiafuqhfi": null,
  "hf:ukar": null,
+ "hf:ukrbublik": null,
  "hf:umuteam": {
   "fullname": "UMUTeam"
  },
@@ -1846,6 +1892,7 @@
  },
  "hf:williamsotom": null,
  "hf:williiii": null,
+ "hf:wilson3": null,
  "hf:windstormlabs": {
   "fullname": "Windstorm Labs"
  },
@@ -1897,6 +1944,7 @@
  "independent researcher in linguistics and translation studies": null,
  "independent researcher in linguistics mumbai, india": null,
  "independent researcher, brno, czech republic": null,
+ "independent software developer and proprietary commercial intellectual property owner.": null,
  "institució catalana de recerca i estudis avançats": null,
  "institut polytechnique de paris": {
   "lat": 48.7139,
@@ -1992,6 +2040,7 @@
   "label": "경희대학교 서울캠퍼스"
  },
  "laboratori de botànica – unitat associada csic. facultat de farmàcia i ciències de l'alimentació. institut de recerca de la biodiversitat. universitat de barcelona. av. joan xxiii, 27-31. 08028 barcelona, catalonia": null,
+ "laboratory of engineering and applied technology (lita), faculty of sciences and technology of béni mellal (fstbm), sultan moulay slimane university (usms), béni mellal, morocco.": null,
  "language technologies institute, cmu": null,
  "lappeenranta-lahti university of technology": null,
  "lausanne": {
@@ -2096,6 +2145,7 @@
   "label": "Mannheim"
  },
  "master student, study program linguistik (s2), universitas pendidikan indonesia": null,
+ "master's student, department of foreign language and literature chirchik state pedagogical university": null,
  "medical experimental center, jieyang people's hospital": null,
  "metacognition institute": null,
  "michigan technological university": {
@@ -2275,6 +2325,11 @@
   "lng": 6.9964,
   "label": "Sarrebruck"
  },
+ "saigon international university": {
+  "lat": 10.845,
+  "lng": 106.7727,
+  "label": "Saigon International University"
+ },
  "san francisco": {
   "lat": 37.7879,
   "lng": -122.4075,
@@ -2306,6 +2361,7 @@
   "lng": -122.3301,
   "label": "Seattle"
  },
+ "senior lecturer, department of foreign languages philology, andijan state university, phd in philological sciences": null,
  "senior lecturer, uzbekistan state university  of physical education and sport": null,
  "shanghai maritime university": {
   "lat": 30.877,
@@ -2404,6 +2460,7 @@
   "lng": -46.6334,
   "label": "São Paulo"
  },
+ "tadeusz manteuffel institute of history": null,
  "taras shevchenko national university of kyiv": {
   "lat": 50.3842,
   "lng": 30.4743,
@@ -2660,6 +2717,7 @@
   "lng": -66.0605,
   "label": "Calle Salamanca"
  },
+ "university of salerno": null,
  "university of texas at austin": {
   "lat": 30.2851,
   "lng": -97.7339,
@@ -3043,6 +3101,7 @@
  "wdn:hub": null,
  "wdn:hugging face for audio": null,
  "wdn:hugging face smol models research": null,
+ "wdn:hyperbots inc": null,
  "wdn:imsidag": null,
  "wdn:inferenceport ai inferenceport llc": null,
  "wdn:information retrieval lab university of a coru a": null,
@@ -3076,6 +3135,13 @@
  "wdn:matterwaveai": null,
  "wdn:maxwell model": null,
  "wdn:meta llama": null,
+ "wdn:microsoft": {
+  "lat": 47.6694,
+  "lng": -122.1239,
+  "city": "Redmond",
+  "region": "États-Unis",
+  "geo_source": "Wikidata · Microsoft"
+ },
  "wdn:minimax": {
   "lat": 31.2325,
   "lng": 121.4692,
@@ -3098,6 +3164,7 @@
  "wdn:my korean language models": null,
  "wdn:nlp ai korea university": null,
  "wdn:nlp rise": null,
+ "wdn:nokkela ai": null,
  "wdn:nousresearch": null,
  "wdn:nvidia": {
   "lat": 37.35,
@@ -3152,6 +3219,7 @@
  "wdn:since ai": null,
  "wdn:small models for glam": null,
  "wdn:social and language technology lab": null,
+ "wdn:software mansion ai labs": null,
  "wdn:speakleash spichlerz": null,
  "wdn:struan assembly llc": null,
  "wdn:sunbird ai": {
@@ -3164,6 +3232,7 @@
  "wdn:sunbird ai experimental resources": null,
  "wdn:swe at scale": null,
  "wdn:swinliq ai": null,
+ "wdn:syntriq": null,
  "wdn:teamflaxia": null,
  "wdn:tencent": {
   "lat": 19.33,

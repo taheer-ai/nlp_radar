@@ -6,7 +6,175 @@
     <atom:link href="https://omnital.github.io/data/feed.xml" rel="self" type="application/rss+xml"/>
     <description>Nouvelles ressources en traitement automatique des langues (arXiv, HAL, Hugging Face, GitHub, WikiCFP).</description>
     <language>fr</language>
-    <lastBuildDate>Fri, 20 Nov 2026 15:24:37 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 21 Nov 2026 14:39:00 +0000</lastBuildDate>
+    <item>
+      <title>[Model] Phoonnx/phoonnx_kab-DZ_dii_o2i</title>
+      <link>https://huggingface.co/Phoonnx/phoonnx_kab-DZ_dii_o2i</link>
+      <guid isPermaLink="false">hf:models:Phoonnx/phoonnx_kab-DZ_dii_o2i</guid>
+      <pubDate>Sat, 21 Nov 2026 00:00:00 +0000</pubDate>
+      <category>huggingface</category>
+      <description></description>
+    </item>
+    <item>
+      <title>[Model] nokkela-ai/whisper-large-v3-turbo</title>
+      <link>https://huggingface.co/nokkela-ai/whisper-large-v3-turbo</link>
+      <guid isPermaLink="false">hf:models:nokkela-ai/whisper-large-v3-turbo</guid>
+      <pubDate>Sat, 21 Nov 2026 00:00:00 +0000</pubDate>
+      <category>huggingface</category>
+      <description></description>
+    </item>
+    <item>
+      <title>[Model] nokkela-ai/whisper-large-v3</title>
+      <link>https://huggingface.co/nokkela-ai/whisper-large-v3</link>
+      <guid isPermaLink="false">hf:models:nokkela-ai/whisper-large-v3</guid>
+      <pubDate>Sat, 21 Nov 2026 00:00:00 +0000</pubDate>
+      <category>huggingface</category>
+      <description></description>
+    </item>
+    <item>
+      <title>[Model] ukrbublik/opus-mt-en-ca-int8-shift-att</title>
+      <link>https://huggingface.co/ukrbublik/opus-mt-en-ca-int8-shift-att</link>
+      <guid isPermaLink="false">hf:models:ukrbublik/opus-mt-en-ca-int8-shift-att</guid>
+      <pubDate>Sat, 21 Nov 2026 00:00:00 +0000</pubDate>
+      <category>huggingface</category>
+      <description></description>
+    </item>
+    <item>
+      <title>[Model] ukrbublik/opus-mt-en-gl-int8-shift-att</title>
+      <link>https://huggingface.co/ukrbublik/opus-mt-en-gl-int8-shift-att</link>
+      <guid isPermaLink="false">hf:models:ukrbublik/opus-mt-en-gl-int8-shift-att</guid>
+      <pubDate>Sat, 21 Nov 2026 00:00:00 +0000</pubDate>
+      <category>huggingface</category>
+      <description></description>
+    </item>
+    <item>
+      <title>[Corpus] ILC4CWALM/Corpus_annotated: MODIC – Moroccan Dialect Corpus (Version 1.0.0)</title>
+      <link>https://zenodo.org/records/24409152</link>
+      <guid isPermaLink="false">zenodo:24409151</guid>
+      <pubDate>Sat, 21 Nov 2026 00:00:00 +0000</pubDate>
+      <category>zenodo</category>
+      <description>Initial public release of MODIC (Moroccan Dialect Corpus), a morphologically annotated corpus of Moroccan Arabic (Darija). This release provides structured JSON data with token-level morphological annotations, vocalised forms, Buckwalter…</description>
+    </item>
+    <item>
+      <title>[Corpus] Bob-the-Koala/basic-word-prose</title>
+      <link>https://huggingface.co/datasets/Bob-the-Koala/basic-word-prose</link>
+      <guid isPermaLink="false">hf:datasets:Bob-the-Koala/basic-word-prose</guid>
+      <pubDate>Sat, 21 Nov 2026 00:00:00 +0000</pubDate>
+      <category>huggingface</category>
+      <description>Basic Word: the writing report's data Word frequency lists, one a language, that Basic Word's writing report reads to tell a common word from a rare one. Basic Word's installer and its Settings fetch them from here, each checked against…</description>
+    </item>
+    <item>
+      <title>[Corpus] lance-format/fleurs-lance</title>
+      <link>https://huggingface.co/datasets/lance-format/fleurs-lance</link>
+      <guid isPermaLink="false">hf:datasets:lance-format/fleurs-lance</guid>
+      <pubDate>Sat, 21 Nov 2026 00:00:00 +0000</pubDate>
+      <category>huggingface</category>
+      <description>FLEURS in Lance FLEURS is Google's Few-shot Learning Evaluation of Universal Representations of Speech benchmark. This release preserves 384,060 original recordings and transcripts across 102 language configurations. The original train,…</description>
+    </item>
+    <item>
+      <title>[Model] Phoonnx/vits-taq-mms-graphemes</title>
+      <link>https://huggingface.co/Phoonnx/vits-taq-mms-graphemes</link>
+      <guid isPermaLink="false">hf:models:Phoonnx/vits-taq-mms-graphemes</guid>
+      <pubDate>Sat, 21 Nov 2026 00:00:00 +0000</pubDate>
+      <category>huggingface</category>
+      <description></description>
+    </item>
+    <item>
+      <title>[Model] Phoonnx/vits-ttq_tfng-mms-graphemes</title>
+      <link>https://huggingface.co/Phoonnx/vits-ttq_tfng-mms-graphemes</link>
+      <guid isPermaLink="false">hf:models:Phoonnx/vits-ttq_tfng-mms-graphemes</guid>
+      <pubDate>Sat, 21 Nov 2026 00:00:00 +0000</pubDate>
+      <category>huggingface</category>
+      <description></description>
+    </item>
+    <item>
+      <title>[Model] mradermacher/VibeVoice-ASR-HF-GGUF</title>
+      <link>https://huggingface.co/mradermacher/VibeVoice-ASR-HF-GGUF</link>
+      <guid isPermaLink="false">hf:models:mradermacher/VibeVoice-ASR-HF-GGUF</guid>
+      <pubDate>Sat, 21 Nov 2026 00:00:00 +0000</pubDate>
+      <category>huggingface</category>
+      <description></description>
+    </item>
+    <item>
+      <title>[Model] Wilson3/s2-pro</title>
+      <link>https://huggingface.co/Wilson3/s2-pro</link>
+      <guid isPermaLink="false">hf:models:Wilson3/s2-pro</guid>
+      <pubDate>Sat, 21 Nov 2026 00:00:00 +0000</pubDate>
+      <category>huggingface</category>
+      <description></description>
+    </item>
+    <item>
+      <title>[Model] Wilson3/drama-3</title>
+      <link>https://huggingface.co/Wilson3/drama-3</link>
+      <guid isPermaLink="false">hf:models:Wilson3/drama-3</guid>
+      <pubDate>Sat, 21 Nov 2026 00:00:00 +0000</pubDate>
+      <category>huggingface</category>
+      <description></description>
+    </item>
+    <item>
+      <title>[Model] syntriq/lupe-multilingual-reranker-large</title>
+      <link>https://huggingface.co/syntriq/lupe-multilingual-reranker-large</link>
+      <guid isPermaLink="false">hf:models:syntriq/lupe-multilingual-reranker-large</guid>
+      <pubDate>Sat, 21 Nov 2026 00:00:00 +0000</pubDate>
+      <category>huggingface</category>
+      <description></description>
+    </item>
+    <item>
+      <title>[Model] syntriq/lupe-multilingual-reranker-base</title>
+      <link>https://huggingface.co/syntriq/lupe-multilingual-reranker-base</link>
+      <guid isPermaLink="false">hf:models:syntriq/lupe-multilingual-reranker-base</guid>
+      <pubDate>Sat, 21 Nov 2026 00:00:00 +0000</pubDate>
+      <category>huggingface</category>
+      <description></description>
+    </item>
+    <item>
+      <title>[Model] syntriq/lupe-multilingual-reranker-small</title>
+      <link>https://huggingface.co/syntriq/lupe-multilingual-reranker-small</link>
+      <guid isPermaLink="false">hf:models:syntriq/lupe-multilingual-reranker-small</guid>
+      <pubDate>Sat, 21 Nov 2026 00:00:00 +0000</pubDate>
+      <category>huggingface</category>
+      <description></description>
+    </item>
+    <item>
+      <title>[Model] miscovery/arabic-egyptian-to-english-77m-ct2-int8</title>
+      <link>https://huggingface.co/miscovery/arabic-egyptian-to-english-77m-ct2-int8</link>
+      <guid isPermaLink="false">hf:models:miscovery/arabic-egyptian-to-english-77m-ct2-int8</guid>
+      <pubDate>Sat, 21 Nov 2026 00:00:00 +0000</pubDate>
+      <category>huggingface</category>
+      <description></description>
+    </item>
+    <item>
+      <title>[Model] miscovery/arabic-egyptian-to-english-77m</title>
+      <link>https://huggingface.co/miscovery/arabic-egyptian-to-english-77m</link>
+      <guid isPermaLink="false">hf:models:miscovery/arabic-egyptian-to-english-77m</guid>
+      <pubDate>Sat, 21 Nov 2026 00:00:00 +0000</pubDate>
+      <category>huggingface</category>
+      <description></description>
+    </item>
+    <item>
+      <title>[Corpus] IO-AIR/kip-dataset</title>
+      <link>https://huggingface.co/datasets/IO-AIR/kip-dataset</link>
+      <guid isPermaLink="false">hf:datasets:IO-AIR/kip-dataset</guid>
+      <pubDate>Sat, 21 Nov 2026 00:00:00 +0000</pubDate>
+      <category>huggingface</category>
+      <description>KIP pretrain w49 Status: numbered release - all eight publish gates pass. Pure-knowledge pretraining corpus built by the KIP pipeline (std-lib only, $0 lanes): 14 domains x the language registry, quality-gated (C4/Gopher battery +…</description>
+    </item>
+    <item>
+      <title>[Model] mahmoudalrefaey/amina-tts-voice</title>
+      <link>https://huggingface.co/mahmoudalrefaey/amina-tts-voice</link>
+      <guid isPermaLink="false">hf:models:mahmoudalrefaey/amina-tts-voice</guid>
+      <pubDate>Sat, 21 Nov 2026 00:00:00 +0000</pubDate>
+      <category>huggingface</category>
+      <description></description>
+    </item>
+    <item>
+      <title>[Model] algerian-nlp/EL-HARRACHI-Lite</title>
+      <link>https://huggingface.co/algerian-nlp/EL-HARRACHI-Lite</link>
+      <guid isPermaLink="false">hf:models:algerian-nlp/EL-HARRACHI-Lite</guid>
+      <pubDate>Sat, 21 Nov 2026 00:00:00 +0000</pubDate>
+      <category>huggingface</category>
+      <description></description>
+    </item>
     <item>
       <title>[Event] VarDial 2027 : Second Call for Papers: The Fourteenth Workshop on NLP for Similar Languages, Varieties and Dialects</title>
       <link>http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=204278</link>
@@ -14,6 +182,54 @@
       <pubDate>Fri, 20 Nov 2026 00:00:00 +0000</pubDate>
       <category>wikicfp</category>
       <description>Second Call for Papers: The Fourteenth Workshop on NLP for Similar Languages, Varieties and Dialects</description>
+    </item>
+    <item>
+      <title>[Opportunity] Linguist - Malagasy - UI Technical / Marketing - Remote</title>
+      <link>https://www.arbeitnow.com/jobs/companies/lilt-production/linguist-malagasy-ui-technical-marketing-remote-305326</link>
+      <guid isPermaLink="false">arbeitnow:linguist-malagasy-ui-technical-marketing-remote-305326</guid>
+      <pubDate>Fri, 20 Nov 2026 00:00:00 +0000</pubDate>
+      <category>arbeitnow</category>
+      <description>About the Opportunity We are expanding our talent network and seeking skilled Malagasy-language professionals with expertise in user interfaces, marketing localization, and retail content. Our ideal partners possess a nuanced command of…</description>
+    </item>
+    <item>
+      <title>[Opportunity] Linguist - Mongolian - UI Technical / Marketing - Remote</title>
+      <link>https://www.arbeitnow.com/jobs/companies/lilt-production/linguist-mongolian-ui-technical-marketing-remote-337997</link>
+      <guid isPermaLink="false">arbeitnow:linguist-mongolian-ui-technical-marketing-remote-337997</guid>
+      <pubDate>Fri, 20 Nov 2026 00:00:00 +0000</pubDate>
+      <category>arbeitnow</category>
+      <description>About the Opportunity We are expanding our talent network and seeking skilled Mongolian-language professionals with expertise in user interfaces, marketing localization, and retail content. Our ideal partners possess a nuanced command of…</description>
+    </item>
+    <item>
+      <title>[Opportunity] Linguist - Oromo - UI Technical / Marketing - Remote</title>
+      <link>https://www.arbeitnow.com/jobs/companies/lilt-production/linguist-oromo-ui-technical-marketing-remote-332436</link>
+      <guid isPermaLink="false">arbeitnow:linguist-oromo-ui-technical-marketing-remote-332436</guid>
+      <pubDate>Fri, 20 Nov 2026 00:00:00 +0000</pubDate>
+      <category>arbeitnow</category>
+      <description>About the Opportunity We are expanding our talent network and seeking skilled Oromo-language professionals with expertise in user interfaces, marketing localization, and retail content. Our ideal partners possess a nuanced command of…</description>
+    </item>
+    <item>
+      <title>[Opportunity] Linguist - Shona - UI Technical / Marketing - Remote</title>
+      <link>https://www.arbeitnow.com/jobs/companies/lilt-production/linguist-shona-ui-technical-marketing-remote-128387</link>
+      <guid isPermaLink="false">arbeitnow:linguist-shona-ui-technical-marketing-remote-128387</guid>
+      <pubDate>Fri, 20 Nov 2026 00:00:00 +0000</pubDate>
+      <category>arbeitnow</category>
+      <description>About the Opportunity We are expanding our talent network and seeking skilled Shona-language professionals with expertise in user interfaces, marketing localization, and retail content. Our ideal partners possess a nuanced command of…</description>
+    </item>
+    <item>
+      <title>[Opportunity] Linguist - Wolof - UI Technical / Marketing - Remote</title>
+      <link>https://www.arbeitnow.com/jobs/companies/lilt-production/linguist-wolof-ui-technical-marketing-remote-36711</link>
+      <guid isPermaLink="false">arbeitnow:linguist-wolof-ui-technical-marketing-remote-36711</guid>
+      <pubDate>Fri, 20 Nov 2026 00:00:00 +0000</pubDate>
+      <category>arbeitnow</category>
+      <description>About the Opportunity We are expanding our talent network and seeking skilled Wolof-language professionals with expertise in user interfaces, marketing localization, and retail content. Our ideal partners possess a nuanced command of…</description>
+    </item>
+    <item>
+      <title>[Opportunity] LLM Engineer — Post-Training (Remote - UK)</title>
+      <link>https://www.arbeitnow.co.uk/jobs/companies/everai/llm-engineer-post-training-remote-uk-united-kingdom-244005</link>
+      <guid isPermaLink="false">arbeitnow:llm-engineer-post-training-remote-uk-united-kingdom-244005</guid>
+      <pubDate>Fri, 20 Nov 2026 00:00:00 +0000</pubDate>
+      <category>arbeitnow</category>
+      <description>Our Vision &amp; Products 🚀 EverAI — Building the Future of AI Companionship One of the Top Largest &amp; Fastest-Growing AI Companies in the World 60 Million Users in 3 years — Help Us Reach 100M first, 500M next At EverAI , we’re shaping what…</description>
     </item>
     <item>
       <title>[Corpus] xaviviro/sintaxi-catala-destillada-20k-reforc2</title>
@@ -24,9 +240,9 @@
       <description>sintaxi-catala-destillada-20k-reforc2 Anàlisis sintàctiques d'oracions simples en català (JSON de gramàtica escolar). És el dataset xaviviro/sintaxi-catala-destillada-20k-reforc (6.649 exemples destil·lats de Qwen3.8-27B + 1.033 de…</description>
     </item>
     <item>
-      <title>[Model] empiriolabsai/speaker-gender</title>
-      <link>https://huggingface.co/empiriolabsai/speaker-gender</link>
-      <guid isPermaLink="false">hf:models:empiriolabsai/speaker-gender</guid>
+      <title>[Model] GotoAI-Inc/harrier-oss-v1-0.6b-mirror</title>
+      <link>https://huggingface.co/GotoAI-Inc/harrier-oss-v1-0.6b-mirror</link>
+      <guid isPermaLink="false">hf:models:GotoAI-Inc/harrier-oss-v1-0.6b-mirror</guid>
       <pubDate>Fri, 20 Nov 2026 00:00:00 +0000</pubDate>
       <category>huggingface</category>
       <description></description>
@@ -40,33 +256,9 @@
       <description></description>
     </item>
     <item>
-      <title>[Model] javierbits/Rumble-2-Flash-GGUF</title>
-      <link>https://huggingface.co/javierbits/Rumble-2-Flash-GGUF</link>
-      <guid isPermaLink="false">hf:models:javierbits/Rumble-2-Flash-GGUF</guid>
-      <pubDate>Fri, 20 Nov 2026 00:00:00 +0000</pubDate>
-      <category>huggingface</category>
-      <description></description>
-    </item>
-    <item>
-      <title>[Model] xaviviro/Qwen3.5-0.8B-sintaxi-catala-20k-reforc2-MLX-4bit</title>
-      <link>https://huggingface.co/xaviviro/Qwen3.5-0.8B-sintaxi-catala-20k-reforc2-MLX-4bit</link>
-      <guid isPermaLink="false">hf:models:xaviviro/Qwen3.5-0.8B-sintaxi-catala-20k-reforc2-MLX-4bit</guid>
-      <pubDate>Fri, 20 Nov 2026 00:00:00 +0000</pubDate>
-      <category>huggingface</category>
-      <description></description>
-    </item>
-    <item>
-      <title>[Model] xaviviro/Qwen3.5-0.8B-sintaxi-catala-20k-reforc2</title>
-      <link>https://huggingface.co/xaviviro/Qwen3.5-0.8B-sintaxi-catala-20k-reforc2</link>
-      <guid isPermaLink="false">hf:models:xaviviro/Qwen3.5-0.8B-sintaxi-catala-20k-reforc2</guid>
-      <pubDate>Fri, 20 Nov 2026 00:00:00 +0000</pubDate>
-      <category>huggingface</category>
-      <description></description>
-    </item>
-    <item>
-      <title>[Model] GotoAI-Inc/harrier-oss-v1-0.6b-mirror</title>
-      <link>https://huggingface.co/GotoAI-Inc/harrier-oss-v1-0.6b-mirror</link>
-      <guid isPermaLink="false">hf:models:GotoAI-Inc/harrier-oss-v1-0.6b-mirror</guid>
+      <title>[Model] Microguy1/NVIDIA-Nemotron-3.5-Transcribe-30B-A4B-DUPLI</title>
+      <link>https://huggingface.co/Microguy1/NVIDIA-Nemotron-3.5-Transcribe-30B-A4B-DUPLI</link>
+      <guid isPermaLink="false">hf:models:Microguy1/NVIDIA-Nemotron-3.5-Transcribe-30B-A4B-DUPLI</guid>
       <pubDate>Fri, 20 Nov 2026 00:00:00 +0000</pubDate>
       <category>huggingface</category>
       <description></description>
@@ -80,14 +272,6 @@
       <description></description>
     </item>
     <item>
-      <title>[Model] csukuangfj/sherpa-onnx-w2v-bert-ctc-gl-int8-2026-11-20</title>
-      <link>https://huggingface.co/csukuangfj/sherpa-onnx-w2v-bert-ctc-gl-int8-2026-11-20</link>
-      <guid isPermaLink="false">hf:models:csukuangfj/sherpa-onnx-w2v-bert-ctc-gl-int8-2026-11-20</guid>
-      <pubDate>Fri, 20 Nov 2026 00:00:00 +0000</pubDate>
-      <category>huggingface</category>
-      <description></description>
-    </item>
-    <item>
       <title>[Model] csukuangfj/sherpa-onnx-w2v-bert-ctc-gl-2026-11-20</title>
       <link>https://huggingface.co/csukuangfj/sherpa-onnx-w2v-bert-ctc-gl-2026-11-20</link>
       <guid isPermaLink="false">hf:models:csukuangfj/sherpa-onnx-w2v-bert-ctc-gl-2026-11-20</guid>
@@ -96,9 +280,41 @@
       <description></description>
     </item>
     <item>
-      <title>[Model] Microguy1/NVIDIA-Nemotron-3.5-Transcribe-30B-A4B-DUPLI</title>
-      <link>https://huggingface.co/Microguy1/NVIDIA-Nemotron-3.5-Transcribe-30B-A4B-DUPLI</link>
-      <guid isPermaLink="false">hf:models:Microguy1/NVIDIA-Nemotron-3.5-Transcribe-30B-A4B-DUPLI</guid>
+      <title>[Model] csukuangfj/sherpa-onnx-w2v-bert-ctc-gl-int8-2026-11-20</title>
+      <link>https://huggingface.co/csukuangfj/sherpa-onnx-w2v-bert-ctc-gl-int8-2026-11-20</link>
+      <guid isPermaLink="false">hf:models:csukuangfj/sherpa-onnx-w2v-bert-ctc-gl-int8-2026-11-20</guid>
+      <pubDate>Fri, 20 Nov 2026 00:00:00 +0000</pubDate>
+      <category>huggingface</category>
+      <description></description>
+    </item>
+    <item>
+      <title>[Model] empiriolabsai/speaker-gender</title>
+      <link>https://huggingface.co/empiriolabsai/speaker-gender</link>
+      <guid isPermaLink="false">hf:models:empiriolabsai/speaker-gender</guid>
+      <pubDate>Fri, 20 Nov 2026 00:00:00 +0000</pubDate>
+      <category>huggingface</category>
+      <description></description>
+    </item>
+    <item>
+      <title>[Model] javierbits/Rumble-2-Flash-GGUF</title>
+      <link>https://huggingface.co/javierbits/Rumble-2-Flash-GGUF</link>
+      <guid isPermaLink="false">hf:models:javierbits/Rumble-2-Flash-GGUF</guid>
+      <pubDate>Fri, 20 Nov 2026 00:00:00 +0000</pubDate>
+      <category>huggingface</category>
+      <description></description>
+    </item>
+    <item>
+      <title>[Model] xaviviro/Qwen3.5-0.8B-sintaxi-catala-20k-reforc2</title>
+      <link>https://huggingface.co/xaviviro/Qwen3.5-0.8B-sintaxi-catala-20k-reforc2</link>
+      <guid isPermaLink="false">hf:models:xaviviro/Qwen3.5-0.8B-sintaxi-catala-20k-reforc2</guid>
+      <pubDate>Fri, 20 Nov 2026 00:00:00 +0000</pubDate>
+      <category>huggingface</category>
+      <description></description>
+    </item>
+    <item>
+      <title>[Model] xaviviro/Qwen3.5-0.8B-sintaxi-catala-20k-reforc2-MLX-4bit</title>
+      <link>https://huggingface.co/xaviviro/Qwen3.5-0.8B-sintaxi-catala-20k-reforc2-MLX-4bit</link>
+      <guid isPermaLink="false">hf:models:xaviviro/Qwen3.5-0.8B-sintaxi-catala-20k-reforc2-MLX-4bit</guid>
       <pubDate>Fri, 20 Nov 2026 00:00:00 +0000</pubDate>
       <category>huggingface</category>
       <description></description>
@@ -112,57 +328,17 @@
       <description></description>
     </item>
     <item>
-      <title>[Opportunity] Linguist - Wolof - UI Technical / Marketing - Remote</title>
-      <link>https://www.arbeitnow.com/jobs/companies/lilt-production/linguist-wolof-ui-technical-marketing-remote-36711</link>
-      <guid isPermaLink="false">arbeitnow:linguist-wolof-ui-technical-marketing-remote-36711</guid>
+      <title>[Model] AshBuk/dabri-models</title>
+      <link>https://huggingface.co/AshBuk/dabri-models</link>
+      <guid isPermaLink="false">hf:models:AshBuk/dabri-models</guid>
       <pubDate>Fri, 20 Nov 2026 00:00:00 +0000</pubDate>
-      <category>arbeitnow</category>
-      <description>About the Opportunity We are expanding our talent network and seeking skilled Wolof-language professionals with expertise in user interfaces, marketing localization, and retail content. Our ideal partners possess a nuanced command of…</description>
+      <category>huggingface</category>
+      <description></description>
     </item>
     <item>
-      <title>[Opportunity] Linguist - Malagasy - UI Technical / Marketing - Remote</title>
-      <link>https://www.arbeitnow.com/jobs/companies/lilt-production/linguist-malagasy-ui-technical-marketing-remote-305326</link>
-      <guid isPermaLink="false">arbeitnow:linguist-malagasy-ui-technical-marketing-remote-305326</guid>
-      <pubDate>Fri, 20 Nov 2026 00:00:00 +0000</pubDate>
-      <category>arbeitnow</category>
-      <description>About the Opportunity We are expanding our talent network and seeking skilled Malagasy-language professionals with expertise in user interfaces, marketing localization, and retail content. Our ideal partners possess a nuanced command of…</description>
-    </item>
-    <item>
-      <title>[Opportunity] Linguist - Shona - UI Technical / Marketing - Remote</title>
-      <link>https://www.arbeitnow.com/jobs/companies/lilt-production/linguist-shona-ui-technical-marketing-remote-128387</link>
-      <guid isPermaLink="false">arbeitnow:linguist-shona-ui-technical-marketing-remote-128387</guid>
-      <pubDate>Fri, 20 Nov 2026 00:00:00 +0000</pubDate>
-      <category>arbeitnow</category>
-      <description>About the Opportunity We are expanding our talent network and seeking skilled Shona-language professionals with expertise in user interfaces, marketing localization, and retail content. Our ideal partners possess a nuanced command of…</description>
-    </item>
-    <item>
-      <title>[Opportunity] Linguist - Oromo - UI Technical / Marketing - Remote</title>
-      <link>https://www.arbeitnow.com/jobs/companies/lilt-production/linguist-oromo-ui-technical-marketing-remote-332436</link>
-      <guid isPermaLink="false">arbeitnow:linguist-oromo-ui-technical-marketing-remote-332436</guid>
-      <pubDate>Fri, 20 Nov 2026 00:00:00 +0000</pubDate>
-      <category>arbeitnow</category>
-      <description>About the Opportunity We are expanding our talent network and seeking skilled Oromo-language professionals with expertise in user interfaces, marketing localization, and retail content. Our ideal partners possess a nuanced command of…</description>
-    </item>
-    <item>
-      <title>[Opportunity] Linguist - Mongolian - UI Technical / Marketing - Remote</title>
-      <link>https://www.arbeitnow.com/jobs/companies/lilt-production/linguist-mongolian-ui-technical-marketing-remote-337997</link>
-      <guid isPermaLink="false">arbeitnow:linguist-mongolian-ui-technical-marketing-remote-337997</guid>
-      <pubDate>Fri, 20 Nov 2026 00:00:00 +0000</pubDate>
-      <category>arbeitnow</category>
-      <description>About the Opportunity We are expanding our talent network and seeking skilled Mongolian-language professionals with expertise in user interfaces, marketing localization, and retail content. Our ideal partners possess a nuanced command of…</description>
-    </item>
-    <item>
-      <title>[Opportunity] LLM Engineer — Post-Training (Remote - UK)</title>
-      <link>https://www.arbeitnow.co.uk/jobs/companies/everai/llm-engineer-post-training-remote-uk-united-kingdom-244005</link>
-      <guid isPermaLink="false">arbeitnow:llm-engineer-post-training-remote-uk-united-kingdom-244005</guid>
-      <pubDate>Fri, 20 Nov 2026 00:00:00 +0000</pubDate>
-      <category>arbeitnow</category>
-      <description>Our Vision &amp; Products 🚀 EverAI — Building the Future of AI Companionship One of the Top Largest &amp; Fastest-Growing AI Companies in the World 60 Million Users in 3 years — Help Us Reach 100M first, 500M next At EverAI , we’re shaping what…</description>
-    </item>
-    <item>
-      <title>[Model] Phoonnx/vits-shi-mms-graphemes</title>
-      <link>https://huggingface.co/Phoonnx/vits-shi-mms-graphemes</link>
-      <guid isPermaLink="false">hf:models:Phoonnx/vits-shi-mms-graphemes</guid>
+      <title>[Model] CLODEI/Latxa-3-122B-A10B-NVFP4</title>
+      <link>https://huggingface.co/CLODEI/Latxa-3-122B-A10B-NVFP4</link>
+      <guid isPermaLink="false">hf:models:CLODEI/Latxa-3-122B-A10B-NVFP4</guid>
       <pubDate>Fri, 20 Nov 2026 00:00:00 +0000</pubDate>
       <category>huggingface</category>
       <description></description>
@@ -184,49 +360,9 @@
       <description></description>
     </item>
     <item>
-      <title>[Model] tomaarsen/gte-multilingual-mlm-base-native</title>
-      <link>https://huggingface.co/tomaarsen/gte-multilingual-mlm-base-native</link>
-      <guid isPermaLink="false">hf:models:tomaarsen/gte-multilingual-mlm-base-native</guid>
-      <pubDate>Fri, 20 Nov 2026 00:00:00 +0000</pubDate>
-      <category>huggingface</category>
-      <description></description>
-    </item>
-    <item>
-      <title>[Model] kaptionai/rumble-2-flash-ane</title>
-      <link>https://huggingface.co/kaptionai/rumble-2-flash-ane</link>
-      <guid isPermaLink="false">hf:models:kaptionai/rumble-2-flash-ane</guid>
-      <pubDate>Fri, 20 Nov 2026 00:00:00 +0000</pubDate>
-      <category>huggingface</category>
-      <description></description>
-    </item>
-    <item>
-      <title>[Model] kaptionai/Rumble-2-Flash-GGUF</title>
-      <link>https://huggingface.co/kaptionai/Rumble-2-Flash-GGUF</link>
-      <guid isPermaLink="false">hf:models:kaptionai/Rumble-2-Flash-GGUF</guid>
-      <pubDate>Fri, 20 Nov 2026 00:00:00 +0000</pubDate>
-      <category>huggingface</category>
-      <description></description>
-    </item>
-    <item>
-      <title>[Model] kaptionai/Rumble-2-Flash-GGUF-wasm</title>
-      <link>https://huggingface.co/kaptionai/Rumble-2-Flash-GGUF-wasm</link>
-      <guid isPermaLink="false">hf:models:kaptionai/Rumble-2-Flash-GGUF-wasm</guid>
-      <pubDate>Fri, 20 Nov 2026 00:00:00 +0000</pubDate>
-      <category>huggingface</category>
-      <description></description>
-    </item>
-    <item>
-      <title>[Model] kaptionai/rumble-2-flash-web</title>
-      <link>https://huggingface.co/kaptionai/rumble-2-flash-web</link>
-      <guid isPermaLink="false">hf:models:kaptionai/rumble-2-flash-web</guid>
-      <pubDate>Fri, 20 Nov 2026 00:00:00 +0000</pubDate>
-      <category>huggingface</category>
-      <description></description>
-    </item>
-    <item>
-      <title>[Model] CLODEI/Latxa-3-122B-A10B-NVFP4</title>
-      <link>https://huggingface.co/CLODEI/Latxa-3-122B-A10B-NVFP4</link>
-      <guid isPermaLink="false">hf:models:CLODEI/Latxa-3-122B-A10B-NVFP4</guid>
+      <title>[Model] Phoonnx/vits-shi-mms-graphemes</title>
+      <link>https://huggingface.co/Phoonnx/vits-shi-mms-graphemes</link>
+      <guid isPermaLink="false">hf:models:Phoonnx/vits-shi-mms-graphemes</guid>
       <pubDate>Fri, 20 Nov 2026 00:00:00 +0000</pubDate>
       <category>huggingface</category>
       <description></description>
@@ -248,6 +384,38 @@
       <description></description>
     </item>
     <item>
+      <title>[Model] kaptionai/Rumble-2-Flash-GGUF</title>
+      <link>https://huggingface.co/kaptionai/Rumble-2-Flash-GGUF</link>
+      <guid isPermaLink="false">hf:models:kaptionai/Rumble-2-Flash-GGUF</guid>
+      <pubDate>Fri, 20 Nov 2026 00:00:00 +0000</pubDate>
+      <category>huggingface</category>
+      <description></description>
+    </item>
+    <item>
+      <title>[Model] kaptionai/Rumble-2-Flash-GGUF-wasm</title>
+      <link>https://huggingface.co/kaptionai/Rumble-2-Flash-GGUF-wasm</link>
+      <guid isPermaLink="false">hf:models:kaptionai/Rumble-2-Flash-GGUF-wasm</guid>
+      <pubDate>Fri, 20 Nov 2026 00:00:00 +0000</pubDate>
+      <category>huggingface</category>
+      <description></description>
+    </item>
+    <item>
+      <title>[Model] kaptionai/rumble-2-flash-ane</title>
+      <link>https://huggingface.co/kaptionai/rumble-2-flash-ane</link>
+      <guid isPermaLink="false">hf:models:kaptionai/rumble-2-flash-ane</guid>
+      <pubDate>Fri, 20 Nov 2026 00:00:00 +0000</pubDate>
+      <category>huggingface</category>
+      <description></description>
+    </item>
+    <item>
+      <title>[Model] kaptionai/rumble-2-flash-web</title>
+      <link>https://huggingface.co/kaptionai/rumble-2-flash-web</link>
+      <guid isPermaLink="false">hf:models:kaptionai/rumble-2-flash-web</guid>
+      <pubDate>Fri, 20 Nov 2026 00:00:00 +0000</pubDate>
+      <category>huggingface</category>
+      <description></description>
+    </item>
+    <item>
       <title>[Model] struan-assembly/yapp-parakeet-tdt-0.6b-v3</title>
       <link>https://huggingface.co/struan-assembly/yapp-parakeet-tdt-0.6b-v3</link>
       <guid isPermaLink="false">hf:models:struan-assembly/yapp-parakeet-tdt-0.6b-v3</guid>
@@ -256,9 +424,9 @@
       <description></description>
     </item>
     <item>
-      <title>[Model] AshBuk/dabri-models</title>
-      <link>https://huggingface.co/AshBuk/dabri-models</link>
-      <guid isPermaLink="false">hf:models:AshBuk/dabri-models</guid>
+      <title>[Model] tomaarsen/gte-multilingual-mlm-base-native</title>
+      <link>https://huggingface.co/tomaarsen/gte-multilingual-mlm-base-native</link>
+      <guid isPermaLink="false">hf:models:tomaarsen/gte-multilingual-mlm-base-native</guid>
       <pubDate>Fri, 20 Nov 2026 00:00:00 +0000</pubDate>
       <category>huggingface</category>
       <description></description>
@@ -638,174 +806,6 @@
       <pubDate>Thu, 19 Nov 2026 00:00:00 +0000</pubDate>
       <category>huggingface</category>
       <description></description>
-    </item>
-    <item>
-      <title>[Model] Jeffarese/flowie-ca-es-conformer-coreml</title>
-      <link>https://huggingface.co/Jeffarese/flowie-ca-es-conformer-coreml</link>
-      <guid isPermaLink="false">hf:models:Jeffarese/flowie-ca-es-conformer-coreml</guid>
-      <pubDate>Thu, 19 Nov 2026 00:00:00 +0000</pubDate>
-      <category>huggingface</category>
-      <description></description>
-    </item>
-    <item>
-      <title>[Model] Phoonnx/vits-kab-mms-graphemes</title>
-      <link>https://huggingface.co/Phoonnx/vits-kab-mms-graphemes</link>
-      <guid isPermaLink="false">hf:models:Phoonnx/vits-kab-mms-graphemes</guid>
-      <pubDate>Thu, 19 Nov 2026 00:00:00 +0000</pubDate>
-      <category>huggingface</category>
-      <description></description>
-    </item>
-    <item>
-      <title>[Model] TechnoBaptist/Rumble-2-Flash</title>
-      <link>https://huggingface.co/TechnoBaptist/Rumble-2-Flash</link>
-      <guid isPermaLink="false">hf:models:TechnoBaptist/Rumble-2-Flash</guid>
-      <pubDate>Thu, 19 Nov 2026 00:00:00 +0000</pubDate>
-      <category>huggingface</category>
-      <description></description>
-    </item>
-    <item>
-      <title>[Model] Tilas/nemotron-3.5-darija-v1</title>
-      <link>https://huggingface.co/Tilas/nemotron-3.5-darija-v1</link>
-      <guid isPermaLink="false">hf:models:Tilas/nemotron-3.5-darija-v1</guid>
-      <pubDate>Thu, 19 Nov 2026 00:00:00 +0000</pubDate>
-      <category>huggingface</category>
-      <description></description>
-    </item>
-    <item>
-      <title>[Model] atrezonator/NVIDIA-Nemotron-3.5-Transcribe-30B-A4B</title>
-      <link>https://huggingface.co/atrezonator/NVIDIA-Nemotron-3.5-Transcribe-30B-A4B</link>
-      <guid isPermaLink="false">hf:models:atrezonator/NVIDIA-Nemotron-3.5-Transcribe-30B-A4B</guid>
-      <pubDate>Thu, 19 Nov 2026 00:00:00 +0000</pubDate>
-      <category>huggingface</category>
-      <description></description>
-    </item>
-    <item>
-      <title>[Model] kaptionai/parakeet-tdt-0.6b-v3-ultra-onnx-q4</title>
-      <link>https://huggingface.co/kaptionai/parakeet-tdt-0.6b-v3-ultra-onnx-q4</link>
-      <guid isPermaLink="false">hf:models:kaptionai/parakeet-tdt-0.6b-v3-ultra-onnx-q4</guid>
-      <pubDate>Thu, 19 Nov 2026 00:00:00 +0000</pubDate>
-      <category>huggingface</category>
-      <description></description>
-    </item>
-    <item>
-      <title>[Model] kwar9898/parakeet-tdt-0.6b-v3</title>
-      <link>https://huggingface.co/kwar9898/parakeet-tdt-0.6b-v3</link>
-      <guid isPermaLink="false">hf:models:kwar9898/parakeet-tdt-0.6b-v3</guid>
-      <pubDate>Thu, 19 Nov 2026 00:00:00 +0000</pubDate>
-      <category>huggingface</category>
-      <description></description>
-    </item>
-    <item>
-      <title>[Model] s1nju/zaki-livekit-wakeword-onnx</title>
-      <link>https://huggingface.co/s1nju/zaki-livekit-wakeword-onnx</link>
-      <guid isPermaLink="false">hf:models:s1nju/zaki-livekit-wakeword-onnx</guid>
-      <pubDate>Thu, 19 Nov 2026 00:00:00 +0000</pubDate>
-      <category>huggingface</category>
-      <description></description>
-    </item>
-    <item>
-      <title>[Corpus] Newcomer cohorts in four Wikipedia language editions. Aggregate dataset (version 2)</title>
-      <link>https://zenodo.org/records/24355276</link>
-      <guid isPermaLink="false">zenodo:23434678</guid>
-      <pubDate>Thu, 19 Nov 2026 00:00:00 +0000</pubDate>
-      <category>zenodo</category>
-      <description>Aggregate result tables underlying version 2 of the technical report Constructing newcomer cohorts from Wikimedia logs. Two archives and a README: twelve CSV files covering accounts registered in the Polish, Czech, Hungarian and Danish…</description>
-    </item>
-    <item>
-      <title>[Tool] sudanese-asr-eval: split, normaliser and scoring for Sudanese Arabic ASR</title>
-      <link>https://zenodo.org/records/24354752</link>
-      <guid isPermaLink="false">zenodo:24354751</guid>
-      <pubDate>Thu, 19 Nov 2026 00:00:00 +0000</pubDate>
-      <category>zenodo</category>
-      <description>Code, speaker-disjoint split and text-free per-clip scores for the paper "What Is in a WER? Reproducible Evaluation of Whisper for Sudanese Arabic" (Saifuddin Ahmed, 2026). Includes an installable Python module and CLI with three text…</description>
-    </item>
-    <item>
-      <title>[Corpus] MineAITechnology/mine-embed-v3-dataset</title>
-      <link>https://huggingface.co/datasets/MineAITechnology/mine-embed-v3-dataset</link>
-      <guid isPermaLink="false">hf:datasets:MineAITechnology/mine-embed-v3-dataset</guid>
-      <pubDate>Thu, 19 Nov 2026 00:00:00 +0000</pubDate>
-      <category>huggingface</category>
-      <description>mine-embed multilingual pairs: one .npy file 4,647,029 cleaned, deduplicated text pairs in 71 public sources for training multilingual embedding models, already tokenized and packed into one NumPy file: mine_embed_v4_pairs.npy. File What…</description>
-    </item>
-    <item>
-      <title>[Model] OVHaiLLM/Olala-v1.0-mini-7A1B-MLX</title>
-      <link>https://huggingface.co/OVHaiLLM/Olala-v1.0-mini-7A1B-MLX</link>
-      <guid isPermaLink="false">hf:models:OVHaiLLM/Olala-v1.0-mini-7A1B-MLX</guid>
-      <pubDate>Thu, 19 Nov 2026 00:00:00 +0000</pubDate>
-      <category>huggingface</category>
-      <description></description>
-    </item>
-    <item>
-      <title>[Model] OVHaiLLM/Olala-v1.0-mini-7A1B-base</title>
-      <link>https://huggingface.co/OVHaiLLM/Olala-v1.0-mini-7A1B-base</link>
-      <guid isPermaLink="false">hf:models:OVHaiLLM/Olala-v1.0-mini-7A1B-base</guid>
-      <pubDate>Thu, 19 Nov 2026 00:00:00 +0000</pubDate>
-      <category>huggingface</category>
-      <description></description>
-    </item>
-    <item>
-      <title>[Model] akmalmanggala/pdu-apd-detection-yolo11</title>
-      <link>https://huggingface.co/akmalmanggala/pdu-apd-detection-yolo11</link>
-      <guid isPermaLink="false">hf:models:akmalmanggala/pdu-apd-detection-yolo11</guid>
-      <pubDate>Thu, 19 Nov 2026 00:00:00 +0000</pubDate>
-      <category>huggingface</category>
-      <description></description>
-    </item>
-    <item>
-      <title>[Corpus] jaio98/Basque-dialectal-Flores</title>
-      <link>https://huggingface.co/datasets/jaio98/Basque-dialectal-Flores</link>
-      <guid isPermaLink="false">hf:datasets:jaio98/Basque-dialectal-Flores</guid>
-      <pubDate>Thu, 19 Nov 2026 00:00:00 +0000</pubDate>
-      <category>huggingface</category>
-      <description></description>
-    </item>
-    <item>
-      <title>[Paper] Tasleḍt n Wungal " Inig aneggaru" n Brahim TAZƔART</title>
-      <link>https://dspace.ummto.dz/handle/ummto/31829</link>
-      <guid isPermaLink="false">dspace:ummto:ummto/31829</guid>
-      <pubDate>Wed, 18 Nov 2026 00:00:00 +0000</pubDate>
-      <category>dspace</category>
-      <description>Di tagara n leqdec-nteɣ ad d-naf tiririt i usteqssi id nefka di tazwara , aya yellad s tesleḍt I ngga i ungal ‟inig aneggaru ‟ n Brahim tazeɣert , iwakken ad nessaweḍ ɣer yiswi- nteɣ . Ilmend n sin yiḥricen i nexddem i tezwert-nteɣ ladɣa…</description>
-    </item>
-    <item>
-      <title>[Paper] Tasuqilt n udlis دمعة و ابتسامة n Ǧubran Xalil Ǧubran ɣer teqbaylit</title>
-      <link>https://dspace.ummto.dz/handle/ummto/31830</link>
-      <guid isPermaLink="false">dspace:ummto:ummto/31830</guid>
-      <pubDate>Wed, 18 Nov 2026 00:00:00 +0000</pubDate>
-      <category>dspace</category>
-      <description>À travers notre travail portant sur la traduction du livre دمعة وابتسامة de جبران خليل جبران , nous avons étudié les procédés de traduction des images stylistiques, notamment la comparaison et la métaphore. Nous avons d’abord traduit les…</description>
-    </item>
-    <item>
-      <title>[Paper] Étude descriptive des jeux traditionnels après l’indépendance au village Laksar commune TIRMITINE</title>
-      <link>https://dspace.ummto.dz/handle/ummto/31831</link>
-      <guid isPermaLink="false">dspace:ummto:ummto/31831</guid>
-      <pubDate>Wed, 18 Nov 2026 00:00:00 +0000</pubDate>
-      <category>dspace</category>
-      <description>Tamurt n Leqbayel, d tamnaḍt i iḥerzen insayen 133, amezruy d yidles-ines. Gar yinsayen- is, llan wuraren imensayen134. Azarug n Lezzayer deg 1962 d tallit n yisenfal135 inmettiyen, idelsanen d yidemsanen, yerna lḥers-nsen ɣef tɣawsiwin…</description>
-    </item>
-    <item>
-      <title>[Paper] Analyse morphologique et sémantique de vocabulaire des maladies des os et les soins traditionnels de quelques régions dans la wilaya de Tizi-Ouzou</title>
-      <link>https://dspace.ummto.dz/handle/ummto/31834</link>
-      <guid isPermaLink="false">dspace:ummto:ummto/31834</guid>
-      <pubDate>Wed, 18 Nov 2026 00:00:00 +0000</pubDate>
-      <category>dspace</category>
-      <description>Asentel n ukatay-agi « tasleḍt talɣawayt, tasnemkayt n umawal n waṭtanen n yeɣsan d ulawi n tmurt deg kra n tɣiwanin n tizi wazzu ». Uqbel ad nessaweḍ ɣer leqdic-agi yellan gar ifassen-nneɣ aṭas n takkayin iɣef iɛedda ,di tazwara uqbel ad…</description>
-    </item>
-    <item>
-      <title>[Paper] Lexique des plantes médicinales dans la région de Naciria (Boumerdes). Analyse lexicographique</title>
-      <link>https://dspace.ummto.dz/handle/ummto/31836</link>
-      <guid isPermaLink="false">dspace:ummto:ummto/31836</guid>
-      <pubDate>Wed, 18 Nov 2026 00:00:00 +0000</pubDate>
-      <category>dspace</category>
-      <description>Deg leqrun-a, tutlayt tamaziɣt tesɛedda aṭas n wuguren, ladɣa wid yerzan tiḥemliwin (colonisation) yemgaraden: tibizantiyin, tiṛumyin, taɛṛabt, taṭerkit, d tefṛensist. Iḍrisen-a i d-yeddan deffir-sen sqeɛden asnerni-nnes d usnerni-nnes,…</description>
-    </item>
-    <item>
-      <title>[Paper] L’Algérie en devenir : histoire, culture et identité Dans Bleu Blanc Vert de Maissa Bey</title>
-      <link>https://dspace.ummto.dz/handle/ummto/31837</link>
-      <guid isPermaLink="false">dspace:ummto:ummto/31837</guid>
-      <pubDate>Wed, 18 Nov 2026 00:00:00 +0000</pubDate>
-      <category>dspace</category>
-      <description>La littérature algérienne fait partie de la littérature maghrébine. Elle se décline en plusieurs langues, à savoir l'arabe, le berbère et le français. La production littéraire en langue française s'ancre dans un contexte socio-historique…</description>
     </item>
   </channel>
 </rss>
