@@ -498,6 +498,10 @@
   "location": "on earch",
   "name": "Ray Wang"
  },
+ "gh:indie-researcher": {
+  "location": null,
+  "name": "indie-researcher"
+ },
  "gh:interactive-active-ai": {
   "location": "Hong Kong",
   "name": "Interactive & Active AI"
@@ -789,6 +793,10 @@
  "gh:yellowlaborermarket": {
   "location": null,
   "name": "yellowlaborermarket"
+ },
+ "gh:ysunyang4": {
+  "location": null,
+  "name": "Ryan Sun"
  },
  "gh:ytjanmind": {
   "location": "Toulouse, France",
@@ -1083,6 +1091,9 @@
  "hf:cluesurf": {
   "fullname": "ClueSurf"
  },
+ "hf:codebucketsolutions": {
+  "fullname": "Codebucket Solutions"
+ },
  "hf:codepawl": {
   "fullname": "CodePawl"
  },
@@ -1158,6 +1169,9 @@
  },
  "hf:edvv1n": null,
  "hf:egekocabas": null,
+ "hf:eidora": {
+  "fullname": "eidora.org"
+ },
  "hf:ekanshbfoe": null,
  "hf:elissatag": null,
  "hf:elmehdismili": null,
@@ -1205,12 +1219,14 @@
   "fullname": "French Open Data"
  },
  "hf:fromdeath2morning": null,
+ "hf:fyychs": null,
  "hf:gabmerlo": null,
  "hf:gagni": null,
  "hf:gaia-benchmark": {
   "fullname": "GAIA"
  },
  "hf:gamallo": null,
+ "hf:garret2k2": null,
  "hf:gdacciaro": null,
  "hf:ggaaaga": null,
  "hf:ggghv": null,
@@ -1238,6 +1254,7 @@
  "hf:hadidiz9": null,
  "hf:hafsa0": null,
  "hf:haitam03": null,
+ "hf:hajili": null,
  "hf:hammedalmodel": null,
  "hf:hamzaweb3": null,
  "hf:hannahbillo": null,
@@ -1373,6 +1390,7 @@
  "hf:kataguru": null,
  "hf:katmarie": null,
  "hf:kefranabg": null,
+ "hf:keremtt": null,
  "hf:kevinbalistreri": null,
  "hf:khdidij": null,
  "hf:kirilldual0987": null,
@@ -1391,6 +1409,7 @@
  "hf:laion": {
   "fullname": "LAION eV"
  },
+ "hf:lakonik": null,
  "hf:lambfool15": null,
  "hf:langtech-innovation": {
   "fullname": "AI Institute Applied Intelligence"
@@ -1484,6 +1503,9 @@
  "hf:mihaipopa-1": null,
  "hf:mijuanlo": null,
  "hf:mimech011": null,
+ "hf:mineaitechnology": {
+  "fullname": "MineAI Technology"
+ },
  "hf:minhtandangtt": null,
  "hf:minimaxai": {
   "fullname": "MiniMax"
@@ -1497,6 +1519,7 @@
  "hf:mistralai": {
   "fullname": "Mistral"
  },
+ "hf:mlabonne": null,
  "hf:mlnomad": null,
  "hf:mlrs": {
   "fullname": "Maltese Language Resource Server"
@@ -1740,6 +1763,7 @@
  "hf:software-mansion": {
   "fullname": "Software Mansion AI Labs"
  },
+ "hf:somanon": null,
  "hf:sonoale": null,
  "hf:speakleash": {
   "fullname": "SpeakLeash | Spichlerz"
@@ -1808,6 +1832,7 @@
  "hf:tokentinkerer": null,
  "hf:tomaarsen": null,
  "hf:tomaszki": null,
+ "hf:tommyfara": null,
  "hf:topherau": null,
  "hf:torkovweryyy": null,
  "hf:tornadolabs": {
@@ -1943,6 +1968,7 @@
  "independent researcher": null,
  "independent researcher in linguistics and translation studies": null,
  "independent researcher in linguistics mumbai, india": null,
+ "independent researcher, anaheim, california, usa": null,
  "independent researcher, brno, czech republic": null,
  "independent software developer and proprietary commercial intellectual property owner.": null,
  "institució catalana de recerca i estudis avançats": null,
@@ -2018,10 +2044,20 @@
   "label": "KSAU-HS"
  },
  "korea railroad research institute": null,
+ "kozminski university": {
+  "lat": 52.2715,
+  "lng": 21.014,
+  "label": "Akademia Leona Koźmińskiego"
+ },
  "kraków": {
   "lat": 50.0619,
   "lng": 19.9369,
   "label": "Cracovie"
+ },
+ "kryvyi rih state pedagogical university": {
+  "lat": 47.9069,
+  "lng": 33.4118,
+  "label": "Криворізький державний педагогічний університет"
  },
  "ku leuven": {
   "lat": 50.8057,
@@ -2073,6 +2109,11 @@
   "lat": 38.7078,
   "lng": -9.1366,
   "label": "Lisbonne"
+ },
+ "lomonosov moscow state university": {
+  "lat": 55.7012,
+  "lng": 37.5276,
+  "label": "М. В. Ломоносову"
  },
  "london": {
   "lat": 51.5074,
@@ -2145,6 +2186,7 @@
   "label": "Mannheim"
  },
  "master student, study program linguistik (s2), universitas pendidikan indonesia": null,
+ "master's student, department of foreign  language and literature chirchik state pedagogical university": null,
  "master's student, department of foreign language and literature chirchik state pedagogical university": null,
  "medical experimental center, jieyang people's hospital": null,
  "metacognition institute": null,
@@ -2363,6 +2405,11 @@
  },
  "senior lecturer, department of foreign languages philology, andijan state university, phd in philological sciences": null,
  "senior lecturer, uzbekistan state university  of physical education and sport": null,
+ "sepuluh nopember institute of technology": {
+  "lat": -7.2827,
+  "lng": 112.7957,
+  "label": "Institut Teknologi Sepuluh Nopember"
+ },
  "shanghai maritime university": {
   "lat": 30.877,
   "lng": 121.9002,
@@ -2378,6 +2425,7 @@
   "lng": 114.0545,
   "label": "Shenzhen"
  },
+ "sidi mohamed ben abdellah university": null,
  "singapore": {
   "lat": 1.3571,
   "lng": 103.8195,
@@ -2461,6 +2509,11 @@
   "label": "São Paulo"
  },
  "tadeusz manteuffel institute of history": null,
+ "tampere university": {
+  "lat": 61.4947,
+  "lng": 23.7777,
+  "label": "Université"
+ },
  "taras shevchenko national university of kyiv": {
   "lat": 50.3842,
   "lng": 30.4743,
@@ -2765,6 +2818,11 @@
   "lng": 2.2177,
   "label": "Lorraine"
  },
+ "université de montpellier (2022-....)": {
+  "lat": 43.6316,
+  "lng": 3.8618,
+  "label": "Université de Montpellier"
+ },
  "université de montpellier paul-valéry": {
   "lat": 43.6325,
   "lng": 3.8701,
@@ -2805,6 +2863,11 @@
   "lat": 48.7122,
   "lng": 2.1735,
   "label": "Université Paris-Saclay"
+ },
+ "unsw sydney": {
+  "lat": -33.9062,
+  "lng": 151.2347,
+  "label": "Université de New South Wales"
  },
  "uppsala": {
   "lat": 59.8586,
@@ -3042,6 +3105,7 @@
   "geo_source": "Wikidata · Cloudflare"
  },
  "wdn:cluesurf": null,
+ "wdn:codebucket solutions": null,
  "wdn:codepawl": null,
  "wdn:cognitive machine learning ens": null,
  "wdn:comfy org": null,
@@ -3067,6 +3131,7 @@
  "wdn:diction labs": null,
  "wdn:dreambel tech": null,
  "wdn:edge0": null,
+ "wdn:eidora org": null,
  "wdn:empiriolabs ai": null,
  "wdn:epfl machine learning and optimization laboratory": null,
  "wdn:espnet": null,
@@ -3142,6 +3207,7 @@
   "region": "États-Unis",
   "geo_source": "Wikidata · Microsoft"
  },
+ "wdn:mineai technology": null,
  "wdn:minimax": {
   "lat": 31.2325,
   "lng": 121.4692,

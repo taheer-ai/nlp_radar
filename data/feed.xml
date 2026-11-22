@@ -6,7 +6,279 @@
     <atom:link href="https://omnital.github.io/data/feed.xml" rel="self" type="application/rss+xml"/>
     <description>Nouvelles ressources en traitement automatique des langues (arXiv, HAL, Hugging Face, GitHub, WikiCFP).</description>
     <language>fr</language>
-    <lastBuildDate>Sat, 21 Nov 2026 14:39:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 22 Nov 2026 14:31:34 +0000</lastBuildDate>
+    <item>
+      <title>[Corpus] Phoonnx/tts-vc-kabyle-22khz-kab-dz-dii</title>
+      <link>https://huggingface.co/datasets/Phoonnx/tts-vc-kabyle-22khz-kab-dz-dii</link>
+      <guid isPermaLink="false">hf:datasets:Phoonnx/tts-vc-kabyle-22khz-kab-dz-dii</guid>
+      <pubDate>Sun, 22 Nov 2026 00:00:00 +0000</pubDate>
+      <category>huggingface</category>
+      <description>tts-vc-kabyle-22khz-kab-dz-dii This is a single-speaker speech dataset for Kabyle. It carries the Dii voice, a female voice. Source audio comes from boffire/kabyle-piper-22khz, in Algerian (Beber) Kabyle. The audio was converted to the…</description>
+    </item>
+    <item>
+      <title>[Model] mikelalda/audio8-tts-eu</title>
+      <link>https://huggingface.co/mikelalda/audio8-tts-eu</link>
+      <guid isPermaLink="false">hf:models:mikelalda/audio8-tts-eu</guid>
+      <pubDate>Sun, 22 Nov 2026 00:00:00 +0000</pubDate>
+      <category>huggingface</category>
+      <description></description>
+    </item>
+    <item>
+      <title>[Model] Phoonnx/vits-eu-maider-espeak-v2</title>
+      <link>https://huggingface.co/Phoonnx/vits-eu-maider-espeak-v2</link>
+      <guid isPermaLink="false">hf:models:Phoonnx/vits-eu-maider-espeak-v2</guid>
+      <pubDate>Sun, 22 Nov 2026 00:00:00 +0000</pubDate>
+      <category>huggingface</category>
+      <description></description>
+    </item>
+    <item>
+      <title>[Model] Phoonnx/vits-eu-antton-espeak-v2</title>
+      <link>https://huggingface.co/Phoonnx/vits-eu-antton-espeak-v2</link>
+      <guid isPermaLink="false">hf:models:Phoonnx/vits-eu-antton-espeak-v2</guid>
+      <pubDate>Sun, 22 Nov 2026 00:00:00 +0000</pubDate>
+      <category>huggingface</category>
+      <description></description>
+    </item>
+    <item>
+      <title>[Model] EIDORA/AST_Audio_768</title>
+      <link>https://huggingface.co/EIDORA/AST_Audio_768</link>
+      <guid isPermaLink="false">hf:models:EIDORA/AST_Audio_768</guid>
+      <pubDate>Sun, 22 Nov 2026 00:00:00 +0000</pubDate>
+      <category>huggingface</category>
+      <description></description>
+    </item>
+    <item>
+      <title>[Model] fyychs/parakeet-tdt-0.6b-v3-fp16-sherpa-onnx</title>
+      <link>https://huggingface.co/fyychs/parakeet-tdt-0.6b-v3-fp16-sherpa-onnx</link>
+      <guid isPermaLink="false">hf:models:fyychs/parakeet-tdt-0.6b-v3-fp16-sherpa-onnx</guid>
+      <pubDate>Sun, 22 Nov 2026 00:00:00 +0000</pubDate>
+      <category>huggingface</category>
+      <description></description>
+    </item>
+    <item>
+      <title>[Model] garret2k2/talksify-qwen35-0.8b-gguf</title>
+      <link>https://huggingface.co/garret2k2/talksify-qwen35-0.8b-gguf</link>
+      <guid isPermaLink="false">hf:models:garret2k2/talksify-qwen35-0.8b-gguf</guid>
+      <pubDate>Sun, 22 Nov 2026 00:00:00 +0000</pubDate>
+      <category>huggingface</category>
+      <description></description>
+    </item>
+    <item>
+      <title>[Paper] Étude onomastique des noms de familles dans deux régions kabyles différentes : Ain-Zaouïa (Draa El Mizane), et Akaoudj (Ait Aissa Mimoun).</title>
+      <link>https://dspace.ummto.dz/handle/ummto/31901</link>
+      <guid isPermaLink="false">dspace:ummto:ummto/31901</guid>
+      <pubDate>Sun, 22 Nov 2026 00:00:00 +0000</pubDate>
+      <category>dspace</category>
+      <description>Dans notre travail de recherche intitulé « Étude anthropologique des noms de famille dans deux régions différentes : Aïn-Zaouïa (Draâ El Mizan) et Akaoudj (Aït Aïssa Mimoun) », qui s’inscrit dans le domaine de l’onomastique — la science…</description>
+    </item>
+    <item>
+      <title>[Paper] Tasleḍt tasugnant n tmedyazt n tmeṭṭut di temnaḍt n Bujimaɛ</title>
+      <link>https://dspace.ummto.dz/handle/ummto/31912</link>
+      <guid isPermaLink="false">dspace:ummto:ummto/31912</guid>
+      <pubDate>Sun, 22 Nov 2026 00:00:00 +0000</pubDate>
+      <category>dspace</category>
+      <description>Akatay-agi-nteɣ yella-d s umata ɣef wammud n yisefra id-nejmeɛ deg wannar ɣer temɣarin di temnaḍt n Bujimaɛ, nessaweḍ ad d-nawi aṭas n yisalen ɣef wayen texddem tmeṭṭut taqbaylit zik. Deg-s nesebgen-d tamedyazt n tmeṭṭut tesɛa aṭas n…</description>
+    </item>
+    <item>
+      <title>[Paper] Tazrawt n umawal atrar d umawal aqbur deg ungal tiɣilt n umadeɣ n zedek mulud</title>
+      <link>https://dspace.ummto.dz/handle/ummto/31911</link>
+      <guid isPermaLink="false">dspace:ummto:ummto/31911</guid>
+      <pubDate>Sun, 22 Nov 2026 00:00:00 +0000</pubDate>
+      <category>dspace</category>
+      <description>Deg tezrawt-agi newwi-d awal ɣef yiwalnuten i yellan deg ungal i yura ZEDEK MULUD,naɛreḍ akken ad nruḥ neɣ anezdder s telqay akken ad nefren awalen-agi gar wid yellan d imaynuten d wid yellan d iqeburen. Leqdic-nneɣ yebḍa ɣef ssin…</description>
+    </item>
+    <item>
+      <title>[Paper] Analyse sociolinguistique de quelques publications et commentaires des kabylophones sur Facebook</title>
+      <link>https://dspace.ummto.dz/handle/ummto/31910</link>
+      <guid isPermaLink="false">dspace:ummto:ummto/31910</guid>
+      <pubDate>Sun, 22 Nov 2026 00:00:00 +0000</pubDate>
+      <category>dspace</category>
+      <description>Tatiknulujit tes3a azal dameqqran di tuder neƔ n yall ass . Deg zerawt-neƔ nebbid awal Ɣef wannar n l Facebook .iwaken ad neswelah wid isexdamen tamaziƔt acku aṭas n yimdanen ama d arac imecṭaḥ ama d imeqranen, tameṭṭut, argaz i…</description>
+    </item>
+    <item>
+      <title>[Paper] Tazrawt n yiwudam deg wungal “Anza”</title>
+      <link>https://dspace.ummto.dz/handle/ummto/31902</link>
+      <guid isPermaLink="false">dspace:ummto:ummto/31902</guid>
+      <pubDate>Sun, 22 Nov 2026 00:00:00 +0000</pubDate>
+      <category>dspace</category>
+      <description>Axeddim-a d win i d-yuwin awal ɣef yiwudam deg wungal «Anza» n Fahim Mesɛuden, xedmeɣ ɣef yiwudam i d-yexlaq umeskar d tulmisin d temliliyin i yettak i yal yiwen deg-sen. Ɛerḍeɣ ad geɣ tasleḍt n tiẓri n «Philippe Hamon» iwakken ad…</description>
+    </item>
+    <item>
+      <title>[Corpus] Phoonnx/tts-vc-kabyle-22khz-kab-dz-miro</title>
+      <link>https://huggingface.co/datasets/Phoonnx/tts-vc-kabyle-22khz-kab-dz-miro</link>
+      <guid isPermaLink="false">hf:datasets:Phoonnx/tts-vc-kabyle-22khz-kab-dz-miro</guid>
+      <pubDate>Sun, 22 Nov 2026 00:00:00 +0000</pubDate>
+      <category>huggingface</category>
+      <description>tts-vc-kabyle-22khz-kab-dz-miro This is a single-speaker speech dataset for Kabyle. It carries the Miro voice, a male voice. Source audio comes from boffire/kabyle-piper-22khz, in Algerian (Beber) Kabyle. The audio was converted to the…</description>
+    </item>
+    <item>
+      <title>[Model] SomAnon/Olala-v1.0-mini-7A1B-heretic-firsttry</title>
+      <link>https://huggingface.co/SomAnon/Olala-v1.0-mini-7A1B-heretic-firsttry</link>
+      <guid isPermaLink="false">hf:models:SomAnon/Olala-v1.0-mini-7A1B-heretic-firsttry</guid>
+      <pubDate>Sun, 22 Nov 2026 00:00:00 +0000</pubDate>
+      <category>huggingface</category>
+      <description></description>
+    </item>
+    <item>
+      <title>[Model] hajili/qwen3.5-0.8b-language-patches</title>
+      <link>https://huggingface.co/hajili/qwen3.5-0.8b-language-patches</link>
+      <guid isPermaLink="false">hf:models:hajili/qwen3.5-0.8b-language-patches</guid>
+      <pubDate>Sun, 22 Nov 2026 00:00:00 +0000</pubDate>
+      <category>huggingface</category>
+      <description></description>
+    </item>
+    <item>
+      <title>[Model] bartowski/HiTZ_Latxa-3-122B-A10B-GGUF</title>
+      <link>https://huggingface.co/bartowski/HiTZ_Latxa-3-122B-A10B-GGUF</link>
+      <guid isPermaLink="false">hf:models:bartowski/HiTZ_Latxa-3-122B-A10B-GGUF</guid>
+      <pubDate>Sun, 22 Nov 2026 00:00:00 +0000</pubDate>
+      <category>huggingface</category>
+      <description></description>
+    </item>
+    <item>
+      <title>[Model] tommyfara/testo-parakeet-tdt-0.6b-v3-int8</title>
+      <link>https://huggingface.co/tommyfara/testo-parakeet-tdt-0.6b-v3-int8</link>
+      <guid isPermaLink="false">hf:models:tommyfara/testo-parakeet-tdt-0.6b-v3-int8</guid>
+      <pubDate>Sun, 22 Nov 2026 00:00:00 +0000</pubDate>
+      <category>huggingface</category>
+      <description></description>
+    </item>
+    <item>
+      <title>[Model] codebucketsolutions/asr-wav2vec2-dvoice-darija-onnx</title>
+      <link>https://huggingface.co/codebucketsolutions/asr-wav2vec2-dvoice-darija-onnx</link>
+      <guid isPermaLink="false">hf:models:codebucketsolutions/asr-wav2vec2-dvoice-darija-onnx</guid>
+      <pubDate>Sun, 22 Nov 2026 00:00:00 +0000</pubDate>
+      <category>huggingface</category>
+      <description></description>
+    </item>
+    <item>
+      <title>[Model] algerian-nlp/DZAIR-2</title>
+      <link>https://huggingface.co/algerian-nlp/DZAIR-2</link>
+      <guid isPermaLink="false">hf:models:algerian-nlp/DZAIR-2</guid>
+      <pubDate>Sun, 22 Nov 2026 00:00:00 +0000</pubDate>
+      <category>huggingface</category>
+      <description></description>
+    </item>
+    <item>
+      <title>[Tool] jomanasalah1/NABRAH-Sign-language-translator-NLP</title>
+      <link>https://github.com/jomanasalah1/NABRAH-Sign-language-translator-NLP</link>
+      <guid isPermaLink="false">gh:jomanasalah1/nabrah-sign-language-translator-nlp</guid>
+      <pubDate>Sun, 22 Nov 2026 00:00:00 +0000</pubDate>
+      <category>github</category>
+      <description>NLP engine for NABRAH, a sign language translator: bidirectional English/ASL gloss translation (FLAN-T5 + LoRA) and Egyptian Arabic/EgySL gloss translation (Gemini).</description>
+    </item>
+    <item>
+      <title>[Tool] mohamedhadouu/agridarija-voice-assistant</title>
+      <link>https://github.com/mohamedhadouu/agridarija-voice-assistant</link>
+      <guid isPermaLink="false">gh:mohamedhadouu/agridarija-voice-assistant</guid>
+      <pubDate>Sun, 22 Nov 2026 00:00:00 +0000</pubDate>
+      <category>github</category>
+      <description>Voice assistant in Moroccan Darija for agriculture: RAG (FAISS + MongoDB), GPT-4o, Whisper speech-to-text and TTS, Flask web app</description>
+    </item>
+    <item>
+      <title>[Model] fihriaLab/fihrIA-ASR-1.7B-GGUF</title>
+      <link>https://huggingface.co/fihriaLab/fihrIA-ASR-1.7B-GGUF</link>
+      <guid isPermaLink="false">hf:models:fihriaLab/fihrIA-ASR-1.7B-GGUF</guid>
+      <pubDate>Sun, 22 Nov 2026 00:00:00 +0000</pubDate>
+      <category>huggingface</category>
+      <description></description>
+    </item>
+    <item>
+      <title>[Model] fihriaLab/fihrIA-ASR-0.6B-GGUF</title>
+      <link>https://huggingface.co/fihriaLab/fihrIA-ASR-0.6B-GGUF</link>
+      <guid isPermaLink="false">hf:models:fihriaLab/fihrIA-ASR-0.6B-GGUF</guid>
+      <pubDate>Sun, 22 Nov 2026 00:00:00 +0000</pubDate>
+      <category>huggingface</category>
+      <description></description>
+    </item>
+    <item>
+      <title>[Model] fihriaLab/fihrIA-ASR-1.7B</title>
+      <link>https://huggingface.co/fihriaLab/fihrIA-ASR-1.7B</link>
+      <guid isPermaLink="false">hf:models:fihriaLab/fihrIA-ASR-1.7B</guid>
+      <pubDate>Sun, 22 Nov 2026 00:00:00 +0000</pubDate>
+      <category>huggingface</category>
+      <description></description>
+    </item>
+    <item>
+      <title>[Model] MineAITechnology/mine-embed-v3-pilot</title>
+      <link>https://huggingface.co/MineAITechnology/mine-embed-v3-pilot</link>
+      <guid isPermaLink="false">hf:models:MineAITechnology/mine-embed-v3-pilot</guid>
+      <pubDate>Sun, 22 Nov 2026 00:00:00 +0000</pubDate>
+      <category>huggingface</category>
+      <description></description>
+    </item>
+    <item>
+      <title>[Model] fihriaLab/fihrIA-ASR-0.6B</title>
+      <link>https://huggingface.co/fihriaLab/fihrIA-ASR-0.6B</link>
+      <guid isPermaLink="false">hf:models:fihriaLab/fihrIA-ASR-0.6B</guid>
+      <pubDate>Sun, 22 Nov 2026 00:00:00 +0000</pubDate>
+      <category>huggingface</category>
+      <description></description>
+    </item>
+    <item>
+      <title>[Model] touati-kamel/Hadra-TTS-xtts</title>
+      <link>https://huggingface.co/touati-kamel/Hadra-TTS-xtts</link>
+      <guid isPermaLink="false">hf:models:touati-kamel/Hadra-TTS-xtts</guid>
+      <pubDate>Sun, 22 Nov 2026 00:00:00 +0000</pubDate>
+      <category>huggingface</category>
+      <description></description>
+    </item>
+    <item>
+      <title>[Model] mahmoudalrefaey/amina-tts</title>
+      <link>https://huggingface.co/mahmoudalrefaey/amina-tts</link>
+      <guid isPermaLink="false">hf:models:mahmoudalrefaey/amina-tts</guid>
+      <pubDate>Sun, 22 Nov 2026 00:00:00 +0000</pubDate>
+      <category>huggingface</category>
+      <description></description>
+    </item>
+    <item>
+      <title>[Opportunity] Identification et explicabilité de biomarqueurs vocaux pour les maladies neurodégénératives</title>
+      <link>https://theses.fr/s446671</link>
+      <guid isPermaLink="false">theses:s446671</guid>
+      <pubDate>Sun, 22 Nov 2026 00:00:00 +0000</pubDate>
+      <category>theses</category>
+      <description>Thèse en préparation — Informatique, données, IA. Direction : Jérome Boudy. Laboratoire : SAMOVAR - Services répartis, Architectures, Modélisation, Validation, Administration des Réseaux</description>
+    </item>
+    <item>
+      <title>[Opportunity] Intelligence artificielle pour la veille épidémiologique : détection des signaux faibles dans les médias écrits et radiophoniques retranscrits pour des langues sous-représentées</title>
+      <link>https://theses.fr/s446787</link>
+      <guid isPermaLink="false">theses:s446787</guid>
+      <pubDate>Sun, 22 Nov 2026 00:00:00 +0000</pubDate>
+      <category>theses</category>
+      <description>Thèse en préparation — Informatique. Direction : Maguelonne Teisseire, Mathieu Roche. Laboratoire : TETIS - Territoire Environnement Teledetection et Information Spatiale</description>
+    </item>
+    <item>
+      <title>[Opportunity] L'influence des dispositifs de guidage didactique sur l'engagement cognitif et la qualité des productions écrites en anglais LV1 (Classe de 3ème) selon le profil sociolinguistique et le niveau de compétence.</title>
+      <link>https://theses.fr/s443843</link>
+      <guid isPermaLink="false">theses:s443843</guid>
+      <pubDate>Sun, 22 Nov 2026 00:00:00 +0000</pubDate>
+      <category>theses</category>
+      <description>Thèse en préparation — Études du monde anglophone. Direction : Pascale Leclercq, Stéphanie Roussel. Laboratoire : EMMA - Etudes Montpellieraines du Monde Anglophone</description>
+    </item>
+    <item>
+      <title>[Opportunity] De la métaphore conceptuelle à l'expression linguistique : une approche psycholinguistique et durandienne de la symbolisation.</title>
+      <link>https://theses.fr/s446516</link>
+      <guid isPermaLink="false">theses:s446516</guid>
+      <pubDate>Sun, 22 Nov 2026 00:00:00 +0000</pubDate>
+      <category>theses</category>
+      <description>Thèse en préparation — Études néo helleniques. Direction : Magdalini Voga. Laboratoire : RESO: Recherches sur les Suds et les Orients</description>
+    </item>
+    <item>
+      <title>[Opportunity] Conception d'un système multilingue et adaptatif pour la transformation de documents scientifiques en vidéos interactives personnalisées</title>
+      <link>https://theses.fr/s446644</link>
+      <guid isPermaLink="false">theses:s446644</guid>
+      <pubDate>Sun, 22 Nov 2026 00:00:00 +0000</pubDate>
+      <category>theses</category>
+      <description>Thèse en préparation — Informatique. Direction : Kamel Smaili. Laboratoire : LORIA - Laboratoire Lorrain de Recherche en Informatique et ses Applications</description>
+    </item>
+    <item>
+      <title>[Corpus] Bob-the-Koala/basic-word-prose</title>
+      <link>https://huggingface.co/datasets/Bob-the-Koala/basic-word-prose</link>
+      <guid isPermaLink="false">hf:datasets:Bob-the-Koala/basic-word-prose</guid>
+      <pubDate>Sat, 21 Nov 2026 00:00:00 +0000</pubDate>
+      <category>huggingface</category>
+      <description>Basic Word: the writing report's data Word frequency lists, one a language, that Basic Word's writing report reads to tell a common word from a rare one. Basic Word's installer and its Settings fetch them from here, each checked against…</description>
+    </item>
     <item>
       <title>[Model] Phoonnx/phoonnx_kab-DZ_dii_o2i</title>
       <link>https://huggingface.co/Phoonnx/phoonnx_kab-DZ_dii_o2i</link>
@@ -16,17 +288,17 @@
       <description></description>
     </item>
     <item>
-      <title>[Model] nokkela-ai/whisper-large-v3-turbo</title>
-      <link>https://huggingface.co/nokkela-ai/whisper-large-v3-turbo</link>
-      <guid isPermaLink="false">hf:models:nokkela-ai/whisper-large-v3-turbo</guid>
+      <title>[Model] nokkela-ai/whisper-large-v3</title>
+      <link>https://huggingface.co/nokkela-ai/whisper-large-v3</link>
+      <guid isPermaLink="false">hf:models:nokkela-ai/whisper-large-v3</guid>
       <pubDate>Sat, 21 Nov 2026 00:00:00 +0000</pubDate>
       <category>huggingface</category>
       <description></description>
     </item>
     <item>
-      <title>[Model] nokkela-ai/whisper-large-v3</title>
-      <link>https://huggingface.co/nokkela-ai/whisper-large-v3</link>
-      <guid isPermaLink="false">hf:models:nokkela-ai/whisper-large-v3</guid>
+      <title>[Model] nokkela-ai/whisper-large-v3-turbo</title>
+      <link>https://huggingface.co/nokkela-ai/whisper-large-v3-turbo</link>
+      <guid isPermaLink="false">hf:models:nokkela-ai/whisper-large-v3-turbo</guid>
       <pubDate>Sat, 21 Nov 2026 00:00:00 +0000</pubDate>
       <category>huggingface</category>
       <description></description>
@@ -56,14 +328,6 @@
       <description>Initial public release of MODIC (Moroccan Dialect Corpus), a morphologically annotated corpus of Moroccan Arabic (Darija). This release provides structured JSON data with token-level morphological annotations, vocalised forms, Buckwalter…</description>
     </item>
     <item>
-      <title>[Corpus] Bob-the-Koala/basic-word-prose</title>
-      <link>https://huggingface.co/datasets/Bob-the-Koala/basic-word-prose</link>
-      <guid isPermaLink="false">hf:datasets:Bob-the-Koala/basic-word-prose</guid>
-      <pubDate>Sat, 21 Nov 2026 00:00:00 +0000</pubDate>
-      <category>huggingface</category>
-      <description>Basic Word: the writing report's data Word frequency lists, one a language, that Basic Word's writing report reads to tell a common word from a rare one. Basic Word's installer and its Settings fetch them from here, each checked against…</description>
-    </item>
-    <item>
       <title>[Corpus] lance-format/fleurs-lance</title>
       <link>https://huggingface.co/datasets/lance-format/fleurs-lance</link>
       <guid isPermaLink="false">hf:datasets:lance-format/fleurs-lance</guid>
@@ -88,9 +352,9 @@
       <description></description>
     </item>
     <item>
-      <title>[Model] mradermacher/VibeVoice-ASR-HF-GGUF</title>
-      <link>https://huggingface.co/mradermacher/VibeVoice-ASR-HF-GGUF</link>
-      <guid isPermaLink="false">hf:models:mradermacher/VibeVoice-ASR-HF-GGUF</guid>
+      <title>[Model] Wilson3/drama-3</title>
+      <link>https://huggingface.co/Wilson3/drama-3</link>
+      <guid isPermaLink="false">hf:models:Wilson3/drama-3</guid>
       <pubDate>Sat, 21 Nov 2026 00:00:00 +0000</pubDate>
       <category>huggingface</category>
       <description></description>
@@ -104,33 +368,9 @@
       <description></description>
     </item>
     <item>
-      <title>[Model] Wilson3/drama-3</title>
-      <link>https://huggingface.co/Wilson3/drama-3</link>
-      <guid isPermaLink="false">hf:models:Wilson3/drama-3</guid>
-      <pubDate>Sat, 21 Nov 2026 00:00:00 +0000</pubDate>
-      <category>huggingface</category>
-      <description></description>
-    </item>
-    <item>
-      <title>[Model] syntriq/lupe-multilingual-reranker-large</title>
-      <link>https://huggingface.co/syntriq/lupe-multilingual-reranker-large</link>
-      <guid isPermaLink="false">hf:models:syntriq/lupe-multilingual-reranker-large</guid>
-      <pubDate>Sat, 21 Nov 2026 00:00:00 +0000</pubDate>
-      <category>huggingface</category>
-      <description></description>
-    </item>
-    <item>
-      <title>[Model] syntriq/lupe-multilingual-reranker-base</title>
-      <link>https://huggingface.co/syntriq/lupe-multilingual-reranker-base</link>
-      <guid isPermaLink="false">hf:models:syntriq/lupe-multilingual-reranker-base</guid>
-      <pubDate>Sat, 21 Nov 2026 00:00:00 +0000</pubDate>
-      <category>huggingface</category>
-      <description></description>
-    </item>
-    <item>
-      <title>[Model] syntriq/lupe-multilingual-reranker-small</title>
-      <link>https://huggingface.co/syntriq/lupe-multilingual-reranker-small</link>
-      <guid isPermaLink="false">hf:models:syntriq/lupe-multilingual-reranker-small</guid>
+      <title>[Model] miscovery/arabic-egyptian-to-english-77m</title>
+      <link>https://huggingface.co/miscovery/arabic-egyptian-to-english-77m</link>
+      <guid isPermaLink="false">hf:models:miscovery/arabic-egyptian-to-english-77m</guid>
       <pubDate>Sat, 21 Nov 2026 00:00:00 +0000</pubDate>
       <category>huggingface</category>
       <description></description>
@@ -144,9 +384,33 @@
       <description></description>
     </item>
     <item>
-      <title>[Model] miscovery/arabic-egyptian-to-english-77m</title>
-      <link>https://huggingface.co/miscovery/arabic-egyptian-to-english-77m</link>
-      <guid isPermaLink="false">hf:models:miscovery/arabic-egyptian-to-english-77m</guid>
+      <title>[Model] mradermacher/VibeVoice-ASR-HF-GGUF</title>
+      <link>https://huggingface.co/mradermacher/VibeVoice-ASR-HF-GGUF</link>
+      <guid isPermaLink="false">hf:models:mradermacher/VibeVoice-ASR-HF-GGUF</guid>
+      <pubDate>Sat, 21 Nov 2026 00:00:00 +0000</pubDate>
+      <category>huggingface</category>
+      <description></description>
+    </item>
+    <item>
+      <title>[Model] syntriq/lupe-multilingual-reranker-base</title>
+      <link>https://huggingface.co/syntriq/lupe-multilingual-reranker-base</link>
+      <guid isPermaLink="false">hf:models:syntriq/lupe-multilingual-reranker-base</guid>
+      <pubDate>Sat, 21 Nov 2026 00:00:00 +0000</pubDate>
+      <category>huggingface</category>
+      <description></description>
+    </item>
+    <item>
+      <title>[Model] syntriq/lupe-multilingual-reranker-large</title>
+      <link>https://huggingface.co/syntriq/lupe-multilingual-reranker-large</link>
+      <guid isPermaLink="false">hf:models:syntriq/lupe-multilingual-reranker-large</guid>
+      <pubDate>Sat, 21 Nov 2026 00:00:00 +0000</pubDate>
+      <category>huggingface</category>
+      <description></description>
+    </item>
+    <item>
+      <title>[Model] syntriq/lupe-multilingual-reranker-small</title>
+      <link>https://huggingface.co/syntriq/lupe-multilingual-reranker-small</link>
+      <guid isPermaLink="false">hf:models:syntriq/lupe-multilingual-reranker-small</guid>
       <pubDate>Sat, 21 Nov 2026 00:00:00 +0000</pubDate>
       <category>huggingface</category>
       <description></description>
@@ -157,7 +421,7 @@
       <guid isPermaLink="false">hf:datasets:IO-AIR/kip-dataset</guid>
       <pubDate>Sat, 21 Nov 2026 00:00:00 +0000</pubDate>
       <category>huggingface</category>
-      <description>KIP pretrain w49 Status: numbered release - all eight publish gates pass. Pure-knowledge pretraining corpus built by the KIP pipeline (std-lib only, $0 lanes): 14 domains x the language registry, quality-gated (C4/Gopher battery +…</description>
+      <description>KIP pretrain w51 Status: numbered release - all eight publish gates pass. Pure-knowledge pretraining corpus built by the KIP pipeline (std-lib only, $0 lanes): 14 domains x the language registry, quality-gated (C4/Gopher battery +…</description>
     </item>
     <item>
       <title>[Model] mahmoudalrefaey/amina-tts-voice</title>
@@ -542,270 +806,6 @@
       <pubDate>Thu, 19 Nov 2026 00:00:00 +0000</pubDate>
       <category>dspace</category>
       <description>Depuis la nuit des temps, l'homme amazighes est attaché à sa terre. Il vie pour elle et par elle.L'être humain a l'habitude de nommer tout ce qui l'entoure que se soit des lieux d'habitation, des sources d'eau, des reliefs et les…</description>
-    </item>
-    <item>
-      <title>[Paper] Analyse morphologique et sémantique des patronymes des localités Tizi-Rached et Beni- Yanni</title>
-      <link>https://dspace.ummto.dz/handle/ummto/31877</link>
-      <guid isPermaLink="false">dspace:ummto:ummto/31877</guid>
-      <pubDate>Thu, 19 Nov 2026 00:00:00 +0000</pubDate>
-      <category>dspace</category>
-      <description>Amahil-nneɣ d tasnisemt yeɛnan ismawen n twacult n temnadt n Tizi-Raced d Beni-Yanni, axeddim-agi d tiririt ɣef sin yisteqsiyen n tmukrist : Amek ulɣen yismawen n twaculin n snat n temnaḍin ay d-nebder yakan, daghen dacu n umgired yellan…</description>
-    </item>
-    <item>
-      <title>[Paper] La trajectoire sociale et artistique de CHEIKH Noureddine</title>
-      <link>https://dspace.ummto.dz/handle/ummto/31878</link>
-      <guid isPermaLink="false">dspace:ummto:ummto/31878</guid>
-      <pubDate>Thu, 19 Nov 2026 00:00:00 +0000</pubDate>
-      <category>dspace</category>
-      <description>Lfen neɣ taẓuri, d aḥric urnezmir ad nefreqɣefyidles n yalagdud, imianaẓur d lemrideg-s ad nwali ayen icudden ɣer tmetti anda yettidir d wayen akki as-d-yezzin. Timetti taqbaylit seg zik i d-texleq deg-s tẓuri, maca ɣas akken, icennayen…</description>
-    </item>
-    <item>
-      <title>[Paper] Analyse sémiologique et anthropologique du film "Souvenirs sanglants"« de Mourad BOUAMRANE</title>
-      <link>https://dspace.ummto.dz/handle/ummto/31886</link>
-      <guid isPermaLink="false">dspace:ummto:ummto/31886</guid>
-      <pubDate>Thu, 19 Nov 2026 00:00:00 +0000</pubDate>
-      <category>dspace</category>
-      <description>Tazrawt-nneɣ, tella-d ɣef uṣlaḍ n usaru n Murad Buɛemran : « Aktayen n yidamen », i wakken ad d-nesken amek i tezmer ad tɛawen ssinima akken ad tidir tkatut tamaziɣt n teqbaylit. Deg yixef amezwaru nefka-d dacu yellan deg usaru, d tesleḍt…</description>
-    </item>
-    <item>
-      <title>[Paper] Reconstitution de familles lexicale de quelques néologismes de Amawal de Mouloud Mammeri.</title>
-      <link>https://dspace.ummto.dz/handle/ummto/31887</link>
-      <guid isPermaLink="false">dspace:ummto:ummto/31887</guid>
-      <pubDate>Thu, 19 Nov 2026 00:00:00 +0000</pubDate>
-      <category>dspace</category>
-      <description>Tamaziɣt, d tutlayt tunṣibt s usmgired n yinadiyen d useqdec n tarrayin tisnilsanin. Seg-sent Mulud Mɛemmri yelḥa , inuda aṭas ɣef tutlayt-a id yeglan s leqdic meqqren, acku yessekfel-d awalen iqburen, yerna yesnulfa-d awalen imaynuten si…</description>
-    </item>
-    <item>
-      <title>[Paper] Tasleḍt n umyeḍres deg teqsiḍin n leqbayel taqsiḍt n « Sidna Musa » d teqsiḍt n « Racda » akked leqran</title>
-      <link>https://dspace.ummto.dz/handle/ummto/31889</link>
-      <guid isPermaLink="false">dspace:ummto:ummto/31889</guid>
-      <pubDate>Thu, 19 Nov 2026 00:00:00 +0000</pubDate>
-      <category>dspace</category>
-      <description>Amahil neɣ yewweḍ ɣer taggara-s, tazrawt-nteɣ d tin i d-yellan ɣef tasleḍt n umyeḍres di teqsiḍt n Sidna Musa d teqsiḍt n Racda aked leqran, amahil d win i nebḍa ɣef kraḍ n yixfawen yal ixef ɣef acu i d-newwi awal deg-s. Aḥric amezwaru d…</description>
-    </item>
-    <item>
-      <title>[Paper] Morphologie du verbe en kabyle : Étude des thèmes verbaux (parlers des localités Tizi-Gheniff et M’Kira)</title>
-      <link>https://dspace.ummto.dz/handle/ummto/31890</link>
-      <guid isPermaLink="false">dspace:ummto:ummto/31890</guid>
-      <pubDate>Thu, 19 Nov 2026 00:00:00 +0000</pubDate>
-      <category>dspace</category>
-      <description>La présente recherche a porté sur l'analyse morphologique du système verbal dans les parlers kabyles des localités de Tizi-Gheniff et M'Kira. Cette étude a permis d'identifier et d'analyser un corpus de 1139 verbes, constituant ainsi un…</description>
-    </item>
-    <item>
-      <title>[Paper] Akenni n udlis Nnbi n Gibran Khalil Gibran Akked tsuqal-ines (tasuqilt n Farid Abache akked Houcine Louni d Youcef Allioui)</title>
-      <link>https://dspace.ummto.dz/handle/ummto/31891</link>
-      <guid isPermaLink="false">dspace:ummto:ummto/31891</guid>
-      <pubDate>Thu, 19 Nov 2026 00:00:00 +0000</pubDate>
-      <category>dspace</category>
-      <description>Tazrawt-nteɣ, ideg i nesleḍ kraḍ n tsuqilin n yidlisen «Nnbi» n Gibran Xalil Gibran, i d-ssuqqlen Farid Abache, Yousef Alioui akked Houcine Louni, anda i neḍfer tiẓri n Gérard Genette, tewweḍ ɣer tagara-s. Ihi, yessefk fella-nteɣ ad…</description>
-    </item>
-    <item>
-      <title>[Paper] Tasleḍt i tmucuha n yigerdan i tura Lwiza KANEB</title>
-      <link>https://dspace.ummto.dz/handle/ummto/31892</link>
-      <guid isPermaLink="false">dspace:ummto:ummto/31892</guid>
-      <pubDate>Thu, 19 Nov 2026 00:00:00 +0000</pubDate>
-      <category>dspace</category>
-      <description>Tasekla taqbaylit s tewsatin-ines yemgaraden ur txullef ara tasekla tagreɣlant imi ad d-naf tebḍa ɣef sin n leṣnaf tella tasekla n yimeqqranen akked tin n yimeẓyanen, tis-nat-a ɣur-s ayen din n tewsatin gar-asent tamacahut, taneggarut-a…</description>
-    </item>
-    <item>
-      <title>[Paper] Analyse morphologique et sémantique des noms de lieux de la région d’Iboudrarène</title>
-      <link>https://dspace.ummto.dz/handle/ummto/31893</link>
-      <guid isPermaLink="false">dspace:ummto:ummto/31893</guid>
-      <pubDate>Thu, 19 Nov 2026 00:00:00 +0000</pubDate>
-      <category>dspace</category>
-      <description>Notre mémoire intitulé : « Analyse lexicale : morphologique et sémantique des noms de lieux de la région d’Iboudrarène ». Ce mémoire se commence par une introduction générale qui présente une étude linguistique approfondie axée sur…</description>
-    </item>
-    <item>
-      <title>[Paper] Trajectoires scolaires féminines en milieu rural : aspirations à l'autonomie et contrôle social Étude de cas dans la daïra de Aïn El Hammam</title>
-      <link>https://dspace.ummto.dz/handle/ummto/31894</link>
-      <guid isPermaLink="false">dspace:ummto:ummto/31894</guid>
-      <pubDate>Thu, 19 Nov 2026 00:00:00 +0000</pubDate>
-      <category>dspace</category>
-      <description>L’émancipation de la femme kabyle est le fruit d’un long combat, souvent silencieux mais profondément enraciné dans la volonté de se libérer des contraintes imposées par les traditions anciennes. Longtemps confinées a la sphère…</description>
-    </item>
-    <item>
-      <title>[Paper] Tazrawt ɣef umawal azerfan n Mohamed Zakaria BENRAMDE : Iwalnuten n talɣa, iwalnuten n tesnamka</title>
-      <link>https://dspace.ummto.dz/handle/ummto/31896</link>
-      <guid isPermaLink="false">dspace:ummto:ummto/31896</guid>
-      <pubDate>Thu, 19 Nov 2026 00:00:00 +0000</pubDate>
-      <category>dspace</category>
-      <description>Akatay-agi nneɣ, d tazrawt i nga i umawal azerfan tamaziɣt-tafransist, d ttbut belli tutlayt tamaziɣt tesɛa allalen akked tezmert akken ad snulfu neɣ ad senfalin iwalnuten iwulmen i temiḍranin timaynutin icudden ɣer tussna. Iberdan neɣ…</description>
-    </item>
-    <item>
-      <title>[Paper] Étude comparative de la variation linguistique du lexique du corps humain à travers trois wilayas de Kabylie : Tizi-Ouzou (Makouda et Azazga), Bejaïa (Leksar et Akebou), Boumerdes (Timezrirt) avec le dialecte targui</title>
-      <link>https://dspace.ummto.dz/handle/ummto/31897</link>
-      <guid isPermaLink="false">dspace:ummto:ummto/31897</guid>
-      <pubDate>Thu, 19 Nov 2026 00:00:00 +0000</pubDate>
-      <category>dspace</category>
-      <description>Tamaziɣt, d yiwet gar tutlayin n Tefriqt n Ugafa, ass-a, tekcem ɣer uɣerbaz, tettusemres deg waṭas n taɣulin ( ṛṛadyu, tiliẓri, azeṭta n internet) Maca, tutlayt n tmaziɣt ggtent deg-s tantaliyin d temḍawit, ttemgaraden usiwel yis-s si…</description>
-    </item>
-    <item>
-      <title>[Paper] Taṣleḍt n uwadem deg wungal « Zaya » n Jedjiga Belaidi s tarrayt n PH.Hamon</title>
-      <link>https://dspace.ummto.dz/handle/ummto/31898</link>
-      <guid isPermaLink="false">dspace:ummto:ummto/31898</guid>
-      <pubDate>Thu, 19 Nov 2026 00:00:00 +0000</pubDate>
-      <category>dspace</category>
-      <description>Ungal “Zaya” i tura Jedjiga Belaidi d tugna n tmeṭṭut taqbaylit yerwan lḥif ɣas akken d tin yeɣran, tamarut tessares afus ɣef lǧarḥ anda i d-tbeggen tamuɣli n tmetti ɣer tmeṭṭut taǧǧalt, tezga yeḍfer-itt wawal ɣes ur texdim kra, akken i…</description>
-    </item>
-    <item>
-      <title>[Paper] La traduction du livre « Les belles histoires de grand-mère » de Amèle El Mahdi du français vers le kabyle</title>
-      <link>https://dspace.ummto.dz/handle/ummto/31899</link>
-      <guid isPermaLink="false">dspace:ummto:ummto/31899</guid>
-      <pubDate>Thu, 19 Nov 2026 00:00:00 +0000</pubDate>
-      <category>dspace</category>
-      <description>Tout au long de la préparation de notre projet de fin d’études, nous avons essayé de mettre en pratique les connaissances acquises durant nos études universitaires, et cela dans le but de mettre à la disposition des étudiants un recueil…</description>
-    </item>
-    <item>
-      <title>[Corpus] KarthikKB1998/CV-Fairness</title>
-      <link>https://huggingface.co/datasets/KarthikKB1998/CV-Fairness</link>
-      <guid isPermaLink="false">hf:datasets:KarthikKB1998/CV-Fairness</guid>
-      <pubDate>Thu, 19 Nov 2026 00:00:00 +0000</pubDate>
-      <category>huggingface</category>
-      <description>CV-Fairness Prepared Common Voice subsets for speech recognition experiments across English, Dutch, Catalan, and Galician, with separate accent, age, and gender configurations. Each configuration retains the rows, row order, split names,…</description>
-    </item>
-    <item>
-      <title>[Corpus] adahmpl/gga-asturian-5k</title>
-      <link>https://huggingface.co/datasets/adahmpl/gga-asturian-5k</link>
-      <guid isPermaLink="false">hf:datasets:adahmpl/gga-asturian-5k</guid>
-      <pubDate>Thu, 19 Nov 2026 00:00:00 +0000</pubDate>
-      <category>huggingface</category>
-      <description>Asturian 5k experiments Five sentence-only datasets: Blind, BGE-M3 mining, Variant A, Variant B and Variant C (FineWeb only). Each configuration contains the same 4,994 original Asturian sentences, in the same order, paired with…</description>
-    </item>
-    <item>
-      <title>[Model] Infinix-io/s2-pro-fp8</title>
-      <link>https://huggingface.co/Infinix-io/s2-pro-fp8</link>
-      <guid isPermaLink="false">hf:models:Infinix-io/s2-pro-fp8</guid>
-      <pubDate>Thu, 19 Nov 2026 00:00:00 +0000</pubDate>
-      <category>huggingface</category>
-      <description></description>
-    </item>
-    <item>
-      <title>[Model] Zubr-AI/zubr-mini-1.9-8b-mlx</title>
-      <link>https://huggingface.co/Zubr-AI/zubr-mini-1.9-8b-mlx</link>
-      <guid isPermaLink="false">hf:models:Zubr-AI/zubr-mini-1.9-8b-mlx</guid>
-      <pubDate>Thu, 19 Nov 2026 00:00:00 +0000</pubDate>
-      <category>huggingface</category>
-      <description></description>
-    </item>
-    <item>
-      <title>[Model] captaainal/baby-cry-ast</title>
-      <link>https://huggingface.co/captaainal/baby-cry-ast</link>
-      <guid isPermaLink="false">hf:models:captaainal/baby-cry-ast</guid>
-      <pubDate>Thu, 19 Nov 2026 00:00:00 +0000</pubDate>
-      <category>huggingface</category>
-      <description></description>
-    </item>
-    <item>
-      <title>[Model] darija-asr-host/wav2vec2-darija-arabizi-int8</title>
-      <link>https://huggingface.co/darija-asr-host/wav2vec2-darija-arabizi-int8</link>
-      <guid isPermaLink="false">hf:models:darija-asr-host/wav2vec2-darija-arabizi-int8</guid>
-      <pubDate>Thu, 19 Nov 2026 00:00:00 +0000</pubDate>
-      <category>huggingface</category>
-      <description></description>
-    </item>
-    <item>
-      <title>[Model] litert-community/Rumble-2-Flash-LiteRT</title>
-      <link>https://huggingface.co/litert-community/Rumble-2-Flash-LiteRT</link>
-      <guid isPermaLink="false">hf:models:litert-community/Rumble-2-Flash-LiteRT</guid>
-      <pubDate>Thu, 19 Nov 2026 00:00:00 +0000</pubDate>
-      <category>huggingface</category>
-      <description></description>
-    </item>
-    <item>
-      <title>[Model] michsethowusu/gemma-3-1b-translate-best</title>
-      <link>https://huggingface.co/michsethowusu/gemma-3-1b-translate-best</link>
-      <guid isPermaLink="false">hf:models:michsethowusu/gemma-3-1b-translate-best</guid>
-      <pubDate>Thu, 19 Nov 2026 00:00:00 +0000</pubDate>
-      <category>huggingface</category>
-      <description></description>
-    </item>
-    <item>
-      <title>[Model] michsethowusu/gemma-3-1b-translate-sft-best</title>
-      <link>https://huggingface.co/michsethowusu/gemma-3-1b-translate-sft-best</link>
-      <guid isPermaLink="false">hf:models:michsethowusu/gemma-3-1b-translate-sft-best</guid>
-      <pubDate>Thu, 19 Nov 2026 00:00:00 +0000</pubDate>
-      <category>huggingface</category>
-      <description></description>
-    </item>
-    <item>
-      <title>[Model] mradermacher/Latxa-3-122B-A10B-GGUF</title>
-      <link>https://huggingface.co/mradermacher/Latxa-3-122B-A10B-GGUF</link>
-      <guid isPermaLink="false">hf:models:mradermacher/Latxa-3-122B-A10B-GGUF</guid>
-      <pubDate>Thu, 19 Nov 2026 00:00:00 +0000</pubDate>
-      <category>huggingface</category>
-      <description></description>
-    </item>
-    <item>
-      <title>[Model] mradermacher/Latxa-3-122B-A10B-i1-GGUF</title>
-      <link>https://huggingface.co/mradermacher/Latxa-3-122B-A10B-i1-GGUF</link>
-      <guid isPermaLink="false">hf:models:mradermacher/Latxa-3-122B-A10B-i1-GGUF</guid>
-      <pubDate>Thu, 19 Nov 2026 00:00:00 +0000</pubDate>
-      <category>huggingface</category>
-      <description></description>
-    </item>
-    <item>
-      <title>[Model] xaviviro/Qwen3.5-0.8B-sintaxi-catala-20k-reforc-MLX-4bit</title>
-      <link>https://huggingface.co/xaviviro/Qwen3.5-0.8B-sintaxi-catala-20k-reforc-MLX-4bit</link>
-      <guid isPermaLink="false">hf:models:xaviviro/Qwen3.5-0.8B-sintaxi-catala-20k-reforc-MLX-4bit</guid>
-      <pubDate>Thu, 19 Nov 2026 00:00:00 +0000</pubDate>
-      <category>huggingface</category>
-      <description></description>
-    </item>
-    <item>
-      <title>[Paper] What Majority Labels Hide: Annotator Disagreement and Model Errors in Multi-Dialect Arabic Sexism Detection</title>
-      <link>https://arxiv.org/abs/2611.24383</link>
-      <guid isPermaLink="false">arxiv:2611.24383</guid>
-      <pubDate>Thu, 19 Nov 2026 00:00:00 +0000</pubDate>
-      <category>arxiv</category>
-      <description>Judgements of sexism are subjective and may vary across communities, yet sexism detection datasets usually reduce annotator judgements to a single majority label, obscuring disagreement and how models behave on contested cases. We…</description>
-    </item>
-    <item>
-      <title>[Corpus] HYUKI5/cis-lmu__Taxi1500-RawData</title>
-      <link>https://huggingface.co/datasets/HYUKI5/cis-lmu__Taxi1500-RawData</link>
-      <guid isPermaLink="false">hf:datasets:HYUKI5/cis-lmu__Taxi1500-RawData</guid>
-      <pubDate>Thu, 19 Nov 2026 00:00:00 +0000</pubDate>
-      <category>huggingface</category>
-      <description>cis-lmu/Taxi1500-RawData（複製） データの内容 聖書の節の本文を言語ごとに集めた、生のテキストのデータ。1 行が 1 節の本文で、text に本文、lang_script に acr_Latn のような言語と文字体系のコードが入る。Taxi1500-c_v3.0 コーパスから分類ラベルと節の ID を除いたもので、形式は Glot500 と同じである。 データの概要 項目 値 行数 15,583,678（960 構成・960 分割の合計） 列数 4…</description>
-    </item>
-    <item>
-      <title>[Corpus] HYUKI5/coastalcph__multi_eurlex</title>
-      <link>https://huggingface.co/datasets/HYUKI5/coastalcph__multi_eurlex</link>
-      <guid isPermaLink="false">hf:datasets:HYUKI5/coastalcph__multi_eurlex</guid>
-      <pubDate>Thu, 19 Nov 2026 00:00:00 +0000</pubDate>
-      <category>huggingface</category>
-      <description>coastalcph/multi_eurlex（複製） データの内容 EU の法令（EUR-Lex）の本文を 23 の公用語で集め、EUROVOC の概念でラベルを付けたデータ。1 行が 1 件の法令で、celex_id、本文の text、ラベルの組 labels が入っている。ラベルは EU 出版局が付けたもので、階層の上位 3 段階へ置き換えた代替ラベルも作られている。訓練・開発・テストは時間順に分けてあり、ラベルの分布と言い回しが時期によって変わる。 データの概要…</description>
-    </item>
-    <item>
-      <title>[Corpus] Kandil7/wanees-action-v1</title>
-      <link>https://huggingface.co/datasets/Kandil7/wanees-action-v1</link>
-      <guid isPermaLink="false">hf:datasets:Kandil7/wanees-action-v1</guid>
-      <pubDate>Thu, 19 Nov 2026 00:00:00 +0000</pubDate>
-      <category>huggingface</category>
-      <description>Wanees-Action v1 — Safety-Grounded Mobile Function Calling A function-calling dataset for on-device mobile assistants, designed to train lightweight models (e.g. FunctionGemma 270M) to translate Egyptian Arabic (ar/arz) natural-language…</description>
-    </item>
-    <item>
-      <title>[Model] AtomicChat/Rumble-2-Flash-GGUF</title>
-      <link>https://huggingface.co/AtomicChat/Rumble-2-Flash-GGUF</link>
-      <guid isPermaLink="false">hf:models:AtomicChat/Rumble-2-Flash-GGUF</guid>
-      <pubDate>Thu, 19 Nov 2026 00:00:00 +0000</pubDate>
-      <category>huggingface</category>
-      <description></description>
-    </item>
-    <item>
-      <title>[Model] HiTZ/Latxa-3-122B-A10B</title>
-      <link>https://huggingface.co/HiTZ/Latxa-3-122B-A10B</link>
-      <guid isPermaLink="false">hf:models:HiTZ/Latxa-3-122B-A10B</guid>
-      <pubDate>Thu, 19 Nov 2026 00:00:00 +0000</pubDate>
-      <category>huggingface</category>
-      <description></description>
-    </item>
-    <item>
-      <title>[Model] HiTZ/Latxa-3-122B-A10B-FP8</title>
-      <link>https://huggingface.co/HiTZ/Latxa-3-122B-A10B-FP8</link>
-      <guid isPermaLink="false">hf:models:HiTZ/Latxa-3-122B-A10B-FP8</guid>
-      <pubDate>Thu, 19 Nov 2026 00:00:00 +0000</pubDate>
-      <category>huggingface</category>
-      <description></description>
     </item>
   </channel>
 </rss>
