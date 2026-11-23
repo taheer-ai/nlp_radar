@@ -35,6 +35,7 @@
   "lng": -0.4882,
   "label": "Alicante"
  },
+ "amazon.com services inc.": null,
  "amiens": {
   "lat": 49.8942,
   "lng": 2.2957,
@@ -66,6 +67,11 @@
   "lat": 37.9756,
   "lng": 23.7348,
   "label": "Athènes"
+ },
+ "avature": {
+  "lat": 40.4198,
+  "lng": -3.6972,
+  "label": "Avature Madrid"
  },
  "avignon": {
   "lat": 43.9492,
@@ -113,6 +119,11 @@
   "label": "Bâle"
  },
  "basque centre for climate change": null,
+ "bathinda, punjab (india)": {
+  "lat": 30.1795,
+  "lng": 75.0471,
+  "label": "Bathinda"
+ },
  "bellinzona": {
   "lat": 46.1921,
   "lng": 9.0206,
@@ -255,6 +266,11 @@
   "lng": 20.5514,
   "label": "Serbie"
  },
+ "country:ru": {
+  "lat": 64.6863,
+  "lng": 97.7453,
+  "label": "Russie"
+ },
  "country:tn": {
   "lat": 33.8439,
   "lng": 9.4001,
@@ -285,6 +301,11 @@
  "department of respiratory physiopathology, medical university of białystok, poland": null,
  "department of veterinary integrative data analytics, wageningen bioveterinary research, wageningen university & research, lelystad, the netherlands": null,
  "department of zoology, university of granada, granada, spain": null,
+ "dhaka, bangladesh": {
+  "lat": 23.7644,
+  "lng": 90.389,
+  "label": "Dacca"
+ },
  "digital ether computing llc": null,
  "division of science, new york university abu dhabi, abu dhabi, united arab emirates": null,
  "doctor of philological sciences (dsc),         associate professor of uzbekistan state        \t\t\t\t\t\t\t      world languages university": null,
@@ -372,6 +393,10 @@
  "gh:abdumalikolimov405-crypto": {
   "location": null,
   "name": "abdumalikolimov405-crypto"
+ },
+ "gh:acane0320": {
+  "location": null,
+  "name": "诗浓"
  },
  "gh:agentes-chat": {
   "location": null,
@@ -598,6 +623,10 @@
   "location": "Sweden",
   "name": "Pedro Marinho"
  },
+ "gh:pierridotite": {
+  "location": "Paris",
+  "name": "Pierre RAFFALLI"
+ },
  "gh:pivisyyy": {
   "location": null,
   "name": "Pivis"
@@ -605,6 +634,10 @@
  "gh:prishaakumar": {
   "location": null,
   "name": "prishaakumar"
+ },
+ "gh:rajandasguptaml": {
+  "location": "Dhaka, Bangladesh",
+  "name": "Rajan_Das_Gupta"
  },
  "gh:runanywhereai": {
   "location": "United States of America",
@@ -629,6 +662,10 @@
  "gh:shalini-2020": {
   "location": null,
   "name": "shalini-2020"
+ },
+ "gh:shivensharma2006": {
+  "location": null,
+  "name": "shivensharma2006"
  },
  "gh:slavh": {
   "location": null,
@@ -746,6 +783,10 @@
   "location": null,
   "name": "vortexhostfeel"
  },
+ "gh:w01fb0ss": {
+  "location": null,
+  "name": "w01fb0ss"
+ },
  "gh:wanghao-sunsky": {
   "location": null,
   "name": "SunSky"
@@ -785,6 +826,10 @@
  "gh:y3nk0": {
   "location": "Athens, Greece",
   "name": "Konstantinos Skianis"
+ },
+ "gh:yash-2704": {
+  "location": null,
+  "name": "yash-2704"
  },
  "gh:yaya-sy": {
   "location": "Paris",
@@ -942,6 +987,9 @@
  "hf:akynovaaigul": null,
  "hf:alegiuliano": null,
  "hf:alejandro-rodriguez": null,
+ "hf:aletheia-ng": {
+  "fullname": "Naija AI"
+ },
  "hf:aletheiaaing": {
   "fullname": "Aletheia AI"
  },
@@ -975,6 +1023,7 @@
  "hf:anonlion1": null,
  "hf:anotona-music": null,
  "hf:ansu": null,
+ "hf:anthian": null,
  "hf:antoinedebroye": null,
  "hf:anyautomation": null,
  "hf:anzart": null,
@@ -1005,6 +1054,7 @@
  "hf:atraq": null,
  "hf:atrezonator": null,
  "hf:atw-9": null,
+ "hf:aufklarer": null,
  "hf:augurybot": null,
  "hf:avericaai": {
   "fullname": "Averica"
@@ -1056,6 +1106,7 @@
  "hf:bsc-lt": {
   "fullname": "Language Technologies Laboratory @ Barcelona Supercomputing Center"
  },
+ "hf:bshada": null,
  "hf:btb01": null,
  "hf:cabry09": null,
  "hf:cactus-compute": {
@@ -1070,6 +1121,7 @@
  "hf:catalan258": null,
  "hf:ccop": null,
  "hf:ccore": null,
+ "hf:cfahlgren1": null,
  "hf:chaimaehde": null,
  "hf:chaimandala": null,
  "hf:chandocchi": null,
@@ -1243,6 +1295,7 @@
   "fullname": "Google"
  },
  "hf:gotoai-inc": null,
+ "hf:greghavens": null,
  "hf:grogros": null,
  "hf:gtak1": null,
  "hf:guardion": {
@@ -1258,6 +1311,7 @@
  "hf:hammedalmodel": null,
  "hf:hamzaweb3": null,
  "hf:hannahbillo": null,
+ "hf:hapnoid": null,
  "hf:harness-hub": {
   "fullname": "harness-hub"
  },
@@ -1322,6 +1376,9 @@
  "hf:imsidag-community": {
   "fullname": "Imsidag"
  },
+ "hf:inclusionai": {
+  "fullname": "inclusionAI"
+ },
  "hf:ines-adn": null,
  "hf:inferenceport-ai": {
   "fullname": "InferencePort AI (InferencePort LLC)"
@@ -1347,6 +1404,7 @@
  "hf:itspeet": null,
  "hf:iukocha": null,
  "hf:iv-ayman": null,
+ "hf:jackrong": null,
  "hf:jackyb1234": null,
  "hf:jadermcs": null,
  "hf:jaimemalangue": {
@@ -1584,6 +1642,7 @@
  "hf:nvidia": {
   "fullname": "NVIDIA"
  },
+ "hf:nyamkhuu": null,
  "hf:oddadmix": null,
  "hf:ojiksenpai": null,
  "hf:olaverse": {
@@ -1605,6 +1664,7 @@
  "hf:openflowlm": {
   "fullname": "OpenFlowLM"
  },
+ "hf:openuncensored": null,
  "hf:openvoiceos": {
   "fullname": "OpenVoiceOS"
  },
@@ -1770,6 +1830,7 @@
  },
  "hf:st192011": null,
  "hf:steja": null,
+ "hf:straylight-dev": null,
  "hf:struan-assembly": {
   "fullname": "Struan Assembly, LLC"
  },
@@ -1809,6 +1870,7 @@
  "hf:tensorblock": {
   "fullname": "TensorBlock"
  },
+ "hf:tenstrip": null,
  "hf:teratts": {
   "fullname": "TeraSpace TTS"
  },
@@ -1894,6 +1956,9 @@
  "hf:voiceforever": {
   "fullname": "VoiceForever.org"
  },
+ "hf:voiceforpurpose": {
+  "fullname": "Voice For Purpose"
+ },
  "hf:voiceunlimited": null,
  "hf:voidreaper2026": null,
  "hf:vongocanhthi": null,
@@ -1927,6 +1992,9 @@
  },
  "hf:worxrit17": null,
  "hf:wuvya": null,
+ "hf:x-lance": {
+  "fullname": "SJTU Cross Media Language Intelligence Lab"
+ },
  "hf:x054848": null,
  "hf:xaime": null,
  "hf:xezpeleta": null,
@@ -2036,6 +2104,11 @@
   "lat": 34.0383,
   "lng": -84.5831,
   "label": "Kennesaw State University"
+ },
+ "kiel institute for the world economy": {
+  "lat": 54.3387,
+  "lng": 10.1563,
+  "label": "Institut für Weltwirtschaft"
  },
  "king abdullah university of science and technology (kaust)": null,
  "king saud bin abdulaziz university for health sciences": {
@@ -2231,6 +2304,7 @@
   "lng": -1.552,
   "label": "Université de Nantes"
  },
+ "nanyang business school, nanyang technological university": null,
  "national university of trujillo": {
   "lat": -8.1146,
   "lng": -79.0386,
@@ -2257,7 +2331,17 @@
   "label": "华北电力大学"
  },
  "nzilbb": null,
+ "old dominion university": {
+  "lat": 36.8863,
+  "lng": -76.3097,
+  "label": "Old Dominion University"
+ },
  "on earch": null,
+ "ontario tech university": {
+  "lat": 43.9483,
+  "lng": -78.8982,
+  "label": "Ontario Tech University"
+ },
  "orléans": {
   "lat": 47.9027,
   "lng": 1.9086,
@@ -2372,6 +2456,7 @@
   "lng": 106.7727,
   "label": "Saigon International University"
  },
+ "samsifl faculty of  english foreign language and literature specialization 2-year student": null,
  "san francisco": {
   "lat": 37.7879,
   "lng": -122.4075,
@@ -2532,6 +2617,7 @@
   "label": "Termiz davlat muhandislik va agrotexnalogiyalar universiteti"
  },
  "the hebrew university of jerusalem": null,
+ "the second xiangya hospital, central south university": null,
  "the university of texas at el paso": {
   "lat": 31.7758,
   "lng": -106.5079,
@@ -2648,6 +2734,11 @@
   "lng": -3.713,
   "label": "Universidad Nebrija - Campus de Madrid-Princesa"
  },
+ "universidad técnica estatal de quevedo": {
+  "lat": -1.0845,
+  "lng": -79.5011,
+  "label": "Universidad Técnica Estatal de Quevedo (Campus La María)"
+ },
  "universidade da coruña": {
   "lat": 43.3709,
   "lng": -8.3902,
@@ -2668,6 +2759,7 @@
   "lng": -34.9511,
   "label": "Universidade Federal de Pernambuco"
  },
+ "universidade federal do ceará (ufc), campus de russas": null,
  "universitas muhammadiyah semarang": {
   "lat": -7.0216,
   "lng": 110.4617,
@@ -2724,6 +2816,7 @@
   "lng": 69.2376,
   "label": "Aniq va ijtimoiy fanlar universiteti"
  },
+ "university of hassan ii casablanca": null,
  "university of illinois urbana-champaign": {
   "lat": 40.0762,
   "lng": -88.2233,
@@ -2733,6 +2826,11 @@
   "lat": 47.69,
   "lng": 9.1883,
   "label": "Université de Constance"
+ },
+ "university of mannheim": {
+  "lat": 49.4839,
+  "lng": 8.4709,
+  "label": "Staatliche Hochschule für Musik und Darstellende Kunst"
  },
  "university of michigan": {
   "lat": 42.2942,
@@ -2781,11 +2879,17 @@
   "lng": -2.0108,
   "label": "Euskal Herriko Unibertsitatea, Ibaeta Campusa"
  },
+ "university of the basque country (upv/ehu)": null,
  "university of the thai chamber of commerce": null,
  "university of verona": {
   "lat": 43.0238,
   "lng": -89.5453,
   "label": "University Ridge Golf Course"
+ },
+ "university of victoria": {
+  "lat": 48.4621,
+  "lng": -123.3114,
+  "label": "University of Victoria"
  },
  "university of virginia": {
   "lat": 38.0411,
@@ -2874,6 +2978,7 @@
   "lng": 17.6387,
   "label": "Uppsala"
  },
+ "ut southwestern medical center": null,
  "uzbekistan": {
   "lat": 41.3237,
   "lng": 63.9528,
@@ -3168,6 +3273,7 @@
  "wdn:hugging face smol models research": null,
  "wdn:hyperbots inc": null,
  "wdn:imsidag": null,
+ "wdn:inclusionai": null,
  "wdn:inferenceport ai inferenceport llc": null,
  "wdn:information retrieval lab university of a coru a": null,
  "wdn:institute for physical ai bmi": null,
@@ -3228,6 +3334,7 @@
  },
  "wdn:multisynt": null,
  "wdn:my korean language models": null,
+ "wdn:naija ai": null,
  "wdn:nlp ai korea university": null,
  "wdn:nlp rise": null,
  "wdn:nokkela ai": null,
@@ -3283,6 +3390,7 @@
  "wdn:sensenova": null,
  "wdn:shunya labs": null,
  "wdn:since ai": null,
+ "wdn:sjtu cross media language intelligence lab": null,
  "wdn:small models for glam": null,
  "wdn:social and language technology lab": null,
  "wdn:software mansion ai labs": null,
@@ -3332,6 +3440,7 @@
   "geo_source": "Wikidata · Vext"
  },
  "wdn:video rebirth": null,
+ "wdn:voice for purpose": null,
  "wdn:voiceforever org": null,
  "wdn:webai": null,
  "wdn:wikilangs": null,
