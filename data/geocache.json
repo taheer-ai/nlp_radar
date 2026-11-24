@@ -183,6 +183,11 @@
   "label": "Carnegie Mellon University in Qatar"
  },
  "centre hospitalier universitaire de reims": null,
+ "centro universitário fei": {
+  "lat": -23.7263,
+  "lng": -46.5809,
+  "label": "Centro Universitário FEI"
+ },
  "chalmers university of technology": {
   "lat": 57.6897,
   "lng": 11.9765,
@@ -286,6 +291,7 @@
   "lng": 2.0756,
   "label": "CY Cergy Paris Université - Les Chênes"
  },
+ "data science core, chiba university, chiba, japan; soujoudata inc., tokyo, japan": null,
  "departamento de ingeniería en computación, universidad de magallanes": null,
  "department of biomedical technologies, university of siena": null,
  "department of chemistry and biochemistry, university of california san diego": null,
@@ -309,6 +315,7 @@
  "digital ether computing llc": null,
  "division of science, new york university abu dhabi, abu dhabi, united arab emirates": null,
  "doctor of philological sciences (dsc),         associate professor of uzbekistan state        \t\t\t\t\t\t\t      world languages university": null,
+ "doctorate student, termez state university": null,
  "donostia-san sebastián": {
   "lat": 43.3224,
   "lng": -1.9839,
@@ -357,6 +364,7 @@
   "lng": 1.8883,
   "label": "France"
  },
+ "fraunhofer institute for algorithms and scientific computing scai": null,
  "fukuoka, japan": {
   "lat": 33.6251,
   "lng": 130.618,
@@ -531,6 +539,10 @@
   "location": "Hong Kong",
   "name": "Interactive & Active AI"
  },
+ "gh:jackson-cmd": {
+  "location": null,
+  "name": "Anonymous"
+ },
  "gh:jackwener": {
   "location": "Hangzhou, China",
   "name": "jakevin"
@@ -558,6 +570,10 @@
  "gh:liuda30201": {
   "location": null,
   "name": "May leo"
+ },
+ "gh:logitcai": {
+  "location": null,
+  "name": "wangz cai"
  },
  "gh:madeval": {
   "location": "Ukraine",
@@ -658,6 +674,10 @@
  "gh:saos-3624": {
   "location": null,
   "name": "saos-3624"
+ },
+ "gh:second-dawn-lab": {
+  "location": null,
+  "name": "Second Dawn Lab"
  },
  "gh:shalini-2020": {
   "location": null,
@@ -987,6 +1007,9 @@
  "hf:akynovaaigul": null,
  "hf:alegiuliano": null,
  "hf:alejandro-rodriguez": null,
+ "hf:aleph-alpha": {
+  "fullname": "Aleph Alpha"
+ },
  "hf:aletheia-ng": {
   "fullname": "Naija AI"
  },
@@ -1070,6 +1093,9 @@
  "hf:azwaw": null,
  "hf:azyan02": null,
  "hf:azyg0s": null,
+ "hf:baidu": {
+  "fullname": "BAIDU"
+ },
  "hf:baobabtech": {
   "fullname": "Baobab Tech"
  },
@@ -1108,6 +1134,9 @@
  },
  "hf:bshada": null,
  "hf:btb01": null,
+ "hf:builderhelm": {
+  "fullname": "BuilderHelm  AI"
+ },
  "hf:cabry09": null,
  "hf:cactus-compute": {
   "fullname": "Cactus Compute, Inc."
@@ -1163,6 +1192,7 @@
   "fullname": "Conway"
  },
  "hf:cpral": null,
+ "hf:crazydipole": null,
  "hf:crossroderick": null,
  "hf:cstr": null,
  "hf:csukuangfj": null,
@@ -1251,6 +1281,7 @@
   "fullname": "AI at Meta"
  },
  "hf:fares5462": null,
+ "hf:fdnai": null,
  "hf:featherless-ai-quants": {
   "fullname": "Quants by Featherless.ai"
  },
@@ -1505,6 +1536,9 @@
  },
  "hf:lodrick-the-lafted": null,
  "hf:lopatnov": null,
+ "hf:lovartai": {
+  "fullname": "Lovart AI"
+ },
  "hf:luca-949": null,
  "hf:lucasgitguy-co": null,
  "hf:luispoveda93": null,
@@ -1545,6 +1579,9 @@
  "hf:megatranscribe": null,
  "hf:meituan-longcat": {
   "fullname": "LongCat"
+ },
+ "hf:memtensor": {
+  "fullname": "MemTensor"
  },
  "hf:menn5": null,
  "hf:meriemdarija": null,
@@ -1615,6 +1652,9 @@
  "hf:nadiva1243": null,
  "hf:nahcmon": null,
  "hf:nailyk14": null,
+ "hf:nari-labs": {
+  "fullname": "Nari Labs"
+ },
  "hf:narinari3": null,
  "hf:nasrellahkharroubi": null,
  "hf:nemya9066": null,
@@ -1649,6 +1689,9 @@
   "fullname": "Olaverse Lab"
  },
  "hf:onashia": null,
+ "hf:onemira": {
+  "fullname": "onemira"
+ },
  "hf:onnx-community": {
   "fullname": "ONNX Community"
  },
@@ -1669,6 +1712,9 @@
   "fullname": "OpenVoiceOS"
  },
  "hf:operateur": null,
+ "hf:orcarouter": {
+  "fullname": "OrcaRouter"
+ },
  "hf:organisation-participant-27": {
   "fullname": "organisation-participant-27"
  },
@@ -1766,9 +1812,11 @@
  "hf:rozabel": null,
  "hf:rshoemake": null,
  "hf:rudrakshrakeshzodage": null,
+ "hf:ruoqu": null,
  "hf:ruudvelo": null,
  "hf:ryusei-46": null,
  "hf:s1nju": null,
+ "hf:saidutta69": null,
  "hf:salahuddin1234": null,
  "hf:salman-elhaddadi": null,
  "hf:salollaexperience": null,
@@ -1803,6 +1851,10 @@
  "hf:sharifeh-fadaei": null,
  "hf:shashankholla3": null,
  "hf:shields": null,
+ "hf:shoutmon": null,
+ "hf:showlab": {
+  "fullname": "Show Lab"
+ },
  "hf:shun3232": null,
  "hf:shunyalabs": {
   "fullname": "Shunya Labs"
@@ -1830,6 +1882,7 @@
  },
  "hf:st192011": null,
  "hf:steja": null,
+ "hf:strata-engine": null,
  "hf:straylight-dev": null,
  "hf:struan-assembly": {
   "fullname": "Struan Assembly, LLC"
@@ -1972,6 +2025,9 @@
  "hf:warttren": null,
  "hf:webai-official": {
   "fullname": "webAI"
+ },
+ "hf:whitzardagent": {
+  "fullname": "WhitzardAgent"
  },
  "hf:wiamai": null,
  "hf:wikilangs": {
@@ -2116,6 +2172,7 @@
   "lng": 46.8572,
   "label": "KSAU-HS"
  },
+ "korea electronics technology institute": null,
  "korea railroad research institute": null,
  "kozminski university": {
   "lat": 52.2715,
@@ -2203,6 +2260,7 @@
   "lng": -0.1278,
   "label": "Grand Londres"
  },
+ "loschmidt laboratories, department of experimental biology and recetox, faculty of science, masaryk university, 625 00 brno, czech republic": null,
  "lovely professional university": {
   "lat": 31.2533,
   "lng": 75.7033,
@@ -2284,6 +2342,11 @@
   "lng": 14.4892,
   "label": "L-Imsida"
  },
+ "munich": {
+  "lat": 48.1371,
+  "lng": 11.5754,
+  "label": "Munich"
+ },
  "münchen": {
   "lat": 48.1371,
   "lng": 11.5754,
@@ -2331,6 +2394,11 @@
   "label": "华北电力大学"
  },
  "nzilbb": null,
+ "nürnberg": {
+  "lat": 49.4539,
+  "lng": 11.0773,
+  "label": "Nuremberg"
+ },
  "old dominion university": {
   "lat": 36.8863,
   "lng": -76.3097,
@@ -2440,6 +2508,7 @@
   "lng": -122.1239,
   "label": "Redmond"
  },
+ "research foundation - flanders": null,
  "research library for the history of education": null,
  "rovereto": {
   "lat": 45.8865,
@@ -2477,6 +2546,7 @@
   "lng": -122.4075,
   "label": "San Francisco"
  },
+ "school of chinese language and literature, lanzhou university": null,
  "school of electronic and computer engineering, peking university, shenzhen, china": null,
  "scripps research institute": {
   "lat": 32.8985,
@@ -2880,6 +2950,7 @@
   "label": "Euskal Herriko Unibertsitatea, Ibaeta Campusa"
  },
  "university of the basque country (upv/ehu)": null,
+ "university of the basque country (upv/ehu); universidad técnica particular de loja": null,
  "university of the thai chamber of commerce": null,
  "university of verona": {
   "lat": 43.0238,
@@ -2902,6 +2973,11 @@
   "label": "Technische Hochschule Würzburg-Schweinfurt"
  },
  "università degli sudi di messina": null,
+ "università di messina": {
+  "lat": 38.2296,
+  "lng": 15.5511,
+  "label": "Università degli Studi di Messina"
+ },
  "université côte d'azur": {
   "lat": 43.717,
   "lng": 7.2676,
@@ -2946,6 +3022,11 @@
   "lat": 43.5717,
   "lng": 1.4014,
   "label": "Mirail-Université / Reynerie / Bellefontaine"
+ },
+ "université de toulouse (epe ; 2025-...)": {
+  "lat": 43.5642,
+  "lng": 1.4666,
+  "label": "Université de Toulouse"
  },
  "université grenoble alpes": {
   "lat": 45.1907,
@@ -3014,6 +3095,11 @@
   "lat": 40.0368,
   "lng": -75.342,
   "label": "Villanova University"
+ },
+ "virginia tech": {
+  "lat": 37.2219,
+  "lng": -80.4273,
+  "label": "Virginia Tech"
  },
  "vtt technical research centre of finland": null,
  "wageningen university & research": {
@@ -3160,6 +3246,13 @@
  "wdn:ai at meta": null,
  "wdn:ai institute applied intelligence": null,
  "wdn:aiox labs": null,
+ "wdn:aleph alpha": {
+  "lat": 49.4094,
+  "lng": 8.6947,
+  "city": "Heidelberg",
+  "region": "Allemagne",
+  "geo_source": "Wikidata · Aleph Alpha"
+ },
  "wdn:aletheia ai": null,
  "wdn:algerian nlp collective": null,
  "wdn:allinsama": null,
@@ -3177,6 +3270,13 @@
  "wdn:atomic chat": null,
  "wdn:averica": null,
  "wdn:axion": null,
+ "wdn:baidu": {
+  "lat": 39.904,
+  "lng": 116.4075,
+  "city": "Pékin",
+  "region": "République populaire de Chine",
+  "geo_source": "Wikidata · Baidu"
+ },
  "wdn:baobab tech": null,
  "wdn:basis": null,
  "wdn:bigcode": null,
@@ -3189,6 +3289,7 @@
  },
  "wdn:bridging varieties": null,
  "wdn:broadening linguistic technologies lab blt lab": null,
+ "wdn:builderhelm ai": null,
  "wdn:cactus compute inc": null,
  "wdn:center for ai safety": {
   "lat": 37.775,
@@ -3299,12 +3400,14 @@
  "wdn:llamaindex": null,
  "wdn:lmaana": null,
  "wdn:longcat": null,
+ "wdn:lovart ai": null,
  "wdn:macepic": null,
  "wdn:maliba ai": null,
  "wdn:maltese language resource server": null,
  "wdn:mashbox labs": null,
  "wdn:matterwaveai": null,
  "wdn:maxwell model": null,
+ "wdn:memtensor": null,
  "wdn:meta llama": null,
  "wdn:microsoft": {
   "lat": 47.6694,
@@ -3335,6 +3438,7 @@
  "wdn:multisynt": null,
  "wdn:my korean language models": null,
  "wdn:naija ai": null,
+ "wdn:nari labs": null,
  "wdn:nlp ai korea university": null,
  "wdn:nlp rise": null,
  "wdn:nokkela ai": null,
@@ -3347,6 +3451,7 @@
   "geo_source": "Wikidata · Nvidia"
  },
  "wdn:olaverse lab": null,
+ "wdn:onemira": null,
  "wdn:onnx community": null,
  "wdn:openai": {
   "lat": 37.775,
@@ -3359,6 +3464,7 @@
  "wdn:openflowlm": null,
  "wdn:openindex": null,
  "wdn:openvoiceos": null,
+ "wdn:orcarouter": null,
  "wdn:organisation participant 27": null,
  "wdn:orphera ai": null,
  "wdn:ovhai llm": null,
@@ -3388,6 +3494,7 @@
  "wdn:scantist pte ltd": null,
  "wdn:scenario": null,
  "wdn:sensenova": null,
+ "wdn:show lab": null,
  "wdn:shunya labs": null,
  "wdn:since ai": null,
  "wdn:sjtu cross media language intelligence lab": null,
@@ -3443,6 +3550,7 @@
  "wdn:voice for purpose": null,
  "wdn:voiceforever org": null,
  "wdn:webai": null,
+ "wdn:whitzardagent": null,
  "wdn:wikilangs": null,
  "wdn:wikimedia": null,
  "wdn:windstorm labs": null,
