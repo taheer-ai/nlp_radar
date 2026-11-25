@@ -42,6 +42,7 @@
   "label": "Amiens"
  },
  "andijan state university, faculty of artificial intelligence and digital technologies associate professor of the department of computer engineering, ph.d.": null,
+ "andijon davlat chet tillari instituti 2-bosqich talabasi, filologiya va tillarni o'qitish, nemis tili": null,
  "aniq va ijtimoiy fanlar universiteti": {
   "lat": 41.3503,
   "lng": 69.2376,
@@ -67,6 +68,16 @@
   "lat": 37.9756,
   "lng": 23.7348,
   "label": "Athènes"
+ },
+ "auckland university of technology": {
+  "lat": -36.853,
+  "lng": 174.7664,
+  "label": "Auckland University of Technology"
+ },
+ "australia": {
+  "lat": -24.7761,
+  "lng": 134.755,
+  "label": "Australie"
  },
  "avature": {
   "lat": 40.4198,
@@ -183,6 +194,7 @@
   "label": "Carnegie Mellon University in Qatar"
  },
  "centre hospitalier universitaire de reims": null,
+ "centre of excellence for photoconversion, vinča institute of nuclear sciences, national institute of the republic of serbia, university of belgrade": null,
  "centro universitário fei": {
   "lat": -23.7263,
   "lng": -46.5809,
@@ -212,6 +224,11 @@
   "lat": 30.048,
   "lng": -94.3357,
   "label": "China"
+ },
+ "chonnam national university": {
+  "lat": 35.1769,
+  "lng": 126.9069,
+  "label": "전남대학교"
  },
  "clemson university": {
   "lat": 34.6687,
@@ -291,6 +308,7 @@
   "lng": 2.0756,
   "label": "CY Cergy Paris Université - Les Chênes"
  },
+ "data science core, chiba university, chiba, japan": null,
  "data science core, chiba university, chiba, japan; soujoudata inc., tokyo, japan": null,
  "departamento de ingeniería en computación, universidad de magallanes": null,
  "department of biomedical technologies, university of siena": null,
@@ -300,6 +318,7 @@
  "department of ecology, faculty of science, charles university, prague, czechia; institute of microbiology of the czech academy of sciences, prague, czechia": null,
  "department of education, university of oxford": null,
  "department of language teaching in medicine,  andijan branch of kokand university, uzbekistan": null,
+ "department of medicinal chemistry, center for natural products, drug discovery and development, university of florida, gainesville, fl 32610, usa": null,
  "department of neurosurgery, china-japan friendship hospital (institute of clinical medical sciences), chinese academy of medical sciences & peking union medical college, beijing 100029, china": null,
  "department of orthopedics, xuzhou central hospital, affiliated hospital of southeast university, xuzhou, jiangsu 221000, china; xuzhou medical university clinical college, xuzhou, jiangsu 221000, china": null,
  "department of plant sciences, university of cambridge, uk": null,
@@ -356,6 +375,7 @@
   "label": "Стопански факултет"
  },
  "fasl.work": null,
+ "filologiya fanlari nomzodi, dotsent": null,
  "first clinical medical college, gannan medical university, ganzhou, jiangxi, china": null,
  "first-year student,english filology faculty of uzbekistan  state world languages university": null,
  "flux-frontiers": null,
@@ -365,6 +385,11 @@
   "label": "France"
  },
  "fraunhofer institute for algorithms and scientific computing scai": null,
+ "fudan university": {
+  "lat": 31.3012,
+  "lng": 121.4975,
+  "label": "复旦大学"
+ },
  "fukuoka, japan": {
   "lat": 33.6251,
   "lng": 130.618,
@@ -555,9 +580,17 @@
   "location": null,
   "name": "Joseph"
  },
+ "gh:kaisye": {
+  "location": "Ho Chi Minh",
+  "name": "Phong Nguyen"
+ },
  "gh:kayson-39": {
   "location": null,
   "name": "kayson-39"
+ },
+ "gh:kenkaiii": {
+  "location": "Australia",
+  "name": "Ken Kai"
  },
  "gh:koelony": {
   "location": "Hong Kong",
@@ -698,6 +731,10 @@
  "gh:somastllc": {
   "location": "Somalia",
   "name": "Somast"
+ },
+ "gh:sous-labs": {
+  "location": null,
+  "name": "sous-labs"
  },
  "gh:sp-yduck": {
   "location": "Tokyo,Japan",
@@ -1030,6 +1067,7 @@
  "hf:almanach": {
   "fullname": "ALMAnaCH (Inria)"
  },
+ "hf:alpha-x-ai": null,
  "hf:alphaedge-ai": {
   "fullname": "AlphaEdgeAI"
  },
@@ -1093,6 +1131,7 @@
  "hf:azwaw": null,
  "hf:azyan02": null,
  "hf:azyg0s": null,
+ "hf:baddiamond": null,
  "hf:baidu": {
   "fullname": "BAIDU"
  },
@@ -1159,6 +1198,7 @@
   "fullname": "Chatr Labs"
  },
  "hf:chenchen12311": null,
+ "hf:chiakic": null,
  "hf:cis-lmu": {
   "fullname": "CIS, LMU Munich"
  },
@@ -1187,6 +1227,9 @@
  "hf:coml": {
   "fullname": "Cognitive Machine Learning | @ENS"
  },
+ "hf:common-pile": {
+  "fullname": "Common Pile"
+ },
  "hf:compiwerai": null,
  "hf:conwayresearch": {
   "fullname": "Conway"
@@ -1208,6 +1251,9 @@
  "hf:darveht": null,
  "hf:data-gouv-ml": {
   "fullname": "Data-Gouv-Community"
+ },
+ "hf:datapointai": {
+  "fullname": "Datapoint AI"
  },
  "hf:datasmartly": null,
  "hf:datoric": {
@@ -1238,6 +1284,9 @@
  "hf:djamelrb4": null,
  "hf:dksibbs": null,
  "hf:doannv": null,
+ "hf:doxi-ai": {
+  "fullname": "Doxi AI"
+ },
  "hf:draconiticlabs": null,
  "hf:dreambeltech": {
   "fullname": "Dreambel Tech"
@@ -1254,6 +1303,7 @@
  "hf:eidora": {
   "fullname": "eidora.org"
  },
+ "hf:einsia": null,
  "hf:ekanshbfoe": null,
  "hf:elissatag": null,
  "hf:elmehdismili": null,
@@ -1281,9 +1331,13 @@
   "fullname": "AI at Meta"
  },
  "hf:fares5462": null,
+ "hf:fastflowlm": null,
  "hf:fdnai": null,
  "hf:featherless-ai-quants": {
   "fullname": "Quants by Featherless.ai"
+ },
+ "hf:fineenvs": {
+  "fullname": "FineEnvs"
  },
  "hf:fka": null,
  "hf:florianvoss": null,
@@ -1313,6 +1367,7 @@
  "hf:gdacciaro": null,
  "hf:ggaaaga": null,
  "hf:ggghv": null,
+ "hf:ghaythmahadin": null,
  "hf:giantdev": null,
  "hf:glif-loradex-trainer": {
   "fullname": "Glif Loradex Trainer"
@@ -1337,6 +1392,7 @@
  },
  "hf:hadidiz9": null,
  "hf:hafsa0": null,
+ "hf:hailun-core": null,
  "hf:haitam03": null,
  "hf:hajili": null,
  "hf:hammedalmodel": null,
@@ -1419,6 +1475,9 @@
  "hf:infinix-io": null,
  "hf:innadark": null,
  "hf:insafee": null,
+ "hf:interhuman": {
+  "fullname": "Interhuman"
+ },
  "hf:iparramartin": null,
  "hf:irlab-udc": {
   "fullname": "Information Retrieval Lab @ University of A Coruña"
@@ -1485,11 +1544,15 @@
  "hf:kirilldual0987": null,
  "hf:kirillfpv": null,
  "hf:kmerakeb": null,
+ "hf:konstbet": null,
  "hf:koptev": null,
  "hf:kormo-vl": {
   "fullname": "KORMo-VL"
  },
  "hf:korosh405": null,
+ "hf:krafton": {
+  "fullname": "KRAFTON"
+ },
  "hf:krynexlabs": null,
  "hf:kushan1232222": null,
  "hf:kwar9898": null,
@@ -1643,6 +1706,7 @@
   "fullname": "MultiSynt"
  },
  "hf:muntasirelagami": null,
+ "hf:myecoria": null,
  "hf:mykor": {
   "fullname": "My Korean Language Models"
  },
@@ -1732,6 +1796,8 @@
  "hf:padas-lab": {
   "fullname": "Chair of Data Science, University of Passau"
  },
+ "hf:pageecho": null,
+ "hf:paincupid": null,
  "hf:pakitaki": null,
  "hf:pakphum": null,
  "hf:panga-azazia": null,
@@ -1762,6 +1828,10 @@
  "hf:polydata5": null,
  "hf:polystation": null,
  "hf:prachi-munda": null,
+ "hf:pratham804": null,
+ "hf:prism-ml": {
+  "fullname": "Prism ML"
+ },
  "hf:prithivmlmods": null,
  "hf:projecte-aina": {
   "fullname": "Projecte Aina"
@@ -1896,6 +1966,9 @@
  },
  "hf:sundram1996": null,
  "hf:supbatomic": null,
+ "hf:surogate": {
+  "fullname": "Surogate"
+ },
  "hf:svngoku": null,
  "hf:swe-at-scale": {
   "fullname": "SWE-at-Scale"
@@ -1907,6 +1980,9 @@
   "fullname": "Syntriq"
  },
  "hf:talzoomanzoo": null,
+ "hf:tamarillo": {
+  "fullname": "Tamarillo Labs"
+ },
  "hf:tampajohn": null,
  "hf:taqacuct": null,
  "hf:tarchi983": null,
@@ -2079,11 +2155,17 @@
  "hf:zyphra": {
   "fullname": "Zyphra"
  },
+ "ho chi minh": {
+  "lat": 10.7737,
+  "lng": 106.7166,
+  "label": "Hô Chi Minh-Ville"
+ },
  "hong kong": {
   "lat": 22.3492,
   "lng": 114.1858,
   "label": "Hong Kong"
  },
+ "ideaconsult ltd": null,
  "ikerbasque": {
   "lat": 43.3056,
   "lng": -2.008,
@@ -2095,6 +2177,16 @@
  "independent researcher, anaheim, california, usa": null,
  "independent researcher, brno, czech republic": null,
  "independent software developer and proprietary commercial intellectual property owner.": null,
+ "indian institute of technology delhi": {
+  "lat": 28.545,
+  "lng": 77.1892,
+  "label": "Institut indien de technologie de Delhi"
+ },
+ "indonesia university of education": {
+  "lat": -6.8612,
+  "lng": 107.5917,
+  "label": "Universitas Pendidikan Indonesia"
+ },
  "institució catalana de recerca i estudis avançats": null,
  "institut polytechnique de paris": {
   "lat": 48.7139,
@@ -2172,6 +2264,7 @@
   "lng": 46.8572,
   "label": "KSAU-HS"
  },
+ "kokand university andijan branch. department of foreign languages., orcid: https://orcid.org/0009-0002-7273-0750": null,
  "korea electronics technology institute": null,
  "korea railroad research institute": null,
  "kozminski university": {
@@ -2316,6 +2409,7 @@
   "lng": 8.4673,
   "label": "Mannheim"
  },
+ "master student, school of postgraduate studies,linguistik (s2),  universitas pendidikan indonesia": null,
  "master student, study program linguistik (s2), universitas pendidikan indonesia": null,
  "master's student, department of foreign  language and literature chirchik state pedagogical university": null,
  "master's student, department of foreign language and literature chirchik state pedagogical university": null,
@@ -2368,6 +2462,7 @@
   "label": "Université de Nantes"
  },
  "nanyang business school, nanyang technological university": null,
+ "national institute for basic biology": null,
  "national university of trujillo": {
   "lat": -8.1146,
   "lng": -79.0386,
@@ -2383,6 +2478,7 @@
   "lng": 5.0929,
   "label": "Nieuwegein"
  },
+ "ningxia medical university, school of international education": null,
  "normandie": {
   "lat": 49.0678,
   "lng": 0.3139,
@@ -2455,6 +2551,7 @@
   "lng": 100.2559,
   "label": "Penang"
  },
+ "peruvian university of applied sciences": null,
  "phd student, kokand university, uzbekistan": null,
  "philological researcher, phd.": null,
  "pisa": {
@@ -2466,6 +2563,11 @@
   "lat": 40.4407,
   "lng": -80.0026,
   "label": "Pittsburgh"
+ },
+ "plovdiv university": {
+  "lat": 42.1578,
+  "lng": 24.7143,
+  "label": "Пловдивски университет „Паисий Хилендарски“"
  },
  "poland": {
   "lat": 52.2159,
@@ -2653,6 +2755,11 @@
   "lng": 151.2083,
   "label": "Sydney"
  },
+ "sylhet engineering college": {
+  "lat": 24.9118,
+  "lng": 91.9045,
+  "label": "Sylhet Engineering College"
+ },
  "széchenyi istván university": {
   "lat": 47.6942,
   "lng": 17.6274,
@@ -2830,6 +2937,11 @@
   "label": "Universidade Federal de Pernambuco"
  },
  "universidade federal do ceará (ufc), campus de russas": null,
+ "universitas muhammadiyah magelang": {
+  "lat": -7.5226,
+  "lng": 110.2261,
+  "label": "Universitas Muhammadiyah Magelang"
+ },
  "universitas muhammadiyah semarang": {
   "lat": -7.0216,
   "lng": 110.4617,
@@ -2952,6 +3064,16 @@
  "university of the basque country (upv/ehu)": null,
  "university of the basque country (upv/ehu); universidad técnica particular de loja": null,
  "university of the thai chamber of commerce": null,
+ "university of turku": {
+  "lat": 60.4561,
+  "lng": 22.2864,
+  "label": "Turun yliopisto"
+ },
+ "university of valparaíso": {
+  "lat": 41.4676,
+  "lng": -87.0427,
+  "label": "Valparaiso University Student Health Center"
+ },
  "university of verona": {
   "lat": 43.0238,
   "lng": -89.5453,
@@ -3065,10 +3187,20 @@
   "lng": 63.9528,
   "label": "Ouzbékistan"
  },
+ "uzbekistan national pedagogical university": {
+  "lat": 41.2722,
+  "lng": 69.2057,
+  "label": "Nizomiy nomidagi O'zbekiston Milliy pedagogika universiteti"
+ },
  "valahia university of targoviste": {
   "lat": 44.9433,
   "lng": 25.4549,
   "label": "Universitatea Valahia din Targoviste"
+ },
+ "vanderbilt university": {
+  "lat": 36.1438,
+  "lng": -86.8028,
+  "label": "Vanderbilt University"
  },
  "varna, bulgaria": {
   "lat": 43.2074,
@@ -3315,6 +3447,7 @@
  "wdn:codepawl": null,
  "wdn:cognitive machine learning ens": null,
  "wdn:comfy org": null,
+ "wdn:common pile": null,
  "wdn:conway": {
   "lat": 33.8381,
   "lng": -79.0561,
@@ -3325,6 +3458,7 @@
  "wdn:dagroup pku": null,
  "wdn:darija audio dataset": null,
  "wdn:data gouv community": null,
+ "wdn:datapoint ai": null,
  "wdn:datoric": null,
  "wdn:deepseek": {
   "lat": 30.25,
@@ -3335,6 +3469,7 @@
  },
  "wdn:dendrite holdings": null,
  "wdn:diction labs": null,
+ "wdn:doxi ai": null,
  "wdn:dreambel tech": null,
  "wdn:edge0": null,
  "wdn:eidora org": null,
@@ -3342,6 +3477,7 @@
  "wdn:epfl machine learning and optimization laboratory": null,
  "wdn:espnet": null,
  "wdn:finedata": null,
+ "wdn:fineenvs": null,
  "wdn:fluidvoice": null,
  "wdn:french datasets": null,
  "wdn:french open data": null,
@@ -3379,10 +3515,12 @@
  "wdn:information retrieval lab university of a coru a": null,
  "wdn:institute for physical ai bmi": null,
  "wdn:institute of foundation models": null,
+ "wdn:interhuman": null,
  "wdn:ist austria distributed algorithms and systems lab": null,
  "wdn:j aime ma langue": null,
  "wdn:jscreatorpro pte ltd": null,
  "wdn:kormo vl": null,
+ "wdn:krafton": null,
  "wdn:laion ev": null,
  "wdn:langtech machine translation": null,
  "wdn:language technologies laboratory barcelona supercomputing center": null,
@@ -3473,6 +3611,7 @@
  "wdn:phoonnx": null,
  "wdn:platzi community": null,
  "wdn:pozdnekov labs": null,
+ "wdn:prism ml": null,
  "wdn:projecte aina": null,
  "wdn:proxecto n s": null,
  "wdn:pruna ai": null,
@@ -3511,9 +3650,11 @@
   "geo_source": "Wikidata · Sunbird Airlines"
  },
  "wdn:sunbird ai experimental resources": null,
+ "wdn:surogate": null,
  "wdn:swe at scale": null,
  "wdn:swinliq ai": null,
  "wdn:syntriq": null,
+ "wdn:tamarillo labs": null,
  "wdn:teamflaxia": null,
  "wdn:tencent": {
   "lat": 19.33,
