@@ -1,4 +1,5 @@
 {
+ "1st year master's student, linguistics, asian university of technologies": null,
  "9th-grade student at wisdom school": null,
  "@icra": {
   "lat": 41.9274,
@@ -320,6 +321,7 @@
  "department of ecology, faculty of science, charles university, prague, czechia; institute of microbiology of the czech academy of sciences, prague, czechia": null,
  "department of education, university of oxford": null,
  "department of language teaching in medicine,  andijan branch of kokand university, uzbekistan": null,
+ "department of linguistics, azerbaijan  state pedagogical university, baku, azerbaijan": null,
  "department of medicinal chemistry, center for natural products, drug discovery and development, university of florida, gainesville, fl 32610, usa": null,
  "department of neurosurgery, china-japan friendship hospital (institute of clinical medical sciences), chinese academy of medical sciences & peking union medical college, beijing 100029, china": null,
  "department of orthopedics, xuzhou central hospital, affiliated hospital of southeast university, xuzhou, jiangsu 221000, china; xuzhou medical university clinical college, xuzhou, jiangsu 221000, china": null,
@@ -377,6 +379,7 @@
   "label": "Стопански факултет"
  },
  "fasl.work": null,
+ "federico santa maría technical university": null,
  "filologiya fanlari nomzodi, dotsent": null,
  "first clinical medical college, gannan medical university, ganzhou, jiangxi, china": null,
  "first-year student,english filology faculty of uzbekistan  state world languages university": null,
@@ -529,6 +532,10 @@
   "location": "São Paulo, Brazil",
   "name": "Elias Biondo"
  },
+ "gh:fredo-jarvis": {
+  "location": "France",
+  "name": "Jarvis"
+ },
  "gh:frigadehq": {
   "location": "United States of America",
   "name": "Frigade"
@@ -550,6 +557,10 @@
   "name": "Heshan Sanjuka"
  },
  "gh:hitkeeen": null,
+ "gh:hodmanmusa": {
+  "location": "Türkiye, Konya",
+  "name": "Musa Hodman"
+ },
  "gh:hyperionaidev": {
   "location": "Armenia",
   "name": "Hyperion AI"
@@ -955,6 +966,11 @@
   "lng": 5.7358,
   "label": "Grenoble"
  },
+ "guangxi medical university": {
+  "lat": 22.8001,
+  "lng": 108.3472,
+  "label": "广西医科大学"
+ },
  "gwangju, south korea": {
   "lat": 35.1558,
   "lng": 126.8306,
@@ -1038,6 +1054,9 @@
  "hf:agharib": null,
  "hf:ahcenr": null,
  "hf:ahsanmandhar": null,
+ "hf:ai-sage": {
+  "fullname": "ai-sage"
+ },
  "hf:aida-upm": {
   "fullname": "Applied Intelligence & Data Analysis - Universidad Politécnica de Madrid"
  },
@@ -1352,6 +1371,7 @@
  "hf:featherless-ai-quants": {
   "fullname": "Quants by Featherless.ai"
  },
+ "hf:ferminjmg": null,
  "hf:fineenvs": {
   "fullname": "FineEnvs"
  },
@@ -1415,11 +1435,15 @@
  "hf:hammedalmodel": null,
  "hf:hamzaweb3": null,
  "hf:hannahbillo": null,
+ "hf:hansda": null,
  "hf:hapnoid": null,
  "hf:harness-hub": {
   "fullname": "harness-hub"
  },
  "hf:hauhaucs": null,
+ "hf:hausanlp": {
+  "fullname": "HausaNLP"
+ },
  "hf:hbb-community": {
   "fullname": "HBB Community"
  },
@@ -1465,6 +1489,7 @@
   "fullname": "Hyperbots Inc"
  },
  "hf:hyuki5": null,
+ "hf:ibrahimhamamci": null,
  "hf:ibrahimizem": null,
  "hf:icaruana": null,
  "hf:idavidrein": null,
@@ -1522,10 +1547,12 @@
  "hf:janavivekariya": null,
  "hf:javierbits": null,
  "hf:jbmkmbrlb": null,
+ "hf:jeremy939494": null,
  "hf:jgalego": null,
  "hf:jhu-clsp": {
   "fullname": "Center for Language and Speech Processing @ JHU"
  },
+ "hf:jianxin133": null,
  "hf:jimenagh": null,
  "hf:jimwong8899": null,
  "hf:jinever": null,
@@ -1561,6 +1588,7 @@
  "hf:khdidij": null,
  "hf:kirilldual0987": null,
  "hf:kirillfpv": null,
+ "hf:kkrishnan90": null,
  "hf:kmerakeb": null,
  "hf:konstbet": null,
  "hf:koptev": null,
@@ -1795,6 +1823,9 @@
  },
  "hf:openflowlm": {
   "fullname": "OpenFlowLM"
+ },
+ "hf:openmoss-team": {
+  "fullname": "OpenMOSS"
  },
  "hf:openuncensored": null,
  "hf:openvoiceos": {
@@ -2050,6 +2081,9 @@
  "hf:timteamteem": null,
  "hf:tjulxx": null,
  "hf:toduxlabs": null,
+ "hf:tokenaii": {
+  "fullname": "TokenAI"
+ },
  "hf:tokentinkerer": null,
  "hf:tomaarsen": null,
  "hf:tomaszki": null,
@@ -2075,8 +2109,12 @@
  "hf:tts4all": {
   "fullname": "Text To Speech For All"
  },
+ "hf:turkunlp": {
+  "fullname": "TurkuNLP Research Group"
+ },
  "hf:tuttoin94": null,
  "hf:tvcat": null,
+ "hf:twmht": null,
  "hf:ucrelnlp": {
   "fullname": "UCREL NLP Research Group"
  },
@@ -2101,7 +2139,11 @@
   "fullname": "Vambo AI"
  },
  "hf:vansh62": null,
+ "hf:vathivis": null,
  "hf:velkamez": null,
+ "hf:veritone": {
+  "fullname": "Veritone, Inc."
+ },
  "hf:vext-ma": {
   "fullname": "Vext"
  },
@@ -2221,6 +2263,11 @@
   "label": "Universitas Pendidikan Indonesia"
  },
  "institució catalana de recerca i estudis avançats": null,
+ "institut national polytechnique félix houphouët-boigny": {
+  "lat": 6.8732,
+  "lng": -5.2354,
+  "label": "Institut National Polytechnique Félix Houphouët-Boigny"
+ },
  "institut polytechnique de paris": {
   "lat": 48.7139,
   "lng": 2.2141,
@@ -2464,6 +2511,7 @@
   "lng": 121.5192,
   "label": "教育部"
  },
+ "mohammed v university in rabat": null,
  "msida": {
   "lat": 35.8957,
   "lng": 14.4892,
@@ -2544,6 +2592,12 @@
   "lng": -78.8982,
   "label": "Ontario Tech University"
  },
+ "ontology engineering group": {
+  "lat": 40.4044,
+  "lng": -3.8347,
+  "label": "Ontology Engineering Group"
+ },
+ "oregon state university; okinawa institute of science and technology": null,
  "orléans": {
   "lat": 47.9027,
   "lng": 1.9086,
@@ -2831,6 +2885,11 @@
  },
  "tashkent state university of law, department of foreign languages, associate professor (phd).": null,
  "teacher, philology, turan international university, namangan, uzbekistan": null,
+ "technical university of munich": {
+  "lat": 48.2655,
+  "lng": 11.6692,
+  "label": "Technische Universität München"
+ },
  "termez state university, uzbekistan": {
   "lat": 37.2397,
   "lng": 67.3122,
@@ -2916,6 +2975,11 @@
   "lng": 35.2317,
   "label": "Turquie"
  },
+ "türkiye, konya": {
+  "lat": 37.8727,
+  "lng": 32.4924,
+  "label": "Konya"
+ },
  "uit the arctic university of norway": null,
  "ukraine": {
   "lat": 49.4872,
@@ -2940,6 +3004,11 @@
   "label": "États-Unis d'Amérique"
  },
  "universidad andrés bello; chilean navy": null,
+ "universidad de granada": {
+  "lat": 37.1809,
+  "lng": -3.6,
+  "label": "Universidad de Granada"
+ },
  "universidad de la laguna": {
   "lat": 25.5768,
   "lng": -103.4293,
@@ -3031,10 +3100,20 @@
   "lng": 11.5872,
   "label": "Université de Bayreuth"
  },
+ "university of bern": {
+  "lat": 46.9509,
+  "lng": 7.4387,
+  "label": "Université de Berne"
+ },
  "university of bologna": {
   "lat": 44.4983,
   "lng": 11.3545,
   "label": "Università di Bologna"
+ },
+ "university of british columbia, okanagan campus": {
+  "lat": 49.9391,
+  "lng": -119.3999,
+  "label": "Upper Campus Way - xwiɬ k̓әl tqәltkusms"
  },
  "university of business and science  til va adabiyot ta'limi kafedrasi o'qituvchisi": null,
  "university of cambridge, cambridge, uk (hybrid)": null,
@@ -3049,6 +3128,11 @@
   "label": "Aniq va ijtimoiy fanlar universiteti"
  },
  "university of hassan ii casablanca": null,
+ "university of helsinki": {
+  "lat": 60.2267,
+  "lng": 25.0177,
+  "label": "Helsingin yliopisto"
+ },
  "university of illinois urbana-champaign": {
   "lat": 40.0762,
   "lng": -88.2233,
@@ -3078,6 +3162,11 @@
   "lat": 36.3836,
   "lng": 43.1434,
   "label": "جامعة الموصل"
+ },
+ "university of murcia": {
+  "lat": 37.9322,
+  "lng": -1.1625,
+  "label": "Hospital Clínico Universitario Virgen de la Arrixaca"
  },
  "university of neuchâtel": null,
  "university of north texas": {
@@ -3437,6 +3526,7 @@
  "wdn:afrispeech": null,
  "wdn:ai at meta": null,
  "wdn:ai institute applied intelligence": null,
+ "wdn:ai sage": null,
  "wdn:aiox labs": null,
  "wdn:aleph alpha": {
   "lat": 49.4094,
@@ -3554,6 +3644,7 @@
  "wdn:guardion": null,
  "wdn:hackai 2026": null,
  "wdn:harness hub": null,
+ "wdn:hausanlp": null,
  "wdn:hbb community": null,
  "wdn:helsinki nlp research group": null,
  "wdn:herald": null,
@@ -3663,6 +3754,7 @@
  "wdn:openeurollm": null,
  "wdn:openflowlm": null,
  "wdn:openindex": null,
+ "wdn:openmoss": null,
  "wdn:openvoiceos": null,
  "wdn:orcarouter": null,
  "wdn:organisation participant 27": null,
@@ -3733,16 +3825,19 @@
  "wdn:the ministry of digital technologies of the republic of uzbekistan": null,
  "wdn:thinking machines lab": null,
  "wdn:tigre g tico lda": null,
+ "wdn:tokenai": null,
  "wdn:tornadolabs": null,
  "wdn:translated": null,
  "wdn:trelis": null,
  "wdn:tts omnivoice": null,
+ "wdn:turkunlp research group": null,
  "wdn:ucrel nlp research group": null,
  "wdn:umuteam": null,
  "wdn:universal dependencies": null,
  "wdn:unsloth": null,
  "wdn:unsw nlp": null,
  "wdn:vambo ai": null,
+ "wdn:veritone inc": null,
  "wdn:vext": {
   "lat": 33.5992,
   "lng": -7.62,

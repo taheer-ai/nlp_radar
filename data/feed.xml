@@ -6,7 +6,255 @@
     <atom:link href="https://omnital.github.io/data/feed.xml" rel="self" type="application/rss+xml"/>
     <description>Nouvelles ressources en traitement automatique des langues (arXiv, HAL, Hugging Face, GitHub, WikiCFP).</description>
     <language>fr</language>
-    <lastBuildDate>Thu, 26 Nov 2026 16:53:43 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 27 Nov 2026 16:36:00 +0000</lastBuildDate>
+    <item>
+      <title>[Corpus] AfriSpeech/africa-mt-corpus-large</title>
+      <link>https://huggingface.co/datasets/AfriSpeech/africa-mt-corpus-large</link>
+      <guid isPermaLink="false">hf:datasets:AfriSpeech/africa-mt-corpus-large</guid>
+      <pubDate>Fri, 27 Nov 2026 00:00:00 +0000</pubDate>
+      <category>huggingface</category>
+      <description>Africa Translate Large Collection: africa-translate. Sentence construction Data comes from AfriSpeech/africa-corpus, AfriSpeech/african-corpus-jw, and AfriSpeech/africa-corpus-journals through Africa Corpus Builder. High-resource…</description>
+    </item>
+    <item>
+      <title>[Corpus] AfriSpeech/africa-mt-corpus-small</title>
+      <link>https://huggingface.co/datasets/AfriSpeech/africa-mt-corpus-small</link>
+      <guid isPermaLink="false">hf:datasets:AfriSpeech/africa-mt-corpus-small</guid>
+      <pubDate>Fri, 27 Nov 2026 00:00:00 +0000</pubDate>
+      <category>huggingface</category>
+      <description>Africa Translate Small Collection: africa-translate. Sentence construction Data comes from AfriSpeech/africa-corpus, AfriSpeech/african-corpus-jw, and AfriSpeech/africa-corpus-journals through Africa Corpus Builder. High-resource…</description>
+    </item>
+    <item>
+      <title>[Corpus] salmane11/WISDOM</title>
+      <link>https://huggingface.co/datasets/salmane11/WISDOM</link>
+      <guid isPermaLink="false">hf:datasets:salmane11/WISDOM</guid>
+      <pubDate>Fri, 27 Nov 2026 00:00:00 +0000</pubDate>
+      <category>huggingface</category>
+      <description>WISDOM: A Cross-Regional Multilingual Benchmark for Proverbs and Figurative Language Dataset Description WISDOM is a large-scale multilingual benchmark designed to evaluate whether Large Language Models (LLMs) can understand culturally…</description>
+    </item>
+    <item>
+      <title>[Corpus] Tadesse/AfriSent-Annotators</title>
+      <link>https://huggingface.co/datasets/Tadesse/AfriSent-Annotators</link>
+      <guid isPermaLink="false">hf:datasets:Tadesse/AfriSent-Annotators</guid>
+      <pubDate>Fri, 27 Nov 2026 00:00:00 +0000</pubDate>
+      <category>huggingface</category>
+      <description>AfriSent-Annotators Per-annotator sentiment judgements for African-language tweets. Each instance was independently labelled by three annotators as positive, negative, or neutral. Unlike the usual release of these corpora, this one keeps…</description>
+    </item>
+    <item>
+      <title>[Corpus] Tadesse/AfriHate-Annotators</title>
+      <link>https://huggingface.co/datasets/Tadesse/AfriHate-Annotators</link>
+      <guid isPermaLink="false">hf:datasets:Tadesse/AfriHate-Annotators</guid>
+      <pubDate>Fri, 27 Nov 2026 00:00:00 +0000</pubDate>
+      <category>huggingface</category>
+      <description>AfriHate-Annotators Per-annotator hate speech judgements for African-language tweets. Each instance was independently labelled by three or four annotators as hate (identity-based hateful or discriminatory content), abuse (insulting or…</description>
+    </item>
+    <item>
+      <title>[Corpus] Tadesse/AfriEmo-Annotators</title>
+      <link>https://huggingface.co/datasets/Tadesse/AfriEmo-Annotators</link>
+      <guid isPermaLink="false">hf:datasets:Tadesse/AfriEmo-Annotators</guid>
+      <pubDate>Fri, 27 Nov 2026 00:00:00 +0000</pubDate>
+      <category>huggingface</category>
+      <description>AfriEmo-Annotators Per-annotator emotion judgements for African-language texts. Each instance was independently labelled by three to five annotators, who could select any number of the six emotions — anger, disgust, fear, joy, sadness,…</description>
+    </item>
+    <item>
+      <title>[Model] mradermacher/Bielik-11B-v3.2-Instruct-ungated-i1-GGUF</title>
+      <link>https://huggingface.co/mradermacher/Bielik-11B-v3.2-Instruct-ungated-i1-GGUF</link>
+      <guid isPermaLink="false">hf:models:mradermacher/Bielik-11B-v3.2-Instruct-ungated-i1-GGUF</guid>
+      <pubDate>Fri, 27 Nov 2026 00:00:00 +0000</pubDate>
+      <category>huggingface</category>
+      <description></description>
+    </item>
+    <item>
+      <title>[Model] mradermacher/Bielik-11B-v3.2-Instruct-ungated-GGUF</title>
+      <link>https://huggingface.co/mradermacher/Bielik-11B-v3.2-Instruct-ungated-GGUF</link>
+      <guid isPermaLink="false">hf:models:mradermacher/Bielik-11B-v3.2-Instruct-ungated-GGUF</guid>
+      <pubDate>Fri, 27 Nov 2026 00:00:00 +0000</pubDate>
+      <category>huggingface</category>
+      <description></description>
+    </item>
+    <item>
+      <title>[Model] Veritone/nomic-embed-text-v2-moe</title>
+      <link>https://huggingface.co/Veritone/nomic-embed-text-v2-moe</link>
+      <guid isPermaLink="false">hf:models:Veritone/nomic-embed-text-v2-moe</guid>
+      <pubDate>Fri, 27 Nov 2026 00:00:00 +0000</pubDate>
+      <category>huggingface</category>
+      <description></description>
+    </item>
+    <item>
+      <title>[Model] Jeremy939494/Hy-MT3-7B</title>
+      <link>https://huggingface.co/Jeremy939494/Hy-MT3-7B</link>
+      <guid isPermaLink="false">hf:models:Jeremy939494/Hy-MT3-7B</guid>
+      <pubDate>Fri, 27 Nov 2026 00:00:00 +0000</pubDate>
+      <category>huggingface</category>
+      <description></description>
+    </item>
+    <item>
+      <title>[Model] Xylolabs/Hy-MT3-30B-A3B-MLX-4bit</title>
+      <link>https://huggingface.co/Xylolabs/Hy-MT3-30B-A3B-MLX-4bit</link>
+      <guid isPermaLink="false">hf:models:Xylolabs/Hy-MT3-30B-A3B-MLX-4bit</guid>
+      <pubDate>Fri, 27 Nov 2026 00:00:00 +0000</pubDate>
+      <category>huggingface</category>
+      <description></description>
+    </item>
+    <item>
+      <title>[Model] Xylolabs/Hy-MT3-30B-A3B-MLX-8bit</title>
+      <link>https://huggingface.co/Xylolabs/Hy-MT3-30B-A3B-MLX-8bit</link>
+      <guid isPermaLink="false">hf:models:Xylolabs/Hy-MT3-30B-A3B-MLX-8bit</guid>
+      <pubDate>Fri, 27 Nov 2026 00:00:00 +0000</pubDate>
+      <category>huggingface</category>
+      <description></description>
+    </item>
+    <item>
+      <title>[Model] ferminjmg/livecaption-hitz-mt-onnx</title>
+      <link>https://huggingface.co/ferminjmg/livecaption-hitz-mt-onnx</link>
+      <guid isPermaLink="false">hf:models:ferminjmg/livecaption-hitz-mt-onnx</guid>
+      <pubDate>Fri, 27 Nov 2026 00:00:00 +0000</pubDate>
+      <category>huggingface</category>
+      <description></description>
+    </item>
+    <item>
+      <title>[Model] jianxin133/actpi05_model</title>
+      <link>https://huggingface.co/jianxin133/actpi05_model</link>
+      <guid isPermaLink="false">hf:models:jianxin133/actpi05_model</guid>
+      <pubDate>Fri, 27 Nov 2026 00:00:00 +0000</pubDate>
+      <category>huggingface</category>
+      <description></description>
+    </item>
+    <item>
+      <title>[Model] twmht/parakeet-ultra-fp16</title>
+      <link>https://huggingface.co/twmht/parakeet-ultra-fp16</link>
+      <guid isPermaLink="false">hf:models:twmht/parakeet-ultra-fp16</guid>
+      <pubDate>Fri, 27 Nov 2026 00:00:00 +0000</pubDate>
+      <category>huggingface</category>
+      <description></description>
+    </item>
+    <item>
+      <title>[Model] kkrishnan90/whispr-asr</title>
+      <link>https://huggingface.co/kkrishnan90/whispr-asr</link>
+      <guid isPermaLink="false">hf:models:kkrishnan90/whispr-asr</guid>
+      <pubDate>Fri, 27 Nov 2026 00:00:00 +0000</pubDate>
+      <category>huggingface</category>
+      <description></description>
+    </item>
+    <item>
+      <title>[Model] Hansda/EdgeCoder-Multilingual-61M-GGUF</title>
+      <link>https://huggingface.co/Hansda/EdgeCoder-Multilingual-61M-GGUF</link>
+      <guid isPermaLink="false">hf:models:Hansda/EdgeCoder-Multilingual-61M-GGUF</guid>
+      <pubDate>Fri, 27 Nov 2026 00:00:00 +0000</pubDate>
+      <category>huggingface</category>
+      <description></description>
+    </item>
+    <item>
+      <title>[Tool] 11Minato11/darijaidiom-qa</title>
+      <link>https://github.com/11Minato11/darijaidiom-qa</link>
+      <guid isPermaLink="false">gh:11minato11/darijaidiom-qa</guid>
+      <pubDate>Fri, 27 Nov 2026 00:00:00 +0000</pubDate>
+      <category>github</category>
+      <description>Question-answering system for Moroccan Darija proverbs based on a reference book (DarijaBERT retriever + Qwen2.5 generator, FastAPI app)</description>
+    </item>
+    <item>
+      <title>[Corpus] Evidence for language attrition in the allocutive system of Basque</title>
+      <link>https://zenodo.org/records/24588284</link>
+      <guid isPermaLink="false">zenodo:24588283</guid>
+      <pubDate>Fri, 27 Nov 2026 00:00:00 +0000</pubDate>
+      <category>zenodo</category>
+      <description>The attached files are the dataset used for the study as well as the R code for statystical analysis.</description>
+    </item>
+    <item>
+      <title>[Model] HausaNLP/AfriSentiLID-115</title>
+      <link>https://huggingface.co/HausaNLP/AfriSentiLID-115</link>
+      <guid isPermaLink="false">hf:models:HausaNLP/AfriSentiLID-115</guid>
+      <pubDate>Fri, 27 Nov 2026 00:00:00 +0000</pubDate>
+      <category>huggingface</category>
+      <description></description>
+    </item>
+    <item>
+      <title>[Model] Xylolabs/Hy-MT3-30B-A3B-GGUF</title>
+      <link>https://huggingface.co/Xylolabs/Hy-MT3-30B-A3B-GGUF</link>
+      <guid isPermaLink="false">hf:models:Xylolabs/Hy-MT3-30B-A3B-GGUF</guid>
+      <pubDate>Fri, 27 Nov 2026 00:00:00 +0000</pubDate>
+      <category>huggingface</category>
+      <description></description>
+    </item>
+    <item>
+      <title>[Model] cpral/Bielik-11B-v3.2-Instruct-ungated</title>
+      <link>https://huggingface.co/cpral/Bielik-11B-v3.2-Instruct-ungated</link>
+      <guid isPermaLink="false">hf:models:cpral/Bielik-11B-v3.2-Instruct-ungated</guid>
+      <pubDate>Fri, 27 Nov 2026 00:00:00 +0000</pubDate>
+      <category>huggingface</category>
+      <description></description>
+    </item>
+    <item>
+      <title>[Model] orcarouter/Hy-MT3-30B-A3B-abliterated-MLX</title>
+      <link>https://huggingface.co/orcarouter/Hy-MT3-30B-A3B-abliterated-MLX</link>
+      <guid isPermaLink="false">hf:models:orcarouter/Hy-MT3-30B-A3B-abliterated-MLX</guid>
+      <pubDate>Fri, 27 Nov 2026 00:00:00 +0000</pubDate>
+      <category>huggingface</category>
+      <description></description>
+    </item>
+    <item>
+      <title>[Model] orcarouter/Hy-MT3-30B-A3B-abliterated-GGUF</title>
+      <link>https://huggingface.co/orcarouter/Hy-MT3-30B-A3B-abliterated-GGUF</link>
+      <guid isPermaLink="false">hf:models:orcarouter/Hy-MT3-30B-A3B-abliterated-GGUF</guid>
+      <pubDate>Fri, 27 Nov 2026 00:00:00 +0000</pubDate>
+      <category>huggingface</category>
+      <description></description>
+    </item>
+    <item>
+      <title>[Model] orcarouter/Hy-MT3-30B-A3B-abliterated</title>
+      <link>https://huggingface.co/orcarouter/Hy-MT3-30B-A3B-abliterated</link>
+      <guid isPermaLink="false">hf:models:orcarouter/Hy-MT3-30B-A3B-abliterated</guid>
+      <pubDate>Fri, 27 Nov 2026 00:00:00 +0000</pubDate>
+      <category>huggingface</category>
+      <description></description>
+    </item>
+    <item>
+      <title>[Model] Vathivis/canary-1b-v2-fp16</title>
+      <link>https://huggingface.co/Vathivis/canary-1b-v2-fp16</link>
+      <guid isPermaLink="false">hf:models:Vathivis/canary-1b-v2-fp16</guid>
+      <pubDate>Fri, 27 Nov 2026 00:00:00 +0000</pubDate>
+      <category>huggingface</category>
+      <description></description>
+    </item>
+    <item>
+      <title>[Model] TurkuNLP/udmono-models</title>
+      <link>https://huggingface.co/TurkuNLP/udmono-models</link>
+      <guid isPermaLink="false">hf:models:TurkuNLP/udmono-models</guid>
+      <pubDate>Fri, 27 Nov 2026 00:00:00 +0000</pubDate>
+      <category>huggingface</category>
+      <description></description>
+    </item>
+    <item>
+      <title>[Model] tokenaii/Replica-Harf-SY</title>
+      <link>https://huggingface.co/tokenaii/Replica-Harf-SY</link>
+      <guid isPermaLink="false">hf:models:tokenaii/Replica-Harf-SY</guid>
+      <pubDate>Fri, 27 Nov 2026 00:00:00 +0000</pubDate>
+      <category>huggingface</category>
+      <description></description>
+    </item>
+    <item>
+      <title>[Model] tokenaii/Replica-Harf-SA</title>
+      <link>https://huggingface.co/tokenaii/Replica-Harf-SA</link>
+      <guid isPermaLink="false">hf:models:tokenaii/Replica-Harf-SA</guid>
+      <pubDate>Fri, 27 Nov 2026 00:00:00 +0000</pubDate>
+      <category>huggingface</category>
+      <description></description>
+    </item>
+    <item>
+      <title>[Model] tokenaii/Replica-Harf-EG</title>
+      <link>https://huggingface.co/tokenaii/Replica-Harf-EG</link>
+      <guid isPermaLink="false">hf:models:tokenaii/Replica-Harf-EG</guid>
+      <pubDate>Fri, 27 Nov 2026 00:00:00 +0000</pubDate>
+      <category>huggingface</category>
+      <description></description>
+    </item>
+    <item>
+      <title>[Tool] Compel Corpus: Galician 19th-century Poetry from Public Sources (compellit/gl-corpus-public: v1.1.1)</title>
+      <link>https://zenodo.org/records/22925792</link>
+      <guid isPermaLink="false">zenodo:22251987</guid>
+      <pubDate>Fri, 27 Nov 2026 00:00:00 +0000</pubDate>
+      <category>zenodo</category>
+      <description>Galician 19th-century poetry, TEI-encoded with automatic prosodic annotations. Current relaease: Minor fix: Removes subtype in nested poem-sections.</description>
+    </item>
     <item>
       <title>[Event] GLOCAL 2027 : GLOCAL Conference on Linguistic SocioCultural Anthropology 2027: AI, Anthropological Intelligence</title>
       <link>http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=204522</link>
@@ -32,6 +280,22 @@
       <description>Massively multilingual translation models usually have one tag per language and no control over regional varieties, and they cover a region's smaller languages poorly or not at all. We report three fine-tunes of MADLAD-400-3B-MT, each…</description>
     </item>
     <item>
+      <title>[Opportunity] Conversational AI Specialist</title>
+      <link>https://www.arbeitnow.fr/jobs/companies/miraklfr/conversational-ai-specialist-paris-392279</link>
+      <guid isPermaLink="false">arbeitnow:conversational-ai-specialist-paris-392279</guid>
+      <pubDate>Thu, 26 Nov 2026 00:00:00 +0000</pubDate>
+      <category>arbeitnow</category>
+      <description>À propos de Mirakl : Fondée en 2012, Mirakl est à l’avant-garde de l’innovation marketplace, permettant à toutes les entreprises de rivaliser dans l’économie de plateforme. Son operating system combine aujourd’hui des solutions pour : le…</description>
+    </item>
+    <item>
+      <title>[Paper] Essai de traduction d’une partie du dictionnaire de J. M. Dallet : dictionnaire kabyle-français, éd. Sellaf 1982, a savoir (de la page 186 a 206) vers kabyle-kabyle.</title>
+      <link>https://dspace.ummto.dz/handle/ummto/32029</link>
+      <guid isPermaLink="false">dspace:ummto:ummto/32029</guid>
+      <pubDate>Thu, 26 Nov 2026 00:00:00 +0000</pubDate>
+      <category>dspace</category>
+      <description>Dans ce travail nous avons étudié une nouvelle facette du thème abordé dans notre mémoire de licence en 2012 à savoir les (racines B, C, D), en ajoutant la racine « F » (pages 186-206). Notre objectif principal était de traduire une…</description>
+    </item>
+    <item>
       <title>[Corpus] Changetheblock/LicitaBench</title>
       <link>https://huggingface.co/datasets/Changetheblock/LicitaBench</link>
       <guid isPermaLink="false">hf:datasets:Changetheblock/LicitaBench</guid>
@@ -48,49 +312,17 @@
       <description>CHILDES transcripts processed from CHAT, release processed-v0.2 Transcripts from CHILDES in the format of BabyBabelLM's formatted-CHILDES: one row per transcript, one *ROLE:\tutterance line per utterance, with the same six columns. The…</description>
     </item>
     <item>
-      <title>[Model] Xylolabs/Hy-MT3-7B-GGUF</title>
-      <link>https://huggingface.co/Xylolabs/Hy-MT3-7B-GGUF</link>
-      <guid isPermaLink="false">hf:models:Xylolabs/Hy-MT3-7B-GGUF</guid>
+      <title>[Model] MindDex/multilingual-e5-small-GGUF</title>
+      <link>https://huggingface.co/MindDex/multilingual-e5-small-GGUF</link>
+      <guid isPermaLink="false">hf:models:MindDex/multilingual-e5-small-GGUF</guid>
       <pubDate>Thu, 26 Nov 2026 00:00:00 +0000</pubDate>
       <category>huggingface</category>
       <description></description>
     </item>
     <item>
-      <title>[Model] Xylolabs/Hy-MT3-7B-MLX-8bit</title>
-      <link>https://huggingface.co/Xylolabs/Hy-MT3-7B-MLX-8bit</link>
-      <guid isPermaLink="false">hf:models:Xylolabs/Hy-MT3-7B-MLX-8bit</guid>
-      <pubDate>Thu, 26 Nov 2026 00:00:00 +0000</pubDate>
-      <category>huggingface</category>
-      <description></description>
-    </item>
-    <item>
-      <title>[Model] Xylolabs/Hy-MT3-7B-MLX-4bit</title>
-      <link>https://huggingface.co/Xylolabs/Hy-MT3-7B-MLX-4bit</link>
-      <guid isPermaLink="false">hf:models:Xylolabs/Hy-MT3-7B-MLX-4bit</guid>
-      <pubDate>Thu, 26 Nov 2026 00:00:00 +0000</pubDate>
-      <category>huggingface</category>
-      <description></description>
-    </item>
-    <item>
-      <title>[Model] Xylolabs/Hy-MT3-1.8B-MLX-8bit</title>
-      <link>https://huggingface.co/Xylolabs/Hy-MT3-1.8B-MLX-8bit</link>
-      <guid isPermaLink="false">hf:models:Xylolabs/Hy-MT3-1.8B-MLX-8bit</guid>
-      <pubDate>Thu, 26 Nov 2026 00:00:00 +0000</pubDate>
-      <category>huggingface</category>
-      <description></description>
-    </item>
-    <item>
-      <title>[Model] Xylolabs/Hy-MT3-1.8B-MLX-4bit</title>
-      <link>https://huggingface.co/Xylolabs/Hy-MT3-1.8B-MLX-4bit</link>
-      <guid isPermaLink="false">hf:models:Xylolabs/Hy-MT3-1.8B-MLX-4bit</guid>
-      <pubDate>Thu, 26 Nov 2026 00:00:00 +0000</pubDate>
-      <category>huggingface</category>
-      <description></description>
-    </item>
-    <item>
-      <title>[Model] genistudioofficial/geni_live-voice-library</title>
-      <link>https://huggingface.co/genistudioofficial/geni_live-voice-library</link>
-      <guid isPermaLink="false">hf:models:genistudioofficial/geni_live-voice-library</guid>
+      <title>[Model] MisterPotato92/multilingual-e5-small-GGUF</title>
+      <link>https://huggingface.co/MisterPotato92/multilingual-e5-small-GGUF</link>
+      <guid isPermaLink="false">hf:models:MisterPotato92/multilingual-e5-small-GGUF</guid>
       <pubDate>Thu, 26 Nov 2026 00:00:00 +0000</pubDate>
       <category>huggingface</category>
       <description></description>
@@ -104,17 +336,41 @@
       <description></description>
     </item>
     <item>
-      <title>[Model] MindDex/multilingual-e5-small-GGUF</title>
-      <link>https://huggingface.co/MindDex/multilingual-e5-small-GGUF</link>
-      <guid isPermaLink="false">hf:models:MindDex/multilingual-e5-small-GGUF</guid>
+      <title>[Model] Xylolabs/Hy-MT3-1.8B-MLX-4bit</title>
+      <link>https://huggingface.co/Xylolabs/Hy-MT3-1.8B-MLX-4bit</link>
+      <guid isPermaLink="false">hf:models:Xylolabs/Hy-MT3-1.8B-MLX-4bit</guid>
       <pubDate>Thu, 26 Nov 2026 00:00:00 +0000</pubDate>
       <category>huggingface</category>
       <description></description>
     </item>
     <item>
-      <title>[Model] MisterPotato92/multilingual-e5-small-GGUF</title>
-      <link>https://huggingface.co/MisterPotato92/multilingual-e5-small-GGUF</link>
-      <guid isPermaLink="false">hf:models:MisterPotato92/multilingual-e5-small-GGUF</guid>
+      <title>[Model] Xylolabs/Hy-MT3-1.8B-MLX-8bit</title>
+      <link>https://huggingface.co/Xylolabs/Hy-MT3-1.8B-MLX-8bit</link>
+      <guid isPermaLink="false">hf:models:Xylolabs/Hy-MT3-1.8B-MLX-8bit</guid>
+      <pubDate>Thu, 26 Nov 2026 00:00:00 +0000</pubDate>
+      <category>huggingface</category>
+      <description></description>
+    </item>
+    <item>
+      <title>[Model] Xylolabs/Hy-MT3-7B-GGUF</title>
+      <link>https://huggingface.co/Xylolabs/Hy-MT3-7B-GGUF</link>
+      <guid isPermaLink="false">hf:models:Xylolabs/Hy-MT3-7B-GGUF</guid>
+      <pubDate>Thu, 26 Nov 2026 00:00:00 +0000</pubDate>
+      <category>huggingface</category>
+      <description></description>
+    </item>
+    <item>
+      <title>[Model] Xylolabs/Hy-MT3-7B-MLX-4bit</title>
+      <link>https://huggingface.co/Xylolabs/Hy-MT3-7B-MLX-4bit</link>
+      <guid isPermaLink="false">hf:models:Xylolabs/Hy-MT3-7B-MLX-4bit</guid>
+      <pubDate>Thu, 26 Nov 2026 00:00:00 +0000</pubDate>
+      <category>huggingface</category>
+      <description></description>
+    </item>
+    <item>
+      <title>[Model] Xylolabs/Hy-MT3-7B-MLX-8bit</title>
+      <link>https://huggingface.co/Xylolabs/Hy-MT3-7B-MLX-8bit</link>
+      <guid isPermaLink="false">hf:models:Xylolabs/Hy-MT3-7B-MLX-8bit</guid>
       <pubDate>Thu, 26 Nov 2026 00:00:00 +0000</pubDate>
       <category>huggingface</category>
       <description></description>
@@ -136,6 +392,14 @@
       <description></description>
     </item>
     <item>
+      <title>[Model] genistudioofficial/geni_live-voice-library</title>
+      <link>https://huggingface.co/genistudioofficial/geni_live-voice-library</link>
+      <guid isPermaLink="false">hf:models:genistudioofficial/geni_live-voice-library</guid>
+      <pubDate>Thu, 26 Nov 2026 00:00:00 +0000</pubDate>
+      <category>huggingface</category>
+      <description></description>
+    </item>
+    <item>
       <title>[Corpus] Dataset for: "Prototypical contexts for right dislocation in English to Catalan literary translation. Contrastive corpus study"</title>
       <link>https://zenodo.org/records/24561283</link>
       <guid isPermaLink="false">zenodo:24561281</guid>
@@ -144,28 +408,12 @@
       <description>Dataset for the article " Prototypical contexts for right dislocation in English to Catalan literary translation. Contrastive corpus study"</description>
     </item>
     <item>
-      <title>[Paper] Essai de traduction d’une partie du dictionnaire de J. M. Dallet : dictionnaire kabyle-français, éd. Sellaf 1982, a savoir (de la page 186 a 206) vers kabyle-kabyle.</title>
-      <link>https://dspace.ummto.dz/handle/ummto/32029</link>
-      <guid isPermaLink="false">dspace:ummto:ummto/32029</guid>
+      <title>[Tool] ghanibara2005-del/Kabyle-syst-me-One</title>
+      <link>https://github.com/ghanibara2005-del/Kabyle-syst-me-One</link>
+      <guid isPermaLink="false">gh:ghanibara2005-del/kabyle-syst-me-one</guid>
       <pubDate>Thu, 26 Nov 2026 00:00:00 +0000</pubDate>
-      <category>dspace</category>
-      <description>Dans ce travail nous avons étudié une nouvelle facette du thème abordé dans notre mémoire de licence en 2012 à savoir les (racines B, C, D), en ajoutant la racine « F » (pages 186-206). Notre objectif principal était de traduire une…</description>
-    </item>
-    <item>
-      <title>[Opportunity] Conversational AI Specialist</title>
-      <link>https://www.arbeitnow.fr/jobs/companies/miraklfr/conversational-ai-specialist-paris-392279</link>
-      <guid isPermaLink="false">arbeitnow:conversational-ai-specialist-paris-392279</guid>
-      <pubDate>Thu, 26 Nov 2026 00:00:00 +0000</pubDate>
-      <category>arbeitnow</category>
-      <description>À propos de Mirakl : Fondée en 2012, Mirakl est à l’avant-garde de l’innovation marketplace, permettant à toutes les entreprises de rivaliser dans l’économie de plateforme. Son operating system combine aujourd’hui des solutions pour : le…</description>
-    </item>
-    <item>
-      <title>[Corpus] auros-ai/iraqi-arabic-sample</title>
-      <link>https://huggingface.co/datasets/auros-ai/iraqi-arabic-sample</link>
-      <guid isPermaLink="false">hf:datasets:auros-ai/iraqi-arabic-sample</guid>
-      <pubDate>Thu, 26 Nov 2026 00:00:00 +0000</pubDate>
-      <category>huggingface</category>
-      <description>Iraqi Arabic Spontaneous Speech: Free Sample This is a free sample of our Iraqi Arabic speech dataset. It holds one unscripted answer of about two minutes from each of 8 native speakers, 16 minutes in all. It's here so you can check our…</description>
+      <category>github</category>
+      <description>Rapide et efficace</description>
     </item>
     <item>
       <title>[Corpus] Marwan101/egyptian-arabic-asr-stt</title>
@@ -176,9 +424,17 @@
       <description>egyptian-arabic-asr-stt Egyptian Arabic ASR dataset prepared for fine-tuning Whisper (16 kHz mono WAV audio + raw transcript + normalized sentence). Splits train: 50702 samples adapt_clean: 974 samples adapt_noisy: 1224 samples Usage from…</description>
     </item>
     <item>
-      <title>[Model] openeurollm/prelude-reward-models</title>
-      <link>https://huggingface.co/openeurollm/prelude-reward-models</link>
-      <guid isPermaLink="false">hf:models:openeurollm/prelude-reward-models</guid>
+      <title>[Corpus] auros-ai/iraqi-arabic-sample</title>
+      <link>https://huggingface.co/datasets/auros-ai/iraqi-arabic-sample</link>
+      <guid isPermaLink="false">hf:datasets:auros-ai/iraqi-arabic-sample</guid>
+      <pubDate>Thu, 26 Nov 2026 00:00:00 +0000</pubDate>
+      <category>huggingface</category>
+      <description>Iraqi Arabic Spontaneous Speech: Free Sample This is a free sample of our Iraqi Arabic speech dataset. It holds one unscripted answer of about two minutes from each of 8 native speakers, 16 minutes in all. It's here so you can check our…</description>
+    </item>
+    <item>
+      <title>[Model] enconvo/thewhisper-large-v3-turbo-8bit-mlx</title>
+      <link>https://huggingface.co/enconvo/thewhisper-large-v3-turbo-8bit-mlx</link>
+      <guid isPermaLink="false">hf:models:enconvo/thewhisper-large-v3-turbo-8bit-mlx</guid>
       <pubDate>Thu, 26 Nov 2026 00:00:00 +0000</pubDate>
       <category>huggingface</category>
       <description></description>
@@ -192,9 +448,9 @@
       <description></description>
     </item>
     <item>
-      <title>[Model] enconvo/thewhisper-large-v3-turbo-8bit-mlx</title>
-      <link>https://huggingface.co/enconvo/thewhisper-large-v3-turbo-8bit-mlx</link>
-      <guid isPermaLink="false">hf:models:enconvo/thewhisper-large-v3-turbo-8bit-mlx</guid>
+      <title>[Model] openeurollm/prelude-reward-models</title>
+      <link>https://huggingface.co/openeurollm/prelude-reward-models</link>
+      <guid isPermaLink="false">hf:models:openeurollm/prelude-reward-models</guid>
       <pubDate>Thu, 26 Nov 2026 00:00:00 +0000</pubDate>
       <category>huggingface</category>
       <description></description>
@@ -206,14 +462,6 @@
       <pubDate>Thu, 26 Nov 2026 00:00:00 +0000</pubDate>
       <category>huggingface</category>
       <description></description>
-    </item>
-    <item>
-      <title>[Tool] ghanibara2005-del/Kabyle-syst-me-One</title>
-      <link>https://github.com/ghanibara2005-del/Kabyle-syst-me-One</link>
-      <guid isPermaLink="false">gh:ghanibara2005-del/kabyle-syst-me-one</guid>
-      <pubDate>Thu, 26 Nov 2026 00:00:00 +0000</pubDate>
-      <category>github</category>
-      <description>Rapide et efficace</description>
     </item>
     <item>
       <title>[Corpus] Subsurface oxygen accumulation in the Ligurian Sea, a glider dataset (2025)</title>
@@ -248,20 +496,20 @@
       <description>CommonsWire 0.3.0 CommonsWire is a full-text corpus of news articles whose publishers allow their text to be shared again. Each row is one article: its body text as published, its metadata, its license, and the credit line its publisher…</description>
     </item>
     <item>
-      <title>[Corpus] swiss-ai/PersonaFactory</title>
-      <link>https://huggingface.co/datasets/swiss-ai/PersonaFactory</link>
-      <guid isPermaLink="false">hf:datasets:swiss-ai/PersonaFactory</guid>
-      <pubDate>Thu, 26 Nov 2026 00:00:00 +0000</pubDate>
-      <category>huggingface</category>
-      <description>PersonaFactory PersonaFactory is the dataset of "PersonaFactory: Stylistic User Prompt Augmentation with Synthetic Persona Bank" by Bich Ngoc Doan, Hanna Yukhymenko and Imanol Schlag. It has two subsets: Subset Content Splits Rows…</description>
-    </item>
-    <item>
       <title>[Corpus] InnoAgentix/Vokidoo-dataset</title>
       <link>https://huggingface.co/datasets/InnoAgentix/Vokidoo-dataset</link>
       <guid isPermaLink="false">hf:datasets:InnoAgentix/Vokidoo-dataset</guid>
       <pubDate>Thu, 26 Nov 2026 00:00:00 +0000</pubDate>
       <category>huggingface</category>
       <description>Vokidoo: synthetic child speech with speech-sound errors A multilingual, fully synthetic benchmark of child speech with speech-sound errors, and an evaluation of 6 speech and audio models on it. Abstract Recordings of children with…</description>
+    </item>
+    <item>
+      <title>[Corpus] swiss-ai/PersonaFactory</title>
+      <link>https://huggingface.co/datasets/swiss-ai/PersonaFactory</link>
+      <guid isPermaLink="false">hf:datasets:swiss-ai/PersonaFactory</guid>
+      <pubDate>Thu, 26 Nov 2026 00:00:00 +0000</pubDate>
+      <category>huggingface</category>
+      <description>PersonaFactory PersonaFactory is the dataset of "PersonaFactory: Stylistic User Prompt Augmentation with Synthetic Persona Bank" by Bich Ngoc Doan, Hanna Yukhymenko and Imanol Schlag. It has two subsets: Subset Content Splits Rows…</description>
     </item>
     <item>
       <title>[Opportunity] Raisonnement LLM agentif sur des graphes de connaissances cyber dynamiques pour la découverte et la validation autonomes de chemins d'attaque réseau</title>
@@ -556,254 +804,6 @@
       <link>https://huggingface.co/mradermacher/Hy-MT3-7B-i1-GGUF</link>
       <guid isPermaLink="false">hf:models:mradermacher/Hy-MT3-7B-i1-GGUF</guid>
       <pubDate>Wed, 25 Nov 2026 00:00:00 +0000</pubDate>
-      <category>huggingface</category>
-      <description></description>
-    </item>
-    <item>
-      <title>[Model] openeurollm/Prelude-9B-EU-Synthetic-SFT</title>
-      <link>https://huggingface.co/openeurollm/Prelude-9B-EU-Synthetic-SFT</link>
-      <guid isPermaLink="false">hf:models:openeurollm/Prelude-9B-EU-Synthetic-SFT</guid>
-      <pubDate>Wed, 25 Nov 2026 00:00:00 +0000</pubDate>
-      <category>huggingface</category>
-      <description></description>
-    </item>
-    <item>
-      <title>[Model] paincupid/punctuation-restoration-small</title>
-      <link>https://huggingface.co/paincupid/punctuation-restoration-small</link>
-      <guid isPermaLink="false">hf:models:paincupid/punctuation-restoration-small</guid>
-      <pubDate>Wed, 25 Nov 2026 00:00:00 +0000</pubDate>
-      <category>huggingface</category>
-      <description></description>
-    </item>
-    <item>
-      <title>[Tool] aimedben/Ai-kabyle</title>
-      <link>https://github.com/aimedben/Ai-kabyle</link>
-      <guid isPermaLink="false">gh:aimedben/ai-kabyle</guid>
-      <pubDate>Wed, 25 Nov 2026 00:00:00 +0000</pubDate>
-      <category>github</category>
-      <description>AI conversationnelle en kabyle</description>
-    </item>
-    <item>
-      <title>[Corpus] NLP4Ed/reddit-morocco</title>
-      <link>https://huggingface.co/datasets/NLP4Ed/reddit-morocco</link>
-      <guid isPermaLink="false">hf:datasets:NLP4Ed/reddit-morocco</guid>
-      <pubDate>Wed, 25 Nov 2026 00:00:00 +0000</pubDate>
-      <category>huggingface</category>
-      <description>r/Morocco Reddit Corpus A corpus of 15 posts and 3,564 comments collected from r/Morocco (2022-2026). Corpus Info Total rows (unified): 3,589 (15 titles, 10 post bodies, 3,564 comments) Tokens: 92,980 Languages: Mostly English, Moroccan…</description>
-    </item>
-    <item>
-      <title>[Model] BadDiamond/faster-whisper-small</title>
-      <link>https://huggingface.co/BadDiamond/faster-whisper-small</link>
-      <guid isPermaLink="false">hf:models:BadDiamond/faster-whisper-small</guid>
-      <pubDate>Wed, 25 Nov 2026 00:00:00 +0000</pubDate>
-      <category>huggingface</category>
-      <description></description>
-    </item>
-    <item>
-      <title>[Model] FastFlowLM/Hy-MT3-1.8B-NPU2</title>
-      <link>https://huggingface.co/FastFlowLM/Hy-MT3-1.8B-NPU2</link>
-      <guid isPermaLink="false">hf:models:FastFlowLM/Hy-MT3-1.8B-NPU2</guid>
-      <pubDate>Wed, 25 Nov 2026 00:00:00 +0000</pubDate>
-      <category>huggingface</category>
-      <description></description>
-    </item>
-    <item>
-      <title>[Model] Infinix-io/canary-1b-v2</title>
-      <link>https://huggingface.co/Infinix-io/canary-1b-v2</link>
-      <guid isPermaLink="false">hf:models:Infinix-io/canary-1b-v2</guid>
-      <pubDate>Wed, 25 Nov 2026 00:00:00 +0000</pubDate>
-      <category>huggingface</category>
-      <description></description>
-    </item>
-    <item>
-      <title>[Model] PageEcho/Hy-MT3-1.8B-MLX-4bit</title>
-      <link>https://huggingface.co/PageEcho/Hy-MT3-1.8B-MLX-4bit</link>
-      <guid isPermaLink="false">hf:models:PageEcho/Hy-MT3-1.8B-MLX-4bit</guid>
-      <pubDate>Wed, 25 Nov 2026 00:00:00 +0000</pubDate>
-      <category>huggingface</category>
-      <description></description>
-    </item>
-    <item>
-      <title>[Model] Tamarillo/groundedness-guard-base</title>
-      <link>https://huggingface.co/Tamarillo/groundedness-guard-base</link>
-      <guid isPermaLink="false">hf:models:Tamarillo/groundedness-guard-base</guid>
-      <pubDate>Wed, 25 Nov 2026 00:00:00 +0000</pubDate>
-      <category>huggingface</category>
-      <description></description>
-    </item>
-    <item>
-      <title>[Model] Tamarillo/groundedness-guard-small</title>
-      <link>https://huggingface.co/Tamarillo/groundedness-guard-small</link>
-      <guid isPermaLink="false">hf:models:Tamarillo/groundedness-guard-small</guid>
-      <pubDate>Wed, 25 Nov 2026 00:00:00 +0000</pubDate>
-      <category>huggingface</category>
-      <description></description>
-    </item>
-    <item>
-      <title>[Model] Trelis/egyptian-arabic-tts-research</title>
-      <link>https://huggingface.co/Trelis/egyptian-arabic-tts-research</link>
-      <guid isPermaLink="false">hf:models:Trelis/egyptian-arabic-tts-research</guid>
-      <pubDate>Wed, 25 Nov 2026 00:00:00 +0000</pubDate>
-      <category>huggingface</category>
-      <description></description>
-    </item>
-    <item>
-      <title>[Model] konstbet/Hy-MT3-1.8B-ONNX</title>
-      <link>https://huggingface.co/konstbet/Hy-MT3-1.8B-ONNX</link>
-      <guid isPermaLink="false">hf:models:konstbet/Hy-MT3-1.8B-ONNX</guid>
-      <pubDate>Wed, 25 Nov 2026 00:00:00 +0000</pubDate>
-      <category>huggingface</category>
-      <description></description>
-    </item>
-    <item>
-      <title>[Model] minishlab/blink-multilingual-64M-int8</title>
-      <link>https://huggingface.co/minishlab/blink-multilingual-64M-int8</link>
-      <guid isPermaLink="false">hf:models:minishlab/blink-multilingual-64M-int8</guid>
-      <pubDate>Wed, 25 Nov 2026 00:00:00 +0000</pubDate>
-      <category>huggingface</category>
-      <description></description>
-    </item>
-    <item>
-      <title>[Model] mradermacher/Hy-MT3-1.8B-GGUF</title>
-      <link>https://huggingface.co/mradermacher/Hy-MT3-1.8B-GGUF</link>
-      <guid isPermaLink="false">hf:models:mradermacher/Hy-MT3-1.8B-GGUF</guid>
-      <pubDate>Wed, 25 Nov 2026 00:00:00 +0000</pubDate>
-      <category>huggingface</category>
-      <description></description>
-    </item>
-    <item>
-      <title>[Tool] BA: Right Words, Wrong Dialect. Egyptian Arabic voice cloning: engine code, evaluation texts, per-utterance scores and paper sources</title>
-      <link>https://zenodo.org/records/24517175</link>
-      <guid isPermaLink="false">zenodo:24517174</guid>
-      <pubDate>Wed, 25 Nov 2026 00:00:00 +0000</pubDate>
-      <category>zenodo</category>
-      <description># BA: Right Words, Wrong Dialect. Egyptian Arabic voice cloning: engine code, evaluation texts, per-utterance scores and paper sources Archive of BA, a consent-first voice-cloning system for Egyptian Arabic, and of the evaluation behind…</description>
-    </item>
-    <item>
-      <title>[Opportunity] AI Application Engineer – AI Products (LLM &amp; RAG) (m/f/d)</title>
-      <link>https://www.arbeitnow.com/jobs/companies/machine-learning-reply/ai-application-engineer-ai-products-llm-rag-berlin-26318</link>
-      <guid isPermaLink="false">arbeitnow:ai-application-engineer-ai-products-llm-rag-berlin-26318</guid>
-      <pubDate>Tue, 24 Nov 2026 00:00:00 +0000</pubDate>
-      <category>arbeitnow</category>
-      <description>At Machine Learning Reply, we help organizations turn cutting-edge AI technologies into real-world applications and scalable digital products. To strengthen our team, we are looking for an AI Application Engineer who enjoys building…</description>
-    </item>
-    <item>
-      <title>[Opportunity] AI Software Engineer (m/w/d)</title>
-      <link>https://www.arbeitnow.com/jobs/companies/empro/ai-software-engineer-nurnberg-100752</link>
-      <guid isPermaLink="false">arbeitnow:ai-software-engineer-nurnberg-100752</guid>
-      <pubDate>Tue, 24 Nov 2026 00:00:00 +0000</pubDate>
-      <category>arbeitnow</category>
-      <description>Your mission The role Our AI assistant is built into the WHISE CRM and helps real estate agents get more out of their data every day. We are looking for an AI Backend Developer to drive the development of the WHISE AI assistant. You will…</description>
-    </item>
-    <item>
-      <title>[Opportunity] Cloud Engineer (Generative AI &amp; LLM) (m/w/d)</title>
-      <link>https://www.arbeitnow.com/jobs/companies/collaboration-betters-the-world-gmbh/cloud-engineer-generative-ai-llm-berlin-116086</link>
-      <guid isPermaLink="false">arbeitnow:cloud-engineer-generative-ai-llm-berlin-116086</guid>
-      <pubDate>Tue, 24 Nov 2026 00:00:00 +0000</pubDate>
-      <category>arbeitnow</category>
-      <description>Willkommen bei CBTW! Wir sind ein innovatives Team mit über 3.000 Mitarbeitern in 21 Ländern und führend in den Bereichen Strategie &amp; Governance, Software-Engineering, Datenanalyse &amp; KI und mehr. Als Mitglied unseres Teams bei CBTW…</description>
-    </item>
-    <item>
-      <title>[Opportunity] Freelance Full-Stack Developer | Django | AI Products | Python &amp; LLM Integration | Remote 100%</title>
-      <link>https://www.arbeitnow.com/jobs/companies/hurracom/freelance-full-stack-developer-django-ai-products-python-llm-integration-remote-100-berlin-290567</link>
-      <guid isPermaLink="false">arbeitnow:freelance-full-stack-developer-django-ai-products-python-llm-integration-remote-100-berlin-290567</guid>
-      <pubDate>Tue, 24 Nov 2026 00:00:00 +0000</pubDate>
-      <category>arbeitnow</category>
-      <description>Remote (European Economic Area) Freelance | ~60 hours/month We are an independent German digital marketing agency with proprietary technology. hurra.ai is our AI product, a growing platform that sits at the intersection of marketing…</description>
-    </item>
-    <item>
-      <title>[Opportunity] Junior AI Application Engineer – AI Products (LLM &amp; RAG) (m/f/d)</title>
-      <link>https://www.arbeitnow.com/jobs/companies/machine-learning-reply/junior-ai-application-engineer-ai-products-llm-rag-munich-224559</link>
-      <guid isPermaLink="false">arbeitnow:junior-ai-application-engineer-ai-products-llm-rag-munich-224559</guid>
-      <pubDate>Tue, 24 Nov 2026 00:00:00 +0000</pubDate>
-      <category>arbeitnow</category>
-      <description>Bei Machine Learning Reply unterstützen wir Unternehmen dabei, modernste AI-Technologien in reale Anwendungen und skalierbare digitale Produkte zu verwandeln. Zur Verstärkung unseres Teams suchen wir einen Junior AI Application Engineer,…</description>
-    </item>
-    <item>
-      <title>[Opportunity] Senior Data &amp; AI Consultant (m/w/d) – Automotive</title>
-      <link>https://www.arbeitnow.com/jobs/companies/alexander-thamm-gmbh/senior-data-ai-consultant-automotive-munchen-416189</link>
-      <guid isPermaLink="false">arbeitnow:senior-data-ai-consultant-automotive-munchen-416189</guid>
-      <pubDate>Tue, 24 Nov 2026 00:00:00 +0000</pubDate>
-      <category>arbeitnow</category>
-      <description>Startdatum Wir suchen Dich ab sofort an unserem Standort in München ! Deine Aufgaben Du gestaltest und leitest innovative Data &amp; AI Projekte in der Automotive Branche und arbeitest mit interdisziplinären Teams zusammen Routiniert…</description>
-    </item>
-    <item>
-      <title>[Journal] Semantic Web</title>
-      <link>https://journals.sagepub.com/home/SWJ</link>
-      <guid isPermaLink="false">doaj:e7a218e1b0f9486a9a247d966c0508db</guid>
-      <pubDate>Tue, 24 Nov 2026 00:00:00 +0000</pubDate>
-      <category>doaj</category>
-      <description>semantic web, knowledge representation, ontologies, linked data, knowledge graphs, data interoperability</description>
-    </item>
-    <item>
-      <title>[Paper] Aglam n yidgan d yiwudam deg sin wungalen : ‘’Ungal n Saɛuc Uzellemcir’’ n Ʃmer MEZDAD d wungal ‘’Tiɣilt n umadaɣ’’ n Mulud ZEDEK</title>
-      <link>https://dspace.ummto.dz/handle/ummto/31969</link>
-      <guid isPermaLink="false">dspace:ummto:ummto/31969</guid>
-      <pubDate>Tue, 24 Nov 2026 00:00:00 +0000</pubDate>
-      <category>dspace</category>
-      <description>Tazwert-nteɣ, tella-d ɣef uglam deg ungal aqbayli : « Ungal n Saɛu Uzellemcir » n Ʃmer MEZDAD d wungal « Tiɣilt n umadaɣ » n Mulud ZEDEK. Nextar axedim-agi, imi aglam d aferdis n lebni n wungal d unamek-ines. Nreṣṣa-d tamuɣli-nnteɣ ɣef…</description>
-    </item>
-    <item>
-      <title>[Paper] Tasleḍt n tsiwelt d yiwudam deg wammud n tullisin Tifessasin n Madjid Boukhelifa</title>
-      <link>https://dspace.ummto.dz/handle/ummto/31970</link>
-      <guid isPermaLink="false">dspace:ummto:ummto/31970</guid>
-      <pubDate>Tue, 24 Nov 2026 00:00:00 +0000</pubDate>
-      <category>dspace</category>
-      <description>Deg umahil-a nga tasleḍṭ i yiwet n tewsit gar tewsatin n tsekla tatrart, tagi d tullist, nefren-d ad nexdem tasleḍt i wammud n tullisin i yura Madjid Boukhelifa i wumi yefka azwel Tifessasin. Ammud n tullisin. Ammud-a yeffeγ-d deg…</description>
-    </item>
-    <item>
-      <title>[Paper] Étude ethnographique d’un savoir-faire patrimonial. Cas de la vannerie de Ain Meziab (Betrouna)</title>
-      <link>https://dspace.ummto.dz/handle/ummto/31972</link>
-      <guid isPermaLink="false">dspace:ummto:ummto/31972</guid>
-      <pubDate>Tue, 24 Nov 2026 00:00:00 +0000</pubDate>
-      <category>dspace</category>
-      <description>Notre Mémoire porte sur la vannerie, l’un des plus anciens artisanats de la région de Kabylie. Nous avons choisi un village de la région de Tizi Ouzou (Ain Meziabe), situé près du village de Betrouna. Ce village accorde une grande…</description>
-    </item>
-    <item>
-      <title>[Paper] Tasuqilt n udlis n kamal buɛmara “ tazwert n tezrewt n tsekla taqbaylit “ seg tefransist gher tmazight</title>
-      <link>https://dspace.ummto.dz/handle/ummto/31975</link>
-      <guid isPermaLink="false">dspace:ummto:ummto/31975</guid>
-      <pubDate>Tue, 24 Nov 2026 00:00:00 +0000</pubDate>
-      <category>dspace</category>
-      <description>Leqdic-agi-ntaɣ s uzwel n ̏ Aɛraḍ n tsuqilt n udlis tazwart n tezrawt n tsekla taqbaylit seg tefransist ɣer tmaziɣt ˝ anda id nefren iḥricen id yellan deg unnar n tsuqilt taseklant. Deg unadi-agi n walad uguren id yettilin deg tsuqilt, am…</description>
-    </item>
-    <item>
-      <title>[Tool] mahmoudabdalhamid10-alt/masreyyat</title>
-      <link>https://github.com/mahmoudabdalhamid10-alt/masreyyat</link>
-      <guid isPermaLink="false">gh:mahmoudabdalhamid10-alt/masreyyat</guid>
-      <pubDate>Tue, 24 Nov 2026 00:00:00 +0000</pubDate>
-      <category>github</category>
-      <description>Egyptian Arabic NLP: sentiment baseline trained on HARD reviews, honestly stress-tested on Egyptian-dialect tweets (94% in-domain, 54% transfer - the gap is the project).</description>
-    </item>
-    <item>
-      <title>[Model] BuilderHelm/Cadence-Masubi-Multilingual-CoreML</title>
-      <link>https://huggingface.co/BuilderHelm/Cadence-Masubi-Multilingual-CoreML</link>
-      <guid isPermaLink="false">hf:models:BuilderHelm/Cadence-Masubi-Multilingual-CoreML</guid>
-      <pubDate>Tue, 24 Nov 2026 00:00:00 +0000</pubDate>
-      <category>huggingface</category>
-      <description></description>
-    </item>
-    <item>
-      <title>[Model] BuilderHelm/Cadence-Masubi-Multilingual-GGUF</title>
-      <link>https://huggingface.co/BuilderHelm/Cadence-Masubi-Multilingual-GGUF</link>
-      <guid isPermaLink="false">hf:models:BuilderHelm/Cadence-Masubi-Multilingual-GGUF</guid>
-      <pubDate>Tue, 24 Nov 2026 00:00:00 +0000</pubDate>
-      <category>huggingface</category>
-      <description></description>
-    </item>
-    <item>
-      <title>[Model] empiriolabsai/speaker-age</title>
-      <link>https://huggingface.co/empiriolabsai/speaker-age</link>
-      <guid isPermaLink="false">hf:models:empiriolabsai/speaker-age</guid>
-      <pubDate>Tue, 24 Nov 2026 00:00:00 +0000</pubDate>
-      <category>huggingface</category>
-      <description></description>
-    </item>
-    <item>
-      <title>[Model] onemira/parakeet-tdt-0.6b-v3-onnx</title>
-      <link>https://huggingface.co/onemira/parakeet-tdt-0.6b-v3-onnx</link>
-      <guid isPermaLink="false">hf:models:onemira/parakeet-tdt-0.6b-v3-onnx</guid>
-      <pubDate>Tue, 24 Nov 2026 00:00:00 +0000</pubDate>
       <category>huggingface</category>
       <description></description>
     </item>
